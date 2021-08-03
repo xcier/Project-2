@@ -1,5 +1,5 @@
 # Project-2
- Released Saves For Borderlands Series Modded By Xcier-Freedom/ProtoBuffers
+ Released Saves For The Borderlands Series Modded By Xcier-Freedom/ProtoBuffers
 This Initial Save Release is for 8/1/21 and starting my new journy so I hope everyone
 here wishes me luck in getting everything to work out on my end.
 
