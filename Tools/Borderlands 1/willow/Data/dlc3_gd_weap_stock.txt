@@ -1,0 +1,13 @@
+[A_Weapon.WeaponType_combat_rifle_stock]
+ClipSize=12
+WeaponDamageFormulaMultiplier=1.200000
+Spread=1.300000
+PerShotAccuracyImpulse=3.500000
+FireRate=0.100000
+ReloadTime=2.400000
+MinAccuracy=-0.500000
+IdleAccuracyRegenRate=2.000000
+ZoomMinAccuracy=-0.500000
+ZoomMaxAccuracy=-4.000000
+BaseCashValueModifier=50
+Presentation="ar"

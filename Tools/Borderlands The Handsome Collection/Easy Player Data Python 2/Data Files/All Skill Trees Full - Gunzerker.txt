@@ -1,0 +1,138 @@
+    "8": [
+        [
+            2, 
+            "\n0GD_Mercenary_Skills.ActionSkill.Skill_Gunzerking\u0010\u0001\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n,GD_Mercenary_Skills.Gun_Lust.LockedandLoaded\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n&GD_Mercenary_Skills.Gun_Lust.QuickDraw\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n.GD_Mercenary_Skills.Gun_Lust.ImYourHuckleberry\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n*GD_Mercenary_Skills.Gun_Lust.AllIneedIsOne\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n-GD_Mercenary_Skills.Gun_Lust.DivergentLikness\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n'GD_Mercenary_Skills.Gun_Lust.AutoLoader\u0010\u0001\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n&GD_Mercenary_Skills.Gun_Lust.MoneyShot\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n%GD_Mercenary_Skills.Gun_Lust.LayWaste\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n'GD_Mercenary_Skills.Gun_Lust.DownNotOut\u0010\u0001\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n,GD_Mercenary_Skills.Gun_Lust.KeepItPipingHot\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n/GD_Mercenary_Skills.Gun_Lust.NoKillLikeOverkill\u0010\u0001\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n)GD_Mercenary_Skills.Rampage.Inconceivable\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n+GD_Mercenary_Skills.Rampage.FilledtotheBrim\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n,GD_Mercenary_Skills.Rampage.AllInTheReflexes\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n&GD_Mercenary_Skills.Rampage.LastLonger\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n*GD_Mercenary_Skills.Rampage.ImReadyAlready\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n+GD_Mercenary_Skills.Rampage.SteadyAsSheGoes\u0010\u0001\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n%GD_Mercenary_Skills.Rampage.5Shotsor6\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n'GD_Mercenary_Skills.Rampage.YippeeKiYay\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n)GD_Mercenary_Skills.Rampage.DoubleYourFun\u0010\u0001\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n#GD_Mercenary_Skills.Rampage.GetSome\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n&GD_Mercenary_Skills.Rampage.KeepFiring\u0010\u0001\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n!GD_Mercenary_Skills.Brawn.Diehard\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n GD_Mercenary_Skills.Brawn.Incite\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n\"GD_Mercenary_Skills.Brawn.Asbestos\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n)GD_Mercenary_Skills.Brawn.ImTheJuggernaut\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n,GD_Mercenary_Skills.Brawn.AintGotTimeToBleed\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n'GD_Mercenary_Skills.Brawn.FistfulOfHurt\u0010\u0001\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n(GD_Mercenary_Skills.Brawn.OutOfBubblegum\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n-GD_Mercenary_Skills.Brawn.BusThatCantSlowDown\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n%GD_Mercenary_Skills.Brawn.JustGotReal\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n-GD_Mercenary_Skills.Brawn.SexualTyrannosaurus\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n%GD_Mercenary_Skills.Brawn.ComeAtMeBro\u0010\u0001\u0018\u0000 \u0000"
+        ]
+    ], 

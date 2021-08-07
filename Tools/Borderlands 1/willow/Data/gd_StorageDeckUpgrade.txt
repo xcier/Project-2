@@ -1,0 +1,119 @@
+[A_Item.INV_SDU_Ammo]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName=""
+PickupMessage=""
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+Presentation="sdu"
+[INV_InventorySpace.INV_InventorySpace]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Backpack SDU"
+PickupMessage="Your Carrying Capacity has Expanded!"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+Description="Increases your backpack's carrying capacity."
+NoConstraintText=""
+Suffix=""
+BaseRarity=170
+Presentation="sdu"
+[INV_WeaponEquip.INV_WeaponEquip_Level_1]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Weapon Equip Slot SDU"
+PickupMessage="Storage Deck Upgrade - Weapon Equip Slot"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+Description="Increases the number of weapons you can have equipped."
+NoConstraintText=""
+Suffix=""
+BaseRarity=170
+Presentation="sdu"
+[LeftSide.LeftSide_Level1]
+PartName=""
+Description="Level 1 Ammo Upgrade."
+NoConstraintText=""
+Suffix=""
+Rarity=2
+[LeftSide.LeftSide_Level2]
+PartName=""
+Description="Level 2 Ammo Upgrade."
+NoConstraintText=""
+Suffix=""
+Rarity=5
+[LeftSide.LeftSide_Level3]
+PartName=""
+Description="Level 3 Ammo Upgrade."
+NoConstraintText=""
+Suffix=""
+Rarity=11
+[LeftSide.LeftSide_Level4]
+PartName=""
+Description="Level 4 Ammo Upgrade."
+NoConstraintText=""
+Suffix=""
+Rarity=16
+[LeftSide.LeftSide_Level5]
+PartName=""
+Description="Level 5 Ammo Upgrade."
+NoConstraintText=""
+Suffix=""
+Rarity=50
+[LeftSide.LeftSide_Level6]
+PartName=""
+Description="Level 6 Ammo Upgrade."
+NoConstraintText=""
+Suffix=""
+Rarity=61
+[Prefix.Prefix_Grenade]
+PartName="Grenade SDU"
+[Prefix.Prefix_Launcher]
+PartName="Launcher SDU"
+[Prefix.Prefix_none]
+PartName="None"
+[Prefix.Prefix_Repeater]
+PartName="Repeater Pistol SDU"
+[Prefix.Prefix_Revolver]
+PartName="Revolver SDU"
+[Prefix.Prefix_Rifle]
+PartName="Combat Rifle SDU"
+[Prefix.Prefix_Shotgun]
+PartName="Shotgun SDU"
+[Prefix.Prefix_SMG]
+PartName="SMG SDU"
+[Prefix.Prefix_Sniper]
+PartName="Sniper SDU"
+[RightSide.RightSide_Combat_Rifle]
+PartName=""
+[RightSide.RightSide_Grenade]
+PartName=""
+[RightSide.RightSide_Launcher]
+PartName=""
+[RightSide.RightSide_Repeater]
+PartName=""
+[RightSide.RightSide_Revolver]
+PartName=""
+[RightSide.RightSide_Shotgun]
+PartName=""
+[RightSide.RightSide_SMG]
+PartName=""
+[RightSide.RightSide_Sniper]
+PartName=""
+[Title.Title_AmmoStorageUpgrade]
+PartName="Ammo Storage Upgrade"
+[Title.Title_Level_1]
+PartName="- Level 1"
+[Title.Title_Level_2]
+PartName="- Level 2"
+[Title.Title_Level_3]
+PartName="- Level 3"
+[Title.Title_Level_4]
+PartName="- Level 4"
+[Title.Title_Level_5]
+PartName="- Level 5"
+[Title.Title_Level_6]
+PartName="- Level 6"

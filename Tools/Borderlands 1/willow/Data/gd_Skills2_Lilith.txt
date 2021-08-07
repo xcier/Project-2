@@ -1,0 +1,152 @@
+[gd_Skills2_Lilith.Action.A_PhaseWalk]
+SkillName="Phasewalk"
+SkillDescription="Gain the ability to turn invisible and move incredibly fast.  Upon entering and leaving Phasewalk you create a Phase Blast that damages nearby enemies.  You can Melee attack to end Phasewalk early."
+
+
+[gd_Skills2_Lilith.Action.PhaseWalk_meleeCancel]
+SkillName="Melee cancels Phasewalk"
+SkillDescription="Using a melee attack while Phasewalking deals additional damage."
+
+
+[gd_Skills2_Lilith.ActionElemental.CorrosiveReturn]
+SkillName="Corrosive Return"
+SkillDescription="ACTION ELEMENTAL SKILL: Causes a corrosive explosion entrance/exit when Phasewalking"
+
+
+[gd_Skills2_Lilith.ActionElemental.ExplosiveReturn]
+SkillName="Explosive Return"
+SkillDescription="ACTION ELEMENTAL SKILL: Causes an explosive entrance/exit when Phasewalking"
+
+
+[gd_Skills2_Lilith.ActionElemental.IncendiaryReturn]
+SkillName="Incendiary Return"
+SkillDescription="ACTION ELEMENTAL SKILL: Causes an incindiary explosion entrance/exit when Phasewalking"
+
+
+[gd_Skills2_Lilith.ActionElemental.ShockingReturn]
+SkillName="Shocking Return"
+SkillDescription="ACTION ELEMENTAL SKILL: Causes a shock explosion entrance/exit when Phasewalking"
+
+
+[gd_Skills2_Lilith.Adrenaline.Adrenaline_Lilith]
+SkillName="Adrenaline - Roland"
+SkillDescription="Roland gains adrenaline when he damages enemies or if one of his friends gets crippled."
+
+
+[gd_Skills2_Lilith.Assassin.Blackout]
+SkillName="Blackout"
+SkillDescription="Killing an enemy reduces the cooldown of Phasewalk."
+
+
+[gd_Skills2_Lilith.Assassin.Blackout_activated]
+SkillName="Blackout_activated"
+SkillDescription="Killing an enemy reduces the cooldown of Phasewalk"
+
+
+[gd_Skills2_Lilith.Assassin.Enforcer]
+SkillName="Enforcer"
+SkillDescription="Killing an enemy increases your accuracy and Bullet Damage for a few seconds."
+
+
+[gd_Skills2_Lilith.Assassin.HighVelocity]
+SkillName="High Velocity"
+SkillDescription="Increases Bullet Damage and Velocity."
+
+
+[gd_Skills2_Lilith.Assassin.HitAndRun]
+SkillName="Hit & Run"
+SkillDescription="Gain increased melee damage and Phasewalk duration."
+
+
+[gd_Skills2_Lilith.Assassin.PhaseStrike]
+SkillName="Phase Strike"
+SkillDescription="Using a melee attack while Phasewalking deals additional damage."
+
+
+[gd_Skills2_Lilith.Assassin.SilentResolve]
+SkillName="Silent Resolve"
+SkillDescription="Increases your resistance to damage for a few seconds after Phasewalking."
+
+
+[gd_Skills2_Lilith.Assassin.SilentResolve_active]
+SkillName="Silent Resolve - Active"
+SkillDescription="Gain resistance to all damage for 6 seconds after Phasewalking."
+
+
+[gd_Skills2_Lilith.Assassin.Slayer]
+SkillName="Slayer"
+SkillDescription="Increases your Critical Hit Damage."
+
+
+[gd_Skills2_Lilith.Controller.Diva]
+SkillName="Diva"
+SkillDescription="Increases the Capacity of your shield."
+
+
+[gd_Skills2_Lilith.Controller.DramaticEntrance]
+SkillName="Dramatic Entrance"
+SkillDescription="Your Phase Blast can Daze enemies, reducing their movement speed and accuracy."
+
+
+[gd_Skills2_Lilith.Controller.DramaticEntrance_active]
+SkillName="Dramatic Entrance - active"
+SkillDescription="When Phasewalk ends you cause an explosion that can Slow nearby enemies."
+
+
+[gd_Skills2_Lilith.Controller.GirlPower]
+SkillName="Girl Power"
+SkillDescription="Killing an enemy causes your Shield to quickly regenerate for a few seconds."
+
+
+[gd_Skills2_Lilith.Controller.HardToGet]
+SkillName="Hard to Get"
+SkillDescription="Decreases the Cooldown of Phasewalk."
+
+
+[gd_Skills2_Lilith.Controller.InnerGlow]
+SkillName="Inner Glow"
+SkillDescription="While Phasewalking you regenerate Health."
+
+
+[gd_Skills2_Lilith.Controller.MindGames]
+SkillName="Mind Games"
+SkillDescription="Each bullet you fire has a chance to Daze enemies, reducing their movement speed and accuracy."
+
+
+[gd_Skills2_Lilith.Controller.Striking]
+SkillName="Striking"
+SkillDescription="Your melee attacks can Daze enemies, reducing their movement speed and accuracy."
+
+
+[gd_Skills2_Lilith.Elemental.Intuition]
+SkillName="Intuition"
+SkillDescription="Killing an enemy increases your movement speed and the experience you and your team earn for a few seconds."
+
+
+[gd_Skills2_Lilith.Elemental.Phoenix]
+SkillName="Phoenix"
+SkillDescription="Killing an enemy causes you to deal Fire Damage to nearby enemies and makes your shots not always cost ammo for a few seconds.  The Fire Damage increases with your Level."
+
+[gd_Skills2_Lilith.Elemental.Quicksilver]
+SkillName="Quicksilver"
+SkillDescription="Increases your Fire Rate with all weapons."
+
+
+[gd_Skills2_Lilith.Elemental.Radiance]
+SkillName="Radiance"
+SkillDescription="You deal Shock Damage to nearby enemies while Phasewalking.  Damage is based on your Level and the Skill's Level."
+
+
+[gd_Skills2_Lilith.Elemental.Resilience]
+SkillName="Resilience"
+SkillDescription="Increases your resistance to Fire, Shock, Corrosive, and Explosive Damage."
+
+
+[gd_Skills2_Lilith.Elemental.spark]
+SkillName="Spark"
+SkillDescription="Increases your chance of causing Elemental Effects with Elemental Weapons."
+
+
+[gd_Skills2_Lilith.Elemental.Venom]
+SkillName="Venom"
+SkillDescription="Adds Corrosive Damage to your melee attacks.  Also, your melee attacks have a chance to Corrode enemies, causing additional damage over time."

@@ -1,0 +1,2 @@
+[A_Item.Item_Trainer_WeaponProficiency]
+BaseRarity=80

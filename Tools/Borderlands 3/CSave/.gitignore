@@ -1,0 +1,11 @@
+*.o
+*.obj
+*.a
+*.lib
+*.stackdump
+*.sav
+*.js
+LookupTables/*.js
+*.err
+*.sav
+*.sav.proto

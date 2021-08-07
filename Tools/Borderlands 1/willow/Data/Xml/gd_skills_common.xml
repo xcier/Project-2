@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--Comment-->
+<INI>
+  <Section>
+    <Name>gd_skills_common.WeaponProficiencySkills.Skill_PistolProficiency</Name>
+    <SkillName>Pistol Proficiency</SkillName>
+  </Section>
+  <Section>
+    <Name>gd_skills_common.WeaponProficiencySkills.Skill_ShotgunProficiency</Name>
+    <SkillName>Shotgun Proficiency</SkillName>
+  </Section>
+  <Section>
+    <Name>gd_skills_common.WeaponProficiencySkills.Skill_SMGProficiency</Name>
+    <SkillName>SMG Proficiency</SkillName>
+  </Section>
+  <Section>
+    <Name>gd_skills_common.WeaponProficiencySkills.Skill_CombatRifleProficiency</Name>
+    <SkillName>Combat Rifle Proficiency</SkillName>
+  </Section>
+  <Section>
+    <Name>gd_skills_common.WeaponProficiencySkills.Skill_SniperRifleProficiency</Name>
+    <SkillName>Sniper Rifle Proficiency</SkillName>
+  </Section>
+  <Section>
+    <Name>gd_skills_common.WeaponProficiencySkills.Skill_RocketLauncherProficiency</Name>
+    <SkillName>Rocket Launcher Proficiency</SkillName>
+  </Section>
+  <Section>
+    <Name>gd_skills_common.WeaponProficiencySkills.Skill_EridanWeaponProficiency</Name>
+    <SkillName>Eridan Weapon Proficiency</SkillName>
+  </Section>
+</INI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--Comment-->
+<INI>
+  <Section>
+    <Name>Manufacturers.Anshin</Name>
+    <Manufacturer>Anshin</Manufacturer>
+  </Section>
+  <Section>
+    <Name>Manufacturers.Atlas</Name>
+    <Manufacturer>Atlas</Manufacturer>
+  </Section>
+  <Section>
+    <Name>Manufacturers.Corraza</Name>
+    <Manufacturer>Corraza</Manufacturer>
+  </Section>
+  <Section>
+    <Name>Manufacturers.Dahl</Name>
+    <Manufacturer>Dahl</Manufacturer>
+  </Section>
+  <Section>
+    <Name>Manufacturers.Eridian</Name>
+    <Manufacturer>Eridian</Manufacturer>
+  </Section>
+  <Section>
+    <Name>Manufacturers.Gearbox</Name>
+    <Manufacturer>Gearbox </Manufacturer>
+  </Section>
+  <Section>
+    <Name>Manufacturers.Hyperion</Name>
+    <Manufacturer>Hyperion</Manufacturer>
+  </Section>
+  <Section>
+    <Name>Manufacturers.Jakobs</Name>
+    <Manufacturer>Jakobs</Manufacturer>
+  </Section>
+  <Section>
+    <Name>Manufacturers.Maliwan</Name>
+    <Manufacturer>Maliwan</Manufacturer>
+  </Section>
+  <Section>
+    <Name>Manufacturers.Pangolin</Name>
+    <Manufacturer>Pangolin</Manufacturer>
+  </Section>
+  <Section>
+    <Name>Manufacturers.SandSMunitions</Name>
+    <Manufacturer>SandSMunitions</Manufacturer>
+  </Section>
+  <Section>
+    <Name>Manufacturers.Stock</Name>
+    <Manufacturer>Stock</Manufacturer>
+  </Section>
+  <Section>
+    <Name>Manufacturers.tediore</Name>
+    <Manufacturer>Tediore</Manufacturer>
+  </Section>
+  <Section>
+    <Name>Manufacturers.Torgue</Name>
+    <Manufacturer>Torgue</Manufacturer>
+  </Section>
+  <Section>
+    <Name>Manufacturers.Vladof</Name>
+    <Manufacturer>Vladof</Manufacturer>
+  </Section>
+</INI>

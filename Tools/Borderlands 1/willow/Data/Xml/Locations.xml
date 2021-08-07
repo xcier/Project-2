@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--Comment-->
+<INI>
+  <Section>
+    <Name>AqueductEncampment</Name>
+    <OutpostName>AqueductEncampment</OutpostName>
+    <OutpostDisplayName>(Rust Commons West - Aqueduct Encampment)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>AridHillsEntrance</Name>
+    <OutpostName>AridHillsEntrance</OutpostName>
+    <OutpostDisplayName>(Arid Badlands - Entrance to Arid Hills)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>AridMine</Name>
+    <OutpostName>HeadstoneMine</OutpostName>
+    <OutpostDisplayName>Headstone Mine</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>Bunker</Name>
+    <OutpostName>Bunker</OutpostName>
+    <OutpostDisplayName>Sledge's Safe House</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>BunkerEntrance</Name>
+    <OutpostName>BunkerEntrance</OutpostName>
+    <OutpostDisplayName>(Arid Hills - Midpoint)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>cauldren</Name>
+    <OutpostName>cauldren</OutpostName>
+    <OutpostDisplayName>Rust Commons East - The Cauldron</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>Crimson</Name>
+    <OutpostName>CrimsonEnclave1</OutpostName>
+    <OutpostDisplayName>Crimson Enclave</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>CrimsonLanceBunker</Name>
+    <OutpostName>Crimson_Fastness</OutpostName>
+    <OutpostDisplayName>Crimson Fastness</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>Descent1</Name>
+    <OutpostName>Descent1</OutpostName>
+    <OutpostDisplayName>The Descent</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>Digsite</Name>
+    <OutpostName>EridianPromontory</OutpostName>
+    <OutpostDisplayName>Eridian Promontory</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>DryEntranceSave</Name>
+    <OutpostName>DryEntranceSave</OutpostName>
+    <OutpostDisplayName>Arid Hills</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>EntranceToSkagGully</Name>
+    <OutpostName>EntranceToSkagGully</OutpostName>
+    <OutpostDisplayName>(Arid Badlands - Entrance To Skag Gully)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>Firestone</Name>
+    <OutpostName>Fyrestone</OutpostName>
+    <OutpostDisplayName>Arid Badlands - Fyrestone</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>HeadlandElectricalStation</Name>
+    <OutpostName>HeadlandElectricalStation</OutpostName>
+    <OutpostDisplayName>(Dahl Headland - Electrical Station)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>Interlude1Entrance</Name>
+    <OutpostName>OuterYard</OutpostName>
+    <OutpostDisplayName>Rust Commons West - The Outeryard</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>Interlude2Cave</Name>
+    <OutpostName>Interlude2Cave</OutpostName>
+    <OutpostDisplayName>The Back Door</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>KCanyon</Name>
+    <OutpostName>KCanyon</OutpostName>
+    <OutpostDisplayName>Krom's Canyon</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>Lucky'sLastChanceWateringHole</Name>
+    <OutpostName>LuckysLastChanceWateringHole</OutpostName>
+    <OutpostDisplayName>Dahl Headland - Lucky's Last Chance Watering Hole</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>LudicrousSpeedway</Name>
+    <OutpostName>LudicrousSpeedway</OutpostName>
+    <OutpostDisplayName>(Dahl Headland - Ludicrous Speedway)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>MiddleofNoWhere</Name>
+    <OutpostName>MiddleofNoWhere</OutpostName>
+    <OutpostDisplayName>Rust Commons East - Middle of Nowhere</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>midpoint</Name>
+    <OutpostName>Crimson_Fastness_Midpoint</OutpostName>
+    <OutpostDisplayName>(Crimson Fastness - Midpoint)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>MineEntrance</Name>
+    <OutpostName>MineEntrance</OutpostName>
+    <OutpostDisplayName>(Arid Badlands - West Side)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>NewHaven</Name>
+    <OutpostName>NewHaven</OutpostName>
+    <OutpostDisplayName>New Haven</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>Oasis</Name>
+    <OutpostName>Oasis</OutpostName>
+    <OutpostDisplayName>Oasis</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>OasisCheckpoint</Name>
+    <OutpostName>OasisCheckpoint</OutpostName>
+    <OutpostDisplayName>Oasis Midpoint</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>OldHavenEntrance</Name>
+    <OutpostName>OldHavenEntrance</OutpostName>
+    <OutpostDisplayName>Old Haven</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>PirateBay</Name>
+    <OutpostName>PirateBay</OutpostName>
+    <OutpostDisplayName>Treacher's Landing</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>PitArena</Name>
+    <OutpostName>PitArena</OutpostName>
+    <OutpostDisplayName>Fyrestone Coliseum (Arena)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>RuinsArena</Name>
+    <OutpostName>RuinsArena</OutpostName>
+    <OutpostDisplayName>The Devil's Footstool (Arena)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>SaltFlats</Name>
+    <OutpostName>SaltFlats</OutpostName>
+    <OutpostDisplayName>The Salt Flats</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>ScrapGate</Name>
+    <OutpostName>Thor_Trash</OutpostName>
+    <OutpostDisplayName>(The Salt Flats - Entrance)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>Scraple</Name>
+    <OutpostName>Scraple</OutpostName>
+    <OutpostDisplayName>(Rust Commons East - Tunnel)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>ScrapMidpoint</Name>
+    <OutpostName>Interlude2Entrance</OutpostName>
+    <OutpostDisplayName>(Rust Commons East - Entrance to Salt Flats)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>ScrapOverlook</Name>
+    <OutpostName>ScrapOverlook</OutpostName>
+    <OutpostDisplayName>(Rust Commons East - The Trashy Knoll)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>Scrapyard</Name>
+    <OutpostName>Scrapyard</OutpostName>
+    <OutpostDisplayName>Crazy Earl's Scrapyard</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>SewerArena</Name>
+    <OutpostName>SewerArena</OutpostName>
+    <OutpostDisplayName>The Cesspool (Arena)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>ShantyTown</Name>
+    <OutpostName>Devil'sGateHill</OutpostName>
+    <OutpostDisplayName>Devil's Gate Hill (Arena)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>SkagGully</Name>
+    <OutpostName>SkagGully</OutpostName>
+    <OutpostDisplayName>Skag Gully</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>SkullBandit</Name>
+    <OutpostName>SkullBandit</OutpostName>
+    <OutpostDisplayName>Arid Badlands - Titan's End</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>TetanusWarren</Name>
+    <OutpostName>TetanusWarren</OutpostName>
+    <OutpostDisplayName>Tetanus Warrens</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>TetanusWarrensEntrance</Name>
+    <OutpostName>TetanusWarrensEntrance</OutpostName>
+    <OutpostDisplayName>(New Haven - Entrance to Tetanus Warrens)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>TheCesspool</Name>
+    <OutpostName>TheCesspool</OutpostName>
+    <OutpostDisplayName>The Cesspool (Arena)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>TheLostCave</Name>
+    <OutpostName>TheLostCave</OutpostName>
+    <OutpostDisplayName>The Lost Cave</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>TheUnderpass</Name>
+    <OutpostName>TheUnderpass</OutpostName>
+    <OutpostDisplayName>Rust Commons East - The Underpass</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>TheVault</Name>
+    <OutpostName>TheVault</OutpostName>
+    <OutpostDisplayName>The Vault</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>Thor</Name>
+    <OutpostName>Thor_Digger</OutpostName>
+    <OutpostDisplayName>(Salt Flats - Digger)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>Thor_Cave</Name>
+    <OutpostName>Thor_Cave</OutpostName>
+    <OutpostDisplayName>(Salt Flats - Entrance to the Back Door)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>Thor_CrimsonEnclave</Name>
+    <OutpostName>Thor_CrimsonEnclave</OutpostName>
+    <OutpostDisplayName>(Salt Flats - Entrance to Crimson Enclave)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>Thor_Digtown</Name>
+    <OutpostName>Thor_Digtown</OutpostName>
+    <OutpostDisplayName>(Salt Flats - Digtown)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>Thor_TheDescent</Name>
+    <OutpostName>Thor_TheDescent</OutpostName>
+    <OutpostDisplayName>(Salt Flats - Entrace to the Descent)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>TrashCoast</Name>
+    <OutpostName>TrashCoast</OutpostName>
+    <OutpostDisplayName>Trash Coast</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>TrashEntranceNorth</Name>
+    <OutpostName>TrashEntranceNorth</OutpostName>
+    <OutpostDisplayName>(Rust Commons East - North Entrance)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>TrashEntranceSouth</Name>
+    <OutpostName>TrashEntranceSouth</OutpostName>
+    <OutpostDisplayName>(Rust Commons East - South Entrance)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>Tunnel</Name>
+    <OutpostName>Tunnel</OutpostName>
+    <OutpostDisplayName>(Arid Badlands - Circle of Death)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>UpperSeeps</Name>
+    <OutpostName>UpperSeeps</OutpostName>
+    <OutpostDisplayName>(Rust Commons West - Entrance)</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>BossBeginning</Name>
+    <OutpostName>BossBeginning</OutpostName>
+    <OutpostDisplayName>Boss Beginning</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>BossElevatorEntrance</Name>
+    <OutpostName>BossElevatorEntrance</OutpostName>
+    <OutpostDisplayName>Elevator</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>Checkpoint_swamp_ned</Name>
+    <OutpostName>Checkpoint_swamp_ned</OutpostName>
+    <OutpostDisplayName>Hallow's end</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>Coastline</Name>
+    <OutpostName>Coastline</OutpostName>
+    <OutpostDisplayName>Coastline</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>DeadHaven</Name>
+    <OutpostName>DeadHaven</OutpostName>
+    <OutpostDisplayName>Dead Haven</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>DropShip</Name>
+    <OutpostName>DropShip</OutpostName>
+    <OutpostDisplayName>Dropship</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>EntrancetoSawmill</Name>
+    <OutpostName>EntrancetoSawmill</OutpostName>
+    <OutpostDisplayName>Mill Entrance</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>JakobsCove</Name>
+    <OutpostName>JakobsCove</OutpostName>
+    <OutpostDisplayName>Jakobs Cove</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>MonsterHouseStart</Name>
+    <OutpostName>MonsterHouseStart</OutpostName>
+    <OutpostDisplayName>Hill</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>NedsSwamp</Name>
+    <OutpostName>NedsSwamp</OutpostName>
+    <OutpostDisplayName>Ned's Swamp</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>SawMill</Name>
+    <OutpostName>SawMill</OutpostName>
+    <OutpostDisplayName>Saw Mill</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>SecretEntrance</Name>
+    <OutpostName>SecretEntrance</OutpostName>
+    <OutpostDisplayName>Secret Entrance</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>Coliseum</Name>
+    <OutpostName>Coliseum</OutpostName>
+    <OutpostDisplayName>The Underdome</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>TBoneJunc</Name>
+    <OutpostName>TBoneJunc</OutpostName>
+    <OutpostDisplayName>T-Bone Junction</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>DividingFaults</Name>
+    <OutpostName>DividingFaults</OutpostName>
+    <OutpostDisplayName>Dividing Faults</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>HyperionDumpEntrance</Name>
+    <OutpostName>HyperionDumpEntrance</OutpostName>
+    <OutpostDisplayName>Hyperion Dump Entrance</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>MainStairwell</Name>
+    <OutpostName>MainStairwell</OutpostName>
+    <OutpostDisplayName>Main Stairwell</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>SandersGorge</Name>
+    <OutpostName>SandersGorge</OutpostName>
+    <OutpostDisplayName>Sanders Gorge</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>ScorchedSnakeCanyonEntrance</Name>
+    <OutpostName>ScorchedSnakeCanyonEntrance</OutpostName>
+    <OutpostDisplayName>Scorched Snake Canyon Entrance</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>TannisOutpost</Name>
+    <OutpostName>TannisOutpost</OutpostName>
+    <OutpostDisplayName>Tannis Outpost</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>TartarusStation</Name>
+    <OutpostName>TartarusStation</OutpostName>
+    <OutpostDisplayName>Tartarus Station</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>TrainStation</Name>
+    <OutpostName>TrainStation</OutpostName>
+    <OutpostDisplayName>Train Station</OutpostDisplayName>
+  </Section>
+  <Section>
+    <Name>WaywardPass</Name>
+    <OutpostName>WaywardPass</OutpostName>
+    <OutpostDisplayName>Wayward Pass</OutpostDisplayName>
+  </Section>
+</INI>

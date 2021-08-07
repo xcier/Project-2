@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--Comment-->
+<INI>
+  <Section>
+    <Name>gd_skills2_Roland.Action.A_DeployScorpio</Name>
+    <SkillName>Scorpio Turret</SkillName>
+    <SkillDescription>Gain the ability to deploy a Scorpio Turret that automatically fires at enemies.  The Scorpio Turret also has shields that can be used as cover.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.ActionElemental.Scorpio_CorrosiveBolt</Name>
+    <SkillName>Corrosive Bolt</SkillName>
+    <SkillDescription>The Scorpio deals corrosive damage</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.ActionElemental.Scorpio_ExplosiveBolt</Name>
+    <SkillName>Explosive Bolt</SkillName>
+    <SkillDescription>The Scorpio deals Explosive Damage</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.ActionElemental.Scorpio_FireBolt</Name>
+    <SkillName>Fire Bolt</SkillName>
+    <SkillDescription>The Scorpio deals Fire Damage</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.ActionElemental.Scorpio_ShockBolt</Name>
+    <SkillName>Shock Bolt</SkillName>
+    <SkillDescription>The Scorpio deals shock damage</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Adrenaline.Adrenaline_Roland</Name>
+    <SkillName>Adrenaline - Roland</SkillName>
+    <SkillDescription>Roland gains adrenaline when he damages enemies or if one of his friends gets crippled.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Infantry.Assault</Name>
+    <SkillName>Assault</SkillName>
+    <SkillDescription>Increases Magazine Size and reduces Recoil with Combat Rifles.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Infantry.GuidedMissile</Name>
+    <SkillName>Guided Missile</SkillName>
+    <SkillDescription>Your Scorpio Turret launches guided missiles in addition to using its regular gun.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Infantry.MetalStorm</Name>
+    <SkillName>Metal Storm</SkillName>
+    <SkillDescription>Killing an enemy increases your Fire Rate and reduces Recoil for a few seconds.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Infantry.Refire</Name>
+    <SkillName>Refire</SkillName>
+    <SkillDescription>Shooting an enemy reduces the Cooldown of your Scorpio Turret.  This effect can only occur every 2 seconds.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Infantry.Refire_activated</Name>
+    <SkillName>Refire - activated</SkillName>
+    <SkillDescription>Shooting an enemy reduces the Cooldown of your Scorpio Turret.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Infantry.Scattershot</Name>
+    <SkillName>Scattershot</SkillName>
+    <SkillDescription>Increases shotgun damage and spread.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Infantry.Sentry</Name>
+    <SkillName>Sentry</SkillName>
+    <SkillDescription>Increases Scorpio Turret damage.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Medic.AidStation</Name>
+    <SkillName>Aid Station</SkillName>
+    <SkillDescription>Allies near the Scorpio Turret regenerate health.  </SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Medic.Cauterize</Name>
+    <SkillName>Cauterize</SkillName>
+    <SkillDescription>Shooting team members heals them.  This effect also works with grenades and rockets.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Medic.Fitness</Name>
+    <SkillName>Fitness</SkillName>
+    <SkillDescription>Increases your Maximum Health.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Medic.Fitness_HealUp</Name>
+    <SkillName>Fitness_HealUp</SkillName>
+    <SkillDescription>Heals you after increasing your Max Health.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Medic.Grit</Name>
+    <SkillName>Grit</SkillName>
+    <SkillDescription>Increases your resistance to Bullet Damage.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Medic.Overload</Name>
+    <SkillName>Overload</SkillName>
+    <SkillDescription>Increases magazine capacity with all weapon types.  </SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Medic.Revive</Name>
+    <SkillName>Revive</SkillName>
+    <SkillDescription>The Scorpio Turret has a chance to instantly revive nearby crippled friends when deployed.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Medic.Stat</Name>
+    <SkillName>Stat</SkillName>
+    <SkillDescription>Killing an enemy increases health regeneration for you and nearby friends for a few seconds.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Support.Barrage</Name>
+    <SkillName>Barrage</SkillName>
+    <SkillDescription>Increases the number of shots your Scorpio Turret fires in each burst.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Support.Defense</Name>
+    <SkillName>Defense</SkillName>
+    <SkillDescription>Increases how quickly your shields recharge.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Support.deploy</Name>
+    <SkillName>Deploy</SkillName>
+    <SkillDescription>Reduces the cooldown for your Scorpio Turret.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Support.Grenadier</Name>
+    <SkillName>Grenadier</SkillName>
+    <SkillDescription>Killing an enemy increases your grenade damage and causes you to regenerate grenades for a few seconds.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Support.Impact</Name>
+    <SkillName>Impact</SkillName>
+    <SkillDescription>Increases Bullet Damage with all weapon types.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Support.QuickCharge</Name>
+    <SkillName>Quick Charge</SkillName>
+    <SkillDescription>Killing an enemy causes your shields to quickly regenerate for a few seconds.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Support.Stockpile</Name>
+    <SkillName>Stockpile</SkillName>
+    <SkillDescription>Players near the Scorpio Turret regenerate ammo for the weapon currently in their hands.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.Support.SupplyDrop</Name>
+    <SkillName>Supply Drop</SkillName>
+    <SkillDescription>The Scorpio Turret periodically fires out supply pickups to resupply players.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.z_DELETEDELETE.Detonate</Name>
+    <SkillName>Detonate</SkillName>
+    <SkillDescription>The Scorpio Turret creates a pulse every few seconds that pushes enemies away and damages them.  (BROKEN)</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.z_DELETEDELETE.Detonate_active</Name>
+    <SkillName>Detonate_active</SkillName>
+    <SkillDescription>The Scorpio Turret creates a pulse every few seconds that pushes enemies away and damages them.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_skills2_Roland.z_DELETEDELETE.ScoprioHomingRockets</Name>
+    <SkillName>Scorpio Rockets</SkillName>
+    <SkillDescription>The Scorpio Turret fires homing rockets in addition to its regular attack.</SkillDescription>
+  </Section>
+</INI>

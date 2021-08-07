@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--Comment-->
+<INI>
+  <Section>
+    <Name>INV_SkillPoints.Item_SkillPointReward</Name>
+    <UseFailureCharacterMessage>You must be a %s to use this item.</UseFailureCharacterMessage>
+    <ItemName>Skill Point Upgrade</ItemName>
+    <PickupMessage>You got a Skill Point!</PickupMessage>
+    <PickupMessageWithLevel>You got %s (Level %d)</PickupMessageWithLevel>
+    <UseFailureLevelMessage>You must be at least level %d to use this item.</UseFailureLevelMessage>
+    <UseFailureConstraintsMessage>You cannot use this item.</UseFailureConstraintsMessage>
+    <NoManufacturerName>Generic</NoManufacturerName>
+    <Description>Grants a free Skill Point!</Description>
+    <NoConstraintText />
+    <Suffix />
+    <BaseRarity>170</BaseRarity>
+    <Presentation>sdu</Presentation>
+  </Section>
+  <Section>
+    <Name>SupplyDrop_Items.SupplyDrop_Ammo</Name>
+    <ItemName>MEGA Ammo Pickup</ItemName>
+    <NoManufacturerName>Generic</NoManufacturerName>
+    <PickupMessage>You got %s</PickupMessage>
+    <PickupMessageWithLevel>You got %s (Level %d)</PickupMessageWithLevel>
+    <UseFailureCharacterMessage>You must be a %s to use this item.</UseFailureCharacterMessage>
+    <UseFailureConstraintsMessage>Ammo at Maximum</UseFailureConstraintsMessage>
+    <UseFailureLevelMessage>You must be at least level %d to use this item.</UseFailureLevelMessage>
+  </Section>
+  <Section>
+    <Name>SupplyDrop_Items.SupplyDrop_Grenades</Name>
+    <ItemName>MEGA Grenade Pickup</ItemName>
+    <NoManufacturerName>Generic</NoManufacturerName>
+    <PickupMessage>MEGA Grenade Pickup</PickupMessage>
+    <PickupMessageWithLevel>You got %s (Level %d)</PickupMessageWithLevel>
+    <UseFailureCharacterMessage>You must be a %s to use this item.</UseFailureCharacterMessage>
+    <UseFailureConstraintsMessage>You cannot use this item.</UseFailureConstraintsMessage>
+    <UseFailureLevelMessage>You must be at least level %d to use this item.</UseFailureLevelMessage>
+  </Section>
+  <Section>
+    <Name>SupplyDrop_Items.SupplyDrop_Health</Name>
+    <ItemName>MEGA Health Pickup</ItemName>
+    <NoManufacturerName>Generic</NoManufacturerName>
+    <PickupMessage>You got %s</PickupMessage>
+    <PickupMessageWithLevel>You got %s (Level %d)</PickupMessageWithLevel>
+    <UseFailureCharacterMessage>You must be a %s to use this item.</UseFailureCharacterMessage>
+    <UseFailureConstraintsMessage>Health at Maxmium</UseFailureConstraintsMessage>
+    <UseFailureLevelMessage>You must be at least level %d to use this item.</UseFailureLevelMessage>
+    <SkillName />
+    <SkillDescription />
+    <LockedSkillDetailStr>&lt;Locked&gt;</LockedSkillDetailStr>
+  </Section>
+</INI>

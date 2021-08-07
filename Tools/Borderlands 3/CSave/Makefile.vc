@@ -1,0 +1,55 @@
+CC = cl
+LD = link
+CFLAGS = /c
+PROTOS = *.proto
+OBJS = OakProfile.pb-c.obj OakSave.pb-c.obj OakShared.pb-c.obj SaveUnpack.obj FileTranslator.obj SaveToProto.obj ItemCode.obj SaveGenerate.obj ItemLookupTest.obj ProtoToSave.obj ProfileUnpack.obj ProfileGenerate.obj ProtoToProfile.obj ProfileToProto.obj SaveConvert.obj CSaveMenu.obj ReadSaveHeader.obj
+CPROTOS = OakProfile.pb-c.c OakSave.pb-c.c OakShared.pb-c.c
+PROGS = SaveUnpack.exe SaveToProto.exe SaveGenerate.exe ItemLookupTest.exe ProtoToSave.exe ProfileUnpack.exe ProfileGenerate.exe ProtoToProfile.exe ProfileToProto.exe SaveConvert.exe CSaveMenu.exe ReadSaveHeader.exe
+LIBRARIES = csave.lib
+PREFIX = /usr/local
+PROTOCLIB = D:\\Programs\\vsc2010\\protobuf-c\\Lib\\protobuf-c.lib
+LDFLAGS = csave.lib $(PROTOCLIB)
+LDPREFIX =
+
+all: $(PROGS)
+
+%.obj: %.c
+	@echo " CC   " $<
+	@$(CC) $(CFLAGS) $<
+
+%.pb-c.c: %.proto
+	@echo " PROTOC   " $<
+	@protoc-c --c_out=. $<
+
+$(LIBRARIES): $(CPROTOS) $(OBJS)
+	@lib /out:csave.lib OakProfile.pb-c.obj OakSave.pb-c.obj OakShared.pb-c.obj FileTranslator.obj ItemCode.obj
+
+$(PROGS): $(LIBRARIES)
+	@echo " LD    SaveUnpack"
+	@$(LD) $(LDPREFIX)  SaveUnpack.obj $(LDFLAGS)
+	@echo " LD    SaveToProto"
+	@$(LD) $(LDPREFIX)  SaveToProto.obj $(LDFLAGS)
+	@echo " LD    ProtoToSave"
+	@$(LD) $(LDPREFIX)  ProtoToSave.obj $(LDFLAGS)
+	@echo " LD    SaveGenerate"
+	@$(LD) $(LDPREFIX)  SaveGenerate.obj $(LDFLAGS)
+	@echo " LD    ItemLookupTest"
+	@$(LD) $(LDPREFIX)  ItemLookupTest.obj $(LDFLAGS)
+	@echo " LD    ProfileUnpack"
+	@$(LD) $(LDPREFIX)  ProfileUnpack.obj $(LDFLAGS)
+	@echo " LD    ProfileGenerate"
+	@$(LD) $(LDPREFIX)  ProfileGenerate.obj $(LDFLAGS)
+	@echo " LD    ProfileToProto"
+	@$(LD) $(LDPREFIX)  ProfileToProto.obj $(LDFLAGS)
+	@echo " LD    ProtoToProfile"
+	@$(LD) $(LDPREFIX)  ProtoToProfile.obj $(LDFLAGS)
+	@echo " LD    SaveConvert"
+	@$(LD) $(LDPREFIX)  SaveConvert.obj $(LDFLAGS)
+	@echo " LD    CSaveMenu"
+	@$(LD) $(LDPREFIX)  CSaveMenu.obj $(LDFLAGS)
+	@echo " LD    ReadSaveHeader"
+	@$(LD) $(LDPREFIX)  ReadSaveHeader.obj $(LDFLAGS)
+
+
+clean:
+	rm -f *.obj Oak*.pb-c.* *.exe *.lib

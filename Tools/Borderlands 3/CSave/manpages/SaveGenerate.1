@@ -1,0 +1,18 @@
+.TH SAVEGENERATE 1
+.SH NAME
+SaveGenerate \- edit save protobuf data
+.SH SYNOPSIS
+.B SaveGenerate
+\fBinput.proto\fR \fBedited.proto\fR
+.SH DESCRIPTION
+.B SaveGenerate
+will allow you to edit a BL3 (converted to protobuf) player save. A similar
+program exists for profile saves, \fBProfileGenerate(1)\fR as well. This is
+a command-oriented program, but you can use shell input redirection to run
+a script on a save file. For a complete list of commands, please see the CSave
+manual as they are not documented in this reference page.
+.SH OPTIONS
+.br
+input.proto \- the input protobuf file. Do not specify a .sav here!
+.br
+edited.proto \- the edited output file.

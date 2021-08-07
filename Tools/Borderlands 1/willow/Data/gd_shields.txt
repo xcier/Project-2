@@ -1,0 +1,373 @@
+[A_Item.Item_Shield]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="Orb Shield"
+PickupMessage="Acquired a Basic Orb Shield"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+Presentation="shield"
+[A_Item_stock.Item_Shield_Stock]
+UseFailureCharacterMessage="You must be a %s to use this item."
+ItemName="STOCK Shield"
+PickupMessage="Acquired a Basic Orb Shield"
+PickupMessageWithLevel="You got %s (Level %d)"
+UseFailureLevelMessage="You must be at least level %d to use this item."
+UseFailureConstraintsMessage="You cannot use this item."
+NoManufacturerName="Generic"
+[Body.body1]
+PartName="OBS"
+Rarity=0
+[Body.body1_balanced]
+PartName="OS"
+Rarity=6
+[Body.body2]
+PartName="FRR"
+Rarity=2
+[Body.body3]
+PartName="OC"
+Rarity=4
+[Body.body3b_power]
+PartName="XC"
+Rarity=6
+[Body.body4]
+PartName="AWE"
+Rarity=6
+[LeftSide.leftside1]
+PartName=""
+Rarity=0
+[LeftSide.leftside2]
+PartNumberAddend=20
+PartName=""
+Rarity=2
+[LeftSide.leftside3]
+PartNumberAddend=40
+PartName=""
+Rarity=6
+[LeftSide.leftside4]
+PartNumberAddend=5
+PartName=""
+Rarity=8
+[LeftSide.leftsideStartingShieldPiece]
+Rarity=0
+PartName=""
+PartNumberAddend=1
+[RightSide.rightside1]
+PartName=""
+Rarity=0
+[RightSide.rightside2]
+PartNumberAddend=10
+PartName=""
+Rarity=2
+[RightSide.rightside3]
+PartNumberAddend=30
+PartName=""
+Rarity=4
+[RightSide.rightside4]
+PartNumberAddend=50
+PartName=""
+Rarity=6
+[ManufacturerMaterials.Material_Anshin_1]
+PartName="ANS-"
+Description="Fast Recharge"
+Rarity=0
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Anshin_2]
+PartName="ANS2-"
+Description="Very Fast Recharge"
+Rarity=4
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Anshin_3]
+PartName="ANS2-"
+Description="Super Fast Recharge!"
+Rarity=6
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Atlas_1]
+PartName="ATL-"
+Description="Shock Resistance"
+Rarity=2
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Atlas_2a]
+PartName="ATL-"
+Description="High Shock Resistance"
+Rarity=6
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Atlas_3]
+PartName="ATL-"
+Description="Extreme Shock Resistance!"
+Rarity=8
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Dahl_1]
+PartName="DHL-"
+Description="Corrosive Resistance"
+Rarity=0
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Dahl_2a]
+PartName="DHL-"
+Description="High Corrosive Resistance"
+Rarity=4
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Dahl_3]
+PartName="DHL-"
+Description="Extreme Corrosive Resistance!"
+Rarity=6
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Hyperion_1]
+PartName="HYP-"
+Description="Fire Resistance"
+Rarity=2
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Hyperion_2a]
+PartName="HYP-"
+Description="High Fire Resistance"
+Rarity=6
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Hyperion_3]
+PartName="HYP-"
+Description="Extreme Fire Resistance!"
+Rarity=8
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Maliwan_1]
+PartName="MLN-"
+Description="Creates a small Shock Burst when depleted."
+Rarity=0
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Maliwan_2a]
+PartName="MLN-"
+Description="Creates a Shock Wave when depleted."
+Rarity=4
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Maliwan_3]
+PartName="MLN-"
+Description="Creates a large Shock Nova when depleted."
+Rarity=6
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Pangolin_1]
+PartName="PNG-"
+Description="High Capacity"
+Rarity=2
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Pangolin_2a]
+PartName="PNG-"
+Description="Very High Capacity"
+Rarity=6
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Pangolin_3]
+PartName="PNG2-"
+Description="Overcharge Capacity!"
+Rarity=8
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_SandS_1]
+PartName="SnS-"
+Description="Creates a small Acid burst when depleted."
+Rarity=0
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_SandS_2a]
+PartName="SnS-"
+Description="Creates an Acid Wave when depleted."
+Rarity=4
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_SandS_3]
+PartName="SnS-"
+Description="Creates a large Acid Nova when depleted."
+Rarity=6
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Tediore_0_Starter]
+PartName="TDR-"
+Rarity=0
+[ManufacturerMaterials.Material_Tediore_1]
+PartName="TDR-"
+Description="Very slow health regeneration"
+Rarity=0
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Tediore_2a]
+PartName="TDR-"
+Description="Slow health regeneration"
+Rarity=4
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Tediore_3]
+PartName="TDR-"
+Description="Quick Health Regeneration!"
+Rarity=6
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Torgue_1]
+PartName="TRG-"
+Description=""
+NoConstraintText="Health Boost 30%"
+Rarity=0
+Suffix=""
+[ManufacturerMaterials.Material_Torgue_2a]
+PartName="TRG-"
+Description=""
+NoConstraintText="Health Boost 40%"
+Rarity=4
+Suffix=""
+[ManufacturerMaterials.Material_Torgue_3]
+PartName="TRG-"
+Description=""
+NoConstraintText="Health Boost 60%"
+Rarity=6
+Suffix=""
+[ManufacturerMaterials.Material_Vladof_1]
+PartName="VDF-"
+Description="Creates a small Fire Burst when depleted."
+Rarity=0
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Vladof_2a]
+PartName="VDF-"
+Description="Creates a Fire Wave when depleted."
+Rarity=4
+NoConstraintText=""
+Suffix=""
+[ManufacturerMaterials.Material_Vladof_3]
+PartName="VDF-"
+Description="Creates a large Fire Nova when depleted."
+Rarity=6
+NoConstraintText=""
+Suffix=""
+[Prefix.Prefix_Max1_Reinforced]
+PartName="Reinforced"
+PartNumberAddend=3
+[Prefix.Prefix_Max2_Hardened]
+PartName="Hardened"
+PartNumberAddend=6
+[Prefix.Prefix_Max3_Unbreakable]
+PartName="Unbreakable"
+PartNumberAddend=9
+[Prefix.Prefix_Max4_Impenetrable]
+PartName="Impenetrable"
+PartNumberAddend=7
+[Prefix.Prefix_none]
+PartName=""
+[Prefix.Prefix_Quality1_Balanced]
+PartName="Balanced"
+PartNumberAddend=10
+[Prefix.Prefix_Quality2_Symmetrical]
+PartName="Symmetrical"
+PartNumberAddend=4
+[Prefix.Prefix_Quality3_Sterling]
+PartName="Sterling"
+PartNumberAddend=15
+[Prefix.Prefix_Quality4_Harmonious]
+PartName="Harmonious"
+PartNumberAddend=11
+[Prefix.Prefix_Speed1_QuickCharge]
+PartName="Quick Charge"
+[Prefix.Prefix_Speed2_Accelerated]
+PartName="Accelerated"
+PartNumberAddend=5
+[Prefix.Prefix_Speed3_Rapid]
+PartName="Rapid"
+PartNumberAddend=5
+[Prefix.Prefix_Speed4_Alacritous]
+PartName="Alacritous"
+PartNumberAddend=8
+[Prefix.Prefix_Standard]
+PartName="Standard"
+[Title.Title_Anshin1_GuerillaShield]
+PartName="Guerilla Shield"
+[Title.Title_Anshin2_SkirmisherShield]
+PartName="Skirmisher Shield"
+[Title.Title_Anshin3_AmbushShield]
+PartName="Ambush Shield"
+[Title.Title_Atlas1_GroundedShield]
+PartName="Grounded Shield"
+[Title.Title_Atlas2_AnionicShield]
+PartName="Anionic Shield"
+[Title.Title_Atlas3_CationicShield]
+PartName="Cationic Shield"
+[Title.Title_Dahl1_NeutralizingShield]
+PartName="Neutralizing Shield"
+[Title.Title_Dahl2_DilutionShield]
+PartName="Dilution Shield"
+[Title.Title_Dahl3_HazmatShield]
+PartName="Hazmat Shield"
+[Title.Title_Hyperion1_ThermalShield]
+PartName="Thermal Shield"
+[Title.Title_Hyperion2_AsbesticShield]
+PartName="Asbestic Shield"
+[Title.Title_Hyperion3_EndothermicShield]
+PartName="Endothermic Shield"
+[Title.Title_Maliwan1_ShockBurstShield]
+PartName="Shock Burst Shield"
+[Title.Title_Maliwan2_ShockWaveShield]
+PartName="Shock Wave Shield"
+[Title.Title_Maliwan3_ShockNovaShield]
+PartName="Shock Nova Shield"
+[Title.Title_Pangolin1_UnyieldingShield]
+PartName="Unyielding Shield"
+[Title.Title_Pangolin2_EnduringShield]
+PartName="Enduring Shield"
+[Title.Title_Pangolin3_FortifiedShield]
+PartName="Fortified Shield"
+[Title.Title_SandS1_AcidburstShield]
+PartName="Acid Burst Shield"
+[Title.Title_SandS2_AcidWaveShield]
+PartName="Acid Wave Shield"
+[Title.Title_SandS3_AcidNovaShield]
+PartName="Acid Nova Shield"
+[Title.Title_Shield]
+PartName="Shield"
+[Title.Title_Tediore1_HealingShield]
+PartName="Healing Shield"
+[Title.Title_Tediore2_RestorativeShield]
+PartName="Restorative Shield"
+[Title.Title_Tediore3_PanaceaShield]
+PartName="Panacea Shield"
+[Title.Title_Torgue1_ToughGuyShield]
+PartName="Tough Guy Shield"
+[Title.Title_Torgue2_MusclemanShield]
+PartName="Muscleman Shield"
+[Title.Title_Torgue3_MachoShield]
+PartName="Macho Shield"
+[Title.Title_U_CrackedSash]
+PartName="Cracked Sash"
+[Title.Title_U_WeeWeesSuperBooster]
+PartName="Wee Wee's Super Booster"
+[Title.Title_Vladof1_FireburstShield]
+PartName="Fire Burst Shield"
+[Title.Title_Vladof2_FireWaveShield]
+PartName="Fire Wave Shield"
+[Title.Title_Vladof3_FireNovaShield]
+PartName="Fire Nova Shield"
+[UniqueParts.body4_CrackedSash]
+PartName="CRKED"
+Rarity=6
+[UniqueParts.CrackedSash_Material]
+PartName="ANS-"
+Description="Fast Recharge"
+NoConstraintText=""
+Rarity=0
+Suffix=""
+[UniqueParts.Shield_WeeWee_Material]
+PartName="TDR-"
+Rarity=8
+[DELETEDELETE.leftside0]
+Rarity=0
+[DELETEDELETE.rightside0]
+Rarity=0

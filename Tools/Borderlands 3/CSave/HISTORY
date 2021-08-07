@@ -1,0 +1,29 @@
+Completely Useless History (i.e. Questions you didn't ask and answers) Document on CSave
+
+1. When did I start this?
+9/12/2020. Originally it was just a novel idea of "what kinda stuff can I do with
+protobuf-c" but it evolved into a save editor.
+
+2. Where was this originally stored?
+hpux11_dev.hsnet.local (HP-UX B.11.11 development machine, mainly for testing out
+non-GNU C compilers. It's an HP-9000 712, it's slow as Christmas.)
+
+3. Does this run on MVS?
+Well, not yet. I doubt that JCC can compile this, mainly because I've gotta first
+get libprotobuf-c (it should be noted that this project did originate on MVS, but
+was promptly moved off of MVS because of this C compilation issue)
+
+4. What's with that dumb CSAV001xxx message prefixes? 
+Well, if you've used MVS, VM/CMS, or VSE, it will look familiar. I've been using
+this scheme for a while now, mainly such that I can grep away for some particular
+output. Does it add to the verbosity of the already verbose output? Yes. Does it
+overload your 9600 baud VT100? You bet. Do you have to pay for the paper running
+off of your Teletype/3215? I sure hope not!
+
+5. So, does it run on VMS or not?
+Well, kinda. You have to cross compile this bad boy from some other system that
+has GCC. Copy over the EXEs and have at it.
+
+6. Does it compile on VM/CMS?
+Nope. (update 5/4/21: kinda, but the endianess is completely off and it's basically
+useless)

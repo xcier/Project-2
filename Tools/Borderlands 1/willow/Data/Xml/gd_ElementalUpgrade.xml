@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--Comment-->
+<INI>
+  <Section>
+    <Name>A_Item.ElementalArtifact_Brick</Name>
+    <UseFailureCharacterMessage>You must be a %s to use this item.</UseFailureCharacterMessage>
+    <ItemName />
+    <PickupMessage>Elemental Artifact</PickupMessage>
+    <PickupMessageWithLevel>You got %s (Level %d)</PickupMessageWithLevel>
+    <UseFailureLevelMessage>You must be at least level %d to use this item.</UseFailureLevelMessage>
+    <UseFailureConstraintsMessage>You cannot use this item.</UseFailureConstraintsMessage>
+    <NoManufacturerName>Generic</NoManufacturerName>
+    <Description>Improves Brick's Berserk skill.</Description>
+    <NoConstraintText />
+    <Suffix />
+    <BaseRarity>50</BaseRarity>
+    <Presentation>elemental</Presentation>
+  </Section>
+  <Section>
+    <Name>A_Item.ElementalArtifact_Lilith</Name>
+    <UseFailureCharacterMessage>You must be a %s to use this item.</UseFailureCharacterMessage>
+    <ItemName />
+    <PickupMessage>Elemental Artifact</PickupMessage>
+    <PickupMessageWithLevel>You got %s (Level %d)</PickupMessageWithLevel>
+    <UseFailureLevelMessage>You must be at least level %d to use this item.</UseFailureLevelMessage>
+    <UseFailureConstraintsMessage>You cannot use this item.</UseFailureConstraintsMessage>
+    <NoManufacturerName>Generic</NoManufacturerName>
+    <Description>Improves Lilith's Phasewalk skill.</Description>
+    <NoConstraintText />
+    <Suffix />
+    <BaseRarity>50</BaseRarity>
+    <Presentation>elemental</Presentation>
+  </Section>
+  <Section>
+    <Name>A_Item.ElementalArtifact_Mordecai</Name>
+    <UseFailureCharacterMessage>You must be a %s to use this item.</UseFailureCharacterMessage>
+    <ItemName />
+    <PickupMessage>Elemental Artifact</PickupMessage>
+    <PickupMessageWithLevel>You got %s (Level %d)</PickupMessageWithLevel>
+    <UseFailureLevelMessage>You must be at least level %d to use this item.</UseFailureLevelMessage>
+    <UseFailureConstraintsMessage>You cannot use this item.</UseFailureConstraintsMessage>
+    <NoManufacturerName>Generic</NoManufacturerName>
+    <Description>Improves Mordecai's Bloodwing skill.</Description>
+    <NoConstraintText />
+    <Suffix />
+    <BaseRarity>50</BaseRarity>
+    <Presentation>elemental</Presentation>
+  </Section>
+  <Section>
+    <Name>A_Item.ElementalArtifact_Roland</Name>
+    <UseFailureCharacterMessage>You must be a %s to use this item.</UseFailureCharacterMessage>
+    <ItemName />
+    <PickupMessage>Elemental Artifact</PickupMessage>
+    <PickupMessageWithLevel>You got %s (Level %d)</PickupMessageWithLevel>
+    <UseFailureLevelMessage>You must be at least level %d to use this item.</UseFailureLevelMessage>
+    <UseFailureConstraintsMessage>You cannot use this item.</UseFailureConstraintsMessage>
+    <NoManufacturerName>Generic</NoManufacturerName>
+    <Description>Improves Roland's Scorpio Turret skill.</Description>
+    <NoConstraintText />
+    <Suffix />
+    <BaseRarity>50</BaseRarity>
+    <Presentation>elemental</Presentation>
+  </Section>
+  <Section>
+    <Name>Body.Body_RequiredShared</Name>
+    <PartName />
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>LeftSide.LeftSide_Level1</Name>
+    <PartName />
+    <Description>Level 1 Elemental Upgrade.</Description>
+    <NoConstraintText />
+    <Suffix />
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>LeftSide.LeftSide_Level2</Name>
+    <PartName />
+    <Description>Level 2 Elemental Upgrade.</Description>
+    <NoConstraintText />
+    <Suffix />
+    <Rarity>2</Rarity>
+  </Section>
+  <Section>
+    <Name>LeftSide.LeftSide_Level3</Name>
+    <PartName />
+    <Description>Level 3 Elemental Upgrade.</Description>
+    <NoConstraintText />
+    <Suffix />
+    <Rarity>4</Rarity>
+  </Section>
+  <Section>
+    <Name>LeftSide.LeftSide_Level4</Name>
+    <PartName />
+    <Description>Level 4 Elemental Upgrade.</Description>
+    <NoConstraintText />
+    <Suffix />
+    <Rarity>6</Rarity>
+  </Section>
+  <Section>
+    <Name>LeftSide.LeftSide_Level5</Name>
+    <PartName />
+    <Description>Level 5 Elemental Upgrade.</Description>
+    <NoConstraintText />
+    <Suffix />
+    <Rarity>8</Rarity>
+  </Section>
+  <Section>
+    <Name>LeftSide.LeftSide_Level6</Name>
+    <PartName />
+    <Description>Level 6 Elemental Upgrade.</Description>
+    <NoConstraintText />
+    <Suffix />
+    <Rarity>10</Rarity>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Corrosive</Name>
+    <PartName>Corrosive</PartName>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Explosive</Name>
+    <PartName>Explosive</PartName>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Incendiary</Name>
+    <PartName>Incendiary</PartName>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Shock</Name>
+    <PartName>Shock</PartName>
+  </Section>
+  <Section>
+    <Name>RightSide.RightSide_Corrosive</Name>
+    <PartName />
+    <Description>Adds Corrosive Damage.</Description>
+    <NoConstraintText />
+    <Suffix />
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>RightSide.RightSide_Explosive</Name>
+    <PartName />
+    <Description>Adds Explosive damage.</Description>
+    <NoConstraintText />
+    <Suffix />
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>RightSide.RightSide_Incendiary</Name>
+    <PartName />
+    <Description>Adds Incendiary damage.</Description>
+    <NoConstraintText />
+    <Suffix />
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>RightSide.RightSide_Shock</Name>
+    <PartName />
+    <Description>Adds Shock damage.</Description>
+    <NoConstraintText />
+    <Suffix />
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Title.Title_Artifact</Name>
+    <PartName>Artifact</PartName>
+  </Section>
+</INI>

@@ -1,0 +1,642 @@
+commit 4bf08329eca38145cbdd8744f7e5390461b65024
+Author: gibbed <rick@gibbed.us>
+Date:   Sun Jun 23 23:25:14 2019 -0500
+
+    [SaveEdit] Reset save path when creating a new save.
+
+commit 75677cd1a2c3bbfeeac2cb4c7168b6a1c3f75e43
+Author: gibbed <rick@gibbed.us>
+Date:   Sun Jun 23 23:20:46 2019 -0500
+
+    Restore weapon type/item balance checking that was inadvertently removed in previous commit.
+
+commit 444d39c11acfe0c1bdd0562acb5ce452acadb5e9
+Author: gibbed <rick@gibbed.us>
+Date:   Sun Jun 23 23:11:21 2019 -0500
+
+    Fix weapon/item balance validation checking. Fixes #31.
+
+commit 50e3741462562735fa68bd9710c097dd9d03f9c6
+Author: Rick Gibbed <rick@gibbed.us>
+Date:   Sat Jun 22 20:56:16 2019 -0500
+
+    [AppVeyor] Make artifact file names consistent.
+
+commit f109cbeef754131c28b31845b4f3ac03a67987a7
+Author: Rick Gibbed <rick@gibbed.us>
+Date:   Sat Jun 22 16:54:12 2019 -0500
+
+    Update README.md.
+
+commit 43ee6beb44b60656e8722c18ebe735e8a2607a26
+Author: gibbed <rick@gibbed.us>
+Date:   Sat Jun 22 16:26:07 2019 -0500
+
+    [SaveEdit] Add Save As.
+
+commit eaad1dc3a29c7dcbb01509c5f66f07574c1278f6
+Author: gibbed <rick@gibbed.us>
+Date:   Sat Jun 22 16:25:42 2019 -0500
+
+    [SaveEdit] Crush image resources.
+
+commit d4eb972fa1806b9b85202182fd797a5cd4fc5bd0
+Author: gibbed <rick@gibbed.us>
+Date:   Sat Jun 22 16:06:12 2019 -0500
+
+    [AppVeyor] Clarify symbols in artifact file names.
+
+commit d1c1d7128075f36e9b2f3aa290d0b031cd9a3a8c
+Author: gibbed <rick@gibbed.us>
+Date:   Sat Jun 22 16:04:30 2019 -0500
+
+    Rollup to match BL2 editor changes.
+    
+    - Rename Type to WeaponType/Item where appropriate.
+    - [GameInfo] Fix base weapon type/item parts being pulled in where
+      they shouldn't.
+    - [GameInfo] Remove Contains from InfoDictionary, replaced
+      with TryGetValue.
+    - [SaveEdit] Item view now defaults to having the current item's
+      type filter selected.
+    - [SaveEdit] Update About tab.
+    - [SaveEdit] Add natural sorting for asset lists.
+    - [SaveEdit] Proper sizing of labels in weapon/item editors.
+    - [SaveEdit] Add margin to weapon/item editors.
+    - Code cleanup.
+
+commit 734070128c6f88465dec013894aff767fa012477
+Author: gibbed <rick@gibbed.us>
+Date:   Mon Jun 17 12:11:51 2019 -0500
+
+    Remove old private assembly path.
+
+commit b25555187d9c863213c46fb13a542181b14b0e0a
+Author: gibbed <rick@gibbed.us>
+Date:   Mon Jun 17 10:11:09 2019 -0500
+
+    Make class/skins lists collapsible.
+
+commit b6c57dcd538f23db133a2aa8f4dc3170700feaa8
+Author: gibbed <rick@gibbed.us>
+Date:   Mon Jun 17 09:55:26 2019 -0500
+
+    Update About tab.
+
+commit 5cacbd39784ed0168dce8f93715ad632031eb383
+Author: gibbed <rick@gibbed.us>
+Date:   Mon Jun 17 09:36:18 2019 -0500
+
+    Make fast travel/backpack/bank lists collapsible.
+
+commit fbc57dc3fdcceef094caf1c5bacd95402d93ea74
+Author: gibbed <rick@gibbed.us>
+Date:   Mon Jun 17 09:27:05 2019 -0500
+
+    Add display name overriding for downloadable packages.
+
+commit c94b17e4098e848beee10d039545afe99fd7767e
+Author: gibbed <rick@gibbed.us>
+Date:   Mon Jun 17 09:20:38 2019 -0500
+
+    Fix some weapon types/balances.
+
+commit f29811dbd92fd79c9df93f8813e06965b2aa9eb2
+Author: gibbed <rick@gibbed.us>
+Date:   Mon Jun 17 08:12:43 2019 -0500
+
+    Move dumps to another repository.
+
+commit 084e3c49ead0081d12c8494afd3bfecfe42b5ec0
+Author: gibbed <rick@gibbed.us>
+Date:   Mon Jun 17 07:51:51 2019 -0500
+
+    Implement fast travel tab.
+
+commit e6313596fb03f64a4acab7fa28ca5ebf5d3273b8
+Author: gibbed <rick@gibbed.us>
+Date:   Sun Jun 16 20:33:47 2019 -0500
+
+    Fix SaveEdit packaging.
+
+commit a2ac01633615f472edc6cb0c7bb530c724b5de27
+Author: gibbed <rick@gibbed.us>
+Date:   Sun Jun 16 19:59:47 2019 -0500
+
+    Fix bad path in AppVeyor config.
+
+commit a3b9536bffd59ef4038ac654f81d06d263773ac6
+Author: gibbed <rick@gibbed.us>
+Date:   Sun Jun 16 18:49:52 2019 -0500
+
+    Update README.md.
+
+commit a980d0d31e14a9d27dfd4583ea4adce08d298ff9
+Author: gibbed <rick@gibbed.us>
+Date:   Sun Jun 16 18:46:34 2019 -0500
+
+    [SaveEdit] Add resource name to fast travel stations when there is more
+    than one with the same display name.
+
+commit 58ebc05ea49d42860e3e1443abcdf44958e0ba4b
+Author: gibbed <rick@gibbed.us>
+Date:   Sun Jun 16 18:44:04 2019 -0500
+
+    [SaveEdit] Set a white background on UserControls for design-time.
+
+commit e8a3135f6a755dde8b0460c8402c5fcd8c364f6a
+Author: gibbed <rick@gibbed.us>
+Date:   Sun Jun 16 18:37:14 2019 -0500
+
+    [SaveEdit] Remove the gear calculator links.
+
+commit 4d45b4dcf57ef5aae7a0ac37f2ad3c228d20f08c
+Author: gibbed <rick@gibbed.us>
+Date:   Sun Jun 16 18:35:45 2019 -0500
+
+    [SaveEdit] Add version number to window title.
+
+commit e9e0e729cb182b9be320a8279874c32609a6e93e
+Author: gibbed <rick@gibbed.us>
+Date:   Sun Jun 16 18:32:39 2019 -0500
+
+    Code cleanup.
+    
+    - Take advantage of new C# features.
+    - Use Huffman code from Gearbox.Common.
+    - Move common WPF code to an external dependency.
+
+commit 31c3a08573f6a5112d40f669503c573945a8ea25
+Author: gibbed <rick@gibbed.us>
+Date:   Sun Jun 16 17:30:49 2019 -0500
+
+    Use Huffman code from Gearbox.Common.
+
+commit c178b0915cd690b183b2f87c77712b949e78e6e3
+Author: gibbed <rick@gibbed.us>
+Date:   Sun Jun 16 15:27:06 2019 -0500
+
+    License bump.
+
+commit 2456bf5723c708a0f9598b9b89134821ab388304
+Author: gibbed <rick@gibbed.us>
+Date:   Sun Jun 16 15:22:48 2019 -0500
+
+    Move some common code to an external dependency.
+
+commit 03f1ab8da590429b5ce4c271d41b1f60ddbbfda9
+Author: gibbed <rick@gibbed.us>
+Date:   Sun Jun 16 15:14:50 2019 -0500
+
+    Update AppVeyor config.
+    
+    [AppVeyor] Install .NET Core preview.
+    [AppVeyor] Remove some unnecessary file exclusions.
+
+commit 5135ef30dd2eceb321d0ffc6f82f0ed71d2b18a1
+Author: gibbed <rick@gibbed.us>
+Date:   Sun Jun 16 15:14:43 2019 -0500
+
+    Move external dependencies to VS2017.
+
+commit bc892c1b96a0401ef4b61ee781f403482c0d823c
+Author: gibbed <rick@gibbed.us>
+Date:   Sun Jun 16 15:13:55 2019 -0500
+
+    Migrate to VS2019.
+
+commit 914749fc90b3e13be117d1f4c6b17069b6edabf8
+Author: gibbed <rick@gibbed.us>
+Date:   Fri Jun 14 12:21:33 2019 -0500
+
+    Revert "Bump Extended WPF Toolkit version."
+    
+    This reverts commit 05bfa5de5464de683e14be8c9f96348ee9adbfed.
+
+commit a8beae0cb46583e0768acb32d73454ef6a0e658a
+Author: gibbed <rick@gibbed.us>
+Date:   Fri Jun 14 12:08:59 2019 -0500
+
+    Always use a dropdown for new weapon/item in backpack and bank tabs.
+
+commit 2593f0c38904a3692311fa3aca5d10e9a75008b2
+Author: gibbed <rick@gibbed.us>
+Date:   Fri Jun 14 12:01:03 2019 -0500
+
+    Update GameInfo resources for object path index fix. Fixes #28.
+
+commit 70816454f01633ada6489ab48c52b0a20606993b
+Author: gibbed <rick@gibbed.us>
+Date:   Fri Jun 14 12:00:12 2019 -0500
+
+    Convert GameInfo resources to UTF8.
+
+commit 53c53bf3355be62cf0da3c26341ceb1c4b7c967b
+Author: gibbed <rick@gibbed.us>
+Date:   Mon May 27 09:57:08 2019 -0500
+
+    Use safe decompression for MiniLZO to avoid possible stack corruption.
+
+commit 05bfa5de5464de683e14be8c9f96348ee9adbfed
+Author: gibbed <rick@gibbed.us>
+Date:   Sun May 26 01:32:36 2019 -0500
+
+    Bump Extended WPF Toolkit version.
+
+commit 0bc046d09604d7c4af446948e064341ea075c40b
+Author: Rick Gibbed <rick@gibbed.us>
+Date:   Sun May 26 01:31:02 2019 -0500
+
+    Fix artifact filter in AppVeyor config.
+
+commit 20212206ac54846d598b2015d56483d3dbb06548
+Author: Rick Gibbed <rick@gibbed.us>
+Date:   Sun May 26 00:26:48 2019 -0500
+
+    Add FUNDING.yml.
+
+commit b26bfe9bf801723a25a7acf9993e7804997551bb
+Author: Rick Gibbed <rick@gibbed.us>
+Date:   Sun May 26 00:25:59 2019 -0500
+
+    Update and rename appveyor.yml to .appveyor.yml.
+
+commit 585d342f77f9783cfb9b2a93ac4b6e08072bd29b
+Author: Rick Gibbed <rick@gibbed.us>
+Date:   Thu Mar 28 21:43:01 2019 -0500
+
+    Document why SaveExpansion exists.
+
+commit d2320d882e2bb6096ec5043cb7a2702c20716509
+Author: Rick Gibbed <rick@gibbed.us>
+Date:   Thu Aug 30 01:05:30 2018 -0500
+
+    Updated appveyor.yml.
+
+commit 7214b51cd41227bd1fc3b536412abaf59b8f1880
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Oct 31 20:10:34 2017 -0500
+
+    Missed changes when migrating from SVN to Git.
+
+commit b878b04498d959060e6be7dd5c86cc6acaaba58d
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Oct 31 20:00:37 2017 -0500
+
+    Added stub README.
+
+commit d2ef828b6c80c9b524b4d3b01a828d9784f9152b
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Oct 31 19:58:23 2017 -0500
+
+    Added AppVeyor config.
+
+commit 3f3fa976a00f5f05380d8161e654e12c043300ba
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Oct 31 19:55:52 2017 -0500
+
+    SaveEdit packaging.
+
+commit c74bb6838a65a97cb16950747f3f406d8424bf79
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Oct 31 19:30:36 2017 -0500
+
+    Merged improvements from BL2 code.
+
+commit a58e436e965439b65f9dddafa98cf6638ffe0f57
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Oct 31 19:15:41 2017 -0500
+
+    Shuffling things around into a better structure.
+
+commit cbbb0a01f59a6babd4857ce6aadc2b21f47e9c2a
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Oct 31 19:08:46 2017 -0500
+
+    Updated assembly info.
+
+commit 2c73e8444a3a261116b74230d70ec3e314692119
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Oct 31 19:07:10 2017 -0500
+
+    Removed old build scripts.
+
+commit 930a8770f3150fa45681efe554e35846230904e8
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Oct 31 19:06:40 2017 -0500
+
+    Removed old version template file.
+
+commit 5bccd858abdde0efa202b301c81219e2ef6dfedc
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Oct 31 19:06:08 2017 -0500
+
+    Make it clear that reserved currencies are unused.
+
+commit 7be80d64cd12133c697a26a191d9b5cb67cab343
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Oct 31 19:05:07 2017 -0500
+
+    Renamed README.txt.
+
+commit 4edb47b381aa4314954d209ab53356af5cd17de0
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Oct 31 19:04:47 2017 -0500
+
+    Managed LZO!
+
+commit 54e4c810a1e16eb925dfbe29873781801ade356e
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Oct 31 19:00:54 2017 -0500
+
+    Moved some dependencies in other to pull from NuGet.
+
+commit 6b8c29eac4fb2e90a6b29acac5b82c27b5a10a49
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Oct 31 18:56:35 2017 -0500
+
+    Fixes for compatibility with newer Gibbed.IO version.
+
+commit 661b4029617e5d5b710a1514bd07590784b2fd46
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Oct 31 18:55:55 2017 -0500
+
+    Shuffling things around into a better structure.
+
+commit 7a513032eb140622bc64273965621e1b4a058c35
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Oct 31 18:48:02 2017 -0500
+
+    Added external depedencies.
+
+commit 51ab9351b0b0e02c22523018c8c9eaa08765c181
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Oct 31 18:46:52 2017 -0500
+
+    Shuffling things around into a better structure.
+
+commit 8b4fca2d6d0565288973396fcd85f0d6b05a8e70
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Oct 31 18:42:37 2017 -0500
+
+    License bump.
+
+commit 2c16e0489f3ad844fbfa128ba60d20e327e9a654
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Oct 31 18:36:40 2017 -0500
+
+    Added .gitignore.
+
+commit d1ed38f2f3fc89db1ef0c79547eb0aad717300c7
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat May 28 00:16:19 2016 +0000
+
+    Embedding of dependent assemblies for easier distribution.
+
+commit 3b18edb6c91d90bae2a5668e86b820d8f1fa164f
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Apr 17 06:33:13 2016 +0000
+
+    Added support for NVIDIA SHIELD (Android) save files.
+
+commit 05bc9740d83278169def39a4fddec4fe31ca45a1
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Nov 13 18:08:23 2015 +0000
+
+    Don't enforce FIPS policy.
+
+commit 439474709bfd4f1a15aaf41c8c3d8002cac78e02
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Oct 31 13:23:07 2015 +0000
+
+    Oops.
+
+commit 0283265f4e8c0773df95f01d98983c1dc18413d6
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Oct 31 13:21:45 2015 +0000
+
+    Oops.
+
+commit c4d2dac2e0c10cb6af6545ae0a65c224889d4ba6
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Oct 31 10:36:14 2015 +0000
+
+    Oops.
+
+commit c1af0a329622273edce38f863b3daf1e7fa814a9
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Oct 31 10:20:17 2015 +0000
+
+    Updated GameInfo resources for October 29, 2015 update (build 1100103).
+
+commit 63ef7996fef9d6d9b6205ea4b5ca0e1da3590ed6
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Oct 31 10:18:47 2015 +0000
+
+    SaveEdit:
+    - Added SuppressAtmosphereNotifications to the Raw tab.
+    - Fancy up About.
+
+commit 11541adcbf58fb4e1ddf5d4d03708ba6e201e9a2
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Oct 31 10:12:14 2015 +0000
+
+    Added support for SuppressAtmosphereNotifications.
+
+commit 0ba075dc8e4e3adc9134d706f9d20eea81346eae
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Mar 23 17:21:19 2015 +0000
+
+    Updated GameInfo resources for The Claptastic Voyage DLC.
+
+commit 54c57805cd7304a96d6380edc05ccb83f2376c0c
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Feb 16 23:35:31 2015 +0000
+
+    Added item type filter.
+
+commit 8fb16d4fd4f8df2972cf4f7d8bb19cc62d9d6d2b
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jan 30 10:16:26 2015 +0000
+
+    Updated Newtonsoft.Json to 6.0.8.
+
+commit 09d7368d9cf0c3ae04462528dca09ae695a5b4f1
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Fri Jan 30 09:21:17 2015 +0000
+
+    - Corrected LZO support on 64-bit. (Stack corruption, ho! How did this ever work before?)
+    - Updated LZO to 2.08.
+    - Fixed distribution building for Any CPU.
+
+commit 267713663e3ea3c37c2f9cb073a97fb370a1e103
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Jan 27 21:13:11 2015 +0000
+
+    Fixed some files from previous commit.
+
+commit 0b1ca14eb8c724de88d8f829b22ae2b58e8d18f3
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Jan 27 21:09:18 2015 +0000
+
+    Bumped year.
+
+commit 9be7ed54aa79e65e198010484e5e3a536bf48fb0
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Jan 27 19:09:34 2015 +0000
+
+    Oops. Doppel isn't Baroness.
+
+commit e193623e40e26e0da991ae0f746ff262b113cb24
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Jan 27 18:25:29 2015 +0000
+
+    Updated editor with Baroness support.
+
+commit ce89b0abb48906e186ca78f4770da6b94aef69de
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Jan 27 18:24:27 2015 +0000
+
+    Build clean archives, just in case.
+
+commit e7028a68cd836d8fd6dc52c5c1c22e4dd1d794c2
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Jan 27 18:18:36 2015 +0000
+
+    Updated GameInfo resources for Lady Hammerlock Pack DLC.
+
+commit 45a3e92a77ec38342f9fa133030a829497d661d8
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Dec 20 01:23:40 2014 +0000
+
+    Removed VerifySaves from SaveEdit Packaging.
+
+commit 845f4a81e1627f9a9aef5c81d6a647366cf20d81
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Dec 20 01:22:42 2014 +0000
+
+    Added support link.
+
+commit 67c10466480b26747297bc4da4eebabbf1f4ad16
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Dec 20 01:04:25 2014 +0000
+
+    Forgot the license for VerifySaves.
+
+commit 29154086b0eb88126c5a24dba758e0647b31fa4d
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Dec 20 01:03:39 2014 +0000
+
+    Added VerifySafes project.
+
+commit 2ba0ad5aaa976b9de96ffbc941522deed2dd8644
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sat Dec 20 00:55:38 2014 +0000
+
+    Updated GameInfo resources for The Holodome Onslaught DLC.
+
+commit a2026f3afbb19b8b08cf6fc2a4e4c948d435f92a
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Nov 11 19:24:46 2014 +0000
+
+    Updated editor with Doppel support.
+
+commit cec2251b8a7b1ceb0729e72f74bc8cad3631d7a3
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Nov 11 19:03:36 2014 +0000
+
+    Removed some unnecessary data.
+
+commit 1330b89551058a1d81894cebcff5f9f774d59ba8
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Nov 11 18:56:45 2014 +0000
+
+    Updated GameInfo resources for Handsome Jack Doppelganger Pack DLC.
+
+commit dfc75c15bff2279cd360f20ce504e59db26a2bfb
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Nov 10 23:09:41 2014 +0000
+
+    Verify the set is known on unpacking item data (reintroduces a thrown exception from before).
+
+commit d81eeb974c986d3b4086382983d4780f2c31915e
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Oct 21 02:06:54 2014 +0000
+
+    Oops.
+
+commit c45508eac78b47912a310bdb25f588cea2833748
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Tue Oct 21 00:30:32 2014 +0000
+
+    - Added some of the new Pre-Sequel! data to the raw tab.
+    - Added selection for third and fourth Stingray skins.
+
+commit 8c883b96ff5189e6dfe440f513af73c20d434ab5
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 20 18:22:34 2014 +0000
+
+    Pluralize!
+
+commit 13dd86ed5ba57cee5a64a4796d23c81c70aab665
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 20 18:11:21 2014 +0000
+
+    Corrected Relic to Oz Kit.
+
+commit b04ab8c6a7de2a470eece1d1c81a7f3143ab1ea4
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 20 15:08:25 2014 +0000
+
+    - Code cleanup in FileFormats.
+    - Improved handling of packed item and weapon data for future planned changes.
+
+commit 97ad8c66dd599d9b95fe1d496cfdb24fcbf66c33
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Mon Oct 20 05:47:45 2014 +0000
+
+    Fixed a reencode issue with VehicleSteeringMode.
+
+commit 666d7a0a480cc77e50684bb0c2c903a9316a08f2
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 19 17:01:33 2014 +0000
+
+    Fixed vehicle labels.
+
+commit 2bf072caa0aa38f4c0b087763ecb1a0c0257cc4f
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 19 09:01:00 2014 +0000
+
+    Fixed minor save protobuf format differences.
+
+commit b08309a5d3f7b239645f9dafa240b85bdbbe2735
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 19 08:06:28 2014 +0000
+
+    Fixed default player class.
+
+commit e3cac5559615b0c20991e3fe87ce1525a9debe8f
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 19 07:56:17 2014 +0000
+
+    - Removed name from WeaponTypeDefinition.
+    - Fixed usable customization item names.
+
+commit 86290cacebb961b9d7c84a130ccea572a32d8fc3
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 19 07:29:45 2014 +0000
+
+    - Removed blacklisting leftover from BL2.
+    - Disabled importing/exporting of fast travel data.
+
+commit 029a4b47745bf81fa96460f000b1222ce5381f6f
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 19 07:27:59 2014 +0000
+
+    Don't pointlessly set LastVisitedTeleporter in new saves.
+
+commit 22eaca90d7701067b4929bf66689c69fba7b88a3
+Author: Rick Gibbed <gibbed@users.noreply.github.com>
+Date:   Sun Oct 19 07:15:29 2014 +0000
+
+    Initial solution and projects.

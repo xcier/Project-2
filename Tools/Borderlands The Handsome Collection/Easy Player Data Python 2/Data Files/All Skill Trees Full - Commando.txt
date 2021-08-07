@@ -1,0 +1,134 @@
+    "8": [
+        [
+            2, 
+            "\n'GD_Soldier_Skills.Scorpio.Skill_Scorpio\u0010\u0001\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n\"GD_Soldier_Skills.Guerrilla.Sentry\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n!GD_Soldier_Skills.Guerrilla.Ready\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n&GD_Soldier_Skills.Guerrilla.LaserSight\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n#GD_Soldier_Skills.Guerrilla.Willing\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n%GD_Soldier_Skills.Guerrilla.Onslaught\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n)GD_Soldier_Skills.Guerrilla.ScorchedEarth\u0010\u0001\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n GD_Soldier_Skills.Guerrilla.Able\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n%GD_Soldier_Skills.Guerrilla.Grenadier\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n,GD_Soldier_Skills.Guerrilla.CrisisManagement\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n$GD_Soldier_Skills.Guerrilla.DoubleUp\u0010\u0001\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n\"GD_Soldier_Skills.Gunpowder.Impact\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n%GD_Soldier_Skills.Gunpowder.Expertise\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n$GD_Soldier_Skills.Gunpowder.Overload\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n&GD_Soldier_Skills.Gunpowder.MetalStorm\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n\"GD_Soldier_Skills.Gunpowder.Steady\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n)GD_Soldier_Skills.Gunpowder.LongBowTurret\u0010\u0001\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n'GD_Soldier_Skills.Gunpowder.Battlefront\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n%GD_Soldier_Skills.Gunpowder.DutyCalls\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n#GD_Soldier_Skills.Gunpowder.DoOrDie\u0010\u0001\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n\"GD_Soldier_Skills.Gunpowder.Ranger\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n GD_Soldier_Skills.Gunpowder.Nuke\u0010\u0001\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n\"GD_Soldier_Skills.Survival.HealthY\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n&GD_Soldier_Skills.Survival.Preparation\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n*GD_Soldier_Skills.Survival.LastDitchEffort\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n#GD_Soldier_Skills.Survival.Pressure\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n&GD_Soldier_Skills.Survival.Forbearance\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n(GD_Soldier_Skills.Survival.PhalanxShield\u0010\u0001\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n&GD_Soldier_Skills.Survival.QuickCharge\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n&GD_Soldier_Skills.Survival.Resourceful\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n#GD_Soldier_Skills.Survival.Mag-Lock\u0010\u0001\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n\u001fGD_Soldier_Skills.Survival.Grit\u0010\u0005\u0018\u0000 \u0000"
+        ], 
+        [
+            2, 
+            "\n!GD_Soldier_Skills.Survival.Gemini\u0010\u0001\u0018\u0000 \u0000"
+        ]
+    ],

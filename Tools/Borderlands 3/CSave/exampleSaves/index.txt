@@ -1,0 +1,12 @@
+19.sav  1prof.sav  1ps4_v100.sav  2profps4.sav  310pc.sav  310ps4.sav  69ps4_v103.sav  examples.tar
+
+19.sav - one of my most-played BL3 saves. Derived from a Moxsy save from around 15 Jul 2020.
+1prof.sav - my profile save.
+1ps4_v100.sav - a PS4 save.
+2profps4.sav - a PS4 profile save.
+310pc.sav - an EGS save.
+310ps4.sav - a PS4 save (conversion result from 310pc.sav)
+69ps4_v103.sav - another PS4 save.
+
+See also: file_index.txt
+

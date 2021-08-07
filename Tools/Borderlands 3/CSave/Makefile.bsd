@@ -1,0 +1,154 @@
+# (Free/Net/Open)BSD Makefile.
+# Also applicable to MacOS
+
+# Your C compiler. GCC gives you less warnings
+CC = clang
+LD = clang
+
+# Linker library paths.
+LDFLAGS = -lprotobuf-c -L/usr/local/lib
+CFLAGS = -I. -I/usr/local/include
+
+# Autocheck rule for the protos
+PROTOS = *.proto
+
+# Resultant objects
+OBJS = OakProfile.pb-c.o OakSave.pb-c.o OakShared.pb-c.o SaveUnpack.o FileTranslator.o SaveToProto.o ItemCode.o SaveGenerate.o ItemLookupTest.o ProtoToSave.o CSaveGUI.o ProfileUnpack.o ProfileGenerate.o ProtoToProfile.o ProfileToProto.o SaveConvert.o CSaveMenu.o ReadSaveHeader.o
+
+# Results of the protobuf generation process
+CPROTOS = OakProfile.pb-c.c OakSave.pb-c.c OakShared.pb-c.c
+
+# All programs
+PROGS = SaveUnpack SaveToProto SaveGenerate ItemLookupTest ProtoToSave CSaveGUI ProfileUnpack ProfileGenerate ProtoToProfile ProfileToProto SaveConvert CSaveMenu ReadSaveHeader
+LIBRARIES = libBL3Proto.a
+
+# Manuals
+MANUALS_PS = manual.ps
+MANUALS_PDF = manual.pdf
+MANUALS_TXT = manual.txt
+
+# Install prefix (they'll go in /usr/local/bin by default)
+PREFIX = /usr/local
+
+all: $(PROGS)
+
+.SUFFIXES: .ps .ms .pdf .txt
+
+.ms.txt:
+	@echo " TROFF   " $< " TEXT"
+	@troff -Tascii -ms $< > $@
+
+.ms.ps:
+	@echo " TROFF   " $<
+	@groff -Tps -ms $< > $@
+
+.ps.pdf:
+	@echo " PS2PDF   " $<
+	@ps2pdf $< $@
+
+.SUFFIXES: .c .h .o
+
+.c.o:
+	@echo " CC  " $<
+	@$(CC) $(CFLAGS) -c -o $@ $<
+
+cprotos: *.proto
+	@echo " PROTOC  OakProfile.proto"
+	@protoc-c --c_out=. OakProfile.proto
+	@echo " PROTOC  OakSave.proto"
+	@protoc-c --c_out=. OakSave.proto
+	@echo " PROTOC  OakShared.proto"
+	@protoc-c --c_out=. OakShared.proto
+
+$(LIBRARIES): cprotos $(OBJS)
+	@echo " AR   libBL3Proto"
+	@ar cr libBL3Proto.a OakProfile.pb-c.o OakSave.pb-c.o OakShared.pb-c.o FileTranslator.o SaveToProto.o ItemCode.o
+
+$(PROGS): $(LIBRARIES)
+	@echo " LD    SaveUnpack"
+	@$(LD) -o SaveUnpack SaveUnpack.o libBL3Proto.a $(LDFLAGS)
+	@echo " LD    SaveToProto"
+	@$(LD) -o SaveToProto SaveToProto.o libBL3Proto.a $(LDFLAGS)
+	@echo " LD    ProtoToSave"
+	@$(LD) -o ProtoToSave ProtoToSave.o libBL3Proto.a $(LDFLAGS)
+	@echo " LD    SaveGenerate"
+	@$(LD) -o SaveGenerate SaveGenerate.o libBL3Proto.a $(LDFLAGS)
+	@echo " LD    ItemLookupTest"
+	@$(LD) -o ItemLookupTest ItemLookupTest.o libBL3Proto.a $(LDFLAGS)
+	@echo " LD    ProfileUnpack"
+	@$(LD) -o ProfileUnpack ProfileUnpack.o libBL3Proto.a $(LDFLAGS)
+	@echo " LD    ProfileGenerate"
+	@$(LD) -o ProfileGenerate ProfileGenerate.o libBL3Proto.a $(LDFLAGS)
+	@echo " LD    ProfileToProto"
+	@$(LD) -o ProfileToProto ProfileToProto.o libBL3Proto.a $(LDFLAGS)
+	@echo " LD    ProtoToProfile"
+	@$(LD) -o ProtoToProfile ProtoToProfile.o libBL3Proto.a $(LDFLAGS)
+	@echo " LD    SaveConvert"
+	@$(LD) -o SaveConvert SaveConvert.o libBL3Proto.a $(LDFLAGS)
+	@echo " LD    ReadSaveHeader"
+	@$(LD) -o ReadSaveHeader ReadSaveHeader.o libBL3Proto.a $(LDFLAGS)
+	@echo " LD    CSaveGUI"
+	@$(LD) -o CSaveGUI CSaveGUI.o -lncurses
+	@echo " LD    CSaveMenu"
+	@$(LD) -o CSaveMenu CSaveMenu.o
+
+manual: $(MANUALS_PS) $(MANUALS_PDF)
+
+install: $(PROGS)
+	@echo " INSTALL    SaveUnpack"
+	@install SaveUnpack $(PREFIX)/bin
+	@echo " INSTALL    SaveToProto"
+	@install SaveToProto $(PREFIX)/bin
+	@echo " INSTALL    SaveGenerate"
+	@install SaveGenerate $(PREFIX)/bin
+	@echo " INSTALL    ProtoToSave"
+	@install ProtoToSave $(PREFIX)/bin
+	@echo " INSTALL    ProfileUnpack"
+	@install ProfileUnpack $(PREFIX)/bin
+	@echo " INSTALL    ProfileGenerate"
+	@install ProfileGenerate $(PREFIX)/bin
+	@echo " INSTALL    CSaveGUI"
+	@install CSaveGUI $(PREFIX)/bin
+	@echo " INSTALL    CSaveMenu"
+	@install CSaveMenu $(PREFIX)/bin
+	@echo " INSTALL    ProtoToProfile"
+	@install ProtoToProfile $(PREFIX)/bin
+	@echo " INSTALL    ProfileToProto"
+	@install ProfileToProto $(PREFIX)/bin
+	@echo " INSTALL    SaveConvert"
+	@install SaveConvert $(PREFIX)/bin
+	@echo " INSTALL    ReadSaveHeader"
+	@install ReadSaveHeader $(PREFIX)/bin
+
+
+uninstall:
+	@echo " RM    SaveUnpack"
+	@rm $(PREFIX)/bin/SaveUnpack
+	@echo " RM    SaveToProto"
+	@rm $(PREFIX)/bin/SaveToProto
+	@echo " RM    ProtoToSave"
+	@rm $(PREFIX)/bin/ProtoToSave
+	@echo " RM    SaveGenerate"
+	@rm $(PREFIX)/bin/SaveGenerate
+	@echo " RM    ProfileGenerate"
+	@rm $(PREFIX)/bin/ProfileGenerate
+	@echo " RM    ProfileUnpack"
+	@rm $(PREFIX)/bin/ProfileUnpack
+	@echo " RM    CSaveGUI"
+	@rm $(PREFIX)/bin/CSaveGUI
+	@echo " RM    CSaveMenu"
+	@rm $(PREFIX)/bin/CSaveMenu
+	@echo " RM    ProtoToProfile"
+	@rm $(PREFIX)/bin/ProtoToProfile
+	@echo " RM    ProfileToProto"
+	@rm $(PREFIX)/bin/ProfileToProto
+	@echo " RM    SaveConvert"
+	@rm $(PREFIX)/bin/SaveConvert
+	@echo " RM    ReadSaveHeader"
+	@rm $(PREFIX)/bin/ReadSaveHeader
+
+
+.PHONY: clean
+
+clean:
+	rm -f *.o Oak*.pb-c.* *.a $(MANUALS_PS) $(MANUALS_PDF) $(MANUALS_TXT) $(PROGS)

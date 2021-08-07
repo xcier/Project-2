@@ -1,0 +1,17 @@
+.TH SAVETOPROTO 1
+.SH NAME
+SaveToProto \- convert binary save file to protobuf data
+.SH SYNOPSIS
+.B SaveToProto
+\fBinput.sav\fR [\fBplatform\fR]
+.SH DESCRIPTION
+.B SaveToProto
+will convert the BL3 .sav files (found in the game save directory) into 
+protobuf data streams suitable for editing. The "platform code" can be
+used to read save files from platforms besides PC. Please see CSaveInfo(1)
+for a list of platform codes.
+.SH OPTIONS
+.br
+input.sav \- the input save file.
+.br
+platform \- the optional platform code.

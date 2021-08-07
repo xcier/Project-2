@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--Comment-->
+<INI>
+  <Section>
+    <Name>LeftSide.LeftSide_Level1</Name>
+    <PartName />
+    <Description>Level 1 Ammo Upgrade.</Description>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>LeftSide.LeftSide_Level2</Name>
+    <PartName />
+    <Description>Level 1 Ammo Upgrade.</Description>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+</INI>

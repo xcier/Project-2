@@ -1,0 +1,16 @@
+[A_Item_StorageDeckUpgrade.Item_AmmoCapacity_Revolver]
+Presentation="sdu"
+[A_Item_StorageDeckUpgrade.Item_AmmoCapacity_RocketLauncher]
+Presentation="sdu"
+[A_Item_StorageDeckUpgrade.Item_AmmoCapacity_SMG]
+Presentation="sdu"
+[A_Item_StorageDeckUpgrade.Item_AmmoCapacity_SniperRifle]
+Presentation="sdu"
+[A_Item_StorageDeckUpgrade.Item_InvSlot_Misc]
+Presentation="sdu"
+[A_Item_StorageDeckUpgrade.Item_InvSlot_MOD]
+Presentation="sdu"
+[A_Item_StorageDeckUpgrade.Item_InvSlot_Shield]
+Presentation="sdu"
+[A_Item_StorageDeckUpgrade.Item_InvSlot_Weapon]
+Presentation="sdu"

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--Comment-->
+<INI>
+  <Section>
+    <Name>A_Weapon.WeaponType_grenade_launcher</Name>
+    <TypeName>Grenade Launcher</TypeName>
+    <PickupMessage>You got %s</PickupMessage>
+    <PickupMessageWithLevel>You got %s (Level %d)</PickupMessageWithLevel>
+    <UseFailureLevelMessage>You must be at least level %d to use this item.</UseFailureLevelMessage>
+    <UseFailureConstraintsMessage>You cannot use this item.</UseFailureConstraintsMessage>
+    <NoManufacturerName>Generic</NoManufacturerName>
+    <Presentation>rocket</Presentation>
+  </Section>
+  <Section>
+    <Name>acc.acc1_Divine</Name>
+    <PartName>Divine</PartName>
+    <Rarity>3</Rarity>
+  </Section>
+  <Section>
+    <Name>acc.acc2_Blitz</Name>
+    <PartName>Blitz</PartName>
+    <Rarity>3</Rarity>
+  </Section>
+  <Section>
+    <Name>acc.acc4_Mad</Name>
+    <PartName>Mad</PartName>
+    <Rarity>3</Rarity>
+  </Section>
+  <Section>
+    <Name>Barrel.barrel3</Name>
+    <PartName />
+    <PartNumberAddend>10</PartNumberAddend>
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Barrel.barrel3_Dahl_Onslaught</Name>
+    <PartName />
+    <PartNumberAddend>10</PartNumberAddend>
+    <Rarity>50</Rarity>
+  </Section>
+  <Section>
+    <Name>Barrel.barrel3_impact</Name>
+    <PartName />
+    <PartNumberAddend>10</PartNumberAddend>
+    <Rarity>1</Rarity>
+  </Section>
+  <Section>
+    <Name>Barrel.barrel3_rebounding</Name>
+    <PartName />
+    <PartNumberAddend>10</PartNumberAddend>
+    <Rarity>1</Rarity>
+  </Section>
+  <Section>
+    <Name>Barrel.barrel3_sticky</Name>
+    <PartName />
+    <PartNumberAddend>10</PartNumberAddend>
+    <Rarity>1</Rarity>
+  </Section>
+  <Section>
+    <Name>Barrel.barrel4_Atlas_Leviathan</Name>
+    <PartName />
+    <Rarity>3</Rarity>
+  </Section>
+  <Section>
+    <Name>Barrel.barrel4_Mortar</Name>
+    <PartName />
+    <Rarity>3</Rarity>
+  </Section>
+  <Section>
+    <Name>Barrel.barrel5</Name>
+    <PartName />
+    <PartNumberAddend>20</PartNumberAddend>
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Barrel.barrel5_impact</Name>
+    <PartName />
+    <PartNumberAddend>20</PartNumberAddend>
+    <Rarity>1</Rarity>
+  </Section>
+  <Section>
+    <Name>Barrel.barrel5_rebounding</Name>
+    <PartName />
+    <PartNumberAddend>20</PartNumberAddend>
+    <Rarity>1</Rarity>
+  </Section>
+  <Section>
+    <Name>Barrel.barrel5_SandS_Rainmaker</Name>
+    <PartName />
+    <Rarity>3</Rarity>
+  </Section>
+  <Section>
+    <Name>Barrel.barrel5_sticky</Name>
+    <PartName />
+    <PartNumberAddend>20</PartNumberAddend>
+    <Rarity>1</Rarity>
+  </Section>
+  <Section>
+    <Name>Body.body2</Name>
+    <PartName>BGL</PartName>
+    <Rarity>1</Rarity>
+  </Section>
+  <Section>
+    <Name>Body.body4</Name>
+    <PartName>VLK</PartName>
+    <Rarity>3</Rarity>
+  </Section>
+  <Section>
+    <Name>Body.body4_Jakobs_Terror</Name>
+    <PartName>JKB</PartName>
+    <Rarity>3</Rarity>
+  </Section>
+  <Section>
+    <Name>mag.mag1</Name>
+    <PartName />
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Acc1_Divine</Name>
+    <PartName>Divine</PartName>
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Acc2_Blitz</Name>
+    <PartName>Blitz</PartName>
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Acc4_Mad</Name>
+    <PartName>Grenade</PartName>
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Barrel_Impact</Name>
+    <PartName>Impact</PartName>
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Barrel_Rebounding</Name>
+    <PartName>Rebounding</PartName>
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Barrel_Sticky</Name>
+    <PartName>Impact</PartName>
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Basic1_Grenade</Name>
+    <PartName>Grenade</PartName>
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Quality1_Fat</Name>
+    <PartName>Fat</PartName>
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Quality2_Jumbo</Name>
+    <PartName>Jumbo</PartName>
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Quality3_Mammoth</Name>
+    <PartName>Mammoth</PartName>
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Stock.stock1</Name>
+    <PartName />
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Title.Title_Barrel4_Mortar</Name>
+    <PartName>Mortar</PartName>
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Title.Title_Damage1_Trauma</Name>
+    <PartName>Trauma</PartName>
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Title.Title_Firerate1_Raider</Name>
+    <PartName>Raider</PartName>
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Title.Title_GrenadeLauncher</Name>
+    <PartName>Grenade Launcher</PartName>
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Title.TitleM_Atlas1_Leviathan</Name>
+    <PartName>Leviathan</PartName>
+    <Description />
+    <NoConstraintText>It Rises!</NoConstraintText>
+    <Suffix />
+    <Rarity>50</Rarity>
+  </Section>
+  <Section>
+    <Name>Title.TitleM_Dahl1_Onslaught</Name>
+    <PartName>Onslaught</PartName>
+    <Description />
+    <NoConstraintText>Artillery Strike!</NoConstraintText>
+    <Suffix />
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Title.TitleM_Jakobs1_Terror</Name>
+    <PartName>Terror</PartName>
+    <Description />
+    <NoConstraintText>Mister Jakobs sends his regards</NoConstraintText>
+    <Suffix />
+    <Rarity>50</Rarity>
+  </Section>
+  <Section>
+    <Name>Title.TitleM_SandS1_Rainmaker</Name>
+    <PartName>Rainmaker</PartName>
+    <Description />
+    <NoConstraintText>I feel a storm coming</NoConstraintText>
+    <Suffix />
+    <Rarity>50</Rarity>
+  </Section>
+  <Section>
+    <Name>Title.TitleU_NineToes_BigToe</Name>
+    <PartName>The Big Toe</PartName>
+    <Description />
+    <NoConstraintText>Stubbed</NoConstraintText>
+    <Suffix />
+    <Rarity>5</Rarity>
+  </Section>
+  <Section>
+    <Name>UniqueParts.TheBigToe_Material</Name>
+    <PartName />
+    <Rarity>0</Rarity>
+  </Section>
+</INI>

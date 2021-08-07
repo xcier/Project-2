@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <InputMode>Standard</InputMode>
+  <UseHexInAdvancedMode>False</UseHexInAdvancedMode>
+  <PartSelectorTracking>True</PartSelectorTracking>
+  <ShowManufacturer>False</ShowManufacturer>
+  <UseColor>False</UseColor>
+  <ShowRarity>False</ShowRarity>
+  <ShowLevel>True</ShowLevel>
+  <lastLockerFile>F:\All Things borderlands\Editors\willow\Data\default.xml</lastLockerFile>
+  <MaxCash>1000000000</MaxCash>
+  <MaxLevel>69</MaxLevel>
+  <MaxExperience>8451341</MaxExperience>
+  <MaxInventorySlots>1000</MaxInventorySlots>
+  <MaxBankSlots>1000</MaxBankSlots>
+  <MaxSkillPoints>500</MaxSkillPoints>
+  <RarityColor0>FFFFFFFF</RarityColor0>
+  <RarityColor1>FF3DE60B</RarityColor1>
+  <RarityColor2>FF2F78FF</RarityColor2>
+  <RarityColor3>FFB940FF</RarityColor3>
+  <RarityColor4>FFFFDC35</RarityColor4>
+  <RarityColor5>FFFF9600</RarityColor5>
+  <RarityColor6>FFFF8C00</RarityColor6>
+  <RarityColor7>FF00FFFF</RarityColor7>
+  <RarityColor8>FF3DE60B</RarityColor8>
+  <RarityColor9>FFFF0000</RarityColor9>
+  <RarityColor10>FFF8F8FF</RarityColor10>
+  <RarityColor11>FFFFFF00</RarityColor11>
+</Settings>

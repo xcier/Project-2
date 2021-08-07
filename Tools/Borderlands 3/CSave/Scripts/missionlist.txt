@@ -1,0 +1,650 @@
+CSAV001MSN Mission 0 on playthrough 1: /Game/Missions/Plot/Mission_Ep05_Sanctuary.Mission_Ep05_Sanctuary_C
+CSAV001MSN Current objective for mission 0: /Game/Missions/Plot/Mission_Ep05_Sanctuary.SET_TalkToLilith_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 0: 
+CSAV001MSN 0 1 1 1 1 1 1 1 1 1 1 1 1 3 0 0 0 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 1 on playthrough 1: /Game/Missions/Plot/Mission_Ep05_OvercomeHQBlockade.Mission_Ep05_OvercomeHQBlockade_C
+CSAV001MSN Current objective for mission 1: /Game/Missions/Plot/Mission_Ep05_OvercomeHQBlockade.SET_InsertGigamind_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 1: 
+CSAV001MSN 1 1 1 1 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 0 1 
+CSAV001MSN Mission 2 on playthrough 1: /Game/Missions/Side/Zone_1/City/Mission_RiseAndGrind.Mission_RiseAndGrind_C
+CSAV001MSN Current objective for mission 2: /Game/Missions/Side/Zone_1/City/Mission_RiseAndGrind.Set_TurnIn_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 2: 
+CSAV001MSN 1 0 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 3 on playthrough 1: /Game/Missions/Plot/Mission_Ep01_ChildrenOfTheVault.Mission_Ep01_ChildrenOfTheVault_C
+CSAV001MSN Current objective for mission 3: /Game/Missions/Plot/Mission_Ep01_ChildrenOfTheVault.Set_LilithArrivalAndTurnIn_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 3: 
+CSAV001MSN 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 4 on playthrough 1: /Game/Missions/Plot/Mission_Ep02_Sacrifice.Mission_Ep02_Sacrifice_C
+CSAV001MSN Current objective for mission 4: /Game/Missions/Plot/Mission_Ep02_Sacrifice.Set_TalkToLilithAfterEscortingVaughnn_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 4: 
+CSAV001MSN 1 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 
+CSAV001MSN Mission 5 on playthrough 1: /Game/Missions/Plot/Mission_Ep03_GetVaultMap.Mission_Ep03_GetVaultMap_C
+CSAV001MSN Current objective for mission 5: /Game/Missions/Plot/Mission_Ep03_GetVaultMap.Set_ReturnMapToLilith_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 5: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 6 on playthrough 1: /Game/Missions/Plot/Mission_Ep04_EarnSpaceship.Mission_Ep04_EarnSpaceship_C
+CSAV001MSN Current objective for mission 6: /Game/Missions/Plot/Mission_Ep04_EarnSpaceship.Set_Ep04TurnIn_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 6: 
+CSAV001MSN 1 1 1 1 2 1 0 1 1 0 1 0 1 0 10 0 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 7 on playthrough 1: /Game/Missions/Plot/Mission_Ep06_MeetMaya.Mission_Ep06_MeetMaya_C
+CSAV001MSN Current objective for mission 7: /Game/Missions/Plot/Mission_Ep06_MeetMaya.SET_TalkToLilith_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 7: 
+CSAV001MSN 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 4 1 0 2 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 1 1 
+CSAV001MSN Mission 8 on playthrough 1: /Game/Missions/Plot/Mission_Ep08_OrbitalPlatform.Mission_Ep08_OrbitalPlatform_C
+CSAV001MSN Current objective for mission 8: /Game/Missions/Plot/Mission_Ep08_OrbitalPlatform.Set_TurnIn_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 8: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 7 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 9 on playthrough 1: /Game/Missions/Plot/MIssion_Ep09_AtlasHQ.MIssion_Ep09_AtlasHQ_C
+CSAV001MSN Current objective for mission 9: /Game/Missions/Plot/MIssion_Ep09_AtlasHQ.Set_RhysFinale_TakeShard_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 9: 
+CSAV001MSN 1 1 1 1 1 1 0 1 1 1 1 1 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 0 1 0 1 
+CSAV001MSN Mission 10 on playthrough 1: /Game/Missions/Plot/Mission_Ep10_CityVault.Mission_Ep10_CityVault_C
+CSAV001MSN Current objective for mission 10: /Game/Missions/Plot/Mission_Ep10_CityVault.Set_CalypsoTauntVideo_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 10: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 127 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 11 on playthrough 1: /Game/Missions/Plot/Mission_Ep11_PrisonBreak.Mission_Ep11_PrisonBreak_C
+CSAV001MSN Current objective for mission 11: /Game/Missions/Plot/Mission_Ep11_PrisonBreak.Set_SpeakToHammerlock_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 11: 
+CSAV001MSN 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 1 1 1 0 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 7 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 12 on playthrough 1: /Game/Missions/Plot/Mission_Ep12_GrandTour.Mission_Ep12_GrandTour_C
+CSAV001MSN Current objective for mission 12: /Game/Missions/Plot/Mission_Ep12_GrandTour.Set_AddDiscToRecorder_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 12: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 0 1 0 1 
+CSAV001MSN Mission 13 on playthrough 1: /Game/Missions/Plot/Mission_Ep13_JakobsRebellion.Mission_Ep13_JakobsRebellion_C
+CSAV001MSN Current objective for mission 13: /Game/Missions/Plot/Mission_Ep13_JakobsRebellion.Set_TalkToClayMissionComplete_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 13: 
+CSAV001MSN 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 6 1 1 1 1 1 
+CSAV001MSN Mission 14 on playthrough 1: /Game/Missions/Plot/Mission_Ep13_Watership.Mission_Ep13_Watership_C
+CSAV001MSN Current objective for mission 14: /Game/Missions/Plot/Mission_Ep13_Watership.Set_SanctuaryGiveKeyToTannis2_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 14: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 0 1 1 0 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 15 on playthrough 1: /Game/Missions/Plot/Mission_Ep15_MarshFields.Mission_Ep15_MarshFields_C
+CSAV001MSN Current objective for mission 15: /Game/Missions/Plot/Mission_Ep15_MarshFields.SET_TurnInMission_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 15: 
+CSAV001MSN 1 1 3 1 1 1 0 7 1 0 1 0 1 1 1 1 106 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 16 on playthrough 1: /Game/Missions/Side/Zone_2/MarshFields/Mission_SuckerPunch.Mission_SuckerPunch_C
+CSAV001MSN Current objective for mission 16: /Game/Missions/Side/Zone_2/MarshFields/Mission_SuckerPunch.Set_KilledSelf_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 16: 
+CSAV001MSN 0 1 1 0 0 0 0 0 0 
+CSAV001MSN Mission 17 on playthrough 1: /Game/Missions/Plot/Mission_Ep16_SiblingRivalry.Mission_Ep16_SiblingRivalry_C
+CSAV001MSN Current objective for mission 17: /Game/Missions/Plot/Mission_Ep16_SiblingRivalry.Set_TalkToLilith_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 17: 
+CSAV001MSN 1 1 1 1 0 1 1 1 1 6 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 3 0 0 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 0 0 1 1 1 
+CSAV001MSN Mission 18 on playthrough 1: /Game/Missions/Plot/Mission_Ep17_BigChase.Mission_Ep17_BigChase_C
+CSAV001MSN Current objective for mission 18: /Game/Missions/Plot/Mission_Ep17_BigChase.Set_TalkToTannis_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 18: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 7 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 19 on playthrough 1: /Game/Missions/Plot/Mission_Ep19_MinerDetails.Mission_Ep19_MinerDetails_C
+CSAV001MSN Current objective for mission 19: /Game/Missions/Plot/Mission_Ep19_MinerDetails.SET_TurnInAfterConvoy_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 19: 
+CSAV001MSN 1 1 1 1 0 1 1 1 1 2 1 1 1 0 2 1 1 1 1 1 0 1 0 1 1 0 176 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 0 2 1 1 1 15 1 0 1 1 0 0 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 20 on playthrough 1: /Game/Missions/Side/Zone_3/Mine/Mission_GrowingPains.Mission_GrowingPains_C
+CSAV001MSN Current objective for mission 20: /Game/Missions/Side/Zone_3/Mine/Mission_GrowingPains.SET_TurnInToVaughn_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 20: 
+CSAV001MSN 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 
+CSAV001MSN Mission 21 on playthrough 1: /Game/Missions/Plot/Mission_Ep16_DesertVault.Mission_Ep16_DesertVault_C
+CSAV001MSN Current objective for mission 21: /Game/Missions/Plot/Mission_Ep16_DesertVault.Set_TalkToTannis_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 21: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 4 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 22 on playthrough 1: /Game/Missions/Plot/Mission_Ep20_FirstVaultHunter.Mission_Ep20_FirstVaultHunter_C
+CSAV001MSN Current objective for mission 22: /Game/Missions/Plot/Mission_Ep20_FirstVaultHunter.Set_FireFinalFabricator_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 22: 
+CSAV001MSN 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 
+CSAV001MSN Mission 23 on playthrough 1: /Game/Missions/Plot/Mission_Ep21_Beachhead.Mission_Ep21_Beachhead_C
+CSAV001MSN Current objective for mission 23: /Game/Missions/Plot/Mission_Ep21_Beachhead.Set_TakeVaultReward_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 23: 
+CSAV001MSN 1 0 0 0 0 1 1 5 1 1 1 0 1 1 1 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 0 1 
+CSAV001MSN Mission 24 on playthrough 1: /Game/Missions/Plot/Mission_Ep22_TheMachine.Mission_Ep22_TheMachine_C
+CSAV001MSN Current objective for mission 24: /Game/Missions/Plot/Mission_Ep22_TheMachine.Set_MIssionComplete_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 24: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 
+CSAV001MSN Mission 25 on playthrough 1: /Game/Missions/Plot/Mission_Ep23_TyreenFinalBoss.Mission_Ep23_TyreenFinalBoss_C
+CSAV001MSN Current objective for mission 25: /Game/Missions/Plot/Mission_Ep23_TyreenFinalBoss.Set_PlaceArtifact_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 25: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 26 on playthrough 1: /Game/Missions/Side/Sanctuary3/Mission_JustAPrick.Mission_JustAPrick_C
+CSAV001MSN Current objective for mission 26: /Game/Missions/Side/Sanctuary3/Mission_JustAPrick.Set_TurnIn_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 26: 
+CSAV001MSN 639 1 1 
+CSAV001MSN Mission 27 on playthrough 1: /Game/Missions/Side/Zone_1/Athenas/Mission_InvasionOfPrivacy.Mission_InvasionOfPrivacy_C
+CSAV001MSN Current objective for mission 27: /Game/Missions/Side/Zone_1/Athenas/Mission_InvasionOfPrivacy.SET_ReturnToAvasRoom_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 27: 
+CSAV001MSN 1 2 1 1 3 1 1 1 0 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 
+CSAV001MSN Mission 28 on playthrough 1: /Game/Missions/Side/Zone_3/Mine/Mission_BridgeInTheDark.Mission_BridgeInTheDark_C
+CSAV001MSN Current objective for mission 28: /Game/Missions/Side/Zone_3/Mine/Mission_BridgeInTheDark.SET_ReturnToBot01_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 28: 
+CSAV001MSN 1 1 1 1 1 1 1 0 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 29 on playthrough 1: /Game/Missions/Side/Zone_3/Desert/Mission_ItsComplicated.Mission_ItsComplicated_C
+CSAV001MSN Current objective for mission 29: /Game/Missions/Side/Zone_3/Desert/Mission_ItsComplicated.Set_CompleteMission_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 29: 
+CSAV001MSN 0 1 1 1 1 1 0 1 0 1 
+CSAV001MSN Mission 30 on playthrough 1: /Game/Missions/Side/Zone_0/Prologue/Mission_VendingMachineRepair.Mission_VendingMachineRepair_C
+CSAV001MSN Current objective for mission 30: /Game/Missions/Side/Zone_0/Prologue/Mission_VendingMachineRepair.Set_CompleteGoSeeSecretArea_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 30: 
+CSAV001MSN 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 31 on playthrough 1: /Game/Missions/Side/Zone_3/Desert/Mission_EchoNetNeutrality.Mission_EchoNetNeutrality_C
+CSAV001MSN Current objective for mission 31: /Game/Missions/Side/Zone_3/Desert/Mission_EchoNetNeutrality.Set_TurnIn_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 31: 
+CSAV001MSN 1 1 0 1 1 1 0 1 1 1 1 5 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 32 on playthrough 1: /Game/Missions/Side/Zone_3/Desert/Mission_CaringForElderly.Mission_CaringForElderly_C
+CSAV001MSN Current objective for mission 32: /Game/Missions/Side/Zone_3/Desert/Mission_CaringForElderly.SET_GetInCar_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 32: 
+CSAV001MSN 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CSAV001MSN Mission 33 on playthrough 1: /Game/Missions/Side/Zone_1/City/Mission_WizardOfNogs.Mission_WizardOfNogs_C
+CSAV001MSN Current objective for mission 33: /Game/Missions/Side/Zone_1/City/Mission_WizardOfNogs.SET_TalkToQuinn_CompleteMission_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 33: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 1 3 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 0 0 1 1 0 1 0 0 1 1 
+CSAV001MSN Mission 34 on playthrough 1: /Game/Missions/Side/Zone_1/Towers/Mission_KillKillavolt.Mission_KillKillavolt_C
+CSAV001MSN Current objective for mission 34: /Game/Missions/Side/Zone_1/Towers/Mission_KillKillavolt.Set_TalkMox_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 34: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 1 1 1 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 35 on playthrough 1: /Game/Missions/Side/Zone_1/City/Mission_DynastyDiner.Mission_DynastyDiner_C
+CSAV001MSN Current objective for mission 35: /Game/Missions/Side/Zone_1/City/Mission_DynastyDiner.SET_ReturnToLorelei_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 35: 
+CSAV001MSN 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 2 1 1 1 1 2 1 1 1 1 2 1 1 1 1 1 0 1 1 1 
+CSAV001MSN Mission 36 on playthrough 1: /Game/Missions/Side/Zone_3/Desert/Mission_DynastyDash_Desert.Mission_DynastyDash_Desert_C
+CSAV001MSN Current objective for mission 36: /Game/Missions/Side/Zone_3/Desert/Mission_DynastyDash_Desert.SET_ReturnToStart_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 36: 
+CSAV001MSN 1 31 0 1 1 1342289408 1 
+CSAV001MSN Mission 37 on playthrough 1: /Game/Missions/Side/Zone_1/Towers/Mission_Porta-Prison.Mission_Porta-Prison_C
+CSAV001MSN Current objective for mission 37: /Game/Missions/Side/Zone_1/Towers/Mission_Porta-Prison.Set_CollectWeapon_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 37: 
+CSAV001MSN 1 1 1 2 1 1985 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 38 on playthrough 1: /Game/Missions/Side/Zone_1/Towers/Mission_LastKatagawa.Mission_LastKatagawa_C
+CSAV001MSN Current objective for mission 38: /Game/Missions/Side/Zone_1/Towers/Mission_LastKatagawa.Set_FreeKatagawa_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 38: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 0 1 1 1 1 1 1 
+CSAV001MSN Mission 39 on playthrough 1: /Game/Missions/Side/Zone_1/City/Mission_BitterPillToSwallow.Mission_BitterPillToSwallow_C
+CSAV001MSN Current objective for mission 39: /Game/Missions/Side/Zone_1/City/Mission_BitterPillToSwallow.SET_TalkToMissionGiverOrDonate_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 39: 
+CSAV001MSN 1 3 0 1 0 0 1 1 1 1 0 1 1 45 1 1 0 1 1 0 3 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 40 on playthrough 1: /Game/Missions/Side/ProvingGrounds/ProvingGrounds7/Mission_ProvingGroundsDiscovery_Mission07.Mission_ProvingGroundsDiscovery_Mission07_C
+CSAV001MSN Current objective for mission 40: /Game/Missions/Side/ProvingGrounds/ProvingGrounds7/Mission_ProvingGroundsDiscovery_Mission07.Set_ArriveAtMap_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 40: 
+CSAV001MSN 1 1 0 
+CSAV001MSN Mission 41 on playthrough 1: /Game/Missions/Side/Zone_1/City/Mission_PissingContest.Mission_PissingContest_C
+CSAV001MSN Current objective for mission 41: /Game/Missions/Side/Zone_1/City/Mission_PissingContest.Set_GoToArea_2_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 41: 
+CSAV001MSN 1 0 0 0 0 0 0 0 0 0 0 
+CSAV001MSN Mission 42 on playthrough 1: /Game/Missions/Side/Zone_2/Wetlands/Mission_TortureTruck.Mission_TortureTruck_C
+CSAV001MSN Current objective for mission 42: /Game/Missions/Side/Zone_2/Wetlands/Mission_TortureTruck.Set_TurnIn_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 42: 
+CSAV001MSN 1 1 1 2 1 1 1 1 1 
+CSAV001MSN Mission 43 on playthrough 1: /Game/Missions/Side/Zone_2/Wetlands/Mission_DriveAwayThePain.Mission_DriveAwayThePain_C
+CSAV001MSN Current objective for mission 43: /Game/Missions/Side/Zone_2/Wetlands/Mission_DriveAwayThePain.Set_GetPopsLoot_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 43: 
+CSAV001MSN 1 1 0 0 5 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 44 on playthrough 1: /Game/Missions/Side/ProvingGrounds/ProvingGrounds8/Mission_ProvingGroundsDiscovery_Mission08.Mission_ProvingGroundsDiscovery_Mission08_C
+CSAV001MSN Current objective for mission 44: /Game/Missions/Side/ProvingGrounds/ProvingGrounds8/Mission_ProvingGroundsDiscovery_Mission08.Set_ArriveAtMap_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 44: 
+CSAV001MSN 1 1 0 
+CSAV001MSN Mission 45 on playthrough 1: /Game/Missions/Side/Zone_2/Wetlands/Mission_TheHangover.Mission_TheHangover_C
+CSAV001MSN Current objective for mission 45: /Game/Missions/Side/Zone_2/Wetlands/Mission_TheHangover.Set_KillArtemis_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 45: 
+CSAV001MSN 1 1 1 1 1 1 1 1 3 1 1 
+CSAV001MSN Mission 46 on playthrough 1: /Game/Missions/Side/Zone_2/Wetlands/Mission_DynastyDash_Wetlands.Mission_DynastyDash_Wetlands_C
+CSAV001MSN Current objective for mission 46: /Game/Missions/Side/Zone_2/Wetlands/Mission_DynastyDash_Wetlands.SET_ReturnToStart_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 46: 
+CSAV001MSN 1 31 0 1 1 67202464 1 
+CSAV001MSN Mission 47 on playthrough 1: /Game/Missions/Side/Zone_2/Wetlands/Mission_DudeBro.Mission_DudeBro_C
+CSAV001MSN Current objective for mission 47: /Game/Missions/Side/Zone_2/Wetlands/Mission_DudeBro.Set_GetChaddLoot_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 47: 
+CSAV001MSN 1 19456 19456 1 1 3 1 1 0 1 1 1 1 2 1 1 1 1 7 1 1 1 3 0 1 1 
+CSAV001MSN Mission 48 on playthrough 1: /Game/Missions/Side/Zone_2/Wetlands/Mission_SpecialDelivery.Mission_SpecialDelivery_C
+CSAV001MSN Current objective for mission 48: /Game/Missions/Side/Zone_2/Wetlands/Mission_SpecialDelivery.Set_SpecialDeliveryComplete_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 48: 
+CSAV001MSN 1 1 5 1 1 11 1 1 7 1 1 1 
+CSAV001MSN Mission 49 on playthrough 1: /Game/Missions/Side/ProvingGrounds/ProvingGrounds4/Mission_ProvingGroundsDiscovery_Mission04.Mission_ProvingGroundsDiscovery_Mission04_C
+CSAV001MSN Current objective for mission 49: /Game/Missions/Side/ProvingGrounds/ProvingGrounds4/Mission_ProvingGroundsDiscovery_Mission04.Set_ArriveAtMap_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 49: 
+CSAV001MSN 1 1 0 
+CSAV001MSN Mission 50 on playthrough 1: /Game/Missions/Side/Zone_2/Watership/Mission_RumbleJungle.Mission_RumbleJungle_C
+CSAV001MSN Current objective for mission 50: /Game/Missions/Side/Zone_2/Watership/Mission_RumbleJungle.Set_TalkToRobot_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 50: 
+CSAV001MSN 1 1 3 1 1 1 19 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 2 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 2 1 1 1 1 1 2 1 
+CSAV001MSN Mission 51 on playthrough 1: /Game/Missions/Side/Zone_4/Desolate/Mission_Canonization.Mission_Canonization_C
+CSAV001MSN Current objective for mission 51: /Game/Missions/Side/Zone_4/Desolate/Mission_Canonization.Set_GetWeapon_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 51: 
+CSAV001MSN 1 1 1 6 1 1 1 1 1 1 3 1 1 1 1 
+CSAV001MSN Mission 52 on playthrough 1: /Game/Missions/Side/Zone_4/Desolate/Mission_BoneDeep.Mission_BoneDeep_C
+CSAV001MSN Current objective for mission 52: /Game/Missions/Side/Zone_4/Desolate/Mission_BoneDeep.Set_TalkToGrouse_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 52: 
+CSAV001MSN 1 1 1 6 1 1 1 1 1 1 1 1 1 1 24 1 1 
+CSAV001MSN Mission 53 on playthrough 1: /Game/Missions/Side/Zone_4/Desolate/Mission_DestroyerOfWorlds.Mission_DestroyerOfWorlds_C
+CSAV001MSN Current objective for mission 53: /Game/Missions/Side/Zone_4/Desolate/Mission_DestroyerOfWorlds.SET_TalkToCreativeDirector4_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 53: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 100 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 
+CSAV001MSN Mission 54 on playthrough 1: /Game/Missions/Side/ProvingGrounds/ProvingGrounds6/Mission_ProvingGroundsDiscovery_Mission06.Mission_ProvingGroundsDiscovery_Mission06_C
+CSAV001MSN Current objective for mission 54: /Game/Missions/Side/ProvingGrounds/ProvingGrounds6/Mission_ProvingGroundsDiscovery_Mission06.Set_ArriveAtMap_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 54: 
+CSAV001MSN 1 1 0 
+CSAV001MSN Mission 55 on playthrough 1: /Game/Missions/Side/Zone_4/Desolate/Mission_Homeopathological.Mission_Homeopathological_C
+CSAV001MSN Current objective for mission 55: /Game/Missions/Side/Zone_4/Desolate/Mission_Homeopathological.Set_GiveCore_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 55: 
+CSAV001MSN 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 0 1 1 0 
+CSAV001MSN Mission 56 on playthrough 1: /Game/Missions/Side/Zone_4/Desolate/Mission_BetterTimes.Mission_BetterTimes_C
+CSAV001MSN Current objective for mission 56: /Game/Missions/Side/Zone_4/Desolate/Mission_BetterTimes.Set_TalkToSparrow_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 56: 
+CSAV001MSN 7 1 1 0 1 1 1 3 1 1 1 1 1 1 3 1 1 1 448 1 1 1 
+CSAV001MSN Mission 57 on playthrough 1: /Game/Missions/Side/Zone_4/Desolate/Mission_ItsAlive2.Mission_ItsAlive2_C
+CSAV001MSN Current objective for mission 57: /Game/Missions/Side/Zone_4/Desolate/Mission_ItsAlive2.Set_KillBot_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 57: 
+CSAV001MSN 1 0 0 0 2 0 0 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 58 on playthrough 1: /Game/Missions/Side/Zone_0/Sacrifice/Mission_PandorasNextTopMouthpiece.Mission_PandorasNextTopMouthpiece_C
+CSAV001MSN Current objective for mission 58: /Game/Missions/Side/Zone_0/Sacrifice/Mission_PandorasNextTopMouthpiece.Set_TurnInVaughn_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 58: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 59 on playthrough 1: /Game/Missions/Side/Zone_2/Prison/Mission_MalevolentPractice.Mission_MalevolentPractice_C
+CSAV001MSN Current objective for mission 59: /Game/Missions/Side/Zone_2/Prison/Mission_MalevolentPractice.Set_TurnInToDean_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 59: 
+CSAV001MSN 1 1 4 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 60 on playthrough 1: /Game/Missions/Side/ProvingGrounds/ProvingGrounds1/Mission_ProvingGroundsDiscovery_Mission01.Mission_ProvingGroundsDiscovery_Mission01_C
+CSAV001MSN Current objective for mission 60: /Game/Missions/Side/ProvingGrounds/ProvingGrounds1/Mission_ProvingGroundsDiscovery_Mission01.Set_ArriveAtMap_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 60: 
+CSAV001MSN 1 0 1 
+CSAV001MSN Mission 61 on playthrough 1: /Game/Missions/Side/Zone_3/Desert/Mission_ChangeOfHeart.Mission_ChangeOfHeart_C
+CSAV001MSN Current objective for mission 61: /Game/Missions/Side/Zone_3/Desert/Mission_ChangeOfHeart.SET_ReturnToTina_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 61: 
+CSAV001MSN 1 1 283 1 1 1 1 4 1 0 1 1 0 0 0 1 1 0 1 1 1 1 1 1 
+CSAV001MSN Mission 62 on playthrough 1: /Game/Missions/Side/Zone_3/Desert/Mission_BirthdaySurprise.Mission_BirthdaySurprise_C
+CSAV001MSN Current objective for mission 62: /Game/Missions/Side/Zone_3/Desert/Mission_BirthdaySurprise.SET_DestroyPinata_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 62: 
+CSAV001MSN 1 115 1 1 1 1 2 210952 1 0 0 1 1 1 5 32 1 0 1 1 25 1 1 1 1 1 1 1 8 0 1 1 1 
+CSAV001MSN Mission 63 on playthrough 1: /Game/Missions/Side/Zone_3/Mine/Mission_WildlifeConservation.Mission_WildlifeConservation_C
+CSAV001MSN Current objective for mission 63: /Game/Missions/Side/Zone_3/Mine/Mission_WildlifeConservation.Set_TurnIn_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 63: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 62 1 1 1 1 0 1 1 1 1 1 0 1 0 1 1 1 1 
+CSAV001MSN Mission 64 on playthrough 1: /Game/Missions/Side/Sanctuary3/Mission_Infestation.Mission_Infestation_C
+CSAV001MSN Current objective for mission 64: /Game/Missions/Side/Sanctuary3/Mission_Infestation.SET_DisposeOfKevins_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 64: 
+CSAV001MSN 1 1 1 1 119 1 
+CSAV001MSN Mission 65 on playthrough 1: /Game/Missions/Side/Zone_0/Prologue/Mission_BadReception.Mission_BadReception_C
+CSAV001MSN Current objective for mission 65: /Game/Missions/Side/Zone_0/Prologue/Mission_BadReception.Set_SearchAndCollect_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 65: 
+CSAV001MSN 0 1 1 1 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 
+CSAV001MSN Mission 66 on playthrough 1: /Game/Missions/Side/Zone_3/Desert/Mission_BuffFilmBuff.Mission_BuffFilmBuff_C
+CSAV001MSN Current objective for mission 66: /Game/Missions/Side/Zone_3/Desert/Mission_BuffFilmBuff.Set_TurnIn_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 66: 
+CSAV001MSN 0 1 1 14 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 0 1 1 0 
+CSAV001MSN Mission 67 on playthrough 1: /Game/Missions/Side/Zone_2/MarshFields/Mission_RockOnPandora.Mission_RockOnPandora_C
+CSAV001MSN Current objective for mission 67: /Game/Missions/Side/Zone_2/MarshFields/Mission_RockOnPandora.SET_ReturnToMilesBrown_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 67: 
+CSAV001MSN 1 1 1 17 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 4 1 1 1 
+CSAV001MSN Mission 68 on playthrough 1: /Game/Missions/Side/Zone_3/Desert/Mission_BabyDancer.Mission_BabyDancer_C
+CSAV001MSN Current objective for mission 68: /Game/Missions/Side/Zone_3/Desert/Mission_BabyDancer.Set_TalkToClaptrap_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 68: 
+CSAV001MSN 1 1 1 1 1 1 1 1 0 1 1 1 
+CSAV001MSN Mission 69 on playthrough 1: /Game/Missions/Side/Zone_0/Prologue/Mission_FineDining.Mission_FineDining_C
+CSAV001MSN Current objective for mission 69: /Game/Missions/Side/Zone_0/Prologue/Mission_FineDining.ObjSet_IngedientDropOff_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 69: 
+CSAV001MSN 1 1 1 5 1 1 1 1 1 5 1 0 1 1 2 0 1 2 2 1 
+CSAV001MSN Mission 70 on playthrough 1: /Game/Missions/Side/Zone_0/Prologue/Mission_UnderwearTink.Mission_UnderwearTink_C
+CSAV001MSN Current objective for mission 70: /Game/Missions/Side/Zone_0/Prologue/Mission_UnderwearTink.Set_UnderTaker_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 70: 
+CSAV001MSN 1 1 
+CSAV001MSN Mission 71 on playthrough 1: /Game/Missions/Side/Zone_2/Mansion/Mission_WitchesBrew.Mission_WitchesBrew_C
+CSAV001MSN Current objective for mission 71: /Game/Missions/Side/Zone_2/Mansion/Mission_WitchesBrew.Set_SeeWitch_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 71: 
+CSAV001MSN 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CSAV001MSN Mission 72 on playthrough 1: /Game/Missions/Side/Slaughters/TechSlaughter/Mission_TechSlaughterDiscovery.Mission_TechSlaughterDiscovery_C
+CSAV001MSN Current objective for mission 72: /Game/Missions/Side/Slaughters/TechSlaughter/Mission_TechSlaughterDiscovery.Set_TalkToNPC_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 72: 
+CSAV001MSN 1 1 1 0 1 1 
+CSAV001MSN Mission 73 on playthrough 1: /Game/Missions/Side/Zone_3/Motorcade/Mission_Gameshow.Mission_Gameshow_C
+CSAV001MSN Current objective for mission 73: /Game/Missions/Side/Zone_3/Motorcade/Mission_Gameshow.Set_GoToPodium_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 73: 
+CSAV001MSN 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CSAV001MSN Mission 74 on playthrough 1: /Game/PatchDLC/BloodyHarvest/Missions/Side/Seasonal/Mission_Season_01_Intro.Mission_Season_01_Intro_C
+CSAV001MSN Current objective for mission 74: /Game/PatchDLC/BloodyHarvest/Missions/Side/Seasonal/Mission_Season_01_Intro.Set_TurnIn_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 74: 
+CSAV001MSN 1 1 1 25 1 1 1 1 1 0 1 1 1 1 1 1 1 0 1 1 
+CSAV001MSN Mission 75 on playthrough 1: /Game/Missions/Side/Zone_3/Desert/Mission_DynastyDash_Desert_Repeatable.Mission_DynastyDash_Desert_Repeatable_C
+CSAV001MSN Current objective for mission 75: /Game/Missions/Side/Zone_3/Desert/Mission_DynastyDash_Desert_Repeatable.SET_DeliverBurgers_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 75: 
+CSAV001MSN 1 0 0 0 0 0 0 
+CSAV001MSN Mission 76 on playthrough 1: /Game/Missions/Side/Slaughters/CoVSlaughter/Mission_COVSlaughter1.Mission_COVSlaughter1_C
+CSAV001MSN Current objective for mission 76: 
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 76: 
+CSAV001MSN 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CSAV001MSN Mission 77 on playthrough 1: /Game/Missions/Side/Slaughters/TechSlaughter/Mission_TechSlaughter1.Mission_TechSlaughter1_C
+CSAV001MSN Current objective for mission 77: 
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 77: 
+CSAV001MSN 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CSAV001MSN Mission 78 on playthrough 1: /Game/PatchDLC/Raid1/Missions/Mission_Raid1Intro.Mission_Raid1Intro_C
+CSAV001MSN Current objective for mission 78: /Game/PatchDLC/Raid1/Missions/Mission_Raid1Intro.Set_MissionEnd_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 78: 
+CSAV001MSN 1 0 0 1 0 
+CSAV001MSN Mission 79 on playthrough 1: /Game/Missions/Side/Zone_2/Prison/Mission_FreeHugs.Mission_FreeHugs_C
+CSAV001MSN Current objective for mission 79: /Game/Missions/Side/Zone_2/Prison/Mission_FreeHugs.SET_TurnInToNPC_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 79: 
+CSAV001MSN 1 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 1 1 0 
+CSAV001MSN Mission 80 on playthrough 1: /Game/Missions/Side/Slaughters/CreatureSlaughter/Mission_CreatureSlaughter.Mission_CreatureSlaughter_C
+CSAV001MSN Current objective for mission 80: /Game/Missions/Side/Slaughters/CreatureSlaughter/Mission_CreatureSlaughter.Set_Round4_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 80: 
+CSAV001MSN 3 1 0 3 1 1 1 1 0 4 1 1 0 4 0 0 0 0 0 0 0 0 0 
+CSAV001MSN Mission 81 on playthrough 1: /Game/Missions/Side/ProvingGrounds/ProvingGrounds7/Mission_ProvingGrounds_Mission07.Mission_ProvingGrounds_Mission07_C
+CSAV001MSN Current objective for mission 81: 
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 81: 
+CSAV001MSN 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CSAV001MSN Mission 82 on playthrough 1: /Game/PatchDLC/Hibiscus/Missions/Plot/EP01_DLC2.EP01_DLC2_C
+CSAV001MSN Current objective for mission 82: /Game/PatchDLC/Hibiscus/Missions/Plot/EP01_DLC2.Set_MeetGuests_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 82: 
+CSAV001MSN 1 0 0 1 1 1 0 1 1 1 1 1 1 1 1 1 1 3 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 83 on playthrough 1: /Game/PatchDLC/Hibiscus/Missions/Plot/EP02_DLC2.EP02_DLC2_C
+CSAV001MSN Current objective for mission 83: /Game/PatchDLC/Hibiscus/Missions/Plot/EP02_DLC2.Set_PlayShotGunDazePart3Sequence_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 83: 
+CSAV001MSN 20 20 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 84 on playthrough 1: /Game/PatchDLC/Hibiscus/Missions/Plot/EP03_DLC2.EP03_DLC2_C
+CSAV001MSN Current objective for mission 84: /Game/PatchDLC/Hibiscus/Missions/Plot/EP03_DLC2.Set_InsertTape_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 84: 
+CSAV001MSN 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 85 on playthrough 1: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_Bounty_DebtCollector.SideMission_DLC2_Bounty_DebtCollector_C
+CSAV001MSN Current objective for mission 85: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_Bounty_DebtCollector.Set_KillGideon_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 85: 
+CSAV001MSN 1 10 26459 1 
+CSAV001MSN Mission 86 on playthrough 1: /Game/PatchDLC/Hibiscus/Missions/Plot/EP04_DLC2.EP04_DLC2_C
+CSAV001MSN Current objective for mission 86: /Game/PatchDLC/Hibiscus/Missions/Plot/EP04_DLC2.Set_PlaceWendigoBalls_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 86: 
+CSAV001MSN 1 0 0 1 1 6 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 0 0 0 1 1 0 1 1 3 1 1 1 1 1 896 1 1 1 1 0 1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 2 1 1 1 1 1 1 2 1 1 1 
+CSAV001MSN Mission 87 on playthrough 1: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_ReturnOfMaxSky.SideMission_DLC2_ReturnOfMaxSky_C
+CSAV001MSN Current objective for mission 87: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_ReturnOfMaxSky.Set_ShootTank_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 87: 
+CSAV001MSN 0 1 1 0 1 1 1 
+CSAV001MSN Mission 88 on playthrough 1: /Game/PatchDLC/Hibiscus/Missions/Plot/EP05_DLC2.EP05_DLC2_C
+CSAV001MSN Current objective for mission 88: /Game/PatchDLC/Hibiscus/Missions/Plot/EP05_DLC2.SET_HighfiveDeathtrap_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 88: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 0 1 0 0 1 0 1 0 1 0 1 1 1 1 1 1 1 
+CSAV001MSN Mission 89 on playthrough 1: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_IntoTheDeep.SideMission_DLC2_IntoTheDeep_C
+CSAV001MSN Current objective for mission 89: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_IntoTheDeep.Set_KillDyer_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 89: 
+CSAV001MSN 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 90 on playthrough 1: /Game/PatchDLC/Hibiscus/Missions/Plot/EP06_DLC2.EP06_DLC2_C
+CSAV001MSN Current objective for mission 90: /Game/PatchDLC/Hibiscus/Missions/Plot/EP06_DLC2.Set_FinalCredits_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 90: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 91 on playthrough 1: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_HappilyEverAfter.SideMission_DLC2_HappilyEverAfter_C
+CSAV001MSN Current objective for mission 91: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_HappilyEverAfter.SET_DetonateFireworks_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 91: 
+CSAV001MSN 1 1 1 1 1 1 4 4 1 1 1 1 1 1 1 1 1 1 1 0 1 1 
+CSAV001MSN Mission 92 on playthrough 1: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_WhereIBelong.SideMission_DLC2_WhereIBelong_C
+CSAV001MSN Current objective for mission 92: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_WhereIBelong.Set_LowerFisherman_SEQ_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 92: 
+CSAV001MSN 0 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 0 1 1 1 1 1 1 
+CSAV001MSN Mission 93 on playthrough 1: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_WeSlassPart1.SideMission_DLC2_WeSlassPart1_C
+CSAV001MSN Current objective for mission 93: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_WeSlassPart1.SET_GoToArmory_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 93: 
+CSAV001MSN 31 1 1 1 1 1 1 
+CSAV001MSN Mission 94 on playthrough 1: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_WeSlassPart2.SideMission_DLC2_WeSlassPart2_C
+CSAV001MSN Current objective for mission 94: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_WeSlassPart2.SET_GoToArmory_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 94: 
+CSAV001MSN 1 1 1 1 1 1 1 
+CSAV001MSN Mission 95 on playthrough 1: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_WeSlassPart3.SideMission_DLC2_WeSlassPart3_C
+CSAV001MSN Current objective for mission 95: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_WeSlassPart3.SET_GoToArmory_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 95: 
+CSAV001MSN 12 1 1 1 1 1 1 
+CSAV001MSN Mission 96 on playthrough 1: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_SinisterSounds.SideMission_DLC2_SinisterSounds_C
+CSAV001MSN Current objective for mission 96: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_SinisterSounds.SET_ListenToDarkMix_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 96: 
+CSAV001MSN 1 1 1 1 10 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 97 on playthrough 1: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_Necrocookmicon.SideMission_DLC2_Necrocookmicon_C
+CSAV001MSN Current objective for mission 97: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_Necrocookmicon.Set_GiveMeal_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 97: 
+CSAV001MSN 1 0 1 1 3 1 1 1 1 1 5 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 98 on playthrough 1: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_Bounty_BusinessAsUsual.SideMission_DLC2_Bounty_BusinessAsUsual_C
+CSAV001MSN Current objective for mission 98: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_Bounty_BusinessAsUsual.SET_PlaceWine_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 98: 
+CSAV001MSN 1 2 1 1 1 1 1 1 
+CSAV001MSN Mission 99 on playthrough 1: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_PrivateEyePart1.SideMission_DLC2_PrivateEyePart1_C
+CSAV001MSN Current objective for mission 99: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_PrivateEyePart1.Set_TakeBox_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 99: 
+CSAV001MSN 0 1 0 1 2 1 1 1 1 1 1 1 1 3 1 1 1 0 1 2 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 100 on playthrough 1: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_PrivateEyePart2.SideMission_DLC2_PrivateEyePart2_C
+CSAV001MSN Current objective for mission 100: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_PrivateEyePart2.Set_GiveSeventhSenseToBurton_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 100: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 4 1 1 1 1 1 0 
+CSAV001MSN Mission 101 on playthrough 1: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_PrivateEyePart3.SideMission_DLC2_PrivateEyePart3_C
+CSAV001MSN Current objective for mission 101: /Game/PatchDLC/Hibiscus/Missions/Side/SideMission_DLC2_PrivateEyePart3.Set_PlayFinalSeq_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 101: 
+CSAV001MSN 1 1 1 1 2 1 1 1 1 0 1 1 1 1 1 1 1 2 1 1 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 102 on playthrough 1: /Game/PatchDLC/CitizenScience/Missions/Mission_CitizenScience_Intro.Mission_CitizenScience_Intro_C
+CSAV001MSN Current objective for mission 102: /Game/PatchDLC/CitizenScience/Missions/Mission_CitizenScience_Intro.Set_InteractWithMachine_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 102: 
+CSAV001MSN 1 
+CSAV001MSN Mission 103 on playthrough 1: /Game/PatchDLC/Event2/Missions/Side/Seasonal/Mission_Season_02_Intro.Mission_Season_02_Intro_C
+CSAV001MSN Current objective for mission 103: /Game/PatchDLC/Event2/Missions/Side/Seasonal/Mission_Season_02_Intro.Set_TurnIn_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 103: 
+CSAV001MSN 1 1 0 0 0 30 0 0 1 1 1 0 1 1 0 1 1 1 0 1 1 1 1 0 1 1 1 0 1 1 1 1 0 1 1 1 1 0 1 
+CSAV001MSN Mission 104 on playthrough 1: /Game/PatchDLC/Event2/Missions/Side/MauriceSide/Mission_Maurice.Mission_Maurice_C
+CSAV001MSN Current objective for mission 104: /Game/PatchDLC/Event2/Missions/Side/MauriceSide/Mission_Maurice.Set_PutGiftOnTable_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 104: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 0 0 1 1 
+CSAV001MSN Mission 105 on playthrough 1: /Game/PatchDLC/Dandelion/Missions/Plot/Mission_DLC1_Ep01_MeetTimothy.Mission_DLC1_Ep01_MeetTimothy_C
+CSAV001MSN Current objective for mission 105: /Game/PatchDLC/Dandelion/Missions/Plot/Mission_DLC1_Ep01_MeetTimothy.Set_PlaySeq_Hologram_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 105: 
+CSAV001MSN 1 0 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 106 on playthrough 1: /Game/PatchDLC/Dandelion/Missions/Plot/Mission_DLC1_Ep02_MeetCrad.Mission_DLC1_Ep02_MeetCrad_C
+CSAV001MSN Current objective for mission 106: /Game/PatchDLC/Dandelion/Missions/Plot/Mission_DLC1_Ep02_MeetCrad.Set_MeetEmber_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 106: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 
+CSAV001MSN Mission 107 on playthrough 1: /Game/PatchDLC/Dandelion/Missions/Plot/Mission_DLC1_Ep03_Impound.Mission_DLC1_Ep03_Impound_C
+CSAV001MSN Current objective for mission 107: /Game/PatchDLC/Dandelion/Missions/Plot/Mission_DLC1_Ep03_Impound.Set_GetTools_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 107: 
+CSAV001MSN 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 1 1 0 3 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 108 on playthrough 1: /Game/PatchDLC/Dandelion/Missions/Plot/Mission_DLC1_Ep04_Trashtown.Mission_DLC1_Ep04_Trashtown_C
+CSAV001MSN Current objective for mission 108: /Game/PatchDLC/Dandelion/Missions/Plot/Mission_DLC1_Ep04_Trashtown.Set_ReturnToMayor_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 108: 
+CSAV001MSN 1 1 1 0 1 1 1 1 1 1 1 1 0 0 15 1 1 1 1 1 1 1 1 1 1 0 0 0 1 1 0 0 1 1 1 1 1 0 1 1 0 0 5 0 1 1 7 1 0 1 0 1 1 1 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CSAV001MSN Mission 109 on playthrough 1: /Game/PatchDLC/Takedown2/Missions/Side/Mission_Takedown2_Intro.Mission_Takedown2_Intro_C
+CSAV001MSN Current objective for mission 109: /Game/PatchDLC/Takedown2/Missions/Side/Mission_Takedown2_Intro.Set_MissionEnd_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 109: 
+CSAV001MSN 1 0 0 1 0 
+CSAV001MSN Mission 110 on playthrough 1: /Game/PatchDLC/Geranium/Missions/Plot/Mission_Ep01_WestlandWelcome.Mission_Ep01_WestlandWelcome_C
+CSAV001MSN Current objective for mission 110: /Game/PatchDLC/Geranium/Missions/Plot/Mission_Ep01_WestlandWelcome.SET_TakeSheriffBadge_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 110: 
+CSAV001MSN 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 3 1 1 1 1 1 1 1 0 1 1 1 
+CSAV001MSN Mission 111 on playthrough 1: /Game/PatchDLC/Geranium/Missions/Plot/Mission_Ep02_Bathhouse.Mission_Ep02_Bathhouse_C
+CSAV001MSN Current objective for mission 111: /Game/PatchDLC/Geranium/Missions/Plot/Mission_Ep02_Bathhouse.Set_TakeRuninerTechDoc_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 111: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 112 on playthrough 1: /Game/PatchDLC/Geranium/Missions/Plot/Mission_Ep03_ObsidianForest.Mission_Ep03_ObsidianForest_C
+CSAV001MSN Current objective for mission 112: /Game/PatchDLC/Geranium/Missions/Plot/Mission_Ep03_ObsidianForest.Set_ExitTheCrashSite_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 112: 
+CSAV001MSN 1 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 3 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 0 1 3 1 1 1 1 1 2 1 1 1 1 1 1 1 1 0 1 1 1 1 1 
+CSAV001MSN Mission 113 on playthrough 1: /Game/PatchDLC/Geranium/Missions/Side/Mission_Dueling.Mission_Dueling_C
+CSAV001MSN Current objective for mission 113: /Game/PatchDLC/Geranium/Missions/Side/Mission_Dueling.SET_TurnIn_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 113: 
+CSAV001MSN 1 1 1 1 5 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 114 on playthrough 1: /Game/PatchDLC/Geranium/Missions/Side/Mission_SnakeOil.Mission_SnakeOil_C
+CSAV001MSN Current objective for mission 114: /Game/PatchDLC/Geranium/Missions/Side/Mission_SnakeOil.Set_ReturnToPriscilla_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 114: 
+CSAV001MSN 1 1 1 1 1 1 1 2 1 1 1 1 1 0 1 1 1 1 1 1 3 1 1 1 1 1 
+CSAV001MSN Mission 115 on playthrough 1: /Game/PatchDLC/Geranium/Missions/Side/Mission_AnimalControl.Mission_AnimalControl_C
+CSAV001MSN Current objective for mission 115: /Game/PatchDLC/Geranium/Missions/Side/Mission_AnimalControl.Set_TalkToGranny_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 115: 
+CSAV001MSN 1 1 1 1 0 4 0 1 1 0 1 1 1 1 1 2 1 
+CSAV001MSN Mission 116 on playthrough 1: /Game/PatchDLC/Geranium/Missions/Plot/Mission_Ep04_Facility.Mission_Ep04_Facility_C
+CSAV001MSN Current objective for mission 116: /Game/PatchDLC/Geranium/Missions/Plot/Mission_Ep04_Facility.Set_BraceForImpact_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 116: 
+CSAV001MSN 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 
+CSAV001MSN Mission 117 on playthrough 1: /Game/PatchDLC/Geranium/Missions/Side/Mission_LoveBarsNone.Mission_LoveBarsNone_C
+CSAV001MSN Current objective for mission 117: /Game/PatchDLC/Geranium/Missions/Side/Mission_LoveBarsNone.SET_CompleteMissionGrieve_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 117: 
+CSAV001MSN 0 1 1 0 1 1 1 1 2 1 1 1 1 1 1 1 1 3 1 1 1 0 1 0 0 1 0 1 1 
+CSAV001MSN Mission 118 on playthrough 1: /Game/PatchDLC/Geranium/Missions/Plot/Mission_Ep05_Crater.Mission_Ep05_Crater_C
+CSAV001MSN Current objective for mission 118: /Game/PatchDLC/Geranium/Missions/Plot/Mission_Ep05_Crater.SET_CollectBounty_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 118: 
+CSAV001MSN 1 0 1 1 1 1 1 1 1 1 1 1 0 1 2 1 1 1 2 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 4 1 1 8127 
+CSAV001MSN Mission 119 on playthrough 1: /Game/PatchDLC/Geranium/Missions/Side/Mission_DirtyDeeds.Mission_DirtyDeeds_C
+CSAV001MSN Current objective for mission 119: /Game/PatchDLC/Geranium/Missions/Side/Mission_DirtyDeeds.Set_ReturnToSoapMaker_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 119: 
+CSAV001MSN 1 0 1 1 1 1 1 1 1 1 0 1 1 0 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 120 on playthrough 1: /Game/PatchDLC/Geranium/Missions/Side/Mission_TheLegendOfMcSmugger.Mission_TheLegendOfMcSmugger_C
+CSAV001MSN Current objective for mission 120: /Game/PatchDLC/Geranium/Missions/Side/Mission_TheLegendOfMcSmugger.SET_TurnIn_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 120: 
+CSAV001MSN 1 1 1 1 1 1 3 1 2 1 1 1 1 1 1 0 1 7 1 1 1 1 1 1 1 1 
+CSAV001MSN Mission 121 on playthrough 1: /Game/PatchDLC/Geranium/Missions/Side/Mission_GhostStories.Mission_GhostStories_C
+CSAV001MSN Current objective for mission 121: /Game/PatchDLC/Geranium/Missions/Side/Mission_GhostStories.SET_ReturnToMissionGiver_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 121: 
+CSAV001MSN 1 1 1 1 3 1 1 1 1 1 1 4 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 
+CSAV001MSN Mission 122 on playthrough 1: /Game/PatchDLC/Geranium/Missions/Side/Mission_RustlerBaby.Mission_RustlerBaby_C
+CSAV001MSN Current objective for mission 122: /Game/PatchDLC/Geranium/Missions/Side/Mission_RustlerBaby.SET_ReturnToJan_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 122: 
+CSAV001MSN 1 1 1 1 1 1 1 1 4 1 1 1 1 1 
+CSAV001MSN Mission 123 on playthrough 1: /Game/PatchDLC/Geranium/Missions/Side/Mission_MoneyBackGuarantee.Mission_MoneyBackGuarantee_C
+CSAV001MSN Current objective for mission 123: /Game/PatchDLC/Geranium/Missions/Side/Mission_MoneyBackGuarantee.SET_CollectRefund_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 123: 
+CSAV001MSN 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 7 
+CSAV001MSN Mission 124 on playthrough 1: /Game/PatchDLC/Geranium/Missions/Side/Mission_BloodAndBeans.Mission_BloodAndBeans_C
+CSAV001MSN Current objective for mission 124: /Game/PatchDLC/Geranium/Missions/Side/Mission_BloodAndBeans.Set_MissionComplete_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 124: 
+CSAV001MSN 1 1 13 1 0 2 1 1 1 1 1 0 0 1 0 0 0 0 2 1 
+CSAV001MSN Mission 125 on playthrough 1: /Game/PatchDLC/Geranium/Missions/Side/Mission_SaurdewValley.Mission_SaurdewValley_C
+CSAV001MSN Current objective for mission 125: /Game/PatchDLC/Geranium/Missions/Side/Mission_SaurdewValley.SET_TurnInToJan_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 125: 
+CSAV001MSN 24 1 1 1 12 1 1 1 1 1 6 1 1 1 1 1 
+CSAV001MSN Mission 126 on playthrough 1: /Game/PatchDLC/Raid1/Missions/Mission_Raid1.Mission_Raid1_C
+CSAV001MSN Current objective for mission 126: /Game/PatchDLC/Raid1/Missions/Mission_Raid1.Set_Start_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 126: 
+CSAV001MSN 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CSAV001MSN Mission 127 on playthrough 1: /Game/PatchDLC/Takedown2/Missions/Side/Mission_Takedown2.Mission_Takedown2_C
+CSAV001MSN Current objective for mission 127: /Game/PatchDLC/Takedown2/Missions/Side/Mission_Takedown2.Set_Start_Takedown2_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 127: 
+CSAV001MSN 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CSAV001MSN Mission 128 on playthrough 1: /Game/PatchDLC/BloodyHarvest/Missions/Side/Seasonal/Mission_Season_01_Repeatable.Mission_Season_01_Repeatable_C
+CSAV001MSN Current objective for mission 128: /Game/PatchDLC/BloodyHarvest/Missions/Side/Seasonal/Mission_Season_01_Repeatable.Set_LeaveLeagueMap_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 128: 
+CSAV001MSN 25 1 1 0 1 1 0 1 1 1 1 1 1 1 0 0 0 
+CSAV001MSN Mission 129 on playthrough 1: /Game/Missions/Side/Zone_0/Sacrifice/Mission_GoldenCalves.Mission_GoldenCalves_C
+CSAV001MSN Current objective for mission 129: /Game/Missions/Side/Zone_0/Sacrifice/Mission_GoldenCalves.Set_GoldenCalvesTalkToVaughn_ObjectiveSet
+CSAV001MSN Quest state: Complete
+CSAV001MSN Objective completion status for mission 129: 
+CSAV001MSN 0 1 1 1 1 1 1 1 1 2057 132098 1 

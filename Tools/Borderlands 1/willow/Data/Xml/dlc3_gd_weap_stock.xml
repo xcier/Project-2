@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--Comment-->
+<INI>
+  <Section>
+    <Name>A_Weapon.WeaponType_combat_rifle_stock</Name>
+    <ClipSize>12</ClipSize>
+    <WeaponDamageFormulaMultiplier>1.200000</WeaponDamageFormulaMultiplier>
+    <Spread>1.300000</Spread>
+    <PerShotAccuracyImpulse>3.500000</PerShotAccuracyImpulse>
+    <FireRate>0.100000</FireRate>
+    <ReloadTime>2.400000</ReloadTime>
+    <MinAccuracy>-0.500000</MinAccuracy>
+    <IdleAccuracyRegenRate>2.000000</IdleAccuracyRegenRate>
+    <ZoomMinAccuracy>-0.500000</ZoomMinAccuracy>
+    <ZoomMaxAccuracy>-4.000000</ZoomMaxAccuracy>
+    <BaseCashValueModifier>50</BaseCashValueModifier>
+    <Presentation>ar</Presentation>
+  </Section>
+</INI>

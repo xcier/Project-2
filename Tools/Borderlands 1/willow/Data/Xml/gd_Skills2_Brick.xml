@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--Comment-->
+<INI>
+  <Section>
+    <Name>gd_Skills2_Brick.Action.A_Berserk</Name>
+    <SkillName>Berserk</SkillName>
+    <SkillDescription>Gain the ability to go Berserk.  While Berserk, &lt;StringAliasMap:Action.Fire&gt; and &lt;StringAliasMap:Action.Aim&gt; throw punches.  Also, you gain resistance to all damage and you regenerate health while Berserking.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.ActionElemental.CorrosivePunch</Name>
+    <SkillName>Corrosive Punch</SkillName>
+    <SkillDescription>Brick's punch deals Corrosive Damage</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.ActionElemental.ExplosivePunch</Name>
+    <SkillName>Explosive Punch</SkillName>
+    <SkillDescription>Brick's punch deals Explosive Damage</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.ActionElemental.IncendiaryPunch</Name>
+    <SkillName>Incendiary Punch</SkillName>
+    <SkillDescription>Brick's punch deals Incendiary Damage</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.ActionElemental.ShockingPunch</Name>
+    <SkillName>Shocking Punch</SkillName>
+    <SkillDescription>Brick's punch deals Shocking Damage</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Adrenaline.Adrenaline_Brick</Name>
+    <SkillName>Adrenaline - Roland</SkillName>
+    <SkillDescription>Roland gains adrenaline when he damages enemies or if one of his friends gets crippled.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Blaster.CastIron</Name>
+    <SkillName>Cast Iron</SkillName>
+    <SkillDescription>Increases your resistance to Explosive Damage.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Blaster.Liquidate</Name>
+    <SkillName>Liquidate</SkillName>
+    <SkillDescription>Dealing Explosive Damage to an enemy reduces the cooldown of Berserk.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Blaster.Liquidate_active</Name>
+    <SkillName>Liquidate - active</SkillName>
+    <SkillDescription>Killing an enemy with Explosive Damage provides an experience bonus and reduces the cooldown of Berserk. (BROKEN)</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Blaster.MasterBlaster</Name>
+    <SkillName>Master Blaster</SkillName>
+    <SkillDescription>Killing an enemy increases your Fire Rate with all weapons and causes you to regenerate rockets for a few seconds.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Blaster.RapidReload</Name>
+    <SkillName>Rapid Reload</SkillName>
+    <SkillDescription>Increases your Reload Speed and reduces Recoil with all weapons.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Blaster.Revenge</Name>
+    <SkillName>Revenge</SkillName>
+    <SkillDescription>Killing an enemy increases your damage with all weapons for a few seconds.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Blaster.WideLoad</Name>
+    <SkillName>Wide Load</SkillName>
+    <SkillDescription>Increases the number of Rockets your Rocket Launcher can hold in its magazine.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Brawler.BloodSport</Name>
+    <SkillName>Blood Sport</SkillName>
+    <SkillDescription>Killing an enemy while Berserk is active regenerates some of your health.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Brawler.BloodSport_activated</Name>
+    <SkillName>BloodSport - active</SkillName>
+    <SkillDescription>While Berserk you gain increased damage with left handed attacks.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Brawler.EndlessRage</Name>
+    <SkillName>Endless Rage</SkillName>
+    <SkillDescription>Increases the duration of Berserk.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Brawler.HeavyHanded</Name>
+    <SkillName>Heavy Handed</SkillName>
+    <SkillDescription>Killing an enemy greatly increases your melee damage for a few seconds.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Brawler.IronFist</Name>
+    <SkillName>Iron Fist</SkillName>
+    <SkillDescription>Increases the melee damage you deal.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Brawler.PrizeFighter</Name>
+    <SkillName>Prize Fighter</SkillName>
+    <SkillDescription>While Berserk is active your melee attacks have a chance to spawn cash prizes.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Brawler.ShortFuse</Name>
+    <SkillName>Short Fuse</SkillName>
+    <SkillDescription>Decreases the Cooldown of Berserk.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Brawler.StingLikeaBee</Name>
+    <SkillName>Sting like a Bee</SkillName>
+    <SkillDescription>Punching while Berserk causes you to dash forward and slug your enemies.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Tank.Bash</Name>
+    <SkillName>Bash</SkillName>
+    <SkillDescription>Gives your melee attacks a chance to Daze enemies, slowing them and reducing their accuracy.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Tank.Diehard</Name>
+    <SkillName>Diehard</SkillName>
+    <SkillDescription>Increases the amount of health you regain when you are revived by a friend or by Second Wind.  Also increases the amount of time you have before you die when you are Crippled.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Tank.Endowed</Name>
+    <SkillName>Endowed</SkillName>
+    <SkillDescription>Increases the Explosive Damage you deal.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Tank.Hardened</Name>
+    <SkillName>Hardened</SkillName>
+    <SkillDescription>Increases your maximum health.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Tank.Juggernaut</Name>
+    <SkillName>Juggernaut</SkillName>
+    <SkillDescription>Killing an enemy gives you resistance to all damage for a few seconds.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Tank.PayBack</Name>
+    <SkillName>Pay Back</SkillName>
+    <SkillDescription>After your shields become depleted you gain a damage bonus for 10 seconds.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Tank.PayBack_active</Name>
+    <SkillName>Pay Back active</SkillName>
+    <SkillDescription>damage bonus for the payback skill</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Tank.Safeguard</Name>
+    <SkillName>Safeguard</SkillName>
+    <SkillDescription>Increases the strength of your shield.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Tank.Unbreakable</Name>
+    <SkillName>Unbreakable</SkillName>
+    <SkillDescription>When your shield is depleted you gain 5 seconds of powerful shield regeneration.</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.Tank.Unbreakable_active</Name>
+    <SkillName>Unbreakable_active</SkillName>
+    <SkillDescription>Shield regeneration for Unbreakable</SkillDescription>
+  </Section>
+  <Section>
+    <Name>gd_Skills2_Brick.z_DELETEDELETE.PrizeFighter_SpawnCash</Name>
+    <SkillName>Prize Fighter - Spawn Cash</SkillName>
+    <SkillDescription>While Berserk is active your melee attacks have a chance to spawn cash prizes.</SkillDescription>
+  </Section>
+</INI>

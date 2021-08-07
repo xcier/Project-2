@@ -1,0 +1,41 @@
+[A_Item.INV_BankUpgrade_01]
+Description="Purchase to increase your number of Bank Slots to 15."
+NoConstraintText=""
+Suffix=""
+
+[A_Item.INV_BankUpgrade_02]
+Description="Purchase to increase your number of Bank Slots to 18."
+NoConstraintText=""
+Suffix=""
+[A_Item.INV_BankUpgrade_03]
+Description="Purchase to increase your number of Bank Slots to 21."
+NoConstraintText=""
+Suffix=""
+[A_Item.INV_BankUpgrade_04]
+Description="Purchase to increase your number of Bank Slots to 24."
+NoConstraintText=""
+Suffix=""
+[A_Item.INV_BankUpgrade_05]
+Description="Purchase to increase your number of Bank Slots to 27."
+NoConstraintText=""
+Suffix=""
+[A_Item.INV_BankUpgrade_06]
+Description="Purchase to increase your number of Bank Slots to 30."
+NoConstraintText=""
+Suffix=""
+[A_Item.INV_BankUpgrade_07]
+Description="Purchase to increase your number of Bank Slots to 33."
+NoConstraintText=""
+Suffix=""
+[A_Item.INV_BankUpgrade_08]
+Description="Purchase to increase your number of Bank Slots to 36."
+NoConstraintText=""
+Suffix=""
+[A_Item.INV_BankUpgrade_09]
+Description="Purchase to increase your number of Bank Slots to 39."
+NoConstraintText=""
+Suffix=""
+[A_Item.INV_BankUpgrade_10]
+Description="Purchase to increase your number of Bank Slots to 42."
+NoConstraintText=""
+Suffix=""

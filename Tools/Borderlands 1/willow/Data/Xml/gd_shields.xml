@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--Comment-->
+<INI>
+  <Section>
+    <Name>A_Item.Item_Shield</Name>
+    <UseFailureCharacterMessage>You must be a %s to use this item.</UseFailureCharacterMessage>
+    <ItemName>Orb Shield</ItemName>
+    <PickupMessage>Acquired a Basic Orb Shield</PickupMessage>
+    <PickupMessageWithLevel>You got %s (Level %d)</PickupMessageWithLevel>
+    <UseFailureLevelMessage>You must be at least level %d to use this item.</UseFailureLevelMessage>
+    <UseFailureConstraintsMessage>You cannot use this item.</UseFailureConstraintsMessage>
+    <NoManufacturerName>Generic</NoManufacturerName>
+    <Presentation>shield</Presentation>
+  </Section>
+  <Section>
+    <Name>A_Item_stock.Item_Shield_Stock</Name>
+    <UseFailureCharacterMessage>You must be a %s to use this item.</UseFailureCharacterMessage>
+    <ItemName>STOCK Shield</ItemName>
+    <PickupMessage>Acquired a Basic Orb Shield</PickupMessage>
+    <PickupMessageWithLevel>You got %s (Level %d)</PickupMessageWithLevel>
+    <UseFailureLevelMessage>You must be at least level %d to use this item.</UseFailureLevelMessage>
+    <UseFailureConstraintsMessage>You cannot use this item.</UseFailureConstraintsMessage>
+    <NoManufacturerName>Generic</NoManufacturerName>
+  </Section>
+  <Section>
+    <Name>Body.body1</Name>
+    <PartName>OBS</PartName>
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>Body.body1_balanced</Name>
+    <PartName>OS</PartName>
+    <Rarity>6</Rarity>
+  </Section>
+  <Section>
+    <Name>Body.body2</Name>
+    <PartName>FRR</PartName>
+    <Rarity>2</Rarity>
+  </Section>
+  <Section>
+    <Name>Body.body3</Name>
+    <PartName>OC</PartName>
+    <Rarity>4</Rarity>
+  </Section>
+  <Section>
+    <Name>Body.body3b_power</Name>
+    <PartName>XC</PartName>
+    <Rarity>6</Rarity>
+  </Section>
+  <Section>
+    <Name>Body.body4</Name>
+    <PartName>AWE</PartName>
+    <Rarity>6</Rarity>
+  </Section>
+  <Section>
+    <Name>LeftSide.leftside1</Name>
+    <PartName />
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>LeftSide.leftside2</Name>
+    <PartNumberAddend>20</PartNumberAddend>
+    <PartName />
+    <Rarity>2</Rarity>
+  </Section>
+  <Section>
+    <Name>LeftSide.leftside3</Name>
+    <PartNumberAddend>40</PartNumberAddend>
+    <PartName />
+    <Rarity>6</Rarity>
+  </Section>
+  <Section>
+    <Name>LeftSide.leftside4</Name>
+    <PartNumberAddend>5</PartNumberAddend>
+    <PartName />
+    <Rarity>8</Rarity>
+  </Section>
+  <Section>
+    <Name>LeftSide.leftsideStartingShieldPiece</Name>
+    <Rarity>0</Rarity>
+    <PartName />
+    <PartNumberAddend>1</PartNumberAddend>
+  </Section>
+  <Section>
+    <Name>RightSide.rightside1</Name>
+    <PartName />
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>RightSide.rightside2</Name>
+    <PartNumberAddend>10</PartNumberAddend>
+    <PartName />
+    <Rarity>2</Rarity>
+  </Section>
+  <Section>
+    <Name>RightSide.rightside3</Name>
+    <PartNumberAddend>30</PartNumberAddend>
+    <PartName />
+    <Rarity>4</Rarity>
+  </Section>
+  <Section>
+    <Name>RightSide.rightside4</Name>
+    <PartNumberAddend>50</PartNumberAddend>
+    <PartName />
+    <Rarity>6</Rarity>
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Anshin_1</Name>
+    <PartName>ANS-</PartName>
+    <Description>Fast Recharge</Description>
+    <Rarity>0</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Anshin_2</Name>
+    <PartName>ANS2-</PartName>
+    <Description>Very Fast Recharge</Description>
+    <Rarity>4</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Anshin_3</Name>
+    <PartName>ANS2-</PartName>
+    <Description>Super Fast Recharge!</Description>
+    <Rarity>6</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Atlas_1</Name>
+    <PartName>ATL-</PartName>
+    <Description>Shock Resistance</Description>
+    <Rarity>2</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Atlas_2a</Name>
+    <PartName>ATL-</PartName>
+    <Description>High Shock Resistance</Description>
+    <Rarity>6</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Atlas_3</Name>
+    <PartName>ATL-</PartName>
+    <Description>Extreme Shock Resistance!</Description>
+    <Rarity>8</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Dahl_1</Name>
+    <PartName>DHL-</PartName>
+    <Description>Corrosive Resistance</Description>
+    <Rarity>0</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Dahl_2a</Name>
+    <PartName>DHL-</PartName>
+    <Description>High Corrosive Resistance</Description>
+    <Rarity>4</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Dahl_3</Name>
+    <PartName>DHL-</PartName>
+    <Description>Extreme Corrosive Resistance!</Description>
+    <Rarity>6</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Hyperion_1</Name>
+    <PartName>HYP-</PartName>
+    <Description>Fire Resistance</Description>
+    <Rarity>2</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Hyperion_2a</Name>
+    <PartName>HYP-</PartName>
+    <Description>High Fire Resistance</Description>
+    <Rarity>6</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Hyperion_3</Name>
+    <PartName>HYP-</PartName>
+    <Description>Extreme Fire Resistance!</Description>
+    <Rarity>8</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Maliwan_1</Name>
+    <PartName>MLN-</PartName>
+    <Description>Creates a small Shock Burst when depleted.</Description>
+    <Rarity>0</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Maliwan_2a</Name>
+    <PartName>MLN-</PartName>
+    <Description>Creates a Shock Wave when depleted.</Description>
+    <Rarity>4</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Maliwan_3</Name>
+    <PartName>MLN-</PartName>
+    <Description>Creates a large Shock Nova when depleted.</Description>
+    <Rarity>6</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Pangolin_1</Name>
+    <PartName>PNG-</PartName>
+    <Description>High Capacity</Description>
+    <Rarity>2</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Pangolin_2a</Name>
+    <PartName>PNG-</PartName>
+    <Description>Very High Capacity</Description>
+    <Rarity>6</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Pangolin_3</Name>
+    <PartName>PNG2-</PartName>
+    <Description>Overcharge Capacity!</Description>
+    <Rarity>8</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_SandS_1</Name>
+    <PartName>SnS-</PartName>
+    <Description>Creates a small Acid burst when depleted.</Description>
+    <Rarity>0</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_SandS_2a</Name>
+    <PartName>SnS-</PartName>
+    <Description>Creates an Acid Wave when depleted.</Description>
+    <Rarity>4</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_SandS_3</Name>
+    <PartName>SnS-</PartName>
+    <Description>Creates a large Acid Nova when depleted.</Description>
+    <Rarity>6</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Tediore_0_Starter</Name>
+    <PartName>TDR-</PartName>
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Tediore_1</Name>
+    <PartName>TDR-</PartName>
+    <Description>Very slow health regeneration</Description>
+    <Rarity>0</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Tediore_2a</Name>
+    <PartName>TDR-</PartName>
+    <Description>Slow health regeneration</Description>
+    <Rarity>4</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Tediore_3</Name>
+    <PartName>TDR-</PartName>
+    <Description>Quick Health Regeneration!</Description>
+    <Rarity>6</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Torgue_1</Name>
+    <PartName>TRG-</PartName>
+    <Description />
+    <NoConstraintText>Health Boost 30%</NoConstraintText>
+    <Rarity>0</Rarity>
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Torgue_2a</Name>
+    <PartName>TRG-</PartName>
+    <Description />
+    <NoConstraintText>Health Boost 40%</NoConstraintText>
+    <Rarity>4</Rarity>
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Torgue_3</Name>
+    <PartName>TRG-</PartName>
+    <Description />
+    <NoConstraintText>Health Boost 60%</NoConstraintText>
+    <Rarity>6</Rarity>
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Vladof_1</Name>
+    <PartName>VDF-</PartName>
+    <Description>Creates a small Fire Burst when depleted.</Description>
+    <Rarity>0</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Vladof_2a</Name>
+    <PartName>VDF-</PartName>
+    <Description>Creates a Fire Wave when depleted.</Description>
+    <Rarity>4</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>ManufacturerMaterials.Material_Vladof_3</Name>
+    <PartName>VDF-</PartName>
+    <Description>Creates a large Fire Nova when depleted.</Description>
+    <Rarity>6</Rarity>
+    <NoConstraintText />
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Max1_Reinforced</Name>
+    <PartName>Reinforced</PartName>
+    <PartNumberAddend>3</PartNumberAddend>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Max2_Hardened</Name>
+    <PartName>Hardened</PartName>
+    <PartNumberAddend>6</PartNumberAddend>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Max3_Unbreakable</Name>
+    <PartName>Unbreakable</PartName>
+    <PartNumberAddend>9</PartNumberAddend>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Max4_Impenetrable</Name>
+    <PartName>Impenetrable</PartName>
+    <PartNumberAddend>7</PartNumberAddend>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_none</Name>
+    <PartName />
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Quality1_Balanced</Name>
+    <PartName>Balanced</PartName>
+    <PartNumberAddend>10</PartNumberAddend>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Quality2_Symmetrical</Name>
+    <PartName>Symmetrical</PartName>
+    <PartNumberAddend>4</PartNumberAddend>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Quality3_Sterling</Name>
+    <PartName>Sterling</PartName>
+    <PartNumberAddend>15</PartNumberAddend>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Quality4_Harmonious</Name>
+    <PartName>Harmonious</PartName>
+    <PartNumberAddend>11</PartNumberAddend>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Speed1_QuickCharge</Name>
+    <PartName>Quick Charge</PartName>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Speed2_Accelerated</Name>
+    <PartName>Accelerated</PartName>
+    <PartNumberAddend>5</PartNumberAddend>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Speed3_Rapid</Name>
+    <PartName>Rapid</PartName>
+    <PartNumberAddend>5</PartNumberAddend>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Speed4_Alacritous</Name>
+    <PartName>Alacritous</PartName>
+    <PartNumberAddend>8</PartNumberAddend>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Standard</Name>
+    <PartName>Standard</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Anshin1_GuerillaShield</Name>
+    <PartName>Guerilla Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Anshin2_SkirmisherShield</Name>
+    <PartName>Skirmisher Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Anshin3_AmbushShield</Name>
+    <PartName>Ambush Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Atlas1_GroundedShield</Name>
+    <PartName>Grounded Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Atlas2_AnionicShield</Name>
+    <PartName>Anionic Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Atlas3_CationicShield</Name>
+    <PartName>Cationic Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Dahl1_NeutralizingShield</Name>
+    <PartName>Neutralizing Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Dahl2_DilutionShield</Name>
+    <PartName>Dilution Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Dahl3_HazmatShield</Name>
+    <PartName>Hazmat Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Hyperion1_ThermalShield</Name>
+    <PartName>Thermal Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Hyperion2_AsbesticShield</Name>
+    <PartName>Asbestic Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Hyperion3_EndothermicShield</Name>
+    <PartName>Endothermic Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Maliwan1_ShockBurstShield</Name>
+    <PartName>Shock Burst Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Maliwan2_ShockWaveShield</Name>
+    <PartName>Shock Wave Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Maliwan3_ShockNovaShield</Name>
+    <PartName>Shock Nova Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Pangolin1_UnyieldingShield</Name>
+    <PartName>Unyielding Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Pangolin2_EnduringShield</Name>
+    <PartName>Enduring Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Pangolin3_FortifiedShield</Name>
+    <PartName>Fortified Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_SandS1_AcidburstShield</Name>
+    <PartName>Acid Burst Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_SandS2_AcidWaveShield</Name>
+    <PartName>Acid Wave Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_SandS3_AcidNovaShield</Name>
+    <PartName>Acid Nova Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Shield</Name>
+    <PartName>Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Tediore1_HealingShield</Name>
+    <PartName>Healing Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Tediore2_RestorativeShield</Name>
+    <PartName>Restorative Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Tediore3_PanaceaShield</Name>
+    <PartName>Panacea Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Torgue1_ToughGuyShield</Name>
+    <PartName>Tough Guy Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Torgue2_MusclemanShield</Name>
+    <PartName>Muscleman Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Torgue3_MachoShield</Name>
+    <PartName>Macho Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_U_CrackedSash</Name>
+    <PartName>Cracked Sash</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_U_WeeWeesSuperBooster</Name>
+    <PartName>Wee Wee's Super Booster</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Vladof1_FireburstShield</Name>
+    <PartName>Fire Burst Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Vladof2_FireWaveShield</Name>
+    <PartName>Fire Wave Shield</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_Vladof3_FireNovaShield</Name>
+    <PartName>Fire Nova Shield</PartName>
+  </Section>
+  <Section>
+    <Name>UniqueParts.body4_CrackedSash</Name>
+    <PartName>CRKED</PartName>
+    <Rarity>6</Rarity>
+  </Section>
+  <Section>
+    <Name>UniqueParts.CrackedSash_Material</Name>
+    <PartName>ANS-</PartName>
+    <Description>Fast Recharge</Description>
+    <NoConstraintText />
+    <Rarity>0</Rarity>
+    <Suffix />
+  </Section>
+  <Section>
+    <Name>UniqueParts.Shield_WeeWee_Material</Name>
+    <PartName>TDR-</PartName>
+    <Rarity>8</Rarity>
+  </Section>
+  <Section>
+    <Name>DELETEDELETE.leftside0</Name>
+    <Rarity>0</Rarity>
+  </Section>
+  <Section>
+    <Name>DELETEDELETE.rightside0</Name>
+    <Rarity>0</Rarity>
+  </Section>
+</INI>

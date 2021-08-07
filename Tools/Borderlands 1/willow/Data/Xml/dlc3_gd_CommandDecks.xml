@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--Comment-->
+<INI>
+  <Section>
+    <Name>Title.Title_VladofLoyaltyDeck</Name>
+    <PartName>Vladof Enhancement Mod</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_TorgueLoyaltyDeck</Name>
+    <PartName>Torgue Enhancement Mod</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_TedioreLoyaltyDeck</Name>
+    <PartName>Tediore Enhancement Mod</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_SandSLoyaltyDeck</Name>
+    <PartName>S and S Enhancement Mod</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_PangolinLoyaltyDeck</Name>
+    <PartName>Pangolin Enhancement Mod</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_MaliwanLoyaltyDeck</Name>
+    <PartName>Maliwan Enhancement Mod</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_JakobsLoyaltyDeck</Name>
+    <PartName>Jakobs Enhancement Mod</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_HyperionLoyaltyDeck</Name>
+    <PartName>Hyperion Enhancement Mod</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_GearboxLoyaltyDeck</Name>
+    <PartName>Gearbox Enhancement Mod</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_EridianLoyaltyDeck</Name>
+    <PartName>Eridian Enhancement Mod</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_DahlLoyaltyDeck</Name>
+    <PartName>Dahl Enhancement Mod</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_AtlasLoyaltyDeck</Name>
+    <PartName>Atlas Enhancement Mod</PartName>
+  </Section>
+  <Section>
+    <Name>Title.Title_AnshinLoyaltyDeck</Name>
+    <PartName>Anshin Enhancement Mod</PartName>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Loyalty_Gearbox_Roland</Name>
+    <PartName>Gearhead</PartName>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Loyalty_Gearbox_Lilith</Name>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Loyalty_Gearbox</Name>
+    <PartName>Badass</PartName>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Loyalty_Eridian_EridianWarrior</Name>
+    <PartName>Eridian Warrior</PartName>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Command_Roland_Marine</Name>
+    <PartName>Marine</PartName>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Command_Mordecai_TruxicanWrestler</Name>
+    <PartName>Truxican Wrestler</PartName>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Command_Lilith_Specter</Name>
+    <PartName>Specter</PartName>
+  </Section>
+  <Section>
+    <Name>Prefix.Prefix_Command_Brick_Ogre</Name>
+    <PartName>Ogre</PartName>
+  </Section>
+  <Section>
+    <Name>Body_Loyalty.Loyalty_Roland_Vladof</Name>
+    <Rarity>2</Rarity>
+    <CashValueModifier>gd_Balance_Inventory.Cost_ClassMod.ClassModPartCost2_Uncommon</CashValueModifier>
+  </Section>
+  <Section>
+    <Name>Body_Loyalty.Loyalty_Roland_SandS</Name>
+    <Rarity>2</Rarity>
+    <CashValueModifier>gd_Balance_Inventory.Cost_ClassMod.ClassModPartCost2_Uncommon</CashValueModifier>
+  </Section>
+  <Section>
+    <Name>Body_Loyalty.Loyalty_Roland_Atlas</Name>
+    <Rarity>2</Rarity>
+    <CashValueModifier>gd_Balance_Inventory.Cost_ClassMod.ClassModPartCost2_Uncommon</CashValueModifier>
+  </Section>
+  <Section>
+    <Name>Body_Loyalty.Loyalty_Mordecai_Jakobs</Name>
+    <Rarity>2</Rarity>
+    <CashValueModifier>gd_Balance_Inventory.Cost_ClassMod.ClassModPartCost2_Uncommon</CashValueModifier>
+  </Section>
+  <Section>
+    <Name>Body_Loyalty.Loyalty_Mordecai_Hyperion</Name>
+    <Rarity>2</Rarity>
+    <CashValueModifier>gd_Balance_Inventory.Cost_ClassMod.ClassModPartCost2_Uncommon</CashValueModifier>
+  </Section>
+  <Section>
+    <Name>Body_Loyalty.Loyalty_Mordecai_Anshin</Name>
+    <Rarity>2</Rarity>
+    <CashValueModifier>gd_Balance_Inventory.Cost_ClassMod.ClassModPartCost2_Uncommon</CashValueModifier>
+  </Section>
+  <Section>
+    <Name>Body_Loyalty.Loyalty_Lilith_Maliwan</Name>
+    <Rarity>2</Rarity>
+    <CashValueModifier>gd_Balance_Inventory.Cost_ClassMod.ClassModPartCost2_Uncommon</CashValueModifier>
+  </Section>
+  <Section>
+    <Name>Body_Loyalty.Loyalty_Lilith_Eridian</Name>
+    <Rarity>2</Rarity>
+    <CashValueModifier>gd_Balance_Inventory.Cost_ClassMod.ClassModPartCost2_Uncommon</CashValueModifier>
+  </Section>
+  <Section>
+    <Name>Body_Loyalty.Loyalty_Lilith_Dahl</Name>
+    <Rarity>2</Rarity>
+    <CashValueModifier>gd_Balance_Inventory.Cost_ClassMod.ClassModPartCost2_Uncommon</CashValueModifier>
+  </Section>
+  <Section>
+    <Name>Body_Loyalty.Loyalty_Brick_Torgue</Name>
+    <Rarity>2</Rarity>
+    <CashValueModifier>gd_Balance_Inventory.Cost_ClassMod.ClassModPartCost2_Uncommon</CashValueModifier>
+  </Section>
+  <Section>
+    <Name>Body_Loyalty.Loyalty_Brick_Tediore</Name>
+    <Rarity>2</Rarity>
+    <CashValueModifier>gd_Balance_Inventory.Cost_ClassMod.ClassModPartCost2_Uncommon</CashValueModifier>
+  </Section>
+  <Section>
+    <Name>Body_Loyalty.Loyalty_Brick_Pangolin</Name>
+    <CashValueModifier>gd_Balance_Inventory.Cost_ClassMod.ClassModPartCost6_Legendary</CashValueModifier>
+    <Rarity>Balance</Rarity>
+  </Section>
+  <Section>
+    <Name>Body_Loyalty.Loyalty_All_Gearbox</Name>
+    <Rarity>2</Rarity>
+    <CashValueModifier>gd_Balance_Inventory.Cost_ClassMod.ClassModPartCost2_Uncommon</CashValueModifier>
+  </Section>
+  <Section>
+    <Name>Body_Command.Roland_Dahl_Marine</Name>
+    <Rarity>2</Rarity>
+    <CashValueModifier>gd_Balance_Inventory.Cost_ClassMod.ClassModPartCost2_Uncommon</CashValueModifier>
+  </Section>
+  <Section>
+    <Name>Body_Command.Mordecai_SandS_Truxican</Name>
+    <Rarity>2</Rarity>
+    <CashValueModifier>gd_Balance_Inventory.Cost_ClassMod.ClassModPartCost2_Uncommon</CashValueModifier>
+  </Section>
+  <Section>
+    <Name>Body_Command.Lilith_Hyperion_Specter</Name>
+    <Rarity>2</Rarity>
+    <CashValueModifier>gd_Balance_Inventory.Cost_ClassMod.ClassModPartCost2_Uncommon</CashValueModifier>
+  </Section>
+  <Section>
+    <Name>Body_Command.Brick_Torgue_Ogre</Name>
+    <Rarity>2</Rarity>
+    <CashValueModifier>gd_Balance_Inventory.Cost_ClassMod.ClassModPartCost2_Uncommon</CashValueModifier>
+  </Section>
+  <Section>
+    <Name>A_Item.Item_LoyaltyDeck_Roland</Name>
+    <BaseCashValueModifier>100</BaseCashValueModifier>
+    <BaseRarity>6</BaseRarity>
+    <Presentation>comm</Presentation>
+  </Section>
+  <Section>
+    <Name>A_Item.Item_LoyaltyDeck_Mordecai</Name>
+    <BaseCashValueModifier>100</BaseCashValueModifier>
+    <BaseRarity>6</BaseRarity>
+    <Presentation>comm</Presentation>
+  </Section>
+  <Section>
+    <Name>A_Item.Item_LoyaltyDeck_Lilith</Name>
+    <BaseCashValueModifier>100</BaseCashValueModifier>
+    <BaseRarity>6</BaseRarity>
+    <Presentation>comm</Presentation>
+  </Section>
+  <Section>
+    <Name>A_Item.Item_LoyaltyDeck_Gearbox</Name>
+    <BaseCashValueModifier>100</BaseCashValueModifier>
+    <BaseRarity>6</BaseRarity>
+    <Presentation>comm</Presentation>
+  </Section>
+  <Section>
+    <Name>A_Item.Item_LoyaltyDeck_Brick</Name>
+    <BaseCashValueModifier>100</BaseCashValueModifier>
+    <BaseRarity>6</BaseRarity>
+    <Presentation>comm</Presentation>
+  </Section>
+</INI>

@@ -1,0 +1,10 @@
+[LeftSide.LeftSide_Level1]
+PartName=""
+Description="Level 1 Ammo Upgrade."
+NoConstraintText=""
+Suffix=""
+[LeftSide.LeftSide_Level2]
+PartName=""
+Description="Level 1 Ammo Upgrade."
+NoConstraintText=""
+Suffix=""

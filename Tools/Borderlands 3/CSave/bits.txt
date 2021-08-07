@@ -1,0 +1,205 @@
+InventoryData:
+1	7
+17	8
+21	9
+22	10
+37	11
+
+InventoryBalanceData:
+1	9
+15	10
+25	11
+53	12
+
+BPVehiclePart_C:
+1	6
+6	7
+24	8
+45	9
+
+BPInvPart_Dahl_SMG_C:
+1	6
+16	7
+
+BPInvPart_VLA_AR_C:
+1	6
+7	7
+
+BPInvPart_PS_DAL_C:
+1	6
+
+BPInvPart_Maliwan_SMG_C:
+1	6
+27	7
+
+BPInvPart_MAL_SR_C:
+1	6
+10	7
+
+BPInvPart_HW_COV_C:
+1	6
+57	7
+
+BPInvPart_SG_MAL_C:
+1	6
+50	7
+
+BPInvPart_Jakobs_Pistol_C:
+1	6
+34	7
+
+BPInvPart_ATL_AR_C:
+1	6
+
+BPInvPart_AR_COV_C:
+1	6
+55	7
+
+BPInvPart_AR_DAL_C:
+1	6
+23	7
+
+BPInvPart_JAK_AR_C:
+1	6
+52	7
+
+BPInvPart_ATL_HW_C:
+1	6
+
+BPInvPart_HW_TOR_C:
+1	6
+47	7
+
+BPInvPart_HW_VLA_C:
+1	6
+
+BPInvPart_PS_ATL_C:
+1	6
+
+BPInvPartData_EridianFabricator_C:
+1	1
+
+BPInvPart_PS_MAL_C:
+1	6
+34	7
+
+BPInvPart_PS_VLA_C:
+1	6
+20	7
+
+BPInvPart_SG_JAK_C:
+1	6
+13	7
+
+BPInvPart_SG_TED_C:
+1	6
+56	7
+
+BPInvPart_SG_Torgue_C:
+1	6
+54	7
+
+BPInvPart_SM_TED_C:
+1	6
+56	7
+
+BPInvPart_SR_DAL_C:
+1	6
+35	7
+
+BPInvPart_SR_HYP_C:
+1	6
+29	7
+
+BPInvPart_SR_JAK_C:
+1	6
+51	7
+
+BPInvPart_VLA_SR_C:
+1	6
+33	7
+
+BPInvPart_GrenadeMod_C:
+1	7
+32	8
+
+BPInvPart_Shield_C:
+1	7
+14	8
+
+BPInvPart_Artifact_C:
+1	6
+18	7
+28	8
+
+BPInvPart_ClassMod_C:
+1	8
+4	9
+26	10
+
+BPInvPart_Tediore_Pistol_C:
+1	6
+
+BPInvPart_Hyperion_Shotgun_C:
+1	6
+37	7
+
+BPInvPart_SM_Hyperion_C:
+1	6
+37	7
+
+ManufacturerData:
+1	5
+43	6
+
+BPInvPart_PS_COV_C:
+2	6
+59	7
+
+BPInvPart_PS_TOR_C:
+3	6
+35	7
+
+BPInvPart_AR_TOR_C:
+5	6
+48	7
+
+InventoryCustomizationPartData:
+8	2
+17	4
+19	7
+46	8
+
+BPInvPart_Customization_Head_C:
+9	4
+11	7
+
+BPInvPart_Customization_Skin_C:
+11	6
+12	8
+
+InventoryGenericPartData:
+30	1
+31	2
+38	3
+39	4
+40	5
+41	6
+45	7
+58	8
+
+DownloadableEntitlementPartData:
+36	2
+44	3
+
+ItemPoolData:
+37	10
+45	11
+
+OakDownloadableContentLicenseData:
+41	1
+42	3
+49	4
+60	5
+
+

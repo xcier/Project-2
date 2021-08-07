@@ -1,0 +1,2223 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!--Comment-->
+<INI>
+  <Section>
+    <Name>Z2_Missions.Missions.M_ClaptrapRescueLanceBunker</Name>
+    <MissionName>Claptrap Rescue: Crimson Fastness</MissionName>
+    <MissionDescription>You've discovered another defunct Claptrap robot. Could there be an unused repair kit somewhere out here?</MissionDescription>
+    <TurnInDescription>Thank you kindly, stranger! The Crimson Lance have no tolerance for perfectly innocent robots, such as yours truly, who wander into other people's bunkers and then get lost through no fault of their own. Here's a small gift to show my undying gratitude.</TurnInDescription>
+    <MissionSummary>Find a repair kit and return to the Claptrap robot.</MissionSummary>
+    <MissionGiver>Claptrap</MissionGiver>
+    <Objectives0>Repair Kit:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z2_Missions.Missions.M_ClaptrapRescueSanctuary</Name>
+    <MissionName>Claptrap Rescue: The Salt Flats</MissionName>
+    <MissionDescription>You've discovered another defunct Claptrap robot. Could there be an unused repair kit somewhere out in this desolate place?</MissionDescription>
+    <TurnInDescription>It was horrible! I don't know what happened, exactly, but I was caught in the crossfire! You definitely want to have the best possible gear if you're going to venture into this battleground. Here, you might find this useful.</TurnInDescription>
+    <MissionSummary>Find a repair kit and return to the Claptrap robot.</MissionSummary>
+    <MissionGiver>Claptrap</MissionGiver>
+    <Objectives0>Repair Kit:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z2_Missions.Missions.M_FindEcho</Name>
+    <MissionName>Find the ECHO Command Console</MissionName>
+    <MissionDescription>It's probably impossible to take back the Vault Key or open the Vault now. Let's focus on something else instead. Let's bring the ECHO system back on-line. The Lance locked it down, but I know how we can bring it back, since I pretty much invented it. I wrote some instructions on the back of this paper towel. Find the ECHO command console, and follow my instructions.</MissionDescription>
+    <TurnInDescription>This appears to be the ECHO command console that Tannis described. If you manage to read her rambling scrawl, you should be able to reactivate the system.</TurnInDescription>
+    <MissionSummary>Find the ECHO command console.</MissionSummary>
+    <MissionGiver>Patricia Tannis</MissionGiver>
+    <Objectives0>ECHO console found:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z2_Missions.Missions.M_FindSteele</Name>
+    <MissionName>Find Steele</MissionName>
+    <MissionDescription>I know where the Vault is, and so does Steele. She took my Vault Key. You know, the one you worked so hard to get for me? Well, she took it. That albino bitch is going to open the Vault unless you can somehow find her and beat her to it. I'm marking a waypoint at the location of the Vault. I don't have to tell you what to do, do I?</MissionDescription>
+    <TurnInDescription>You've fallen into an ambush set by the Crimson Lance. Steele anticipated your pursuit and took measures to ensure you couldn't interfere.</TurnInDescription>
+    <MissionSummary>Find Steele and take back the Vault Key.</MissionSummary>
+    <MissionGiver>Patricia Tannis</MissionGiver>
+    <Objectives0>Steele found:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z2_Missions.Missions.M_FindTheVault</Name>
+    <MissionName>Destroy The Destroyer</MissionName>
+    <MissionDescription>Do you feel that I betrayed you? Do not. I am possessed of a sight that allows me to look forward and backward along the timeline, and the release of this creature was inevitable. There was only one chance for this dimension's continued existence. A hero. Someone who was at the right place, at the right time, and strong enough to push back. I have given you the unique opportunity to defend the existence of all that you know. Go! Fight! Be that hero! I will help you however I can.</MissionDescription>
+    <TurnInDescription>You did it! You won. I'm sorry I couldn't warn you, but for you to be here, it couldn't have unfolded any other way. You were brilliant, and your actions will not go unrewarded.</TurnInDescription>
+    <MissionSummary>Defeat the Destroyer.</MissionSummary>
+    <MissionGiver>Guardian Angel</MissionGiver>
+    <Objectives0>Destroyer defeated:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z2_Missions.Missions.M_ReactivateEcho</Name>
+    <MissionName>Reactivate the ECHO Comm System</MissionName>
+    <MissionDescription>The notes Tannis gave you are rambling and disjointed, and appear to be written in the form of an argument with either an invisible cellmate or a rat. However, she also mentions reactivating three network transmitter consoles in three separate buildings, then returning to this main control console.</MissionDescription>
+    <TurnInDescription>Success! The ECHO communication network is back on-line.</TurnInDescription>
+    <MissionSummary>Reactivate Transmitter Consoles.</MissionSummary>
+    <MissionGiver>Patricia Tannis</MissionGiver>
+    <Objectives0>Transmitter Console activated:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z2_Missions.Missions.M_RecoverLostData_3</Name>
+    <MissionName>Hidden Journal: Rust Commons East</MissionName>
+    <MissionDescription>This is Patricia Tannis, calling for anyone with two brain cells to rub together. I hid five of my Data Recorders in Rust Commons East, but now I've decided I want them back. Listen to each one, and your ECHO device will record them. Once you have all five recordings, upload them to the bounty board.</MissionDescription>
+    <TurnInDescription>Thank you for returning my journal recordings. I know that you listened to them, so now I ask that you apply blunt force trauma to your head until you forget what you heard. Those journals are private and personal.</TurnInDescription>
+    <MissionSummary>Download 5 Log Entries from Data Recorders in Rust Commons East.</MissionSummary>
+    <MissionGiver>Middle Of Nowhere Bounty Board</MissionGiver>
+    <Objectives0>Journal Day 578:</Objectives0>
+    <Objectives1>Journal Day 616:</Objectives1>
+    <Objectives2>Journal Day 653:</Objectives2>
+    <Objectives3>Journal Day 684:</Objectives3>
+    <Objectives4>Journal Day 718:</Objectives4>
+  </Section>
+  <Section>
+    <Name>Z2_Missions.Missions.M_ReturnKey</Name>
+    <MissionName>Bring The Vault Key To Tannis</MissionName>
+    <MissionDescription>The Vault Key won't work again for another two hundred years, so it is now effectively useless. Tannis has volunteered to become the caretaker of the key, and may even pay well for it.</MissionDescription>
+    <TurnInDescription>Thank you for bringing this to me. This cash sum should cover the hardships you've endured, and ensure your continued silence. The key won't work again for hundreds of years, but I must keep it from falling into the wrong hands. In the meantime, I will continue my research. It appears that there is more to be learned from the Eridians than weaponry and spaceships.</TurnInDescription>
+    <MissionSummary>Grab the Vault Key and return to Tannis at her Rust Commons dig site.</MissionSummary>
+    <MissionGiver>Patricia Tannis</MissionGiver>
+    <Objectives0>Vault Key:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z2_Missions.Missions.M_SpeakToTannis</Name>
+    <MissionName>Talk to Tannis</MissionName>
+    <MissionDescription>You continue to be adequate. I can tell the ECHO system is back online because you can hear me, and I can hear you. But, even though we can hear each other, I want you to come back here and talk to me in person. I need to tinker with your ECHO device a bit.</MissionDescription>
+    <TurnInDescription>Those useless Lance don't realize I'm helping you. If they had any sense, they'd have killed all of us long ago. That Steele woman is too intent on opening the Vault, though. Her ambition will be the death of her. Well, if you don't kill her first. You like killing people, right?</TurnInDescription>
+    <MissionSummary>Talk to Tannis inside the Crimson Fastness.</MissionSummary>
+    <MissionGiver>Patricia Tannis</MissionGiver>
+    <Objectives0>Tannis talked to:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z2_Missions.Missions.M_unknown</Name>
+    <MissionName>Get Some Answers</MissionName>
+    <MissionDescription>Tannis has betrayed you. Who knows what motivates that babbling bitch, but it's a sure bet she's fled her dig site. It's time to take back your Vault key and get some answers. First, you'll need to figure out where she's hiding.</MissionDescription>
+    <TurnInDescription>I see you either received my message or came here on some other errand. The Lance locked me in here and shut down the ECHO, but they left my communicator with me. That was really stupid of them. You probably hate me, but I didn't intend to betray you. Steele wanted the key and wanted you gone. Sending you after Baron Flynt was her idea, and it seemed like something you'd enjoy, so I went along with it. Now I'm trapped here, and she's taken the Vault Key.</TurnInDescription>
+    <MissionSummary>Find Tannis, wherever she may be.</MissionSummary>
+    <MissionGiver>Patricia Tannis</MissionGiver>
+    <Objectives0>Tannis found:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_ABugProblem</Name>
+    <MissionName>A Bug Problem</MissionName>
+    <MissionDescription>Given the plant growth I've observed outside of New Haven, I suspect there is a component in the sulfur springs which acts as fertilizer for Pandora's native flora. To test my theory, I need samples both from The Retching Seeps and The Fetid Cauldron. I'd do it myself, but each location is guarded by a nasty spiderant! Eliminate these nuisances, and I'll be able to conduct further tests without the need for assistance.</MissionDescription>
+    <TurnInDescription>Excellent work! I will begin testing these samples right away. Perhaps this study will eventually lead to profitable agriculture on Pandora! Here is your reward for helping an old chemist with his bug problem.</TurnInDescription>
+    <MissionSummary>Collect sulphur samples and kill Helob and Widowmaker.</MissionSummary>
+    <MissionGiver>Middle Of Nowhere Bounty Board</MissionGiver>
+    <Objectives0>Retching Seeps sample:</Objectives0>
+    <Objectives1>Widowmaker killed:</Objectives1>
+    <Objectives2>Fetid Cauldron sample:</Objectives2>
+    <Objectives3>Helob killed:</Objectives3>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_AltarEgo</Name>
+    <MissionName>Altar Ego: Burning Heresy</MissionName>
+    <MissionDescription>We need to put an end to this new 'religion' the bandits are creating, before they gain a following and all hell breaks loose. I can't help but wonder what started the whole thing, but I'm paying you to end it. I want you to destroy the scriptures that they preach at each of their altars.</MissionDescription>
+    <TurnInDescription>I should've known, we've only made them angrier and more zealous. Fortunately, I've got new information that'll put an end to these charlatans.</TurnInDescription>
+    <MissionSummary>Burn the scriptures at bandit chapels.</MissionSummary>
+    <MissionGiver>Middle Of Nowhere Bounty Board</MissionGiver>
+    <Objectives0>1st scripture burnt:</Objectives0>
+    <Objectives1>2nd scripture burnt:</Objectives1>
+    <Objectives2>3rd scripture burnt:</Objectives2>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_AnotherLittleSuprise</Name>
+    <MissionName>Another Piece Of The Puzzle</MissionName>
+    <MissionDescription>The Guardian Angel spoke cryptically of a challenge that awaits in the Trash Coast, and Tannis thinks another piece of the Vault Key can be found there. Given the way things have worked out so far, you're probably going to need to overcome this mysterious challenge before you'll be able to obtain the third fragment of the Vault Key and return it to Tannis.</MissionDescription>
+    <TurnInDescription>This is the third piece of the Vault Key that you've brought me. We almost have the complete set now.</TurnInDescription>
+    <MissionSummary>Recover another Vault Key Piece from the Trash Coast.</MissionSummary>
+    <MissionGiver>Guardian Angel</MissionGiver>
+    <Objectives0>Challenge overcome:</Objectives0>
+    <Objectives1>Vault Key Piece:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_AssassinateJack</Name>
+    <MissionName>Jack's Other Eye</MissionName>
+    <MissionDescription>What did you and Marcus do?  One-Eyed Jack is madder than hell, and my sources tell me he's going to take it out on New Haven.  Our only chance is to kill him before he strikes.  This is your fault.  You fix it.</MissionDescription>
+    <TurnInDescription>That's Jack's eye, alright. I know I was upset with you, but you have taken responsiblity for your actions and fixed the situation.  Thank you.</TurnInDescription>
+    <MissionSummary>Kill One-Eyed Jack, and bring back his eye as proof.</MissionSummary>
+    <MissionGiver>Helena Pierce</MissionGiver>
+    <Objectives0>Jack's Other Eye:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_BaitResearch</Name>
+    <MissionName>Bait And Switch</MissionName>
+    <MissionDescription>Attempts at human habitation along the Trash Coast have always failed, because spiderants overwhelm anyone who tries to live there. The bandits managed it, though, by placing a Queen Spiderant Abdomen in the middle of their camp. I want you to take an abdomen from a rival Queen, then replace the bandits' with that one. Let's see if the spiderants will do our dirty work for us.</MissionDescription>
+    <TurnInDescription>Wow! That was even more successful than I'd hoped! I don't know if that's an easier way to keep the bandits under control, but it's sure as hell more fun! Here's your reward for a job well done.</TurnInDescription>
+    <MissionSummary>Collect a Queen Spiderant Abdomen and swap it for the bandits'.</MissionSummary>
+    <MissionGiver>Middle Of Nowhere Bounty Board</MissionGiver>
+    <Objectives0>Queen Abdomen:</Objectives0>
+    <Objectives1>Abdomen swapped:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_BanditTreasureThree</Name>
+    <MissionName>Bandit Treasure: Three Corpses, Three Keys</MissionName>
+    <MissionDescription>One of the bandits is breathing his last few, ragged breaths. He opens his hand, holding what appears to be a strongbox key. He wheezes, 'Find brothers... two more... keys... Lance get nothin' He coughs and then lies still.</MissionDescription>
+    <TurnInDescription>The three keys open the strongbox. Inside, you find some sort of map. The map marks a location in the Dahl Headland. Perhaps something is hidden there?</TurnInDescription>
+    <MissionSummary>Search Old Haven for keys and a locked strongbox.</MissionSummary>
+    <MissionGiver>Dead Bandit</MissionGiver>
+    <Objectives0>1st Bandit Key:</Objectives0>
+    <Objectives1>2nd Bandit Key:</Objectives1>
+    <Objectives2>3rd Bandit Key:</Objectives2>
+    <Objectives3>Strongbox found:</Objectives3>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_BanditTreasureXMarks</Name>
+    <MissionName>Bandit Treasure: X Marks The Spot</MissionName>
+    <MissionDescription>The ragged map in the strongbox marks a location in the Dahl Headland. The bandit's dying wish was that his treasure not fall into the hands of the Crimson Lance. You feel duty-bound to grant the man's final request by taking it for yourself.</MissionDescription>
+    <TurnInDescription>You've discovered a strongbox like the one in Old Haven. It opens using the same three keys. Inside are various personal mementos from the brothers' childhood, which should fetch a decent price in New Haven. There is also a kick-ass gun.</TurnInDescription>
+    <MissionSummary>Go to the Dahl Headland and recover the bandit treasure.</MissionSummary>
+    <MissionGiver>Dead Bandit</MissionGiver>
+    <Objectives0>Stash found:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_BridgesDamnTrespassers</Name>
+    <MissionName>Get Off My Lawn!</MissionName>
+    <MissionDescription>You want a favor from me? Well, pick my nose and I'll pick yours, as the saying goes. I got trespassers crawlin' all over my property here. They got their eye on my treasure. You get out there and start exterminatin' interlopers. Then we'll see about whatever it was you wanted.</MissionDescription>
+    <TurnInDescription>What the hell do you want?! You better not be taking any of my stuff. You killed all the trespassers? I have no idea what you're talking about. I don't see any trespassers.</TurnInDescription>
+    <MissionSummary>Kill bandits and spiderants.</MissionSummary>
+    <MissionGiver>Crazy Earl</MissionGiver>
+    <Objectives0>Bandits killed:</Objectives0>
+    <Objectives1>Spiderants killed:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_BridgesGetABeer</Name>
+    <MissionName>Hair Of The Dog</MissionName>
+    <MissionDescription>One more thing. I'm all outta booze. You wanna get my alien whatsit? You're gonna go pick up a new supply from the bandits out at Treacher's Landing. They brew a mean moonshine out there. Don't know what's in it, but who cares? Those bandits don't part with it willingly, of course. That's why you're going, and not me!</MissionDescription>
+    <TurnInDescription>Thanks for the booze! Now, about that alien whatever-the-hell. Funny story. Krom heard about it and stopped by about a year ago. Gave me an offer I couldn't refuse. Why do you think I barricaded myself in here? I don't know why he wanted it, but I wasn't about to argue. That's the last I saw of it.</TurnInDescription>
+    <MissionSummary>Collect Bottles Of Booze from the bandits at Treacher's Landing.</MissionSummary>
+    <MissionGiver>Crazy Earl</MissionGiver>
+    <Objectives0>Bottle Of Booze:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_ClaptrapRescueCanyon</Name>
+    <MissionName>Claptrap Rescue: Krom's Canyon</MissionName>
+    <MissionDescription>You've discovered a defunct Claptrap here. It looks like the bandits were pretty rough on him. Perhaps there is a repair kit nearby?</MissionDescription>
+    <TurnInDescription>Thank you most effusively for you kindness and generosity! I am not worthy to lick your boots. Not that I have a tongue. Anyway, I have this trifling trinket, which you may find useful in your travels.</TurnInDescription>
+    <MissionSummary>Find the repair kit and repair this Claptrap.</MissionSummary>
+    <MissionGiver>Claptrap</MissionGiver>
+    <Objectives0>Repair kit:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_ClaptrapRescueNewHaven</Name>
+    <MissionName>Claptrap Rescue: New Haven</MissionName>
+    <MissionDescription>You've discovered another malfunctioning Claptrap robot. You noticed that there were some discarded Claptraps rusting on the scrap heaps around town. Perhaps some spare parts could be salvaged from those?</MissionDescription>
+    <TurnInDescription>Thank you, stranger! What a beautiful, wonderful day this is turning out to be! How can I possibly express my appreciation? I know-- take this! I think you'll like it!</TurnInDescription>
+    <MissionSummary>Find the repair kit and repair this Claptrap.</MissionSummary>
+    <MissionGiver>Claptrap</MissionGiver>
+    <Objectives0>Repair kit:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_ClaptrapRescueOldHaven</Name>
+    <MissionName>Claptrap Rescue: Old Haven</MissionName>
+    <MissionDescription>You've discovered another defunct Claptrap robot. Could there be an unused repair kit somewhere in this town?</MissionDescription>
+    <TurnInDescription>Funny, how just when you think life can't possibly get any worse it suddenly does. I think you ought to know I'm feeling very depressed. A guy finally gets a break from all the shooting and raping. Oh yes, these are desperate men. Just when he's having a rest, you come along and repair him. I suppose you want a reward for exposing me to more of this torturous existence.</TurnInDescription>
+    <MissionSummary>Find the repair kit and repair this Claptrap.</MissionSummary>
+    <MissionGiver>Claptrap</MissionGiver>
+    <Objectives0>Repair Kit:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_ClaptrapRescueScrapyard</Name>
+    <MissionName>Claptrap Rescue: Scrapyard</MissionName>
+    <MissionDescription>You've discovered another defunct Claptrap robot. Could there be an unused repair kit somewhere in this scrap heap?</MissionDescription>
+    <TurnInDescription>Thank you, kind stranger! Now that I am repaired, I can go about my usual duties with aplomb and enthusiasm! Please take this as a token of my gratitude!</TurnInDescription>
+    <MissionSummary>Find the repair kit and repair this Claptrap.</MissionSummary>
+    <MissionGiver>Claptrap</MissionGiver>
+    <Objectives0>Repair Kit:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_ClaptrapRescueTrashCave</Name>
+    <MissionName>Claptrap Rescue: Tetanus Warren</MissionName>
+    <MissionDescription>You've discovered another defunct Claptrap robot. Could there be an unused repair kit somewhere in here?</MissionDescription>
+    <TurnInDescription>Thank you kindly, stranger! The trash collapsed and I fell into this cave. Thanks to you, I think I can find my way back home now. Here's a little something to express my gratitude.</TurnInDescription>
+    <MissionSummary>Find the repair kit and repair this Claptrap.</MissionSummary>
+    <MissionGiver>Claptrap</MissionGiver>
+    <Objectives0>Repair Kit:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_ClaptrapRescueTrashCoast</Name>
+    <MissionName>Claptrap Rescue: Trash Coast</MissionName>
+    <MissionDescription>You've discovered another defunct Claptrap robot. Could there be an unused repair kit somewhere out here?</MissionDescription>
+    <TurnInDescription>Thank you kindly, stranger! I got lost out here and eventually the salt in the air rusted me to pieces. Thanks to you, I think I can find my way back home now. Here's a little something to express my gratitude.</TurnInDescription>
+    <MissionSummary>Find the repair kit and repair this Claptrap.</MissionSummary>
+    <MissionGiver>Claptrap</MissionGiver>
+    <Objectives0>Repair Kit:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_EarlBanditOutpostDestroyed</Name>
+    <MissionName>Today's Lesson: High Explosives</MissionName>
+    <MissionDescription>Those bandit assholes stole my C-Charges! The explosives must be around their camp somewhere. You're gonna teach them a lesson. They want my C-Charges? Fine. We'll shove 'em up their asses and set 'em off. You steal Earl's stuff, you get blasted to hell.</MissionDescription>
+    <TurnInDescription>Hah! Taught those bandits a lesson for sure! Looks like you got a little singed, yourself. Oh, that's right! I had those charges and timers set for remote detonation! I could've done it from here, with the push of a button, but I totally forgot! That's friggin' hilarious!</TurnInDescription>
+    <MissionSummary>Collect Earl's C-Charges, then plant them and set them off.</MissionSummary>
+    <MissionGiver>Crazy Earl</MissionGiver>
+    <Objectives0>C-Charge:</Objectives0>
+    <Objectives1>C-Charge placed:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_EarlsBestFriend</Name>
+    <MissionName>Earl's Best Friend</MissionName>
+    <MissionDescription>My best friend! The bandits took 'im out to the Trash Coast! You gotta save 'im! I'll do anything, just don't let them kill 'im!</MissionDescription>
+    <TurnInDescription>Skrappy! You came home! Who's a good boy? Skrappy's a good boy! Did those mean bandits scare you? Thanks for setting him free. He's really a lap skag, and those bandits wouldn't even know how to clean up his little Skrappy-doos. Would they. No, they wouldn't!</TurnInDescription>
+    <MissionSummary>Rescue Earl's best friend, held by the bandits on the Trash Coast.</MissionSummary>
+    <MissionGiver>Crazy Earl</MissionGiver>
+    <Objectives0>Earl's best friend freed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_FinalArtifact</Name>
+    <MissionName>The Final Piece</MissionName>
+    <MissionDescription>The little Claptrap doorman is freed, so you should now be able to enter the Salt Flats. Talk to the Claptrap once he's at the gate. It is time to go after Baron Flynt, who punched my dog and stole a piece of the Vault Key. Did I mention he lives on a giant digging machine in the Salt Flats? He calls himself the leader of all the bandits. You'd like him, I think.</MissionDescription>
+    <TurnInDescription>Tannis lied. Baron Flynt did not have a piece of the Vault Key.</TurnInDescription>
+    <MissionSummary>Take back the final piece of the Vault Key from Baron Flynt.</MissionSummary>
+    <MissionGiver>Patricia Tannis</MissionGiver>
+    <Objectives0>Bandit patrols destroyed:</Objectives0>
+    <Objectives1>Thor infiltrated:</Objectives1>
+    <Objectives2>Baron Flynt killed:</Objectives2>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_FindEarl</Name>
+    <MissionName>Meet 'Crazy' Earl</MissionName>
+    <MissionDescription>Have you met the bearded turtle yet? Crazy Earl? He hides from me, in his Scrapyard to the south. Any time I want to see him, I have to blow a hole in his junk pile. Anyway, he has a piece of the Vault key, along with most of my underwear. The details of that transaction are unimportant, just get that artifact back.</MissionDescription>
+    <TurnInDescription>Oh, so now that Tannis bitch wants that alien hunk o' junk, eh? And you're her little helper? Bah! And they call ME 'crazy'! What have you done for me, besides blow a hole in my back fence?! Tell me that!</TurnInDescription>
+    <MissionSummary>Go to the Scrapyard and blow up an entrance to meet Crazy Earl.</MissionSummary>
+    <MissionGiver>Patricia Tannis</MissionGiver>
+    <Objectives0>Path cleared:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_FirepowerMunitions</Name>
+    <MissionName>Firepower: Market Correction</MissionName>
+    <MissionDescription>I believe that One-Eyed Jack is storing a recent ammo shipment in his warehouse. We can't have that! When there's too much supply, there's no demand. Prices go down, and nobody profits. So, I want you to go to the warehouse and trigger a little 'market correction' by destroying the ammo dumps. You'll need explosives or elemental weapons, which are, of course, available at any of my stores for a reasonable price!</MissionDescription>
+    <TurnInDescription>You destroyed the ammo dumps! Good work, my friend! You're proving to be an extremly effective partner, and I'm so glad you weren't blasted into soup! Now, if only we knew exactly which corporation has decided to cut me out of my profits!</TurnInDescription>
+    <MissionSummary>Destroy the ammo dumps.</MissionSummary>
+    <MissionGiver>Marcus Kincaid</MissionGiver>
+    <Objectives0>Ammo Dumps destroyed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_FirepowerPlans</Name>
+    <MissionName>Firepower: All Sales Are Final</MissionName>
+    <MissionDescription>I have an amazing opportunity for you, my friend, where both of us stand to profit. You see, the bandits are better equipped than most of the locals! They are a large, untapped market, but they have no demand for my goods! I need someone like you to find out who is supplying them. Go to their hideout and search for a sales invoice or something. I'll pay you a fair price for the information.</MissionDescription>
+    <TurnInDescription>As I suspected, One-Eyed Jack and his men have been receiving weapon shipments. This invoice is encoded, but it looks like one of the manufacturers decided to cut out the middle man and sell direct. I'm that middle man, and I won't tolerate it! Those faceless corporations don't care about the work I do to scratch out a living here. We must stop them somehow!</TurnInDescription>
+    <MissionSummary>Search for information about the bandit weapon supplier.</MissionSummary>
+    <MissionGiver>Marcus Kincaid</MissionGiver>
+    <Objectives0>Weapon Shipment Invoice:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_FirepowerWeapons</Name>
+    <MissionName>Firepower: Plight Of The Middle Man</MissionName>
+    <MissionDescription>I need to know who exactly is supplying the bandits. The invoice you found was a good start, but we need more. I'm sure you can find some of the original shipping crates, and that will provide the evidence we need. While you're at it, destroy One-Eyed Jack's weapon caches. There is too much of my competitor's product out there! We'll show them what happens when they try to cut out the middle man!</MissionDescription>
+    <TurnInDescription>So, it was Torgue who was delivering weapons to Pandora behind my back! I'll be sure to give them a stern talking-to about about their business practices.  As for the bandits, hopefully they know to buy from me from now on. Thank you, my friend! It's been a pleasure doing business with you!</TurnInDescription>
+    <MissionSummary>Destroy Weapon Caches and find evidence.</MissionSummary>
+    <MissionGiver>Marcus Kincaid</MissionGiver>
+    <Objectives0>Caches destroyed:</Objectives0>
+    <Objectives1>Evidence found:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_GreenCrystalHarvest</Name>
+    <MissionName>Corrosive Crystal Harvest</MissionName>
+    <MissionDescription>Corrosive Elemental Artifacts allow you to customize your skills with the power of acid. The key component for such an artifact is the Corrosive Crystal. I can fashion an artifact for you, but you'll need to provide the crystals. Go to the Tetanus Warren and shoot the Crystal Clusters to break them apart. Watch out for the bandits that have taken over the cave.</MissionDescription>
+    <TurnInDescription>These crystals are perfect! Here's the artifact I promised. Enjoy your corrosive new ability!</TurnInDescription>
+    <MissionSummary>Harvest Corrosive Crystals in the Tetanus Warren.</MissionSummary>
+    <MissionGiver>New Haven Bounty Board</MissionGiver>
+    <Objectives0>Corrosive Crystals:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_GreenThumb</Name>
+    <MissionName>Green Thumb</MissionName>
+    <MissionDescription>The flowers around here may look pretty, but they're actually a pretty destructive force, and they grow just about anywhere there's water. So, you can probably understand why a broken water pipe is such a problem. Please fix it, before the flowers run me out of my home! Find a valve somewhere, then use it to turn off the water pump.</MissionDescription>
+    <TurnInDescription>Those flowers will die off in no time. Thanks for helping out. I was never much of a plumber.</TurnInDescription>
+    <MissionSummary>Find a valve somewhere, then use it to turn off the water pump.</MissionSummary>
+    <MissionGiver>Stance Von Kofsky</MissionGiver>
+    <Objectives0>Valve:</Objectives0>
+    <Objectives1>Water pump turned off:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_GunboatSabotage</Name>
+    <MissionName>I've Got A Sinking Feeling...</MissionName>
+    <MissionDescription>The bandits have a new weapon. They've built three gunboats, and they're using them to stage raids along the entire coastline. It's got to stop. I'm putting up a bounty for anyone who'll go to Treacher's Landing and sink those things.</MissionDescription>
+    <TurnInDescription>Great, that should put an end to the coastline raids. Those bandits are resourceful bastards, aren't they? Turn your back for a second and they'll think of some other new way to kill you.</TurnInDescription>
+    <MissionSummary>Sink the Righteous Man, Great Vengeance, and Furious Anger.</MissionSummary>
+    <MissionGiver>Scooter</MissionGiver>
+    <Objectives0>Righteous Man sunk:</Objectives0>
+    <Objectives1>Great Vengeance sunk:</Objectives1>
+    <Objectives2>Furious Anger sunk:</Objectives2>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_HeathensGodlessMonsters</Name>
+    <MissionName>Altar Ego: Godless Monsters</MissionName>
+    <MissionDescription>After looking at those pamphlets you collected, I'm fairly certain there's something interesting out there. Their crude drawings show stick figures gathered around some kind of monster named 'Slither'. Maybe if you kill their 'god', they'll abandon this whole religious scheme?</MissionDescription>
+    <TurnInDescription>This so-called 'Slither' is dead, so hopefully all of this bandit zealotry will die down. Thank you for helping in this matter.</TurnInDescription>
+    <MissionSummary>Go to the Trashy Knoll, find Slither, and kill it.</MissionSummary>
+    <MissionGiver>Middle Of Nowhere Bounty Board</MissionGiver>
+    <Objectives0>Slither killed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_HeathensInvestigate</Name>
+    <MissionName>Altar Ego: The New Religion</MissionName>
+    <MissionDescription>You know Old Lynne Abbey, up on the Overlook? That place has been abandoned since we pulled out of Old Haven, but some bandits recently took the place over, and are now proselytizing and handing out pamphlets to anyone who'll listen. I doubt those nut jobs have really found religion. We need to grab some of those pamplets and find out what they're up to.</MissionDescription>
+    <TurnInDescription>Judging by the chicken scratches on the pamphlets, these bandits are about as literate as three-year-olds. Nevertheless, they are total zealots. Something's going on, and we need to take action before they gain a following.</TurnInDescription>
+    <MissionSummary>Collect pamphlets from the bandits at Old Lynne Abbey.</MissionSummary>
+    <MissionGiver>Middle Of Nowhere Bounty Board</MissionGiver>
+    <Objectives0>Pamphlets:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_JaynisBrotherLove</Name>
+    <MissionName>Jaynistown: A Brother's Love</MissionName>
+    <MissionDescription>My brother Jaynis is the leader of Jaynistown, and he's turned the place into a hive of scum and villainy. It wasn't always that way. Good people used to live in that town, but his thugs chased them all away. When I protested, he exiled me, his own brother! It ain't right, and the people of that town deserve better. Jaynis needs to be 'removed' from office. Violently.</MissionDescription>
+    <TurnInDescription>Thank you. You understand why a man can't kill his own brother. But, bounty hunters are another matter. At any rate, this is the beginning of a new era! Soon Jaynistown will be known as Taylortown!</TurnInDescription>
+    <MissionSummary>Kill Jaynis Kobb in Jaynistown</MissionSummary>
+    <MissionGiver>Taylor Kobb</MissionGiver>
+    <Objectives0>Jaynis Kobb killed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_JaynisCleaningUp</Name>
+    <MissionName>Jaynistown: Cleaning Up Your Mess</MissionName>
+    <MissionDescription>An idiot Vault Hunter follows the direction of an insane archeologist, and the result is disaster. Jaynis was no angel, but under Taylor's rule, Jaynistown is a greater threat than ever. You caused this mess, so you can clean it up by killing Taylor Kobb. If reaching the Trash Coast is so blasted important, his hacked Claptrap should allow you to pass once he's dead.</MissionDescription>
+    <TurnInDescription>With Taylor Kobb dead, his hacked Claptrap should have reverted to his original programming. He should be willing to open the passage to the Trash Coast now.</TurnInDescription>
+    <MissionSummary>Kill Taylor Kobb, then talk to his Claptrap.</MissionSummary>
+    <MissionGiver>Helena Pierce</MissionGiver>
+    <Objectives0>Taylor Kobb killed:</Objectives0>
+    <Objectives1>Claptrap talked to:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_JaynisGettingWhatsComing</Name>
+    <MissionName>Jaynistown: Getting What's Coming To You</MissionName>
+    <MissionDescription>You've done a great service for our cause. Taylor has asked that I give you a reward worthy of your service! A little ways outside of New Haven is a container. I'll mark it for you. Go out there and you'll find your reward waiting for you.</MissionDescription>
+    <TurnInDescription>You've found the container which is supposed to hold your payment. It's time to see just how much Taylor Kobb appreciates your services.</TurnInDescription>
+    <MissionSummary>Find the container outside of New Haven.</MissionSummary>
+    <MissionGiver>Erik Franks</MissionGiver>
+    <Objectives0>Container found:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_JaynisSecretRendezvous</Name>
+    <MissionName>Jaynistown: Secret Rendezvous</MissionName>
+    <MissionDescription>I'm reading traces of Eridian artifact activity out at the Trash Coast, so we're going there next. It's across the drawbridges, so talk to one of the Claptraps there. Pierce has already given you the necessary credentials. It's a little shady, but I've arranged for a meeting with a bandit named Taylor Kobb. The bandits of Jaynistown control access to the Trash Coast, but he says he can get us in.</MissionDescription>
+    <TurnInDescription>I heard you want to get into the Trash Coast. I can get you in there, but you're gonna do a favor for me, first. I've got a special job, one that I'd like to keep on the down-low, if you know what I mean. It'd be best for everyone if Helena Pierce never hears about this.</TurnInDescription>
+    <MissionSummary>Cross the drawbridges and talk to Taylor Kobb, outside of Jaynistown.</MissionSummary>
+    <MissionGiver>Patricia Tannis</MissionGiver>
+    <Objectives0>Claptrap talked to:</Objectives0>
+    <Objectives1>Taylor Kobb found:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_JaynisSpreadTheWord</Name>
+    <MissionName>Jaynistown: Spread The Word</MissionName>
+    <MissionDescription>You've removed my brother from power. The next step is to gather my supporters. My right-hand man is a fellow named Erik Franks. You'll find him in New Haven, keeping an eye on that Pierce bitch. Report to him, and he'll spread the word. Once we've gotten the word out, we'll clean the remaining trash out of Jaynistown. I mean, Taylortown!</MissionDescription>
+    <TurnInDescription>We never thought we'd see this day, the day when Jaynistown was liberated from the tyranny of Jaynis Kobb. Long live Taylor Kobb! I'll inform the rest of the men.</TurnInDescription>
+    <MissionSummary>Speak with Erik Franks in New Haven.</MissionSummary>
+    <MissionGiver>Taylor Kobb</MissionGiver>
+    <Objectives0>Erik Franks found:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_JaynisUnintendedConseq</Name>
+    <MissionName>Jaynistown: Unintended Consequences</MissionName>
+    <MissionDescription>Something is fishy here. You'd better go talk to Helena Pierce. Your liberation of Jaynistown may have had unintended consequences.</MissionDescription>
+    <TurnInDescription>You have something to report? What have you done?</TurnInDescription>
+    <MissionSummary>Report to Helena Pierce In New Haven.</MissionSummary>
+    <MissionGiver>Erik Franks</MissionGiver>
+    <Objectives0>Report to Helena Pierce:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_KingWeeWee</Name>
+    <MissionName>King Tossing</MissionName>
+    <MissionDescription>The Tetanus Warren is a series of interconnected hollows under loose piles of rusting scrap metal. As if that weren't dangerous enough, one of the biggest threats to New Haven makes his home there. King Wee Wee is angry, drunken, and surrounded by a legion of followers. I'm offering a fat reward for someone to end his terrible reign.</MissionDescription>
+    <TurnInDescription>Tetanus Warren will no longer suffer under the oppressive rule of King Wee Wee, thanks to you! The threat to New Haven is ended. Here is your payment, with our thanks.</TurnInDescription>
+    <MissionSummary>Go to Tetanus Warren and kill King Wee Wee.</MissionSummary>
+    <MissionGiver>New Haven Bounty Board</MissionGiver>
+    <Objectives0>King Wee Wee killed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_Miscommunication_FindParts</Name>
+    <MissionName>Middle Of Nowhere No More: Fuses? Really?</MissionName>
+    <MissionDescription>The bounty board is missing a fuse, of all things.  Who uses fuses these days, anyhow?  That's the problem, really. They're hard to come by, seeing as most people have thrown 'em all out.  Not like Marcus sells 'em; can't kill anyone with one.  Even if you find one, it probably won't work.  If you find three, there ought to be one in the bunch that will work.  I'd sure appreciate it if you could find some and bring 'em to me.</MissionDescription>
+    <TurnInDescription>Nice going.  These aren't easy to find.  I'll have a look and see if any of them are still good.</TurnInDescription>
+    <MissionSummary>Collect fuses and return to Hudson Johns.</MissionSummary>
+    <MissionGiver>Hudson Johns</MissionGiver>
+    <Objectives0>Bounty Board Fuses:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_Miscommunication_Investigate</Name>
+    <MissionName>Middle Of Nowhere No More: Investigate</MissionName>
+    <MissionDescription>A once popular fuel depot in the Rust Commons was abandoned a while ago. People have taken to calling it the 'Middle of Nowhere.' There was a Bounty Board out there, but it doesn't work anymore. Go take a look at the board and see if you can find its custodian, Mr. Johns. If you were to get the board working again, you might find several jobs left over from before the malfunction.</MissionDescription>
+    <TurnInDescription>What's that? Oh, Miss Helena sent ya! Yeah, that bounty board hasn't worked in along time.  Sure wish it did. Help bring back some traffic to the area.</TurnInDescription>
+    <MissionSummary>Find the Middle of Nowhere bounty board and Mr. Johns.</MissionSummary>
+    <MissionGiver>Helena Pierce</MissionGiver>
+    <Objectives0>Bounty Board investigated:</Objectives0>
+    <Objectives1>Mr. Johns found:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_Miscommunication_ReturnToHelena</Name>
+    <MissionName>Middle Of Nowhere No More: Scoot On Back</MissionName>
+    <MissionDescription>Thanks for helpin' me get the board back up and runnin'.  Be sure to check it for jobs. Next time you're in New Haven, you ought to ask Miss Helena or that loser Scooter to come out and pay me a visit. I'd sure like to see them again.</MissionDescription>
+    <TurnInDescription>You helped Mr. Johns get the board working again? That's great news. I simply must pay the man a visit, if I ever get the chance.</TurnInDescription>
+    <MissionSummary>Return to Helena with the good news.</MissionSummary>
+    <MissionGiver>Hudson Johns</MissionGiver>
+    <Objectives0>Helena talked to:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_Miscommunication_SmallFavor</Name>
+    <MissionName>Middle Of Nowhere No More: Small Favor</MissionName>
+    <MissionDescription>While I get these fuses assembled and working for the bounty board, I need a small favor. Some spiderants are causing a ruckus near by. Exterminate the bugs and when you're done I should have the fuse ready for the bounty board. You scratch my back...ya, know what I mean?</MissionDescription>
+    <TurnInDescription>Nice work.  Will be a while before those buggers bother me again.  Fuses are ready and the board is up and working again.</TurnInDescription>
+    <MissionSummary>Kill off the spiderants for Hudson Johns.</MissionSummary>
+    <MissionGiver>Hudson Johns</MissionGiver>
+    <Objectives0>Spiderants killed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_NewHavenDefenses</Name>
+    <MissionName>Dumpster Diving For Great Justice</MissionName>
+    <MissionDescription>You seem like someone who can keep a secret. You see, my wife can be quick to anger, and we had, uh, a disagreement. In her rage, she took something of great value to me and threw it away. Go check the dumpsters outside of town. I think you'll know what you're looking for when you find it. I know it's asking a lot, but keep this just between you and me, okay? I'll make it worth your while.</MissionDescription>
+    <TurnInDescription>Thanks, man! I'm trusting you to keep this under your hat, right? Here, I'll pay you well to keep this a secret. Don't worry that the money's a little damp, I just washed my hands.</TurnInDescription>
+    <MissionSummary>Search dumpsters around New Haven to recover Erik's, uh, valuables.</MissionSummary>
+    <MissionGiver>Erik Franks</MissionGiver>
+    <Objectives0>Erik's valuables:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_NewHavenGenerators</Name>
+    <MissionName>Power To The People</MissionName>
+    <MissionDescription>You've got some nerve, Vault Hunter, strutting into New Haven like the world owes you something. Well, I've got news for you. You pull your own weight here, or you die. Before I lift one finger to help you on your mad quest for the Vault, you're going to do something for me. The last electrical storm blew out New Haven's power grid. Scooter tells me the equipment is fixed now, but someone needs to go reactivate all the generators. That's where you come in.</MissionDescription>
+    <TurnInDescription>So, you're not afraid to get your hands dirty with a little real work now and then. I'm glad to see that you're good for something other than slaughtering bandits.</TurnInDescription>
+    <MissionSummary>Turn on generators around New Haven.</MissionSummary>
+    <MissionGiver>Helena Pierce</MissionGiver>
+    <Objectives0>Scooter's power on:</Objectives0>
+    <Objectives1>West Gate power on:</Objectives1>
+    <Objectives2>Tenement power on:</Objectives2>
+    <Objectives3>Rooftop power on:</Objectives3>
+    <Objectives4>North Gate power on:</Objectives4>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_OldHaven_Investigate</Name>
+    <MissionName>Smoke Signals: Investigate Old Haven</MissionName>
+    <MissionDescription>Now that the bridges are open, we've noticed four columns of smoke rising from Old Haven. We believe these are bandit distress calls, since they don't have free access to ECHOnet. It could be a trap, but we can't risk ignoring a problem that's worse than the bandits themselves. I'm offering a reward to anyone who will scout Old Haven and find out what's going on.</MissionDescription>
+    <TurnInDescription>The smoke columns were, in fact, distress calls. The Crimson Lance have routed every bandit in Old Haven, and are now using the signal to lure more bandits into their trap. Unfortunately, they make no distinction between you and the bandits!</TurnInDescription>
+    <MissionSummary>Infiltrate Old Haven and investigate the smoke signals.</MissionSummary>
+    <MissionGiver>Helena Pierce</MissionGiver>
+    <Objectives0>Investigate Old Haven:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_OldHaven_Smoked</Name>
+    <MissionName>Smoke Signals: Shut Them Down</MissionName>
+    <MissionDescription>Steele has made good on her earlier threats. The Crimson Lance now consider you as much an enemy as any bandit. If they're going to be killing indiscriminately, you need to defuse their little trap before New Haven residents get hurt. Fight your way through Old Haven and put out their smoke signals. I'll reward you well once the job is done.</MissionDescription>
+    <TurnInDescription>Thank you, here's the reward I promised. By the way, I contacted Steele. Without mentioning your name, I told her there was an attack on 'New Haven residents.' She tells me her men were acting on their own. My ass. I know she wants to turn New Haven into another Lance fiefdom, just like Sanctuary. We'll see about that.</TurnInDescription>
+    <MissionSummary>Shut down the four smoke signals in Old Haven, then return to Helena Pierce.</MissionSummary>
+    <MissionGiver>Helena Pierce</MissionGiver>
+    <Objectives0>Apartment District:</Objectives0>
+    <Objectives1>Canal District:</Objectives1>
+    <Objectives2>Junkyard:</Objectives2>
+    <Objectives3>Rooftops:</Objectives3>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_ReachTheSaltFlats</Name>
+    <MissionName>Not Without My Claptrap</MissionName>
+    <MissionDescription>Once our Vault Key is completed, it will lead us to the location of the Vault. There's just one more piece, and my sources tell me that Baron Flynt has it. He lives on a giant digging machine in the Salt Flats. Wait. The gate to the Salt Flats won't open unless you find the silly little Claptrap doorman. My sources tell me he's trapped inside Old Haven, so maybe you'd better go and get him out of there, first. Otherwise, I'll be stuck here with you.</MissionDescription>
+    <TurnInDescription>Thank you, stranger! I would sing a song about your heroism, but I'm pretty sure the Crimson Lance would hear me and kill us both. They really hate music. So, I'll just see you later at the gate to the Salt Flats! Bye now!</TurnInDescription>
+    <MissionSummary>Rescue Claptrap in Old Haven.</MissionSummary>
+    <MissionGiver>Patricia Tannis</MissionGiver>
+    <Objectives0>Claptrap freed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_RecoverLostData_2</Name>
+    <MissionName>Hidden Journal: Rust Commons West</MissionName>
+    <MissionDescription>This is Patricia Tannis, calling for anyone with two brain cells to rub together. I hid five of my Data Recorders in Rust Commons West, but now I've decided I want them back. Listen to each one, and your ECHO device will record them. Once you have all five recordings, upload them to the bounty board.</MissionDescription>
+    <TurnInDescription>Thank you for returning my journal recordings. I know that you listened to them, so now I ask that you apply blunt force trauma to your head until you forget what you heard. Those journals are private and personal.</TurnInDescription>
+    <MissionSummary>Download 5 Journal Entries from Data Recorders in Rust Commons West.</MissionSummary>
+    <MissionGiver>New Haven Bounty Board</MissionGiver>
+    <Objectives0>Journal Day 224:</Objectives0>
+    <Objectives1>Journal Day 321:</Objectives1>
+    <Objectives2>Journal Day 457:</Objectives2>
+    <Objectives3>Journal Day 481:</Objectives3>
+    <Objectives4>Journal Day 493:</Objectives4>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_RefugeeMissingPersons</Name>
+    <MissionName>Missing Persons</MissionName>
+    <MissionDescription>Is anyone out there willing to help me? I'm trying to find my cousin, Shawn Stokely, and his son Jed. They both live here in New Haven, but they haven't been home or responded to my calls for weeks. Jed was a troubled young man and I think he may have run away again. Shawn must've gone after him, and now I'm fearing the worst. Anyone, please, search around New Haven and find out what happened to my cousin.</MissionDescription>
+    <TurnInDescription>This corpse matches the description of Shawn Stokely. The word 'Reaver' was carved into his forehead with a knife. The man died clutching a note in his hand. The note reads 'Father, I've joined Krom's army. Don't try to come after me. They've given me a better life than you ever did, and a new name. They call me Reaver.'</TurnInDescription>
+    <MissionSummary>Search for evidence of Shawn Stokely's fate around New Haven.</MissionSummary>
+    <MissionGiver>New Haven Bounty Board</MissionGiver>
+    <Objectives0>Shawn Stokely found:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_RelightTheBeacons</Name>
+    <MissionName>Relight The Beacons</MissionName>
+    <MissionDescription>While Dahl still maintained a strong presence on Pandora, they operated two interplanetary beacons, used by interstellar craft for navigation and communication. Recently, bandits have taken up residence around the beacon stations, shutting them down in the process. Somebody needs to get out there and clean the bandit infestation out of those stations, and reactivate the beacons.</MissionDescription>
+    <TurnInDescription>Here's your payment for services rendered. Now that those beacons are active again, hopefully somebody other than Atlas Corp. can access the interplanetary communications network. Getting back in touch with the neighboring systems should do wonders for the local economy.</TurnInDescription>
+    <MissionSummary>Reactivate both beacon towers.</MissionSummary>
+    <MissionGiver>Helena Pierce</MissionGiver>
+    <Objectives0>North Ridge beacon activated:</Objectives0>
+    <Objectives1>Overlook beacon activated:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_Scavenger4</Name>
+    <MissionName>Scavenger: Submachine Gun</MissionName>
+    <MissionDescription>There are components to a submachine gun scattered around. If you find all of these components, I can reassemble the weapon for you. Bring me the Body, Magazine, Sight, and Barrel.</MissionDescription>
+    <TurnInDescription>Great! Here is your submachine gun, good as new.</TurnInDescription>
+    <MissionSummary>Find all of the submachine gun parts.</MissionSummary>
+    <MissionGiver>New Haven Bounty Board</MissionGiver>
+    <Objectives0>SMG Body:</Objectives0>
+    <Objectives1>SMG Magazine:</Objectives1>
+    <Objectives2>SMG Sight:</Objectives2>
+    <Objectives3>SMG Barrel:</Objectives3>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_Scavenger5</Name>
+    <MissionName>Scavenger: Shotgun</MissionName>
+    <MissionDescription>There are components to a shotgun scattered around. If you find all of these components, I can reassemble the weapon for you. Bring me the Body, Magazine, Stock, and Barrel.</MissionDescription>
+    <TurnInDescription>Great! Here is your shotgun, good as new.</TurnInDescription>
+    <MissionSummary>Find all of the shotgun parts.</MissionSummary>
+    <MissionGiver>Middle Of Nowhere Bounty Board</MissionGiver>
+    <Objectives0>Shotgun Body:</Objectives0>
+    <Objectives1>Shotgun Magazine:</Objectives1>
+    <Objectives2>Shotgun Stock:</Objectives2>
+    <Objectives3>Shotgun Barrel:</Objectives3>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_ScootersUsedCarParts</Name>
+    <MissionName>Scooter's Used Car Parts</MissionName>
+    <MissionDescription>Scooter here. Somebody's been really hard on the Runners lately, and we're not going to see a shipment of replacement parts anytime soon. There are probably plenty of spare parts we could salvage out in the Commons. Take this list and return with the parts, and I'll pay you for 'em.</MissionDescription>
+    <TurnInDescription>Thanks, man. With these parts I should be able to keep the Runners running. Somebody's been abusing them like rental cars. You wouldn't happen to know anything about that, would you?</TurnInDescription>
+    <MissionSummary>Collect all the vehicle parts and return to Scooter.</MissionSummary>
+    <MissionGiver>Scooter</MissionGiver>
+    <Objectives0>Front fender:</Objectives0>
+    <Objectives1>Rear fender:</Objectives1>
+    <Objectives2>Fuel cell:</Objectives2>
+    <Objectives3>Rusty Engine:</Objectives3>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_SeekTannis</Name>
+    <MissionName>Seek Out Tannis</MissionName>
+    <MissionDescription>If you insist on continuing your mad pursuit of the Vault, you should visit Patricia Tannis.  I spoke with her about you, and she seemed eager to meet you. If you hurry, you might find her out at her dig site. Talk to Claptrap along the way, and he'll open the gate for you.</MissionDescription>
+    <TurnInDescription>Incredible! With your brain, and all the hurdles that implies, you have correctly identified a piece of the Vault Key. I want you to leave this with me, so that I may run some tests. I had one of these, once. Now, it is in the hands of Crazy Earl, along with many of my unmentionables. Do you like bugs?</TurnInDescription>
+    <MissionSummary>Talk to Tannis at her dig site.</MissionSummary>
+    <MissionGiver>Helena Pierce</MissionGiver>
+    <Objectives0>Claptrap talked to:</Objectives0>
+    <Objectives1>Tannis found:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_SkrappyNeedsFood</Name>
+    <MissionName>Earl Needs Food...Badly</MissionName>
+    <MissionDescription>Hey, if you've got nothing better to do with your time, you can go get me some dinner. I'm talkin' about the best food on Pandora, canned skag meat! Only problem is, Krom likes it, too, and he hijacked my entire supply! Make yourself useful! Go on out to Krom's Canyon and hijack it back.</MissionDescription>
+    <TurnInDescription>With an almost feral look in his eye, Earl snatches the cans of food. He wrestles one of them open, grabs a spoon, and begins eating the contents cold. It's obvious that he's forgotten you were ever here.</TurnInDescription>
+    <MissionSummary>Collect cans of skag meat from Krom's Canyon, then return to Earl.</MissionSummary>
+    <MissionGiver>Crazy Earl</MissionGiver>
+    <Objectives0>Canned skag meat:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_SlaughterMeatAndGreet</Name>
+    <MissionName>Circle Of Slaughter: Meat and Greet</MissionName>
+    <MissionDescription>Think you've got what it takes to be a gladiator? Forget those puny Circle Of Death events my weakling brother puts on, this is where you'll find the REAL action! Talk to Chuck Durden, if you think you got what it takes.</MissionDescription>
+    <TurnInDescription>You think you can hold your own on the arena floor? Come and talk to me any time you want to enter the fray and make a name for yourself. Put on a good show, and you'll be well rewarded.</TurnInDescription>
+    <MissionSummary>Talk to Chuck Durden.</MissionSummary>
+    <MissionGiver>Middle Of Nowhere Bounty Board</MissionGiver>
+    <Objectives0>Chuck Durden met:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_SlaughterWave1</Name>
+    <MissionName>Circle Of Slaughter: Round 1</MissionName>
+    <MissionDescription>All you gotta do is survive. All my pets have to do is tear you in half. See you soon, in one piece or maybe two.</MissionDescription>
+    <TurnInDescription>Bah! You looked like my candy-ass brother out there. But I'm talking to you, so I owe you. Now scram.</TurnInDescription>
+    <MissionSummary>It's kill or be killed!</MissionSummary>
+    <MissionGiver>Chuck Durden</MissionGiver>
+    <Objectives0>Round survived:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_SlaughterWave2</Name>
+    <MissionName>Circle Of Slaughter: Round 2</MissionName>
+    <MissionDescription>Back for more?I'm gonna get 'em real riled up before I let 'em out this time.They're just gonna wanna kill the first person they see. I'd hate to be that guy.Oh wait, that's you.</MissionDescription>
+    <TurnInDescription>Next time I'm gonna light the stick on fire before I poke 'em. I got to get me better stock if they can't take out a lay-about like you. Here's your cash.</TurnInDescription>
+    <MissionSummary>It's kill or be killed!</MissionSummary>
+    <MissionGiver>Chuck Durden</MissionGiver>
+    <Objectives0>Round survived:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_SlaughterWave3</Name>
+    <MissionName>Circle Of Slaughter: Final Round</MissionName>
+    <MissionDescription>This is it. You survive this time, I might actually respect you. I'm betting heavily against you, course I know what's coming and it ain't gonna be pretty.</MissionDescription>
+    <TurnInDescription>I underestimated you stranger. I like your style. Course, can't let you fight anymore. Going through my pets too quickly. Here are your winnings. See you 'round.</TurnInDescription>
+    <MissionSummary>It's kill or be killed!</MissionSummary>
+    <MissionGiver>Chuck Durden</MissionGiver>
+    <Objectives0>Round survived:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_SquatterHouseHunting</Name>
+    <MissionName>House Hunting</MissionName>
+    <MissionDescription>I live in New Haven, but I can't stand having a woman in charge anymore. So, I found a nice bit o' waterfront property out in the Trash Coast. Trouble is, there's a bunch o' them scythid whatever-the-hells hanging around outside, including a really tough one I called Bleeder. Kill them scythids, especially Bleeder, and I'll be able to get the hell away from this place.</MissionDescription>
+    <TurnInDescription>Cleared out my new digs, eh? Thank you, stranger! I'm out o' this cesspit. To hell with these New Haven liberals and their 'woman in charge.'</TurnInDescription>
+    <MissionSummary>Go to the Trash Coast and kill Bleeder.</MissionSummary>
+    <MissionGiver>Middle Of Nowhere Bounty Board</MissionGiver>
+    <Objectives0>Bleeder killed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_ThirdFragment</Name>
+    <MissionName>The Next Piece</MissionName>
+    <MissionDescription>You want my alien doo-dad? It was stolen from me by one tough-ass bandit, a bastard by the name of Krom. If you're stupid enough to take him on, you'll find him to the northeast, in Krom's Canyon. Just follow the river north and past Flood Lock. If you get it back from him, you and that Tannis woman do whatever you want with it. I'm done with it.</MissionDescription>
+    <TurnInDescription>This artifact fits together with the one you brought me earlier, like puzzle pieces. I've seen other Eridian artifacts that worked like this. Apparently, those aliens really liked puzzles. Once all of the pieces are brought together, the object activates. You should find more pieces like this one, so we can put them together. Together.</TurnInDescription>
+    <MissionSummary>Get Krom's piece of the Vault Key and return to Tannis.</MissionSummary>
+    <MissionGiver>Crazy Earl</MissionGiver>
+    <Objectives0>Krom killed:</Objectives0>
+    <Objectives1>Vault Key Piece:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_TurnOnTheStank</Name>
+    <MissionName>Up To Our Ears</MissionName>
+    <MissionDescription>Man!  You wouldn't believe the crap I have to put up with.  And when I say crap I mean honest to goodness crap!  Seems as though bandits overran the Rust Commons Sump Station and killed the personnel. Now the dang pipes are clogged! With all that slurry trickling through tons of vermin-infested, rusting metal, it gets saturated with very unpleasant debris, if you know what I mean. We need it fixed immediately, or we'll be up to our ears in who-knows-what.</MissionDescription>
+    <TurnInDescription>Now you know what I mean when I have to deal with crap.  That ought to be alright for now. Thank you. Now I just need to figure out how I'm ever going to bribe somebody to work there again.</TurnInDescription>
+    <MissionSummary>Destroy the blockage in 2 pipes at the Rust Commons Sump Station.</MissionSummary>
+    <MissionGiver>Scooter</MissionGiver>
+    <Objectives0>Pipe 1 clear:</Objectives0>
+    <Objectives1>Pipe 2 clear:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z1_Missions.Missions.M_WantedFreshFish</Name>
+    <MissionName>Wanted: Fresh Fish</MissionName>
+    <MissionDescription>Fish are a rarity in the sludge you find around the Rust Commons, but they're out there and I'm willing to pay for them. There's no bait, lures, or nets that can catch the bastards, though. Your best bet is to go to the docks at Treacher's Landing and drop a grenade into the water. Grab whatever fish float to the surface, and watch out for the bandits.</MissionDescription>
+    <TurnInDescription>There'll be gumbo on the dinner table tonight! Thank you for getting these for me. Here's the payment we agreed to.</TurnInDescription>
+    <MissionSummary>Throw grenades into the water around Treacher's Landing, and pick up the fish that float to the surface. Bring them back to the New Haven bounty board.</MissionSummary>
+    <MissionGiver>New Haven Bounty Board</MissionGiver>
+    <Objectives0>Fresh Fish:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_AccessStores</Name>
+    <MissionName>The Doctor Is In</MissionName>
+    <MissionDescription>I thought I was a goner that time!  Damn bandits won't leave us alone. Had to lock the place up tight, and now the damn door won't open. Blasted circuits are on the fritz again.  Give it a go from the switch out there, would ya?</MissionDescription>
+    <TurnInDescription>Thanks fer openin' her up again. Name's Zed. They still call me 'doctor', even though they don't let me cut on folks anymore. I keep the med vendors 'round here up and runnin'.  From the vendors you can buy all the healin' you could ever want from a real doc.</TurnInDescription>
+    <MissionSummary>Open Building 03 in Fyrestone, and meet Dr. Zed.</MissionSummary>
+    <MissionGiver>Dr. Zed</MissionGiver>
+    <Objectives0>Building 03 open:</Objectives0>
+    <Objectives1>Dr. Zed talked to:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_BackToZed</Name>
+    <MissionName>Return To Zed</MissionName>
+    <MissionDescription>Head on back to Zed. Let him know you fixed the Catch-A-Ride and opened up the main road. He'll be happy to hear it. Squeeze him a little and I'm sure he'll cough up a little somethin' for your trouble. If he don't, tell him Scooter's gonna come out there and kick his quack ass.</MissionDescription>
+    <TurnInDescription>Some of the locals heard you opened that barricade and hightailed it for New Haven. I wish them the best of luck, but the area is still crawlin' with bandits. Sledge is still out there, and just between you and me, I ain't goin' nowhere until I know for sure I won't end up danglin' from a pike.</TurnInDescription>
+    <MissionSummary>Let Zed know the Catch-A-Ride is fixed.</MissionSummary>
+    <MissionGiver>Scooter</MissionGiver>
+    <Objectives0>Dr. Zed talked to:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_BanditPresence1</Name>
+    <MissionName>Why Are They Here?</MissionName>
+    <MissionDescription>You've discovered a beat-up data recorder dropped by the bandits. The data is too garbled to be of any use, but there may be other recorders like this in Skag Gully. Search for additional evidence, and take any you find back to the bounty board in Fyrestone.</MissionDescription>
+    <TurnInDescription>Using data from the three recorders, you've managed to reconstruct a message. 'You slugs wanna join Sledge's tribe? Fine. Set up a camp in Skag Gully. I want those Fyrestoners pissing their pants.' It sounds like this 'Sledge' is the real threat.</TurnInDescription>
+    <MissionSummary>Find two more data recorders in Skag Gully.</MissionSummary>
+    <MissionGiver>Fyrestone Bounty Board</MissionGiver>
+    <Objectives0>1st Data Recorder:</Objectives0>
+    <Objectives1>2nd Data Recorder:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_BloodOnTheTires</Name>
+    <MissionName>Get A Little Blood On The Tires</MissionName>
+    <MissionDescription>Scooter's lettin' you drive his Runners, huh? You know what's fun? Roadkillin'. Runnin' over every living thing that's stupid enough to wander in front of your grille. I bet you're squeamish, though. I bet good money you haven't got the guts to go roadkillin' yourself.</MissionDescription>
+    <TurnInDescription>Haha! That was worth every penny. Be careful, though. Scooter has no sense of humor. He revoked my Catch-A-Ride permit after I brought back one too many blood-soaked Runners.</TurnInDescription>
+    <MissionSummary>Roadkill enemies with the Runner vehicle.</MissionSummary>
+    <MissionGiver>Fyrestone Bounty Board</MissionGiver>
+    <Objectives0>Roadkill:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_BountyBoard</Name>
+    <MissionName>Job Hunting</MissionName>
+    <MissionDescription>I think you're gonna make a real stir here on Pandora. If you're lookin' for more work, go check the bounty board and see what's available.</MissionDescription>
+    <TurnInDescription>You've found the bounty board. On it are posted jobs and missions that you can complete for rewards and payment. Come back and check the board occasionally, because new jobs are being posted all the time.</TurnInDescription>
+    <MissionSummary>Check the bounty board in Fyrestone for your next job.</MissionSummary>
+    <MissionGiver>Dr. Zed</MissionGiver>
+    <Objectives0>Bounty Board checked:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_BuyGrenades</Name>
+    <MissionName>Got Grenades?</MissionName>
+    <MissionDescription>Good news! I just heard Marcus reopened his weapon vendor in Fyrestone! Before you go after Nine-Toes, you gotta get yourself some grenades. I'm so happy you killed them skags that I'd just hand you some, but I don't have any left after my last fishin' trip. So, head over to Fyrestone and buy some grenades. Then come on back.</MissionDescription>
+    <TurnInDescription>Got a grenade or two? Great! That'll come in handy. Now you're ready to go to Skag Gully and shove one of 'em up Nine-Toes' ass!</TurnInDescription>
+    <MissionSummary>Buy at least one grenade, then return to T.K. Baha.</MissionSummary>
+    <MissionGiver>T.K. Baha</MissionGiver>
+    <Objectives0>Grenade purchased:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_BuyShield</Name>
+    <MissionName>Keep Your Insides Inside</MissionName>
+    <MissionDescription>If you're planning to venture farther outside of Fyrestone, you're gonna need a shield. A shield forms an invisible barrier around you that absorbs incoming damage and keeps it from reaching you. It so happens that I've got them for sale in the med vendor here.</MissionDescription>
+    <TurnInDescription>That ought to do it. Remember that shields aren't invincible. Damage weakens them, and once they're used up, you'll start getting hurt again. If you can avoid taking damage for a few seconds, the shield will recharge back to full power. Anyway, I've decided you're ready to start looking for Nine-Toes.</TurnInDescription>
+    <MissionSummary>Buy a shield from the med vendor.</MissionSummary>
+    <MissionGiver>Dr. Zed</MissionGiver>
+    <Objectives0>Shield purchased:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_CircleMeatAndGreet</Name>
+    <MissionName>Circle Of Death: Meat And Greet</MissionName>
+    <MissionDescription>Think you've got what it takes to be a gladiator? Enter the arena and put your life on the line for the amusement of our spectators and gamblers! Direct all enquiries to Rade Zayben, director of events.</MissionDescription>
+    <TurnInDescription>Ah, fresh meat. Here's how it works.  You survive, you get paid.  Simple as that.</TurnInDescription>
+    <MissionSummary>Talk to Rade Zayben.</MissionSummary>
+    <MissionGiver>Fyrestone Bounty Board</MissionGiver>
+    <Objectives0>Rade Zayben met:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_CircleOfDeath01</Name>
+    <MissionName>Circle Of Death: Round 1</MissionName>
+    <MissionDescription>Get in there.  You live, you get paid.  You die, I get paid a lot more.  Either way, I win.  Oh, and if you're gonna die, at least try to put on a good show. Scream and spurt blood a lot, the crowd loves that.</MissionDescription>
+    <TurnInDescription>You call that skill?  I saw a lot of luck in there.  Crowd seemed to enjoy it for some reason though.  Here's your cut.  You want another go, you let me know.</TurnInDescription>
+    <MissionSummary>It's kill or be killed!</MissionSummary>
+    <MissionGiver>Rade Zayben</MissionGiver>
+    <Objectives0>Round survived:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_CircleOfDeath02</Name>
+    <MissionName>Circle Of Death: Round 2</MissionName>
+    <MissionDescription>Back for more, eh? It's gonna be tougher this time. I don't expect a punk like you to last very long, but you understand the sequel has to up the ante.</MissionDescription>
+    <TurnInDescription>Not bad.  Not as good as I was back in my day, but we can't all be superstars.  Well, I'm talking to you, so I guess I gotta pay you.  If you've got another round in you, you know where to find me.</TurnInDescription>
+    <MissionSummary>It's kill or be killed!</MissionSummary>
+    <MissionGiver>Rade Zayben</MissionGiver>
+    <Objectives0>Round survived:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_CircleOfDeath03</Name>
+    <MissionName>Circle Of Death: Final Round</MissionName>
+    <MissionDescription>No one has gone three rounds in the circle that ain't skag food right now.  You got the smell of skag food.</MissionDescription>
+    <TurnInDescription>You kidding me?  No one should have survived that.  The crowd ain't looking for a hero.  They're looking to see someone die.  Take your money and beat it.</TurnInDescription>
+    <MissionSummary>It's kill or be killed!</MissionSummary>
+    <MissionGiver>Rade Zayben</MissionGiver>
+    <Objectives0>Round survived:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_ClaptrapRescueLostCave</Name>
+    <MissionName>Claptrap Rescue: The Lost Cave</MissionName>
+    <MissionDescription>You've discovered yet another defunct Claptrap here. Doubtless, he wandered in here and was destroyed by the inhabitants of the cave. Perhaps there is a Repair Kit nearby?</MissionDescription>
+    <TurnInDescription>Thank you, kind traveler! I can now return to my assigned duties. By the way, I found this. You look like you could use one of these!</TurnInDescription>
+    <MissionSummary>Find the Repair Kit and repair this Claptrap.</MissionSummary>
+    <MissionGiver>Claptrap</MissionGiver>
+    <Objectives0>Repair Kit:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_ClaptrapRescueSafehouse</Name>
+    <MissionName>Claptrap Rescue: Safe House</MissionName>
+    <MissionDescription>You've discovered a defunct Claptrap here. It looks like the bandits were pretty rough on him. Perhaps there is a Repair Kit nearby?</MissionDescription>
+    <TurnInDescription>Thank you, kind traveler! I can now return to my appointed tasks. By the way, I found this while sweeping out the storage bins. You look like you could use one of these!</TurnInDescription>
+    <MissionSummary>Find the Repair Kit and repair this Claptrap.</MissionSummary>
+    <MissionGiver>Claptrap</MissionGiver>
+    <Objectives0>Repair Kit:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_ExterminateSkag</Name>
+    <MissionName>Nine-Toes: T.K.'s Food</MissionName>
+    <MissionDescription>I did hear it! Damned skags gettin' into my food! Damn them all to hell! You! Whoever you are, I want you to go kill those rat-bastards! They just stole half my food stores! Go get my food back, then we'll talk after I ain't so pissed off.</MissionDescription>
+    <TurnInDescription>Whoo! I enjoyed listening to that. Skag corpses hittin' the ground is like music to my ears. Brought my food back, did ya? Thank you, stranger. So, you're lookin' for Nine-Toes' hideout? It's over in Skag Gully. Seein' as you helped me with my skag problem, I'm happy to help you with your Nine-Toes problem!</TurnInDescription>
+    <MissionSummary>Recover the stolen food items and return to T.K. Baha.</MissionSummary>
+    <MissionGiver>T.K. Baha</MissionGiver>
+    <Objectives0>Stolen Food:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_FixHealthVending</Name>
+    <MissionName>Fix'er Upper</MissionName>
+    <MissionDescription>If you're gonna head out of town, you need a shield. A shield forms an invisible barrier around you that absorbs damage. Normally, you'd buy one from the med vendor here, but this one took a bullet during the bandit raid. Fortunately, it just needs a new Power Coupling, and it so happens there's an old vendor we can use for parts. It's right outside of town, down the road east. Go grab the part, install it into the med vendor, and buy yourself a shield.</MissionDescription>
+    <TurnInDescription>See? You don't need a PhD to do my job. I guess people just feel more comfortable with my honest face and bedside manner. Feel free to sell your items at the med vendor and buy some First Aid Kits for later.</TurnInDescription>
+    <MissionSummary>Obtain a Power Coupling, repair the med vendor, and buy a shield.</MissionSummary>
+    <MissionGiver>Dr. Zed</MissionGiver>
+    <Objectives0>Power Coupling:</Objectives0>
+    <Objectives1>Med Vendor repaired:</Objectives1>
+    <Objectives2>Shield purchased:</Objectives2>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_FixVSS</Name>
+    <MissionName>Bone Head's Theft</MissionName>
+    <MissionDescription>Damned if the Catch-A-Ride station ain't totally busted. Diagnostics report the primary Digistruct Module is missing. Without it, that station won't do diddly. I'd hit up Bone Head and his gang. They got a camp just down the road a bit, tucked away next to Fyrestone. I bet those sons of bitches took it. Get the Digistruct Module back from them and reinstall it into this station.</MissionDescription>
+    <TurnInDescription>See? It drops right in there. Any monkey can do it. Listen, thanks for savin' me all that trouble. I'm gonna set you up with an all-access Runner account. It'll keep you in a vehicle until my gratitude wears thin.</TurnInDescription>
+    <MissionSummary>Get the Digistruct Module from Bone Head.</MissionSummary>
+    <MissionGiver>Scooter</MissionGiver>
+    <Objectives0>Bone Head killed:</Objectives0>
+    <Objectives1>Digistruct Module:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_GatherSeeds</Name>
+    <MissionName>By The Seeds Of Your Pants</MissionName>
+    <MissionDescription>I'll only survive the winter if I can plant my crops soon enough, but I'm out of Bladeflower Seeds. I haven't been able to restock since I closed up Skag Gully. I used to get my seeds from the caves in there while I was hunting skag. Their vomit must make for amazing fertilizer.  Blasted smelly piss mongers apparently are good for something. If you're willing to risk your life and personal hygiene to give a blind man a hand, I'll reward you.</MissionDescription>
+    <TurnInDescription>I can't believe you waded through skag infested, vomit encrusted caves just so I won't starve in the coming season. That's right neighborly of you, and I want you to have this. Even better, come back in a few months, and I'll cook you some of my famous Bladeflower Stew!</TurnInDescription>
+    <MissionSummary>Gather Bladeflower Seeds and return to T.K. Baha.</MissionSummary>
+    <MissionGiver>T.K. Baha</MissionGiver>
+    <Objectives0>Bladeflower Seeds:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_GetMyLegBack</Name>
+    <MissionName>T.K.'s Life And Limb</MissionName>
+    <MissionDescription>I used to be a go-getter like you...till a skag named Scar bit my leg off. I stabbed him through the eye, but it didn't kill him! I had another go after Dr. Zed whipped up a replacement leg, but Scar got that one, too! Pulled the thing clean off, and I was barely able to drag myself home. Say, you mind getting my leg back from Scar?  If you kill him while you're at it, I got a special gift for you!</MissionDescription>
+    <TurnInDescription>Well I'll be the demon spawn of rakk's second cousin!  That's my old leg, all right. Whoo-ee! Didn't account for the stench, but I think I can make it work. Scar got what he deserved? Great! I surely appreciate you bringing this back to me. Thank you kindly.</TurnInDescription>
+    <MissionSummary>Kill Scar in Skag Gully and return T.K. Baha's Prosthetic Leg.</MissionSummary>
+    <MissionGiver>T.K. Baha</MissionGiver>
+    <Objectives0>Scar killed:</Objectives0>
+    <Objectives1>T.K. Baha's Leg:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_HarvestCrystals_Electrical</Name>
+    <MissionName>Shock Crystal Harvest</MissionName>
+    <MissionDescription>Shock Elemental Artifacts allow you to customize your skills with the power of lightning. The key component for such an artifact is the Shock Crystal. I can fashion an artifact for you, but you'll need to provide the crystals. Go to the Lost Cave and shoot the Crystal Clusters to break them apart. Watch out for the bandits that have taken over the cave.</MissionDescription>
+    <TurnInDescription>These crystals are perfect! Here's the artifact I promised. Enjoy your shocking new ability!</TurnInDescription>
+    <MissionSummary>Harvest Shock Crystals in the Lost Cave.</MissionSummary>
+    <MissionGiver>Fyrestone Bounty Board</MissionGiver>
+    <Objectives0>Shock Crystals:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_IntroStateSaver</Name>
+    <MissionName>Fresh Off The Bus</MissionName>
+    <MissionDescription>A mysterious, disembodied woman spoke to you and told you to follow this little robot into town. That seems like the best course of action, for now.</MissionDescription>
+    <TurnInDescription>You followed Claptrap into Fyrestone, and soon found yourself in a firefight with the local bandits. If you can find a survivor, maybe he'll be able to help you on your way to finding the Vault.</TurnInDescription>
+    <MissionSummary>Follow Claptrap into Fyrestone.</MissionSummary>
+    <MissionGiver>Guardian Angel</MissionGiver>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_InvestigateVSS</Name>
+    <MissionName>Catch-A-Ride</MissionName>
+    <MissionDescription>Hey, this here's Scooter. If there's anyone out around Fyrestone, I'd sure appreciate you givin' the Catch-A-Ride a try. It's just south of town and it ain't seen activity for months. I doubt it even works anymore, what with Nine-Toes and Sledge and all the other bandits on the rise.</MissionDescription>
+    <TurnInDescription>Hey, stranger, pleased to meet ya. My name's Scooter. I run the Catch-A-Ride stations and maintain the Runners. Looks like I was right, this station is on the fritz. Lemme run the diagnostics program and see what's up.</TurnInDescription>
+    <MissionSummary>Find and use the Catch-A-Ride Station outside of Fyrestone.</MissionSummary>
+    <MissionGiver>Scooter</MissionGiver>
+    <Objectives0>Catch-A-Ride used:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_JumpTheGap</Name>
+    <MissionName>The Piss Wash Hurdle</MissionName>
+    <MissionDescription>Y'all got one last hurdle to escape Fyrestone. Sledge's bandits put up a gate across the main road. The controls are on the far side. To reach them controls, ya need get yourself a Runner from that there Catch-A-Ride, then drive up the ramp and jump the gully we call 'Piss Wash.'  Once you're over, attack 'em from behind and open that gate!</MissionDescription>
+    <TurnInDescription>Sledge has been doin' everything he can to stop the travel between Fyrestone and New Haven. Now there's one less obstacle, at least. Folks can come and go the easy way.</TurnInDescription>
+    <MissionSummary>Jump over Piss Wash gully and open the bandits' gate.</MissionSummary>
+    <MissionGiver>Scooter</MissionGiver>
+    <Objectives0>Runner driven:</Objectives0>
+    <Objectives1>Piss Wash jumped:</Objectives1>
+    <Objectives2>Gate switch found:</Objectives2>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_KillBandits</Name>
+    <MissionName>Blinding Nine-Toes</MissionName>
+    <MissionDescription>Nine-Toes placed a few men at a small outpost outside of town, across the road and west. Those men report every move we make, so our next move should be to make them dead.</MissionDescription>
+    <TurnInDescription>Well done, friend. Here's the bounty for those guys.  By the time Nine-Toes realizes we've taken out his eyes, we'll already be making our next move.</TurnInDescription>
+    <MissionSummary>Kill bandits and return to Dr. Zed.</MissionSummary>
+    <MissionGiver>Dr. Zed</MissionGiver>
+    <Objectives0>Bandits killed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_KillSkags_Zed</Name>
+    <MissionName>Skags At The Gate</MissionName>
+    <MissionDescription>Outside of Fyrestone, just past the gate and across the road, you'll find several skag dens. A skag is a vicious four-legged creature, and they'll eat anything, including you. I wanna know if you can handle yourself in a fight against some of these beasts, so head on out there and kill some of 'em for me. If you're still in one piece, then c'mon back.</MissionDescription>
+    <TurnInDescription>I guess those skags didn't give you much trouble, eh? You clearly know how to handle a gun. That's good, real good. You're gonna need it, 'cause I've got somethin' else for you to help me with.</TurnInDescription>
+    <MissionSummary>Kill skags and return to Dr. Zed.</MissionSummary>
+    <MissionGiver>Dr. Zed</MissionGiver>
+    <Objectives0>Skags killed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_KillSledge1</Name>
+    <MissionName>Sledge: To The Safe House</MissionName>
+    <MissionDescription>The note you found suggests that the Mine Gate Key can be found at Sledge's Safe House, to the north.</MissionDescription>
+    <TurnInDescription>When the grisly 'key' is placed on the thumbprint scanner, the gate unlocks. Now that you can enter Headstone Mine, it's time to take the fight to Sledge.</TurnInDescription>
+    <MissionSummary>Obtain the Mine Gate Key and take it to Headstone Mine.</MissionSummary>
+    <MissionGiver>Shep Sanders</MissionGiver>
+    <Objectives0>Mine Gate Key:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_KillSledge2</Name>
+    <MissionName>Sledge: Battle For The Badlands</MissionName>
+    <MissionDescription>It's time to push the attack! Infiltrate Headstone Mine and kill Sledge. If you get the chance, grab that Eridian Artifact of his. As Dr. Zed put it, nobody wants another bandit to find it and start another blood-fuelled crusade for the Vault. If you manage to come out of this fight alive, head on back to Zed and let him know what happened.</MissionDescription>
+    <TurnInDescription>I hardly believe you managed to take down Sledge! I'll put in the word to Helena, and I'm sure if I tell her your story, she'll give you the clearance you need to enter the Dahl Headlands.</TurnInDescription>
+    <MissionSummary>Kill Sledge and take his Eridian Artifact.</MissionSummary>
+    <MissionGiver>Shep Sanders</MissionGiver>
+    <Objectives0>Sledge killed:</Objectives0>
+    <Objectives1>Eridian Artifact:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_MeetAl</Name>
+    <MissionName>Nine-Toes: Meet T.K. Baha</MissionName>
+    <MissionDescription>There's a reward for the death of Nine-Toes, but he's elusive. We don't really know where his hideout is. Talk to T.K. Baha at his farm south of Fyrestone. He's blind as a bat, but no one knows the area better than he does. Maybe he can help.</MissionDescription>
+    <TurnInDescription>Who's there?! Oh, new kid in town, eh? The name's T.K. Baha. Wait! I think I heard somethin'...</TurnInDescription>
+    <MissionSummary>Talk to T.K. Baha at T.K.'s Claim.</MissionSummary>
+    <MissionGiver>Dr. Zed</MissionGiver>
+    <Objectives0>T.K. Baha met:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_MeetShep</Name>
+    <MissionName>Sledge: Meet Shep</MissionName>
+    <MissionDescription>I think you're ready to go after Sledge now. You'll probably find him in the old Headstone Mine, but you can't just waltz in there. The place is locked down tight. If there's any way to get inside, Shep Sanders knows it. He was a foreman for Dahl until they pulled out and left him here. You'll find him near the crossroads, keeping an eye on the bandits.</MissionDescription>
+    <TurnInDescription>Hello, friend. The name's Shep Sanders. I oversee the operation of Zephyr Substain and Headstone Mine. Well, that's what I did before Dahl pulled out and the bandits moved in.</TurnInDescription>
+    <MissionSummary>Talk to Shep Sanders near the crossroads.</MissionSummary>
+    <MissionGiver>Dr. Zed</MissionGiver>
+    <Objectives0>Shep Sanders met:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_MissingTools</Name>
+    <MissionName>Is T.K. O.K.?</MissionName>
+    <MissionDescription>I just got a call from my good buddy, T.K. Baha. You met him, right? Blind as a bat in heat, and twice as looney. He'll watch your back in a fight, though. Just make sure you yell a lot so's he knows where you're standin'. Anyway, he called me, but he didn't say nothin'. That coot never calls unless he's got a reason, y'know? Would you go check on him? Make sure a skag didn't eat his other leg or somethin'.</MissionDescription>
+    <TurnInDescription>T.K.'s dead?! Man, that asshole never returned those tools he borrowed, neither! Well, thanks for checkin' on him. Here's some money for your trouble, and by 'trouble', I mean you're gonna be in charge of the funeral. It sure as hell ain't gonna be me! Me and the boys'll raise our glasses in his name tonight.</TurnInDescription>
+    <MissionSummary>Check on T.K. Baha for Scooter.</MissionSummary>
+    <MissionGiver>Scooter</MissionGiver>
+    <Objectives0>T.K. checked on:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_MoeMarley</Name>
+    <MissionName>The Legend Of Moe and Marley</MissionName>
+    <MissionDescription>Rumors speak of Moe and Marley, two of the toughest skags to ever walk Pandora. I want their skulls mounted on my wall, but I'm too busy to go track them down myself. Instead, I'm offering to pay anyone to find them and take them down.</MissionDescription>
+    <TurnInDescription>The rumors were true?! Outstanding! By accepting this payment, you agree that I get to take all credit for killing these monsters. The ladies of Sanctuary will be so impressed!</TurnInDescription>
+    <MissionSummary>Kill Moe and Marley.</MissionSummary>
+    <MissionGiver>Fyrestone Bounty Board</MissionGiver>
+    <Objectives0>Moe killed:</Objectives0>
+    <Objectives1>Marley killed:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_Mothrak</Name>
+    <MissionName>Like A Moth To Flame</MissionName>
+    <MissionDescription>Over in the Arid Badlands, just east of Shine Gravel Processor, people have been disappearing in the night. Some say they're being carried away by a monster rakk, one the locals call 'Mothrakk.' She seems to be attracted to fire, and that's how we're going to lure her out. Light the three torches I've set up, and when she shows up, you take her down!</MissionDescription>
+    <TurnInDescription>Well done! That was the most amazing battle I've ever seen! Man against monster! There were a couple times when I thought you were a goner, but you pulled it off! Enjoy your reward!</TurnInDescription>
+    <MissionSummary>Light the torches and kill Mothrakk.</MissionSummary>
+    <MissionGiver>New Haven Bounty Board</MissionGiver>
+    <Objectives0>1st Torch lit:</Objectives0>
+    <Objectives1>2nd Torch lit:</Objectives1>
+    <Objectives2>3rd Torch lit:</Objectives2>
+    <Objectives3>Mothrakk killed:</Objectives3>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_NineToesGetReward</Name>
+    <MissionName>Nine-Toes: Time To Collect</MissionName>
+    <MissionDescription>Good job killin' Nine-Toes, but I sure as hell ain't gonna pay you for it. You'll want to go back to Zed in Fyrestone. He oughta have a big ol' payday for you, seein' as you did his dirty work and saved his ass.</MissionDescription>
+    <TurnInDescription>You did Fyrestone a great service by eliminating Nine-Toes, and this reward is well-deserved. Unfortunately, he was just a cog in the machine. The real problem is his boss, Sledge.</TurnInDescription>
+    <MissionSummary>Go to Dr. Zed in Fyrestone and collect your reward.</MissionSummary>
+    <MissionGiver>T.K. Baha</MissionGiver>
+    <Objectives0>Returned to Zed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_OpenGatetoSkag</Name>
+    <MissionName>Nine-Toes: Take Him Down</MissionName>
+    <MissionDescription>Nine-Toes is in Skag Gully, but I barricaded the nearest entrance when the skags started actin' up. I rigged it with explosives, just in case I ever wanted to get back in. 'Always plan ahead,' I say! Once you're in, look for my wife's grave. It so happens that I stashed one of her favorite guns behind the grave marker. Use it to kill Nine-Toes. She would've wanted it that way.</MissionDescription>
+    <TurnInDescription>Huh? Who's there?! Oh, it's you again. So you actually pulled it off! Nine-Toes is dead. That'll piss off his boss Sledge for sure. Oh, if only my wife were here now. If only I could remember her name. So lonely...</TurnInDescription>
+    <MissionSummary>Destroy the barricade, enter Skag Gully, and kill Nine-Toes.</MissionSummary>
+    <MissionGiver>T.K. Baha</MissionGiver>
+    <Objectives0>Barricade destroyed:</Objectives0>
+    <Objectives1>Gun stash found:</Objectives1>
+    <Objectives2>Nine-Toes killed:</Objectives2>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_OwedMoneyDebt</Name>
+    <MissionName>Product Recall</MissionName>
+    <MissionDescription>In the journal, Bruce described a scam where he gathered local plant leaves, rolled them into cigars, then sold them to bandits while claiming they were prized offworld tobacco. With the money, he'd hoped to marry his fiancee and take her away from Pandora. Apparently, his first customer immediately died of massive internal bleeding, and the bandits forced Bruce to use his own product as payback. You'd better round up these cigars before some kid gets hold of one and smokes it in a back alley. The journal mentions that Bruce's customers were primarily the bandits around Titan's End.</MissionDescription>
+    <TurnInDescription>Bruce is dead? That idiot! We could've made a life together here, somehow. Instead, he threw it all away on a stupid scam! Oh well, it's not like there aren't plenty of available men around. I'll get by. Thank goodness you took those poisonous cigars off the market!</TurnInDescription>
+    <MissionSummary>Collect Bruce's Boxes Of Cigars near Titan's End.</MissionSummary>
+    <MissionGiver>Fyrestone Bounty Board</MissionGiver>
+    <Objectives0>Box Of Cigars:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_OwedMoneyInvestigate</Name>
+    <MissionName>Find Bruce McClane</MissionName>
+    <MissionDescription>Can anyone help me? I haven't heard from my fiancee in weeks. His name is Bruce McClane, and he lives in a shack out near Zephyr Substation. Last I saw him, he was bragging about how rich he was about to become, and how he was gonna buy us a flight off this planet. Whatever he was up to, I bet it got him into trouble. Please, someone, find my fiancee.</MissionDescription>
+    <TurnInDescription>Bruce McClane is dead, just as his fiancee feared. You found a handwritten journal on his corpse. Perhaps it will shed some light on how he met his end.</TurnInDescription>
+    <MissionSummary>Find Bruce McClane.</MissionSummary>
+    <MissionGiver>Fyrestone Bounty Board</MissionGiver>
+    <Objectives0>Bruce McClane found:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_RakkDebris</Name>
+    <MissionName>What Hit The Fan</MissionName>
+    <MissionDescription>All of the wind turbines are functioning, except for the one in Howling Defile. For some reason, the rakk always flock over that one, so the whole thing is covered in rakk droppings. The turbine blades won't even turn! I'm offering a cash reward to anyone who goes out and shoots all that crap off.</MissionDescription>
+    <TurnInDescription>The Howling Defile wind turbine is spinning again, thanks to you. Here's your reward.</TurnInDescription>
+    <MissionSummary>Shoot the rakk droppings off of the wind turbine in Howling Defile.</MissionSummary>
+    <MissionGiver>Shep Sanders</MissionGiver>
+    <Objectives0>Droppings removed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_RakkMenace</Name>
+    <MissionName>Get The Flock Outta Here</MissionName>
+    <MissionDescription>There's a flock of rakk that keep flying around the wind turbines at Zephyr Substation. The bandits may have control of the turbines for now, but I plan to take them back, and in the meantime, I don't need rakk flying into the blades and damaging the equipment. So, I'm willing to pay you to eliminate the entire flock of rakk.</MissionDescription>
+    <TurnInDescription>Nice shooting! Hopefully, there won't be any further damage to the turbines.</TurnInDescription>
+    <MissionSummary>Kill rakk, then return to Shep Sanders.</MissionSummary>
+    <MissionGiver>Shep Sanders</MissionGiver>
+    <Objectives0>Rakk killed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_RecoverLostData_1</Name>
+    <MissionName>Hidden Journal: The Arid Badlands</MissionName>
+    <MissionDescription>This is Patricia Tannis, calling for anyone with two brain cells to rub together. I hid five of my Data Recorders in the Arid Badlands, but now I've decided I want them back. Listen to each one, and your ECHO device will record them. Once you have all five recordings, upload them to the bounty board.</MissionDescription>
+    <TurnInDescription>Thank you for returning my journal recordings. I know that you listened to them, so now I ask that you apply blunt force trauma to your head until you forget what you heard. Those journals are private and personal.</TurnInDescription>
+    <MissionSummary>Download 5 Log Entries from Data Recorders in the Arid Badlands.</MissionSummary>
+    <MissionGiver>Fyrestone Bounty Board</MissionGiver>
+    <Objectives0>Journal Day 1:</Objectives0>
+    <Objectives1>Journal Day 43:</Objectives1>
+    <Objectives2>Journal Day 76:</Objectives2>
+    <Objectives3>Journal Day 119:</Objectives3>
+    <Objectives4>Journal Day 172:</Objectives4>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_RefugeeTwoWrongs</Name>
+    <MissionName>Two Wrongs Make A Right</MissionName>
+    <MissionDescription>Shawn's cousin will be devastated to hear about this. It seems that this 'Reaver' character needs to be taught a little respect for his elders. If he joined Krom's men, he'll probably be found in Krom's Canyon. Find him, and mete out some old fashioned discipline. Then, return to New Haven and report what happened.</MissionDescription>
+    <TurnInDescription>Jed joined the bandits, took the name 'Reaver', then murdered his own father? Then you killed Jed? Well, that's a lot more horrible than I'd imagined. I'm in shock, I think. Here's your payment, with a little extra for going above and beyond what I asked for. I guess it's all for the best, but please, never contact me again.</TurnInDescription>
+    <MissionSummary>Eliminate Reaver and report back to New Haven.</MissionSummary>
+    <MissionGiver>New Haven Bounty Board</MissionGiver>
+    <Objectives0>Reaver killed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_RepairClapTrap_02</Name>
+    <MissionName>Claptrap Rescue</MissionName>
+    <MissionDescription>Claptrap has been shot by the bandits, but the damage looks minor. Perform a quick diagnostic, then see if you can find a Repair Kit somewhere in Fyrestone. You might be able to revive him.</MissionDescription>
+    <TurnInDescription>Once you've tightened a few screws, replaced some burnt wiring, and judiciously applied a little duct tape, Claptrap is rolling once again.</TurnInDescription>
+    <MissionSummary>Perform a diagnostic on Claptrap, then find the Repair Kit and repair him.</MissionSummary>
+    <MissionGiver>Claptrap</MissionGiver>
+    <Objectives0>Diagnostic performed:</Objectives0>
+    <Objectives1>Repair Kit:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_Saboteur</Name>
+    <MissionName>Schemin' That Sabotage</MissionName>
+    <MissionDescription>This here's a job for anyone who thinks they got a pair that clank. Everyone knows how the bandits overran Headstone Mine. They've been sellin' iridium on the black market. I don't know who's buyin' it, but screw 'em. Anything fundin' bandits needs to stop. I tried blowing the emergency valves on the main line, but they chased me out before the job was done. I need someone to get in there, finish connecting the fuses, then blow them up. Any takers?</MissionDescription>
+    <TurnInDescription>Great work! Without a steady flow of cash, those bandit bastards won't be able to afford their weapons much longer. Maybe that'll keep 'em off my back and outta Fyrestone.</TurnInDescription>
+    <MissionSummary>Infiltrate the Headstone Mine, place the fuses, and use the detonator.</MissionSummary>
+    <MissionGiver>Fyrestone Bounty Board</MissionGiver>
+    <Objectives0>Fuse A placed:</Objectives0>
+    <Objectives1>Fuse B placed:</Objectives1>
+    <Objectives2>Fuse C placed:</Objectives2>
+    <Objectives3>Pipeline Destroyed:</Objectives3>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_Scavenger1</Name>
+    <MissionName>Scavenger: Combat Rifle</MissionName>
+    <MissionDescription>I was working on a custom rifle.  I didn't want the bandits to get a hold of my design so I dismantled it and scattered the components around. If you find all of these components, I can reassemble the weapon for you. Bring me the Body, Stock, Sight, and Barrel.</MissionDescription>
+    <TurnInDescription>She's a beauty, isn't she?  I'm just glad those bandits didn't get a hold of it.  Why don't you hang on to it.  A nice new combat rifle could come in handy, right?</TurnInDescription>
+    <MissionSummary>Find all of the combat rifle parts.</MissionSummary>
+    <MissionGiver>Fyrestone Bounty Board</MissionGiver>
+    <Objectives0>Combat Rifle Body:</Objectives0>
+    <Objectives1>Combat Rifle Stock:</Objectives1>
+    <Objectives2>Combat Rifle Sight:</Objectives2>
+    <Objectives3>Combat Rifle Barrel:</Objectives3>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_Scavenger2</Name>
+    <MissionName>Scavenger: Sniper Rifle</MissionName>
+    <MissionDescription>I used to hunt skags from the east ridge near the mine.  I was working on a new sniper rifle so I could really take 'em down.  I never quite finished and had to stash the parts around so the bandits wouldn't find 'em.  If you retrieve the pieces its all yours.  I need the Stock, Body, Sight, and Barrel.</MissionDescription>
+    <TurnInDescription>You found 'em!  Here you go.  Its ready for action.  Enjoy!</TurnInDescription>
+    <MissionSummary>Find all of the sniper rifle parts.</MissionSummary>
+    <MissionGiver>Fyrestone Bounty Board</MissionGiver>
+    <Objectives0>Sniper Rifle Body:</Objectives0>
+    <Objectives1>Sniper Rifle Stock:</Objectives1>
+    <Objectives2>Sniper Rifle Sight:</Objectives2>
+    <Objectives3>Sniper Rifle Barrel:</Objectives3>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_SubstationKey</Name>
+    <MissionName>Sledge: The Mine Key</MissionName>
+    <MissionDescription>You want to kick Sledge out of Headstone Mine, huh? Good for you. I think you're crazy, but I'll give you a hand. You need the key. Last I checked, there was one down in the Zephyr Substation office. Of course, the bandits aren't going to make it easy for you.</MissionDescription>
+    <TurnInDescription>Instead of a key, you've found a note that was left in its place. Years of accumulated dust suggest that the key won't be returned anytime soon. You'll need to look for it elsewhere.</TurnInDescription>
+    <MissionSummary>Go to Zephyr Substation and get the Mine Key.</MissionSummary>
+    <MissionGiver>Shep Sanders</MissionGiver>
+    <Objectives0>Mine Gate Key:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_TheSkulls</Name>
+    <MissionName>Insult To Injury</MissionName>
+    <MissionDescription>The bandits took over my dig site in the Arid Badlands. Members of my team attempted to defend themselves, but they were failures and now the bandits have hung up their skulls like trophies. This is unsanitary and inappropriate for an archeological dig site. I will pay someone to go to Titan's End and remove their skulls from the pikes.</MissionDescription>
+    <TurnInDescription>Have the bandits stopped displaying skulls as trophies? Good. The last replacement team I hired immediately quit in fear. It's good to know that my next team won't be aware of the danger, and will continue to do their work for me.</TurnInDescription>
+    <MissionSummary>Remove the human skulls from the pikes at Titan's End.</MissionSummary>
+    <MissionGiver>Fyrestone Bounty Board</MissionGiver>
+    <Objectives0>Skulls removed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_TKHasMoreWork</Name>
+    <MissionName>T.K. Has More Work</MissionName>
+    <MissionDescription>Hey, stranger! If you're still alive, I've got some more work for you! Come see me and I'll fill you in.</MissionDescription>
+    <TurnInDescription>Glad you could stop by! I don't get hardly any visitors since my wife died. I think you're actually my best friend! Well, friend, I've got another job for someone with your talents.</TurnInDescription>
+    <MissionSummary>Go see T.K. Baha.</MissionSummary>
+    <MissionGiver>T.K. Baha</MissionGiver>
+    <Objectives0>T.K. Baha visited:</Objectives0>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_TravelToNH</Name>
+    <MissionName>Leaving Fyrestone</MissionName>
+    <MissionDescription>Pierce agreed to bump up your clearance level. She wants you to go to New Haven and meet with her. So, drive west to the Dahl Headland gate, and speak with the Claptrap robot there. He'll let you through. When you get past the gate, talk with Ernest Whitting on the other side. He knows the Headland better than anyone, and can bring you up to speed.</MissionDescription>
+    <TurnInDescription>You showed up just in the nick of time. The bandits have regrouped behind some character named Mad Mel. He's apparently got it in for whoever kacked Sledge. Would that be you?</TurnInDescription>
+    <MissionSummary>Travel to the Dahl Headland and speak with Ernest Whitting.</MissionSummary>
+    <MissionGiver>Dr. Zed</MissionGiver>
+    <Objectives0>Claptrap talked to:</Objectives0>
+    <Objectives1>Ernest found:</Objectives1>
+  </Section>
+  <Section>
+    <Name>Z0_Missions.Missions.M_WindTurbine_Activate</Name>
+    <MissionName>Braking Wind</MissionName>
+    <MissionDescription>During one of their first raids, the bandits took over Zephyr Substation and set the emergency brakes on all the wind turbines. They tried to ransom the region's power supply, but Helena Pierce refused to negotiate. We've been running off generator power ever since. Since you're on some sort of anti-bandit crusade anyway, why not release those brakes and turn the power back on? There'll be a reward for your trouble.</MissionDescription>
+    <TurnInDescription>The power grid's back online, such as it is. Now, I need you to go activate all the air conditioners. Just kidding! Dahl seized those right about the same time they built the turbines. Some sort of 'green' initiative, I guess. Crazy, if you ask me.There's nothing green on this entire planet!</TurnInDescription>
+    <MissionSummary>Release the emergency Turbine Brakes at Zephyr Substation.</MissionSummary>
+    <MissionGiver>Shep Sanders</MissionGiver>
+    <Objectives0>Turbine Brake A released:</Objectives0>
+    <Objectives1>Turbine Brake B released:</Objectives1>
+    <Objectives2>Turbine Brake C released:</Objectives2>
+  </Section>
+  <Section>
+    <Name>I2_Missions.Missions.M_Scavenger6</Name>
+    <MissionName>Scavenger: Machine Gun</MissionName>
+    <MissionDescription>There are components to machine gun scattered around. If you find all of these components, I can reassemble the weapon for you. Bring me the Body, Magazine, Stock, and Barrel.</MissionDescription>
+    <TurnInDescription>I was able to assemble those parts into a complete weapon. Here's your new machine gun. Enjoy!</TurnInDescription>
+    <MissionSummary>Find all of the machine gun parts.</MissionSummary>
+    <MissionGiver>Middle Of Nowhere Bounty Board</MissionGiver>
+    <Objectives0>Machine Gun Body:</Objectives0>
+    <Objectives1>Machine Gun Magazine:</Objectives1>
+    <Objectives2>Machine Gun Stock:</Objectives2>
+    <Objectives3>Machine Gun Barrel:</Objectives3>
+  </Section>
+  <Section>
+    <Name>I1_Missions.Missions.M_AbandonedDig</Name>
+    <MissionName>Ghosts Of The Vault</MissionName>
+    <MissionDescription>This is Tannis. I was digging in the Dahl Headland, and came very close to uncovering an Elemental Artifact, most likely from the Vault. I was forced to abandon the dig when my brain-dead team quit. They said they saw ghosts, or Bigfoot, or something. If you're someone who isn't a superstitious dolt, I invite you to recover the artifact for yourself. Here's the freight lift code so you can access the site.</MissionDescription>
+    <TurnInDescription>You have discovered the Elemental Artifact which Tannis spoke of. She won't mind if you keep it for yourself, right?</TurnInDescription>
+    <MissionSummary>Visit the Haunted Excavation and recover the Elemental Artifact.</MissionSummary>
+    <MissionGiver>Lucky's Bounty Board</MissionGiver>
+    <Objectives0>Elemental Artifact found:</Objectives0>
+  </Section>
+  <Section>
+    <Name>I1_Missions.Missions.M_Assassinate_SkagZilla</Name>
+    <MissionName>Big Game Hunter</MissionName>
+    <MissionDescription>See all the giant bones? Dug them up myself. I thought these creatures were extinct until, down at Wellspring Bluff, I came across a skag bigger than any I had ever seen! Its diet of cesium cactus, Runner fuel, and of course, human flesh, seems to have endowed it with incredible mutations. Truly, Skagzilla is a marvel of adaptation and survival. So, I want you to acquire some bait, lure it out, and kill it!</MissionDescription>
+    <TurnInDescription>Magnificent show! I'm going to have him stuffed and mounted in my den!</TurnInDescription>
+    <MissionSummary>Get some bait, place it outside the cave, then kill Skagzilla.</MissionSummary>
+    <MissionGiver>Ernest Whitting</MissionGiver>
+    <Objectives0>Skagzilla Bait:</Objectives0>
+    <Objectives1>Bait placed:</Objectives1>
+    <Objectives2>Skagzilla killed:</Objectives2>
+  </Section>
+  <Section>
+    <Name>I1_Missions.Missions.M_BanditConvoy01</Name>
+    <MissionName>Road Warriors: Hot Shots</MissionName>
+    <MissionDescription>Mad Mel has blocked the road to New Haven, and he spends most of his time terrorizing the southern part of the Headland. He hardly ever comes up here. If you want him to face you, you'll need to get his attention first. What says 'I'm going to kick your ass' better than killing a bunch of his men and destroying a lot of his hardware?</MissionDescription>
+    <TurnInDescription>This is a great start. Every bandit Runner you destroy weakens Mad Mel that much more.</TurnInDescription>
+    <MissionSummary>Eliminate Bandit Runner Patrols.</MissionSummary>
+    <MissionGiver>Lucky Zaford</MissionGiver>
+    <Objectives0>Runner Patrols destroyed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>I1_Missions.Missions.M_BanditConvoy03</Name>
+    <MissionName>Road Warriors: Bandit Apocalypse</MissionName>
+    <MissionDescription>You've decimated the bandit fleet in this area, and Mad Mel must respond or his men will take it as a sign of weakness. Seek him out in the Dahl Headland and end him. Be careful. He is a lethal weapon in any vehicle. After he's dead, you can continue on your way to New Haven. Talk to the Claptrap at the gate.</MissionDescription>
+    <TurnInDescription>Finally, payback against that Mad Mel! It's great to see someone with a brave heart willing to go out there and live dangerously. Well done! With Mad Mel no longer a concern, I will happily open the gate to New Haven for you.</TurnInDescription>
+    <MissionSummary>Kill Mad Mel, then talk to Claptrap to be allowed into New Haven.</MissionSummary>
+    <MissionGiver>Lucky Zaford</MissionGiver>
+    <Objectives0>Mad Mel killed:</Objectives0>
+    <Objectives1>Claptrap talked to:</Objectives1>
+  </Section>
+  <Section>
+    <Name>I1_Missions.Missions.M_FuelSupply</Name>
+    <MissionName>Fuel Feud</MissionName>
+    <MissionDescription>The worst part about living out here isn't the frequent skag attacks, it's the traffic. And by traffic, I mean those bandit bastards that think they have a right to shoot anything that moves. Hit 'em where it hurts. Destroy their fuel tanks so we can ride free!</MissionDescription>
+    <TurnInDescription>That oughta slow 'em down!</TurnInDescription>
+    <MissionSummary>Destroy the Bandit Fuel Tanks.</MissionSummary>
+    <MissionGiver>Lucky's Bounty Board</MissionGiver>
+    <Objectives0>Fuel Tanks destroyed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>I1_Missions.Missions.M_OpeningTheRaceTrack</Name>
+    <MissionName>Death Race Pandora</MissionName>
+    <MissionDescription>There's an old race track in the Dahl Headland, called the Ludicrous Speedway. It was great in its day, but it's been abandoned since the corporations pulled out. I'm thinking of reopening the place, but there's a catch. It's been overrun with vermin. I need someone to go out there and kill all the bugs.</MissionDescription>
+    <TurnInDescription>I should be able to get the track back open for business now, thanks to you. Hope this paycheck covers it.</TurnInDescription>
+    <MissionSummary>Kill the Scythid Crawlers at the racetrack.</MissionSummary>
+    <MissionGiver>Lucky's Bounty Board</MissionGiver>
+    <Objectives0>Scythid killed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>I1_Missions.Missions.M_Powerlines</Name>
+    <MissionName>Powering The Fast Travel Network</MissionName>
+    <MissionDescription>I wanna to get back to Ernest, but I can't face another bandit. Fast Travel would be okay, but it's been offline around here for ages. Mad Mel blocks Scooter from coming to fix it. If Fast Travel were working, we could instantly teleport to any New-U station we've ever visited, even the one next to Ernest's Emporium. Will you fix it, please? You just gotta climb the poles and throw the breakers, then hit the master switch over at the station. Easy, right?</MissionDescription>
+    <TurnInDescription>Great, the Fast Travel system is back online! I'll pop on over to Ernest later. Hmm, don't you have a Fast Travel pass? I've got a spare, you can have that one. Now you can use Fast Travel! It lets you teleport to any New-U station you've visited before. Anyways, I'm feelin' a little better now. Wanna rid the Headlands of Mad Mel?</TurnInDescription>
+    <MissionSummary>Throw the Fast Travel breakers and flip the master switch.</MissionSummary>
+    <MissionGiver>Lucky Zaford</MissionGiver>
+    <Objectives0>Breakers thrown:</Objectives0>
+    <Objectives1>Master switch flipped:</Objectives1>
+  </Section>
+  <Section>
+    <Name>I1_Missions.Missions.M_RepairGasPipes</Name>
+    <MissionName>Well There's Your Problem Right There</MissionName>
+    <MissionDescription>What with all the gunfights going on around here, my fuel pipes have got more holes than Swiss cheese. I think the system is salvageable, I just need somebody to close a few valves for me. I'd do it myself, but I'm afraid there'd soon be holes in me, too!</MissionDescription>
+    <TurnInDescription>Thanks, it looks like my fuel station is all set to open for business. Now I've just got to fill out some paperwork for Helena Pierce. She's pretty adamant about her damned fire safety codes.</TurnInDescription>
+    <MissionSummary>Close all Fuel Pipe Valves around the Lucky's Last Chance.</MissionSummary>
+    <MissionGiver>Lucky's Bounty Board</MissionGiver>
+    <Objectives0>Valves closed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>I1_Missions.Missions.M_RoadBlocks</Name>
+    <MissionName>Getting Lucky</MissionName>
+    <MissionDescription>You showed up at just the right time! Bandits decided to lay siege to the Last Chance Waterin' Hole to the south, and my friend Lucky is trapped inside! He called me for help just before you showed up. I wasn't sure what to do, but you're here now. Please, go help my friend!</MissionDescription>
+    <TurnInDescription>Thanks, man. You really saved my bacon there. We really need to do something about these bandits. They're like drunk, pissed off hornets now that Sledge is dead.</TurnInDescription>
+    <MissionSummary>Rescue Lucky Zaford at the Last Chance Waterin' Hole.</MissionSummary>
+    <MissionGiver>Ernest Whitting</MissionGiver>
+    <Objectives0>Bandits killed:</Objectives0>
+    <Objectives1>Lucky rescued:</Objectives1>
+  </Section>
+  <Section>
+    <Name>I1_Missions.Missions.M_Scavenger3</Name>
+    <MissionName>Scavenger: Revolver</MissionName>
+    <MissionDescription>There are components to a revolver scattered around. If you find all of these components, I can reassemble the weapon for you. Bring me the Body, Cylinder, Sight, and Barrel.</MissionDescription>
+    <TurnInDescription>Great! Here is your revolver, good as new.</TurnInDescription>
+    <MissionSummary>Find all of the revolver parts.</MissionSummary>
+    <MissionGiver>Lucky's Bounty Board</MissionGiver>
+    <Objectives0>Revolver Body:</Objectives0>
+    <Objectives1>Revolver Cylinder:</Objectives1>
+    <Objectives2>Revolver Sight:</Objectives2>
+    <Objectives3>Revolver Barrel:</Objectives3>
+  </Section>
+  <Section>
+    <Name>dlc2_missions.Missions.M_ClearArenas</Name>
+    <MissionDescription>In order to access the longer tournaments, you'll need to prove yourself by completing 5 rounds in each coliseum.</MissionDescription>
+    <MissionGiver>The Underdome Bounty Board</MissionGiver>
+    <MissionName>Prove Yourself.</MissionName>
+    <MissionSummary>Complete 5 rounds in each coliseum.</MissionSummary>
+    <Objectives0>Hell-burbia beat:</Objectives0>
+    <Objectives1>The Angelic Ruins beat:</Objectives1>
+    <Objectives2>The Gully beat:</Objectives2>
+    <TurnInDescription>You've proven yourself... at least a little bit.  Now that you've gotten through round 5, step behind the curtain and see if you can get to round 20!</TurnInDescription>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.MainMissions.M_dlc1_DefendTown</Name>
+    <MissionName>Welcoming Committee</MissionName>
+    <MissionDescription>Claptrap has informed you of the nearby zombie infestation. The town is normally kept safe by three defensive turrets, but they don't yet recognize zombies as a threat. Your only hope to restore any semblance of security to the area is to recalibrate the town's defensive batteries.</MissionDescription>
+    <TurnInDescription>The turrets seem to be holding off the zombies. The town should be safe.</TurnInDescription>
+    <MissionSummary>Recalibrate the defense turrets</MissionSummary>
+    <MissionGiver>Claptrap</MissionGiver>
+    <Objectives0>Turret 1 calibrated:</Objectives0>
+    <Objectives1>Turret 2 calibrated:</Objectives1>
+    <Objectives2>Turret 3 calibrated:</Objectives2>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.MainMissions.M_dlc1_KillNed</Name>
+    <MissionName>Night of the Living Ned</MissionName>
+    <MissionDescription>Ned is in the mill.  There is nothing in your way.  Kill him.</MissionDescription>
+    <TurnInDescription>That was easy.</TurnInDescription>
+    <MissionSummary>Assassinate Dr. Ned for the Jakobs Corporation.</MissionSummary>
+    <MissionGiver>Jakobs ECHO</MissionGiver>
+    <Objectives0>Dr. Ned killed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.MainMissions.M_dlc1_KillZombieNed</Name>
+    <MissionName>Ned's undead, baby, Ned's undead</MissionName>
+    <MissionDescription>Dr. Ned has turned himself into a zombie.  Kill him again!</MissionDescription>
+    <TurnInDescription>That was hard.</TurnInDescription>
+    <MissionSummary>Kill Dr. Ned... again.</MissionSummary>
+    <MissionGiver>Jakobs ECHO</MissionGiver>
+    <Objectives0>Dr. Ned killed... again:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.MainMissions.M_dlc1_LowerBridge</Name>
+    <MissionName>A Bridge Too Ned</MissionName>
+    <MissionDescription>Jakobs has hired you to take care of Dr. Ned once and for all.  You can find him hidden deep in the Jakobs lumber mill, but the zombie-impeding bridge near the mill needs to be lowered first.</MissionDescription>
+    <TurnInDescription>Now that the bridge is down you can proceed to the mill to find Dr. Ned.</TurnInDescription>
+    <MissionSummary>Lower the bridge near the mill so you can reach Dr. Ned.</MissionSummary>
+    <MissionGiver>Jakobs Claptrap</MissionGiver>
+    <Objectives0>Lowered Bridge:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.MainMissions.M_dlc1_MeetNed</Name>
+    <MissionName>House of the Ned</MissionName>
+    <MissionDescription>There is a note on the door to Dr. Ned's office. The fine print reads:  'Screw this. I'm not hanging around here to get killed. I can protect myself better at home. If any fool finds this, I'm at my place in the bayou. Good luck reaching me, though. Just stay away. It's safer if you don't try to get to me.'</MissionDescription>
+    <TurnInDescription>Dr. Ned made a terrible mistake and he needs your help to fix it.</TurnInDescription>
+    <MissionSummary>Find and contact Dr. Ned in the bayou.</MissionSummary>
+    <MissionGiver>Dr. Ned</MissionGiver>
+    <Objectives0>Dr. Ned contacted:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.MainMissions.M_dlc1_NedLab</Name>
+    <MissionName>Secrets and Mysteries</MissionName>
+    <MissionDescription>Someone hacked into Claptrap and left you a cryptic message.  You were told that Dr. Ned is not to be trusted, and you can find Dr. Ned's old laboratory by taking a boat off the island.  Find Ned's lab and use the secret knock to enter.</MissionDescription>
+    <TurnInDescription>Dr. Ned is behind the zombies. Imagine that.</TurnInDescription>
+    <MissionSummary>Find Ned's original lab to see if he is who he says he is.</MissionSummary>
+    <MissionGiver>Ned's Claptrap</MissionGiver>
+    <Objectives0>Boat found:</Objectives0>
+    <Objectives1>Lab opened:</Objectives1>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.MainMissions.M_dlc1_NedsNote</Name>
+    <MissionName>Is The Doctor In?</MissionName>
+    <MissionDescription>Claptrap has told you that there is a doctor who could use your help to stop the zombies.  Find Dr. Ned's office down at the docks and figure out what's going on.</MissionDescription>
+    <TurnInDescription>Dr. Ned is nowhere to be seen, but there is a note on the door...</TurnInDescription>
+    <MissionSummary>Find Dr. Ned.</MissionSummary>
+    <MissionGiver>Claptrap</MissionGiver>
+    <Objectives0>Gate opened:</Objectives0>
+    <Objectives1>Office found:</Objectives1>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.MainMissions.M_dlc1_ReturnToIsland</Name>
+    <MissionName>Hitching A Ride</MissionName>
+    <MissionDescription>You told Jakobs what Ned's been up to.  They have hired you to take care of Ned, but first you need to return to Jakobs Cove.  Send a signal to Jakobs so they can send you a ride back to the island.  Once you get back to the island, find the Jakobs representative in town.</MissionDescription>
+    <TurnInDescription>A claptrap from Jakobs is awaiting your arrival. It appears he has more information for you.</TurnInDescription>
+    <MissionSummary>Go back to the island and meet the Jakobs representative</MissionSummary>
+    <MissionGiver>Jakobs ECHO</MissionGiver>
+    <Objectives0>Signal sent:</Objectives0>
+    <Objectives1>Survived:</Objectives1>
+    <Objectives2>Take a ride:</Objectives2>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.MainMissions.M_dlc1_TellJakobs</Name>
+    <MissionName>Jakobs Fodder</MissionName>
+    <MissionDescription>Dr. Ned seems to be behind the zombies.  You decide to contact Jakobs so that he doesn't get away with it, but first you feel you better have more evidence to ensure they believe you. Surely they'll send troops or some other help, right?  You'll need to find a satellite communications array in order to send the ECHOS to them.</MissionDescription>
+    <TurnInDescription>You sent word to Jakobs and they have already responded.</TurnInDescription>
+    <MissionSummary>Collect evidence and notify Jakobs of Dr. Ned's experiments</MissionSummary>
+    <MissionGiver>Ned ECHO</MissionGiver>
+    <Objectives0>ECHO 1 taken:</Objectives0>
+    <Objectives1>ECHO 2 taken:</Objectives1>
+    <Objectives2>Comm array located:</Objectives2>
+    <Objectives3>ECHO sent:</Objectives3>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.MainMissions.M_dlc1_Wereskag</Name>
+    <MissionName>There May Be Some Side Effects...</MissionName>
+    <MissionDescription>Ned was testing a skag-based antidote to the zombie plague. The skags are immune to the illness, so Ned believes his antidote could be effective. Bring the antidote sample to the Claptrap in town so Ned can continue his research.</MissionDescription>
+    <TurnInDescription>Claptrap was hacked!  Investigate the story about Dr. Ned.</TurnInDescription>
+    <MissionSummary>Find the antidote sample for Dr. Ned.</MissionSummary>
+    <MissionGiver>Dr. Ned</MissionGiver>
+    <Objectives0>Spooky entrance found:</Objectives0>
+    <Objectives1>Antidote recovered:</Objectives1>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.SideMissions.M_dlc1_BountyHunterLogs_Mill</Name>
+    <MissionName>Here We Go Again</MissionName>
+    <MissionDescription>To whomever discovers the circumstances of Jackie O'Callahan's death: HR has informed me that there were four others like yourself who were hired to deal with the issue. These employees also seem to have run into some difficulties.  Try to determine what happened to them.</MissionDescription>
+    <TurnInDescription>Well, at least we can clear those items from our accounts payable.  Let's hope that you don't meet a similar grisly demise - but if you do, could you try to get word to us in your last moments so that we can handle the resulting paperwork? That would be great.</TurnInDescription>
+    <MissionSummary>Find out what happened to the others who came to stop the zombies.</MissionSummary>
+    <MissionGiver>Jakobs Cove bounty board</MissionGiver>
+    <Objectives0>Moron found:</Objectives0>
+    <Objectives1>Newb found:</Objectives1>
+    <Objectives2>Wuss found:</Objectives2>
+    <Objectives3>Chump found:</Objectives3>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.SideMissions.M_dlc1_BountyHunterLogs_priest</Name>
+    <MissionName>Leave It To The Professionals</MissionName>
+    <MissionDescription>To whomever is still alive: When the zombie issue first arose, there was a lone zealot among the work force who demanded a chance to destroy the 'evil' that had befallen our mill. The board decided that it couldn't hurt to have someone out there trying to stop the problem while employees were being lost. The Jakobs Corporation has not heard from him since that time.  There is a moderate monetary reward for determining the outcome of his endeavors.</MissionDescription>
+    <TurnInDescription>In hindsight, it was probably against our better judgment to let him make such an attempt, but his passion and outside-the-box thinking convinced us.  Unfortunately, he was not the last person hired to handle our situation.</TurnInDescription>
+    <MissionSummary>Find some information about what happened to the 'zealot.'</MissionSummary>
+    <MissionGiver>Jakobs Cove bounty board</MissionGiver>
+    <Objectives0>Clue found:</Objectives0>
+    <Objectives1>Zealot found:</Objectives1>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.SideMissions.M_dlc1_Eggs</Name>
+    <MissionName>Eggcellent Opportunity!</MissionName>
+    <MissionDescription>Markus here.  Would you believe it?  I found a market for rotten, stinky undead bird eggs.  Some crazy bandits in the east think they are some sort of delicacy.  As I like to say, there is always opportunity!  I hear the crusty corpse eaters like to nest on coastline.  If you get me a shipment of eggs, I'll pay you handsomely.</MissionDescription>
+    <TurnInDescription>Be sure to seal the box really tight.  I don't want to have to smell those things.  Enjoy your payment.</TurnInDescription>
+    <MissionSummary>Get Markus a shipment of corpse eater eggs.</MissionSummary>
+    <MissionGiver>Jakobs Cove bounty board</MissionGiver>
+    <Objectives0>Eggs:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.SideMissions.M_dlc1_FindZombieTK</Name>
+    <MissionName>TK Lives!</MissionName>
+    <MissionDescription>TK Baha's prosthetic leg!  TK Baha must be nearby.  Find him!</MissionDescription>
+    <TurnInDescription>TK Baha lives...sort of.  The poor guy has been turned into a zombie and all he can talk about is brains.  Maybe you can ease his pain.</TurnInDescription>
+    <MissionSummary>Find TK Baha</MissionSummary>
+    <MissionGiver>TK Baha's Leg</MissionGiver>
+    <Objectives0>TK found:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.SideMissions.M_dlc1_FixJakobsVending</Name>
+    <MissionName>Upsale</MissionName>
+    <MissionDescription>To anyone attempting to survive in Jakobs Cove: There is a Jakobs company vending machine in town that could help you deal with Dr. Ned.  It may need a new power coupling, but if you're able to repair the machine, you can gain access to its inventory - something which could help you survive.  Remember, if it just needs to be dead, it needs to be a Jakobs.  These zombies need to be dead.</MissionDescription>
+    <TurnInDescription>Excellent work.  If you survive, you should consider applying to Jakobs as a maintenance engineer.</TurnInDescription>
+    <MissionSummary>Find a power coupling and repair the Jakobs vending machine.</MissionSummary>
+    <MissionGiver>Jakobs Cove bounty board</MissionGiver>
+    <Objectives0>Power coupling:</Objectives0>
+    <Objectives1>Coupling installed:</Objectives1>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.SideMissions.M_dlc1_FrankenBill</Name>
+    <MissionName>It's Alive!</MissionName>
+    <MissionDescription>To any employee of the Jakobs Corporation: We at Hyper-Temps, a division of Hyperion Industrial, offer an invitation to whomever can determine the whereabouts of the contractor we sent to work with the Jakobs company physician.  Frank Igorski has not reported to his agent for over a month. As a direct result of this behaviour, Frank has been terminated.  We now have a severance package that needs to be delivered to him. Please find information about his new situation and deliver the package.</MissionDescription>
+    <TurnInDescription>Thank you for reporting the circumstances of his untimely demise and reanimation.</TurnInDescription>
+    <MissionSummary>Uncover what happened to Frank Igorski and deliver his severance.</MissionSummary>
+    <MissionGiver>Jakobs Cove bounty board</MissionGiver>
+    <Objectives0>Info found:</Objectives0>
+    <Objectives1>Severance delivered:</Objectives1>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.SideMissions.M_dlc1_LogCollection</Name>
+    <MissionName>Missing: Hank Reiss</MissionName>
+    <MissionDescription>I have not heard from my husband, Hank, for weeks.  He worked down at the Jakobs mill.  I fear the worst; I must know what happened to him.  Please send me any news that you can.  I am offering a reward for anyone who can find him.</MissionDescription>
+    <TurnInDescription>Thank you... Hearing his voice again is a cold comfort, but one I will have to accept to move on.</TurnInDescription>
+    <MissionSummary>Investigate the disappearance of Hank Reiss.</MissionSummary>
+    <MissionGiver>Jakobs Cove bounty board</MissionGiver>
+    <Objectives0>ECHO #1 found:</Objectives0>
+    <Objectives1>ECHO #2 found:</Objectives1>
+    <Objectives2>ECHO #3 found:</Objectives2>
+    <Objectives3>ECHO #4 found:</Objectives3>
+    <Objectives4>ECHO #5 found:</Objectives4>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.SideMissions.M_dlc1_PumpkinHead</Name>
+    <MissionName>Pumpkinhead</MissionName>
+    <MissionDescription>Patricia Tannis here.  There have always been legends of a mysterious and elusive creature out at Jakobs Cove.  Some people call him Pumpkinhead.  Pretty spooky, huh?  I just call him Bob. As a scientist with a bit of a crackpot reputation, this story captivates me.  I would love a first-hand account of the creature.  Of course, the best way to prove something like this exists - which will then vindicate a so-called 'obsession with such a frivolous pursuit' - is a body.  So while a really blurry picture or an ECHO with some unidentifiable sounds on it would be nice, a corpse would be better. It's said to roam the swamps but only comes out when people carve creepy faces into pumpkins and put candles in them.  Doesn't make sense to me, but I never was any good at cooking.</MissionDescription>
+    <TurnInDescription>You left the body to rot in the swamp?!  What good will that do me?  Amateurs...</TurnInDescription>
+    <MissionSummary>Find and kill the mythical Pumpkinhead</MissionSummary>
+    <MissionGiver>Jakobs Cove Bounty Board</MissionGiver>
+    <Objectives0>Jack-o-lantern 1 lit:</Objectives0>
+    <Objectives1>Jack-o-lantern 2 lit:</Objectives1>
+    <Objectives2>Corpse found:</Objectives2>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.SideMissions.M_dlc1_RepairClaptrap</Name>
+    <MissionName>Claptrap Rescue: The Lumber Yard</MissionName>
+    <MissionDescription>You've discovered a defunct Claptrap here.  Perhaps there is a Repair Kit nearby?</MissionDescription>
+    <TurnInDescription>Thank you, kind traveler! I can now return to my assigned duties. By the way, I found this SDU. You look like you could use one of these!</TurnInDescription>
+    <MissionSummary>Find the Repair Kit and repair this Claptrap.</MissionSummary>
+    <MissionGiver>Claptrap</MissionGiver>
+    <Objectives0>Repair Kit:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.SideMissions.M_dlc1_TKBrains1</Name>
+    <MissionName>Brains</MissionName>
+    <MissionDescription>TK seems to be in dire need of a brain to munch on.</MissionDescription>
+    <TurnInDescription>You gave him a few brains.  He appears to be coughing up an item...</TurnInDescription>
+    <MissionSummary>Get TK some brains to eat.</MissionSummary>
+    <MissionGiver>Zombie TK Baha</MissionGiver>
+    <Objectives0>Brains:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.SideMissions.M_dlc1_TKBrains2</Name>
+    <MissionName>Braaains</MissionName>
+    <MissionDescription>TK is still hungry for brains.  Get him some more.</MissionDescription>
+    <TurnInDescription>You gave him more brains.  He appears to be coughing up an item...</TurnInDescription>
+    <MissionSummary>Get TK some brains to eat.</MissionSummary>
+    <MissionGiver>Zombie TK Baha</MissionGiver>
+    <Objectives0>Braaains:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.SideMissions.M_dlc1_TKBrains3</Name>
+    <MissionName>Braaaaains</MissionName>
+    <MissionDescription>TK's hunger seems to be growing.  Find him more brains.</MissionDescription>
+    <TurnInDescription>You gave him a bunch of brains.  He appears to be coughing up an item...</TurnInDescription>
+    <MissionSummary>Get TK a bunch of brains to eat.</MissionSummary>
+    <MissionGiver>Zombie TK Baha</MissionGiver>
+    <Objectives0>Braaaaains:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.SideMissions.M_dlc1_TKBrains4</Name>
+    <MissionName>Braaaaaaaaaaaains</MissionName>
+    <MissionDescription>TK still needs brains.  Apparently a lot of them.</MissionDescription>
+    <TurnInDescription>You gave him a bunch of brains.  He appears to be coughing up an item...</TurnInDescription>
+    <MissionSummary>Get TK a boatload of brains to eat.</MissionSummary>
+    <MissionGiver>Zombie TK Baha</MissionGiver>
+    <Objectives0>Braaaaaaaaaaaains:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.SideMissions.M_dlc1_TKBrains5</Name>
+    <MissionName>Braaaaaaaaaaaaaaaaains</MissionName>
+    <MissionDescription>Holy crap. This time you are going to come back with enough.  Find him more brains.</MissionDescription>
+    <TurnInDescription>You gave him a butt-ton of brains.  He appears to be coughing up an item...!  Hopefully he is finally satiated, and you've cleared his stomach of loot.</TurnInDescription>
+    <MissionSummary>Get TK a metric butt-ton of brains to eat.</MissionSummary>
+    <MissionGiver>Zombie TK Baha</MissionGiver>
+    <Objectives0>Braaaaaaaaaaaaaaaaains:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc1_missions.SideMissions.M_dlc1_WereskagPack</Name>
+    <MissionName>The Pack</MissionName>
+    <MissionDescription>Dr. Ned here.  Seems like my antidote from skag blood didn't quite have the intended results.  You're lucky you survived your encounter with the so called Wereskag.  I wish I could say he was the only one, but the other test subjects seem to have formed a pack and are terrorizing the coastline by the old hospital. You should really take care of them to avoid the spread of that disease as well.  Man, sometimes I wonder if maybe I should have been a villain instead of an NPC.</MissionDescription>
+    <TurnInDescription>Thanks for that.  At least now the wereskags won't kill all the zombies...and become a bigger problem.  Yeah.  That's what I meant.</TurnInDescription>
+    <MissionSummary>Find and kill the members of the pack.</MissionSummary>
+    <MissionGiver>Jakobs Cove bounty board</MissionGiver>
+    <Objectives0>Whiskey Wesley killed:</Objectives0>
+    <Objectives1>Bigfoot killed:</Objectives1>
+    <Objectives2>RedJack killed:</Objectives2>
+    <Objectives3>Jackie O'Callahan:</Objectives3>
+  </Section>
+  <Section>
+    <Name>dlc3_CircleMissions.MainMissions.M_dlc3_Circle_Wave1</Name>
+    <MissionName>Circle of Duty: Cadet</MissionName>
+    <MissionDescription>A new recruit! Excellent. When you are ready to fight. Enter center of the red Crimson Lance logo notify the squad you are ready. This first round weeds out the real weaklings. Let's see how you do.</MissionDescription>
+    <TurnInDescription>Not bad. A bit of a greenhorn, but you show potential.</TurnInDescription>
+    <MissionSummary>Survive the round.</MissionSummary>
+    <MissionGiver>Circle Director</MissionGiver>
+    <Objectives0>Survive round:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_CircleMissions.MainMissions.M_dlc3_Circle_Wave2</Name>
+    <MissionName>Circle of Duty: Private</MissionName>
+    <MissionDescription>Ready for the next challenge? Things should be a bit tougher. Head on into the center ring when you are ready. Good luck.</MissionDescription>
+    <TurnInDescription>Good job! You might have what it takes to be part of the glory of the Lance!</TurnInDescription>
+    <MissionSummary>Survive the round.</MissionSummary>
+    <MissionGiver>Circle Director</MissionGiver>
+    <Objectives0>Survive round:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_CircleMissions.MainMissions.M_dlc3_Circle_Wave3</Name>
+    <MissionName>Circle of Duty: Corporal</MissionName>
+    <MissionDescription>You're moving up the ranks. Time to really put youto the test. When you are ready, enter the center of the red Crimson Lance logo. I hope you've been training.</MissionDescription>
+    <TurnInDescription>You've definitely caught the eye of the Lance higher-ups. Keep up the good work.</TurnInDescription>
+    <MissionSummary>Survive the round.</MissionSummary>
+    <MissionGiver>Circle Director</MissionGiver>
+    <Objectives0>Survive round:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_CircleMissions.MainMissions.M_dlc3_Circle_Wave4</Name>
+    <MissionName>Circle of Duty: Sergeant</MissionName>
+    <MissionDescription>You ready to try the sergeant level, eh? Well don't stand there looking at me, get going!</MissionDescription>
+    <TurnInDescription>This is it recruit. Only one more and you are in.</TurnInDescription>
+    <MissionSummary>Survive the round</MissionSummary>
+    <MissionGiver>Circle Director</MissionGiver>
+    <Objectives0>Survive round:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_CircleMissions.MainMissions.M_dlc3_Circle_Wave5</Name>
+    <MissionName>Circle of Duty: Medal of Duty</MissionName>
+    <MissionDescription>This is it. The final challenge to prove your honor and worthiness to be one of the Crimson Lance.</MissionDescription>
+    <TurnInDescription>Well, you did a great job, but it has just come to our attention that you recently murdered our General. Therefore I must decline your request to join the Crimson Lance.</TurnInDescription>
+    <MissionSummary>Survive the round</MissionSummary>
+    <MissionGiver>Circle Director</MissionGiver>
+    <Objectives0>Survive round:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_CircleMissions.MainMissions.M_dlc3_CircleMeet</Name>
+    <MissionName>Circle of Duty: New Recruit</MissionName>
+    <MissionDescription>The Crimson Lance is looking for local Pandorans to add to their ranks. You need only survive the Circle of Duty to join! They are also looking for new recruits to join them. If you think you are ready to join the elite ranks, stop on by!</MissionDescription>
+    <TurnInDescription>Excellent! Are you ready to test your worth in the Circle of Duty?</TurnInDescription>
+    <MissionSummary>Meet the Circle of Duty Director, Zach.</MissionSummary>
+    <MissionGiver>Circle Director</MissionGiver>
+    <Objectives0>Meet Zach:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_MainMissions.MainMissions.M_dlc3_ActivateBridge</Name>
+    <MissionName>Bridging the Gap</MissionName>
+    <MissionDescription>You have the code to the armory and the detonator to ensure its destruction.  Unfortunately the armory is on the far side of a crevasse.  You need to activate the energy bridge that the Crimson Lance has built to get across.</MissionDescription>
+    <TurnInDescription>The armory is now ripe for the taking.</TurnInDescription>
+    <MissionSummary>Activate the energy bridge to reach the armory</MissionSummary>
+    <MissionGiver>Athena</MissionGiver>
+    <Objectives0>Activate bridge:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_MainMissions.MainMissions.M_dlc3_BuildCar</Name>
+    <MissionName>Greasemonkey</MissionName>
+    <MissionDescription>The Crimson Lance has injured Scooter's hand so he is unable to install the new parts on the vehicle.  He has asked you to help by installing them.</MissionDescription>
+    <TurnInDescription>Looks like you got yourself a sweet new ride.</TurnInDescription>
+    <MissionSummary>Install the parts to  complete the new vehicle</MissionSummary>
+    <MissionGiver>Scooter</MissionGiver>
+    <Objectives0>Install supercharger:</Objectives0>
+    <Objectives1>Install nitrous:</Objectives1>
+    <Objectives2>Install exhaust:</Objectives2>
+    <Objectives3>Upload specs:</Objectives3>
+  </Section>
+  <Section>
+    <Name>dlc3_MainMissions.MainMissions.M_dlc3_DestroyDepot</Name>
+    <MissionName>Armory Assault</MissionName>
+    <MissionDescription>You have the code to get into the weapons depot.  The code is Blue, Yellow, Cyan, Orange.  BYCO, remember?  Once inside the depot you need to expose the munitions to ensure their destruction.  Be careful, don't expect Knoxx to take this lying down though.</MissionDescription>
+    <TurnInDescription>You've done it!  With their stockpile either destroyed or in your backpack, hopefully Atlas will finally leave you and Pandora alone.</TurnInDescription>
+    <MissionSummary>Enter and destroy the Atlas armory.</MissionSummary>
+    <MissionGiver>Athena</MissionGiver>
+    <Objectives0>Enter code:</Objectives0>
+    <Objectives1>Expose munitions:</Objectives1>
+  </Section>
+  <Section>
+    <Name>dlc3_MainMissions.MainMissions.M_dlc3_FindCodeBunker</Name>
+    <MissionName>Code Breaker: Analysis</MissionName>
+    <MissionDescription>Athena's plan is to blow up the giant armory that Atlas is amassing in the Deep Fathoms.  She believes that its destruction could alter Atlas's plans for Pandora and convince them to leave the planet alone.  Your mission is to acquire the secret access code to the armory.</MissionDescription>
+    <TurnInDescription>You've got a lead on the code.  Looks like it's time to find the World's Largest Bullet.</TurnInDescription>
+    <MissionSummary>Search the Atlas facility for information on the most recent code.</MissionSummary>
+    <MissionGiver>Athena</MissionGiver>
+    <Objectives0>Find info:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_MainMissions.MainMissions.M_dlc3_FindCodeEarl</Name>
+    <MissionName>Code Breaker: Time is Bullets</MissionName>
+    <MissionDescription>One of the Crimson Lance soldiers thinks he lost the access code at the 'World's Largest Bullet'.  If you can get there first, you may be able to find it before he does.</MissionDescription>
+    <TurnInDescription>You've managed to acquire the code to the munitions armory.</TurnInDescription>
+    <MissionSummary>Find the World's Largest Bullet and obtain the code.</MissionSummary>
+    <MissionGiver>Lance ECHO</MissionGiver>
+    <Objectives0>Find code:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_MainMissions.MainMissions.M_dlc3_GetCarParts</Name>
+    <MissionName>Boost the Monster</MissionName>
+    <MissionDescription>Scooter has informed you that you won't be able to reach Moxxi unless you have a vehicle.  Scooter has been working on a new set of wheels but needs you to grab the last few parts needed to finish the boost system.  Search T-Bone Junction for the needed parts.</MissionDescription>
+    <TurnInDescription>You've found all the parts for Scooter's new car.  Sounds like he wants help installing them now.</TurnInDescription>
+    <MissionSummary>Collect the necessary parts to complete the new vehicle</MissionSummary>
+    <MissionGiver>Scooter</MissionGiver>
+    <Objectives0>Supercharger:</Objectives0>
+    <Objectives1>Nitrous tank:</Objectives1>
+    <Objectives2>Exhaust pipe:</Objectives2>
+  </Section>
+  <Section>
+    <Name>dlc3_MainMissions.MainMissions.M_dlc3_GetDetonator</Name>
+    <MissionName>Athena Set Up Us The Bomb</MissionName>
+    <MissionDescription>You have the access code to the armory.  You now need to meet with Athena to see if she's built the detonator that will activate the bombs in the weapons depot.</MissionDescription>
+    <TurnInDescription>Code:  Check.  Detonator: Check.  Armory here I come.</TurnInDescription>
+    <MissionSummary>Get the detonator from the Athena.</MissionSummary>
+    <MissionGiver>Athena</MissionGiver>
+    <Objectives0>Detonator acquired:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_MainMissions.MainMissions.M_dlc3_GetLoot</Name>
+    <MissionName>Loot Larceny</MissionName>
+    <MissionDescription>Time is short.  The armory is going to blow in a few minutes.  Grab as much gear as you can!</MissionDescription>
+    <TurnInDescription>That was fun!</TurnInDescription>
+    <MissionSummary>Steal weapons from Atlas.</MissionSummary>
+    <MissionGiver>Athena</MissionGiver>
+    <Objectives0>Start countdown:</Objectives0>
+    <Objectives1>Steal loot:</Objectives1>
+    <Objectives2>Boom!:</Objectives2>
+  </Section>
+  <Section>
+    <Name>dlc3_MainMissions.MainMissions.M_dlc3_MeetInformant</Name>
+    <MissionName>Rendezvous</MissionName>
+    <MissionDescription>Athena is free.  She has asked you to rendezvous with her at Scooter's garage in T-Bone Junction.</MissionDescription>
+    <TurnInDescription>Athena has a plan.  Time to take the battle to the Lance.</TurnInDescription>
+    <MissionSummary>Meet Athena in T-Bone Junction.</MissionSummary>
+    <MissionGiver>Athena</MissionGiver>
+    <Objectives0>Return to T-Bone Junction:</Objectives0>
+    <Objectives1>Meet with Athena:</Objectives1>
+  </Section>
+  <Section>
+    <Name>dlc3_MainMissions.MainMissions.M_dlc3_MeetMoxxi</Name>
+    <MissionName>You've Got Moxxi: Moxxi's Red Light</MissionName>
+    <MissionDescription>With the raodblock taken care of your route is clear.  It's time to head out to Moxxi's Red Light to find the mysterious informant who can help you deal with Atlas and the Crimson Lance.</MissionDescription>
+    <TurnInDescription>Moxxi says that Mr. Shank has kidnapped your contact.</TurnInDescription>
+    <MissionSummary>Meet with Moxxi to find the informant.</MissionSummary>
+    <MissionGiver>Scooter</MissionGiver>
+    <Objectives0>Meet Moxxi:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_MainMissions.MainMissions.M_dlc3_MeetScooter</Name>
+    <MissionName>Scooter?  But I Don't Even Know Her.</MissionName>
+    <MissionDescription>A mysterious ally has contacted you and is looking for your help.  There is a price on your head and you'll need to deal with Atlas to get rid of it.   The informant, Athena, has told you to find Scooter in T-Bone Junction.  He knows where to find her.</MissionDescription>
+    <TurnInDescription>It sounds like this 'Athena' is in hiding at Moxxi's place.  Whoever that is...</TurnInDescription>
+    <MissionSummary>Find Scooter to learn more about the mysterious informant, Athena.</MissionSummary>
+    <MissionGiver>Atlas informant</MissionGiver>
+    <Objectives0>Find Scooter:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_MainMissions.MainMissions.M_dlc3_PrisonInfiltrate</Name>
+    <MissionName>Prison Break: Over the Wall</MissionName>
+    <MissionDescription>It is now time to put your stunt driving skills to the test. Moxxi has instructed you to find an outcropping near the prison that is your ticket in. From there, the route into the prison should become apparent.</MissionDescription>
+    <TurnInDescription>You've contacted Moxxi to let her know you are inside Lockdown Palace's walls. She'll have further instructions once you are inside.</TurnInDescription>
+    <MissionSummary>Find a way into Lockdown Palace</MissionSummary>
+    <MissionGiver>Moxxi</MissionGiver>
+    <Objectives0>Outcropping found:</Objectives0>
+    <Objectives1>Prison entered:</Objectives1>
+  </Section>
+  <Section>
+    <Name>dlc3_MainMissions.MainMissions.M_dlc3_PrisonMrShank</Name>
+    <MissionName>Prison Break: Try Not to Get Shanked</MissionName>
+    <MissionDescription>Now that you are inside, you need to find Mr. Shank, the so-called warden of Lockdown Palace.  He has a Personal Teleporter Device that belongs to Athena.  You need to recover the PTD from him in order to rescue her.  If you can get the device from him, all you'll have to do is find Athena.</MissionDescription>
+    <TurnInDescription>Athena is free.  Now it's your turn to get out of here alive.</TurnInDescription>
+    <MissionSummary>Kill Mr. Shank and rescue Athena.</MissionSummary>
+    <MissionGiver>Moxxi</MissionGiver>
+    <Objectives0>Kill Mr. Shank:</Objectives0>
+    <Objectives1>Acquire teleporter:</Objectives1>
+    <Objectives2>Find Athena:</Objectives2>
+  </Section>
+  <Section>
+    <Name>dlc3_MainMissions.MainMissions.M_dlc3_Roadblocks1</Name>
+    <MissionName>You've Got Moxxi: Roadblock</MissionName>
+    <MissionDescription>Now that you've got some wheels, head out to Moxxi's and find the informant who can help you deal with Atlas.  The Crimson Lance has set up checkpoints along the highway to control travel in the region.  You need to open the road in order to be able to reach Moxxi and find Athena.</MissionDescription>
+    <TurnInDescription>The roadblock is down. You should now be able to reach Moxxi.</TurnInDescription>
+    <MissionSummary>Clear the Crimson Lance roadblock.</MissionSummary>
+    <MissionGiver>Scooter</MissionGiver>
+    <Objectives0>Clear Roadblock:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_MainMissions.MainMissions.M_dlc3_Roadblocks2</Name>
+    <MissionName>Prison Break: Road Warrior</MissionName>
+    <MissionDescription>You need to infiltrate Lockdown Palace, an old prison that is now a town run by the former inmates. Their leader, Mr. Shank, has kidnapped Athena with plans to turn her in to the Crimson Lance for the substantial reward money. You need to infiltrate the prison and rescue her. The highway has Crimson Lance roadblocks that need to be removed.</MissionDescription>
+    <TurnInDescription>With the roadblocks down, it's time to find Lockdown Palace.</TurnInDescription>
+    <MissionSummary>Clear the roadblocks between you and Lockdown Palace.</MissionSummary>
+    <MissionGiver>Moxxi</MissionGiver>
+    <Objectives0>Removed South roadblock:</Objectives0>
+    <Objectives1>Removed North roadblock:</Objectives1>
+  </Section>
+  <Section>
+    <Name>dlc3_MainMissions.MainMissions.M_dlc3_StuntShow</Name>
+    <MissionName>Jumping Through Hoops</MissionName>
+    <MissionDescription>Moxxi has informed you that your contact, Athena, has been kidnapped by Mr. Shank and brought to Lockdown Palace.  Moxxi knows a way in but says you'll have to do some fancy driving.  She insists that you prove to her that you are up to the challenge before she'll give you any more details.</MissionDescription>
+    <TurnInDescription>Your driving skills are up to the challenge.  Lockdown Palace awaits.</TurnInDescription>
+    <MissionSummary>Complete the stunts on Moxxi's stunt course</MissionSummary>
+    <MissionGiver>Moxxi</MissionGiver>
+    <Objectives0>Complete Hoop Jump:</Objectives0>
+    <Objectives1>Complete Bus Hurdle:</Objectives1>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_BigBrother</Name>
+    <MissionName>Big Crimson Brother is Watching</MissionName>
+    <MissionDescription>Helena Pearce here.  The Crimson Lance have installed security cameras to spy on the local population at T-Bone junction. This is in direct violation of Atlas's charter on Pandora.  Please destroy the cameras to ensure the privacy of the citizens.</MissionDescription>
+    <TurnInDescription>T-Bone Junction thanks you!  Please take this as a token of our appreciation.</TurnInDescription>
+    <MissionSummary>Eliminate Crimson Lance Security Cameras.</MissionSummary>
+    <MissionGiver>Bounty Board</MissionGiver>
+    <Objectives0>Camera 1:</Objectives0>
+    <Objectives1>Camera 2:</Objectives1>
+    <Objectives2>Camera 3:</Objectives2>
+    <Objectives3>Camera 4:</Objectives3>
+    <Objectives4>Camera 5:</Objectives4>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_ClaptrapRescue</Name>
+    <MissionName>Claptrap Rescue: Lockdown Palace</MissionName>
+    <MissionDescription>You've discovered a Claptrap robot that has been immobilized.  Find a Claptrap repair kit to release him.</MissionDescription>
+    <TurnInDescription>Thank you, stranger! Take this! I think you'll like it!  Oh!  I've got something else for you.  Follow me!</TurnInDescription>
+    <MissionSummary>Release Claptrap.</MissionSummary>
+    <MissionGiver>Claptrap</MissionGiver>
+    <Objectives0>Repair kit:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_CPaws01</Name>
+    <MissionName>Road Rage</MissionName>
+    <MissionDescription>The Crimson Lance is entirely capable of handling your security needs!  We merely ask that, should you be driving around the area and run into bandits breaking the off-road driving laws, you please feel free to destroy them.  We are more than willing to reward the happy populace for doing our jobs for us.</MissionDescription>
+    <TurnInDescription>Thank you citizen.  Your efforts are ensuring a brighter future for Pandora!</TurnInDescription>
+    <MissionSummary>Eliminate bandit vehicles.</MissionSummary>
+    <MissionGiver>Bounty Board</MissionGiver>
+    <Objectives0>Bandit patrols:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_Digistruct</Name>
+    <MissionName>OMG APC</MissionName>
+    <MissionDescription>Have you seen those Lancer APCs them d-bags are driving around!  I need to get me one!  If you can find me a Lancer Digistruct Module, I can upload it into the Catch-A-Ride! system.  How'd you like to get yer hands on one-a them?</MissionDescription>
+    <TurnInDescription>Shit and meatballs!  You pulled it off!  I wish mine were as brass as yours man!</TurnInDescription>
+    <MissionSummary>Find a Lancer Digistruct Module.</MissionSummary>
+    <MissionGiver>Scooter</MissionGiver>
+    <Objectives0>Found Digistruct Module:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_Drifter</Name>
+    <MissionName>Drifter Lifter</MissionName>
+    <MissionDescription>Locals have seen a larger drifter out there and dubbed him Skyscraper. He's a real menace.  See if you can take him down.</MissionDescription>
+    <TurnInDescription>Skyscraper has been demolished!</TurnInDescription>
+    <MissionSummary>Kill Skyscraper</MissionSummary>
+    <MissionGiver>Bounty Board</MissionGiver>
+    <Objectives0>Skyscraper killed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_Drones</Name>
+    <MissionName>Big Crimson Brother is Watching</MissionName>
+    <MissionDescription>Helena Pearce here.  The Crimson Lance have installed security cameras to spy on the local population at T-Bone Junction. This is in direct violation of Atlas's charter on Pandora.  Please destroy the cameras to ensure the privacy of the citizens.</MissionDescription>
+    <TurnInDescription>T-Bone Junction thanks you!  Please take this as a token of our appreciation.</TurnInDescription>
+    <MissionSummary>Eliminate Crimson Lance Security Cameras.</MissionSummary>
+    <MissionGiver>Bounty Board</MissionGiver>
+    <Objectives0>Drones Destroyed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_DryWell</Name>
+    <MissionName>Purple Juice!</MissionName>
+    <MissionDescription>You've found a midget in distress.  Through his ranting and mumbling you've managed to figure out that some bandits have cut off the midgets supply of 'purple juice' and they are starting to die of thirst.  Maybe you should help them.</MissionDescription>
+    <TurnInDescription>He seems to be much happier now that the flow of Purple Juice has been restored.</TurnInDescription>
+    <MissionSummary>Restore the flow of purple juice to the midgets.</MissionSummary>
+    <MissionGiver>Thirsty the Midget</MissionGiver>
+    <Objectives0>Restore Brandybuck pump:</Objectives0>
+    <Objectives1>Restore Took pump:</Objectives1>
+    <Objectives2>Restore Gamgee pump:</Objectives2>
+    <Objectives3>Restore Underhill pump:</Objectives3>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_GetLoot02</Name>
+    <MissionName>Super-Marcus Sweep</MissionName>
+    <MissionDescription>Marcus is allowing you to have another run through the old Lance armory.  However, his rules are the same.  You only have a short time before being kicked out...by him killing you.</MissionDescription>
+    <TurnInDescription>Did you have a good haul?</TurnInDescription>
+    <MissionSummary>Grab loot!</MissionSummary>
+    <MissionGiver>Marcus</MissionGiver>
+    <Objectives0>Countdown started:</Objectives0>
+    <Objectives1>Steal loot:</Objectives1>
+    <Objectives2>Boom!:</Objectives2>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_GetLoot03</Name>
+    <MissionName>It's Like Christmas!</MissionName>
+    <MissionDescription>Marcus is allowing you to have another run through the old Lance armory.  However, his rules are the same.  You only have a short time before being kicked out...by him killing you.</MissionDescription>
+    <TurnInDescription>Hopefully the third time was the charm.</TurnInDescription>
+    <MissionSummary>Grab as much loot as you can!</MissionSummary>
+    <MissionGiver>Marcus</MissionGiver>
+    <Objectives0>Countdown started:</Objectives0>
+    <Objectives1>Steal loot:</Objectives1>
+    <Objectives2>Boom!:</Objectives2>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_Gondola</Name>
+    <MissionName>Bugged</MissionName>
+    <MissionDescription>Citizens of Pandora.  The fine people of the Dahl corporation would like to invite you to help us help you deal with your Atlas problem.  There is an Atlas communications tower near their new facility.  There is a nice reward for anyone who can place the provided listening device onto the tower.</MissionDescription>
+    <TurnInDescription>Thank you!  The Dahl corporation hopes you enjoy our free gift.</TurnInDescription>
+    <MissionSummary>Bug the communications dish near the Atlas armory.</MissionSummary>
+    <MissionGiver>Bounty Board</MissionGiver>
+    <Objectives0>Find lever:</Objectives0>
+    <Objectives1>Activate gondola:</Objectives1>
+    <Objectives2>Place bug:</Objectives2>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_Graffiti</Name>
+    <MissionName>Stain Removal</MissionName>
+    <MissionDescription>The bandits in the region have painting the most awful things about me all around the area.  Most of them are untrue.  Do you mind finding them and removing them for me?</MissionDescription>
+    <TurnInDescription>Thanks, Sugah.  You're a real peach.</TurnInDescription>
+    <MissionSummary>Remove the graffiti about Moxxi.</MissionSummary>
+    <MissionGiver>Moxxi</MissionGiver>
+    <Objectives0>Erase graffiti #1:</Objectives0>
+    <Objectives1>Erase graffiti #2:</Objectives1>
+    <Objectives2>Erase graffiti #3:</Objectives2>
+    <Objectives3>Erase graffiti #4:</Objectives3>
+    <Objectives4>Erase graffiti #5:</Objectives4>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_Hitman</Name>
+    <MissionName>Wanted: Dead!</MissionName>
+    <MissionDescription>Atlas has a huge price on your head and has ordered their most elite units, the Omega Assassins, to find and kill you.  Athena has warned you that there will be four more teams.  You don't know where or when they'll strike, but you know they're coming.  Survive.</MissionDescription>
+    <TurnInDescription>Dear Atlas, is that all you got?  Signed, the vault hunters.</TurnInDescription>
+    <MissionSummary>Survive the Omega ambushes by killing their leaders.</MissionSummary>
+    <MissionGiver>Agent 01</MissionGiver>
+    <Objectives0>Survive Hera's squad:</Objectives0>
+    <Objectives1>Survive Minerva's squad:</Objectives1>
+    <Objectives2>Survive Ceresia's squad:</Objectives2>
+    <Objectives3>Survive Helicon's squad:</Objectives3>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_KillStuff01</Name>
+    <MissionName>Mop Up</MissionName>
+    <MissionDescription>Hello!  Have I got an opportunity for you!  I managed to get my hands on that Atlas armory for a song.  I guess I have you to thank for that, eh?  I've fixed it up good as new and you wouldn't believe how much I was able to salvage.  I am in a giving mood right now and would be willing to give you a 'shopping spree' if you do some work for me.  Here's the deal.  If you could eliminate some of the remaining Crimson Lance then I could be sure they won't try to take it back from me.</MissionDescription>
+    <TurnInDescription>That many, huh?  Not bad. Not bad.  I think that is worth a crack at my new warehouse.</TurnInDescription>
+    <MissionSummary>Thin the ranks of Crimson Lance.</MissionSummary>
+    <MissionGiver>Marcus</MissionGiver>
+    <Objectives0>Kill Badass Lance:</Objectives0>
+    <Objectives1>Kill Pyro Lance:</Objectives1>
+    <Objectives2>Kill Chemical Lance:</Objectives2>
+    <Objectives3>Kill Shock Lance:</Objectives3>
+    <Objectives4>Kill Jetpack Lance:</Objectives4>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_KillStuff02</Name>
+    <MissionName>Local Trouble</MissionName>
+    <MissionDescription>It has come to my attention that Lockdown Palace has a bit of a leadership problem.  I'd like to increase my, eh, influence there.  Ex-cons are actually very hard workers, and you can pay them in cigarettes!  I'd like you to go to Lockdown Palace and, eh, do some business for me.  Let them know what Marcus is willing to do to, I mean, for them.  And those little guys running around out there are really making it difficult to get to my vending machines.  A few less of them and their filthy skags wouldn't hurt either.  What?  Is that a bit too unethical for you?  I'll make it worth your while.  How about another run through my warehouse.  All the guns you can carry!  What do you say?</MissionDescription>
+    <TurnInDescription>A dirty bit of business, but I appreciate it.  Enjoy your guns!</TurnInDescription>
+    <MissionSummary>Do Marcus's dirty work.</MissionSummary>
+    <MissionGiver>Marcus</MissionGiver>
+    <Objectives0>Kill Prisoners:</Objectives0>
+    <Objectives1>Kill Midgets:</Objectives1>
+    <Objectives2>Kill Skags:</Objectives2>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_KnoxxECHOCollection</Name>
+    <MissionName>Knoxxed Out</MissionName>
+    <MissionDescription>The more information we have about what my former employers are up to the better.  See if you can find some of General Knoxx's communications to the Admiral of the fleet.  He has a bad habit of leaving them laying around after he has transmitted them.</MissionDescription>
+    <TurnInDescription>Sounds like he's having some issues with central command.  Excellent.  That gives us an advantage.</TurnInDescription>
+    <MissionSummary>Find communications from General Knoxx.</MissionSummary>
+    <MissionGiver>Athena</MissionGiver>
+    <Objectives0>Find ECHO #1:</Objectives0>
+    <Objectives1>Find ECHO #2:</Objectives1>
+    <Objectives2>Find ECHO #3:</Objectives2>
+    <Objectives3>Find ECHO #4:</Objectives3>
+    <Objectives4>Find ECHO #5:</Objectives4>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_LanceCommander01</Name>
+    <MissionName>This Bitch is Payback</MissionName>
+    <MissionDescription>While I was part of the Crimson Lance there were two particularly troublesome Lieutenants.  Their names were Kyros and Typhon.  They were two of the most cruel and demeaning officers in the army.  I had many an incident with them and I would have killed them had there not been that regulation about assassinating fellow officers, but thankfully that is not an issue any more.  If you find them while you are out, you may do the honors.</MissionDescription>
+    <TurnInDescription>Trust me.  The galaxy is a better place with those two finally discharged from the Crimson Lance.</TurnInDescription>
+    <MissionSummary>Kill the Crimson Lance Lieutenants</MissionSummary>
+    <MissionGiver>Athena</MissionGiver>
+    <Objectives0>Kill Kyros:</Objectives0>
+    <Objectives1>Kill Typhon:</Objectives1>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_LanceCommander02</Name>
+    <MissionName>This Bitch is Payback, pt. 2</MissionName>
+    <MissionDescription>I've just learned that Commander Ajax is in the area.  He made Kyros and Typhon look like kittens.  He could also make problems for us.  I strongly urge you to find him and eliminate him.</MissionDescription>
+    <TurnInDescription>Excellent.  Good work.</TurnInDescription>
+    <MissionSummary>Kill Commander Ajax</MissionSummary>
+    <MissionGiver>Athena</MissionGiver>
+    <Objectives0>Kill Ajax:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_LoopDeLoop</Name>
+    <MissionName>Thrown for a Loop</MissionName>
+    <MissionDescription>I've been thinking about starting a vehicle stunt show.  I've got an idea for some tricks, but what I really need is a loop the loop.  There's a loop out across the crevasse that some bandits built a long time ago, goodness knows why.  Everyone's been telling me that it can't be done and I should give up on the idea, but I think you can prove 'em wrong.</MissionDescription>
+    <TurnInDescription>Ha!  I told those wusses that it could be done.  Thanks for proving me right.</TurnInDescription>
+    <MissionSummary>Perform a loop the loop</MissionSummary>
+    <MissionGiver>Moxxi</MissionGiver>
+    <Objectives0>Loop the loop:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_Motorhead</Name>
+    <MissionName>Little People, Big Experiments</MissionName>
+    <MissionDescription>You've learned from Thirsty that the midgets in the area used to run with Sledge before someone killed him.  They revered him greatly and took his body to their best scientists.  Something went wrong with their attempts to revive and improve him, and he is now on the loose, rampaging through the region.  The bandits in the region have dubbed him 'Motorhead'.  The midgets would like your help to finally put him out of his misery.</MissionDescription>
+    <TurnInDescription>Now poor Sledge is finally at peace.</TurnInDescription>
+    <MissionSummary>Investigate the rumors of midget experiments.</MissionSummary>
+    <MissionGiver>Thirsty the Midget</MissionGiver>
+    <Objectives0>Rumor investigated:</Objectives0>
+    <Objectives1>Motorhead killed:</Objectives1>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_Power</Name>
+    <MissionName>Power Leech</MissionName>
+    <MissionDescription>Hey.  This is Mr. Shank.  Lockdown Palace has a problem.  If any a you panty waists on the outside want to make a few bucks here's the sitch.  Those bastards in the bandit camps on the overpass are syphoning off our power.  We're getting constant brownouts in here.  It's cruel and unusal punishment.  No one messes with Mr. Shank.  I want all my power back.  We've got most of it rigged up to destoy the tower they are using to steal from us but there are a few last details we need help with.  Explosives, etc. Do this for me and I won't kill you the next time I see you...probably.</MissionDescription>
+    <TurnInDescription>That was a fine bit of killin' you musta done to help us with that.  We appreciate it, but I don't ever want to see your face at the Palace!</TurnInDescription>
+    <MissionSummary>Restore full power to Lockdown Palace.</MissionSummary>
+    <MissionGiver>Bounty Board</MissionGiver>
+    <Objectives0>Bomb found:</Objectives0>
+    <Objectives1>Charge placed:</Objectives1>
+    <Objectives2>Powerline destroyed:</Objectives2>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_PowerCores</Name>
+    <MissionName>Core Collection</MissionName>
+    <MissionDescription>Hello!  With the Crimson Lance in the area there is a great opportunity for us.  Their armor has these special energy cores inside them.  A top secret piece of Atlas technology.  Torgue, Maliwan, and Hyperion are always on the lookout for them.  If you bring some to me there is a lot of dough in it for you.</MissionDescription>
+    <TurnInDescription>Excellent!  And in three varieties too!  Oh, you always do such great work for me.  Here is your cut.</TurnInDescription>
+    <MissionSummary>Collect Lance energy cores for Marcus</MissionSummary>
+    <MissionGiver>Marcus</MissionGiver>
+    <Objectives0>Power cores:</Objectives0>
+    <Objectives1>Speed cores:</Objectives1>
+    <Objectives2>Shock cores:</Objectives2>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_RoadKill01</Name>
+    <MissionName>Support Local 101!</MissionName>
+    <MissionDescription>From: Roadkill Shovellers Union of Pandora, Local 101  To: Drivers of the Parched Fathoms.  Since the Crimson Lance has arrived and stopped travel on the highways we have hit hard times.  Please help us by running over something, anything, so we can clean it up.</MissionDescription>
+    <TurnInDescription>Thank you.  We can get back on the job!</TurnInDescription>
+    <MissionSummary>Create some roadkill for the Roadkill Shovellers Union.</MissionSummary>
+    <MissionGiver>Bounty Board</MissionGiver>
+    <Objectives0>Roadkill:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_RoadKill02</Name>
+    <MissionName>Local 101 needs your help!</MissionName>
+    <MissionDescription>From: Roadkill Shovellers Union of Pandora, Local 101  To: Drivers of the Parched Fathoms.  We appreciate the few donations we have obtained but there are still a lot of hardworking psychos in local 101 who could use your help.  Please help us by running over something, anything, so we can clean it up.</MissionDescription>
+    <TurnInDescription>Your donations make a difference.  -Roadkill Shovellers Union of Pandora, Local 101</TurnInDescription>
+    <MissionSummary>Create some roadkill for the Roadkill Shovellers Union.</MissionSummary>
+    <MissionGiver>Bounty Board</MissionGiver>
+    <Objectives0>Roadkill:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_RoadKill03</Name>
+    <MissionName>The Shovellers Union Needs You!</MissionName>
+    <MissionDescription>From: Roadkill Shovellers Union of Pandora, Local 101  To: Drivers of the Parched Fathoms.  Our donations have been increasing recently and your support is appreciated.  If we could just get a few more hours of your time it can translate to many, many hours of work for our members.  You have no idea how long it takes to scrape up all of those gibs.</MissionDescription>
+    <TurnInDescription>Thanks for killin' all that stuff.  We are almost back on our feet.</TurnInDescription>
+    <MissionSummary>Run over more stuff for those poor Union workers.</MissionSummary>
+    <MissionGiver>Bounty Board</MissionGiver>
+    <Objectives0>Roadkill:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_RoadKill04</Name>
+    <MissionName>Our Goals are in Sight!</MissionName>
+    <MissionDescription>From: Roadkill Shovellers Union of Pandora, Local 101  To: Drivers of the Parched Fathoms.  The outpouring of support for us has been overwhelming.  We can't thank you enough.  With one more push we can be back on our feet, but we need your help to reach our goal.</MissionDescription>
+    <TurnInDescription>A tremendous effort on your part has provided for the livelihood of tens of families on Pandora.  Thank you!</TurnInDescription>
+    <MissionSummary>Smash more stuff with your car.  It's for the good of Pandora!</MissionSummary>
+    <MissionGiver>Bounty Board</MissionGiver>
+    <Objectives0>Roadkill:</Objectives0>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_Treasure</Name>
+    <MissionName>Lost Lewts</MissionName>
+    <MissionDescription>You found a strange device which appears to be a special radar for the Lancer.  The manual reads: 'When installed this transponder detector allows the driver to find Atlas supply stashes that were deem irretrievable at the end of the first occupation.  The transponder pulse will appear on the radar when you are near a stash.  The brighter the pulse the closer you are.  A green crosshair appears in the radar when you are directly on top of the stash.  At this point someone must jump out and dig up the stash.  If the entire radar is green you have already retrieved that hidden stash.'</MissionDescription>
+    <TurnInDescription>Wow!  You found all of those old Atlas stashes!  People have been looking for those for years.  Anything you'd like to sell?</TurnInDescription>
+    <MissionSummary>Use a Lancer to find the hidden supply stashes.</MissionSummary>
+    <MissionGiver>Radar device</MissionGiver>
+    <Objectives0>Stash 1:</Objectives0>
+    <Objectives1>Stash 2:</Objectives1>
+    <Objectives2>Stash 3:</Objectives2>
+    <Objectives3>Stash 4:</Objectives3>
+    <Objectives4>Stash 5:</Objectives4>
+  </Section>
+  <Section>
+    <Name>dlc3_SideMissions.SideMissions.M_dlc3_UberBoss</Name>
+    <MissionName>You. Will. Die.</MissionName>
+    <MissionDescription>There is an ancient tale in these parts of a massive beast that used to roam the sea.  This is way back when there was water and everything.  The tales have been passed down from generation to generation.  His name was Crawmerax.  They said he was invincible.  Why am I telling you all of this?  Since you blew up that Lance depot there have been tremors in the Deep Fathoms.  Some say that Crawmerax is out there.  That you reawakened him from hibernation.  It would be one hell of a story if it were true, and whoever killed him would become a legend!</MissionDescription>
+    <TurnInDescription>Holy crap. You did it?  For real?  I was just making up a story.  I didn't think he was really out there.</TurnInDescription>
+    <MissionSummary>Find Crawmerax.  Kill him...if you can.</MissionSummary>
+    <MissionGiver>Bounty Board</MissionGiver>
+    <Objectives0>Kill Crawmerax:</Objectives0>
+  </Section>
+  <Section>
+    <Name>DLC4_SS_Canyon_Missions.SideMissions.M_side_dlc4_OldSpicy</Name>
+    <MissionName>Old Spicy</MissionName>
+    <MissionDescription>Marcus knows what women like: musky odor! Go to Scorched Snake Canyon and find him 5 skag musk glands and some rakk hive ambergris so he can brew up a truly potent cologne.</MissionDescription>
+    <TurnInDescription>That's all you need for a powerful aroma.  Guaranteed to always work on 60% of the ladies, at least half of the time.</TurnInDescription>
+    <MissionSummary>Collect skag musk and rakk hive ambergris in Scorched Snake Canyon for Marcus.</MissionSummary>
+    <MissionGiver>Marcus</MissionGiver>
+    <Objectives0>Skag musk glands:</Objectives0>
+    <Objectives1>Rakk hive ambergris:</Objectives1>
+  </Section>
+  <Section>
+    <Name>DLC4_Tartarus_Stat_Missions.SideMissions.M_side_dlc4_OneUpmanPipp</Name>
+    <MissionName>One-UpmanPipp</MissionName>
+    <MissionDescription>That slimy puke Sal has gone too far! Pipp, owner and hotelier of the far nicer Pipp Inn Spa, wants revenge.  Shoving garbage in Hostel Sal's food delivery chute should level the playing field in the resort wars.</MissionDescription>
+    <TurnInDescription>You've secretly replaced the food at the Hostel Sal cafeteria with dark, sparkling garbage... can their customers tell the difference?</TurnInDescription>
+    <MissionSummary>Find some garbage and stuff it in Hostel Sal's food chute.</MissionSummary>
+    <MissionGiver>Hyperion Tourist Information Board</MissionGiver>
+    <Objectives0>Garbage:</Objectives0>
+    <Objectives1>Garbage placed in chute:</Objectives1>
+  </Section>
+  <Section>
+    <Name>DLC4_SS_Canyon_Missions.MainMissions.M_DLC4_TripWIRED_dummy</Name>
+    <MissionName>OTCT, Phase Three: TripWIRED</MissionName>
+    <MissionDescription>The enigmatically named wireless WIRED device is the key to shutting down the Claptrap Revolution once and for all. Lower the bridge, storm Scorched Snake Canyon, and retrieve the device for Blake.</MissionDescription>
+    <TurnInDescription>You got the WIRED device!  And all it cost you was a little sweat and a whole lotta bullets.  Now it's time for a robotic regime change.</TurnInDescription>
+    <MissionSummary>Find the warehouse in Scorched Snake Canyon and return the WIRED device to Blake.</MissionSummary>
+    <MissionGiver>Blake</MissionGiver>
+    <Objectives0>Warehouse located:</Objectives0>
+    <Objectives1>WIRED device found:</Objectives1>
+  </Section>
+  <Section>
+    <Name>DLC4_SS_Canyon_Missions.MainMissions.M_DLC4_TripWIRED</Name>
+    <MissionName>Operation Trap Claptrap Trap, Phase Three: TripWIRED</MissionName>
+    <MissionDescription>The enigmatically named wireless WIRED device is the key to shutting down the Claptrap Revolution once and for all. Lower the bridge, storm Scorched Snake Canyon, and retrieve the device for Blake.</MissionDescription>
+    <TurnInDescription>You got the WIRED device!  And all it cost you was a little sweat and a whole lotta bullets.  Now it's time for a robotic regime change.</TurnInDescription>
+    <MissionSummary>Find the warehouse in Scorched Snake Canyon and return the WIRED device to Blake.</MissionSummary>
+    <MissionGiver>Blake</MissionGiver>
+    <Objectives0>Warehouse located:</Objectives0>
+    <Objectives1>WIRED device found:</Objectives1>
+  </Section>
+  <Section>
+    <Name>DLC4_Hyperion_Dump_Missions.SideMissions.M_dlc4_TannisParts5</Name>
+    <MissionName>A Part Of Something Larger Than Yourself</MissionName>
+    <MissionDescription>Just a few more parts and Tannis' magnum opus shall be revealed! Tremble in fear at the might of Tannis and her fearsome... what is this thing, anyway?</MissionDescription>
+    <TurnInDescription>Thanks to these new parts, Tannis' masterpiece is complete: It's an android version of Tannis!  Now, she'll never be lonely again, and she rewards you handsomely for your efforts.</TurnInDescription>
+    <MissionSummary>Get Tannis a ridiculous amount of claptrap components.</MissionSummary>
+    <MissionGiver>Tannis</MissionGiver>
+    <Objectives0>Clap-Component:</Objectives0>
+  </Section>
+  <Section>
+    <Name>DLC4_Hyperion_Dump_Missions.SideMissions.M_dlc4_TannisParts4</Name>
+    <MissionName>We All Have Our Part To Play</MissionName>
+    <MissionDescription>The 'Popcorn' setting on Tannis' device is malfunctioning.  Well, it's not so much malfunctioning as creating deadly mutant corn.  A few more parts should fix that!</MissionDescription>
+    <TurnInDescription>Those extra parts you found should take care of the giant corn dilemma. Now she'll probably want a shitload of butter.</TurnInDescription>
+    <MissionSummary>Get lots of claptrap parts for Tannis.</MissionSummary>
+    <MissionGiver>Tannis</MissionGiver>
+    <Objectives0>Clap-Component:</Objectives0>
+  </Section>
+  <Section>
+    <Name>DLC4_Hyperion_Dump_Missions.SideMissions.M_dlc4_TannisParts3</Name>
+    <MissionName>Parts Is Parts</MissionName>
+    <MissionDescription>Tannis needs more parts to ensure the protection grid holds on her device's ecto-containment unit, safeguarding against total protonic reversal, which would be extraordinarily bad.</MissionDescription>
+    <TurnInDescription>You got those parts Tannis needed! It's Filler Time!  If you've got the time, she's got the beer....Filler Beer.</TurnInDescription>
+    <MissionSummary>Get even more claptrap components for Tannis.</MissionSummary>
+    <MissionGiver>Tannis</MissionGiver>
+    <Objectives0>Clap-Component:</Objectives0>
+  </Section>
+  <Section>
+    <Name>DLC4_Hyperion_Dump_Missions.SideMissions.M_dlc4_TannisParts2</Name>
+    <MissionName>Fight For Your Right To Part-E</MissionName>
+    <MissionDescription>Tannis needs some more parts to complete her creation's Infinite Improbability Drive.  If you can't find any lying around, just rip them out of some claptrap spines.</MissionDescription>
+    <TurnInDescription>Fantastic! This should limit the invention's Improbability factor to -42! Which is a big deal! Really!</TurnInDescription>
+    <MissionSummary>Get some more claptrap components for Tannis.</MissionSummary>
+    <MissionGiver>Tannis</MissionGiver>
+    <Objectives0>Clap-Component:</Objectives0>
+  </Section>
+  <Section>
+    <Name>DLC4_D_Faults_Missions.SideMissions.M_DLC4_TakingStock</Name>
+    <MissionName>Taking Stock</MissionName>
+    <MissionDescription>Marcus' stockroom is running dangerously low on useless touristy crap.  Find ten handsome bobble-heads around the Hyperion factory complex in Dividing Faults and bring them back to Marcus for a handsome reward.</MissionDescription>
+    <TurnInDescription>Marcus' bobble-head supply is completely restocked. The dashboards of Pandora will not go unfurnished!</TurnInDescription>
+    <MissionSummary>Collect 10 bobble-heads for Marcus.</MissionSummary>
+    <MissionGiver>Marcus</MissionGiver>
+    <Objectives0>Bobble-heads:</Objectives0>
+  </Section>
+  <Section>
+    <Name>DLC4_Tartarus_Stat_Missions.SideMissions.M_dlc4_Spa_Vs_Spa</Name>
+    <MissionName>Spa Vs. Spa</MissionName>
+    <MissionDescription>Sal, the owner and proprietor of the illustrious Hostel Sal, is sick and tired of losing customers to those dirtbags over at the Pipp Inn Spa.  Stealing the Pipp Inn's power source oughta put a damper on their sauna... figuratively speaking.</MissionDescription>
+    <TurnInDescription>The Pipp Inn is out of commission. Unfortunately the door on the sauna was on a power lock.  Hope they brought plenty of water.</TurnInDescription>
+    <MissionSummary>Cut power to the Pipp Inn spa.</MissionSummary>
+    <MissionGiver>Hyperion Tourist Information Board</MissionGiver>
+    <Objectives0>Spa Power Source:</Objectives0>
+  </Section>
+  <Section>
+    <Name>DLC4_Tartarus_Stat_Missions.SideMissions.M_dlc4_Shooting_Rakks_Barrel</Name>
+    <MissionName>Like Shootin' Rakk In A Barrel</MissionName>
+    <MissionDescription>A horde of bandits has blocked off the pass to Sanders Gorge.  How can you possibly take them out? Oh look! Huge freaking gun turrets! Fix those turrets and sick'em on the bandits.</MissionDescription>
+    <TurnInDescription>The path is cleared! Plus you fixed the turrets and gave the canyon a fresh coat of red paint.</TurnInDescription>
+    <MissionSummary>Reactivate the gun turrets to clear out the bandit camp.</MissionSummary>
+    <MissionGiver>Hyperion Tourist Information Board</MissionGiver>
+    <Objectives0>Turret components:</Objectives0>
+    <Objectives1>Activate turrets:</Objectives1>
+  </Section>
+  <Section>
+    <Name>DLC4_Tartarus_Stat_Missions.SideMissions.M_dlc4_Repair_Trap_Clap</Name>
+    <MissionName>It's A Trap... Clap</MissionName>
+    <MissionDescription>Aww, that poor helpless claptrap is in need of repair. Find a toolbox and fix him up.  He's just a little wee one. What harm could he do?</MissionDescription>
+    <TurnInDescription>You took out that devious claptrap and you learned a valuable lesson: Never help anyone but yourself.</TurnInDescription>
+    <MissionSummary>Repair the damaged claptrap.</MissionSummary>
+    <MissionGiver>Claptrap</MissionGiver>
+    <Objectives0>Repair kit:</Objectives0>
+  </Section>
+  <Section>
+    <Name>DLC4_Wayward_Pass_Mission.MainMissions.M_dlc4_OTCT_Reboot</Name>
+    <MissionName>Operation Trap Claptrap Trap, Phase Four: Reboot</MissionName>
+    <MissionDescription>The most finalest phase of all! Fight your way through Wayward Pass and get close enough to the original Ninja Assassin Claptrap to use the WIRED device.  But be careful; no one ever said squashing an army of murderous robots was gonna be easy.</MissionDescription>
+    <TurnInDescription>Congratulations! The Glorious Robolution is no more.  Although you're sure to see douchebag college kids wearing claptrap t-shirts for years to come! Viva La Robolution?</TurnInDescription>
+    <MissionSummary>Use the WIRED device on Ninja Assassin Claptrap.</MissionSummary>
+    <MissionGiver>Blake</MissionGiver>
+    <Objectives0>WIRED device activated:</Objectives0>
+  </Section>
+  <Section>
+    <Name>DLC4_Sanders_Gorge_Missions.MainMissions.M_dlc4_OTCT_Phase_One</Name>
+    <MissionName>Operation Trap Claptrap Trap, Phase One</MissionName>
+    <MissionDescription>Hyperion-brand claptraps are going haywire and are assimilating Pandora.  Time for a little corporate restructuring.  Locate the power plant in Sanders Gorge and restore power to lower the bridges for your glorious counter-revolution.</MissionDescription>
+    <TurnInDescription>The bridges now have power. Trolls everywhere rejoice! On to Phase Two...</TurnInDescription>
+    <MissionSummary>Turn on the power to lower the bridges.</MissionSummary>
+    <MissionGiver>Blake</MissionGiver>
+    <Objectives0>Power plant located:</Objectives0>
+    <Objectives1>Power restored:</Objectives1>
+  </Section>
+  <Section>
+    <Name>DLC4_D_Faults_Missions.MainMissions.M_DLC4_OTCT_Phase2</Name>
+    <MissionName>Operation Trap Claptrap Trap, Phase Two: Industrial Revolution</MissionName>
+    <MissionDescription>Just what we need: more claptraps.  Invade the rogue claptrap factory in Dividing Faults and bring the damn thing down around those buckets of bolts.</MissionDescription>
+    <TurnInDescription>Murder, mayhem, and some light industrial espionage.  All in a day's work for a corporate raider like yourself. Now to Phase Three...</TurnInDescription>
+    <MissionSummary>Find and destroy the factory creating claptraps.</MissionSummary>
+    <MissionGiver>Blake</MissionGiver>
+    <Objectives0>Factory located:</Objectives0>
+    <Objectives1>Coolant pumps destroyed:</Objectives1>
+  </Section>
+  <Section>
+    <Name>DLC4_Tartarus_Stat_Missions.MainMissions.M_dlc4_New_Contact</Name>
+    <MissionName>New Contact</MissionName>
+    <MissionDescription>Hyperion VP, Mr. Blake wants to meet the crew that 'accidentally' slaughtered his recon team. Whoops. Find him at Tartarus Station.</MissionDescription>
+    <TurnInDescription>Hyperion Corporation wants to hire you to take care of the claptrap situation!  Welcome to the rakk race!</TurnInDescription>
+    <MissionSummary>Meet with Blake at Tartarus Station.</MissionSummary>
+    <MissionGiver>Blake</MissionGiver>
+    <Objectives0>Blake contacted:</Objectives0>
+  </Section>
+  <Section>
+    <Name>DLC4_Tartarus_Stat_Missions.MainMissions.M_dlc4_M7_Helping_is_its_own_reward</Name>
+    <MissionName>Helping Is Its Own Reward... Wait No It Isn't!</MissionName>
+    <MissionDescription>Blake has given you the key to a Hyperion Corporate Gift Shop.  Time to see if all the blood, sweat and dead claptraps were worth it.</MissionDescription>
+    <TurnInDescription>Now this is a gift shop! This secret cache of weapons beats the hell out of some assorted snow globes, shot glasses and cuddly plush skags.</TurnInDescription>
+    <MissionSummary>Go to the Hyperion Corporate Gift Shop.</MissionSummary>
+    <MissionGiver>Blake</MissionGiver>
+    <Objectives0>Payment processed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>DLC4_Tartarus_Stat_Missions.SideMissions.M_dlc4_Go_Visit_Tannis</Name>
+    <MissionName>Go Visit Tannis</MissionName>
+    <MissionDescription>Tannis has established a new research outpost in Tartarus Station, she would like for you to help her with another experiment....</MissionDescription>
+    <TurnInDescription>Tannis is as mad as ever, time to find out what plans she has for you this time</TurnInDescription>
+    <MissionSummary>Talk to Tannis in her laboratory at Tartarus Station</MissionSummary>
+    <MissionGiver>Tannis</MissionGiver>
+    <Objectives0>Meet Tannis:</Objectives0>
+  </Section>
+  <Section>
+    <Name>DLC4_Sanders_Gorge_Missions.MainMissions.M_dlc4_Finger_Lickin_Bad</Name>
+    <MissionName>Finger Lickin' Bad!</MissionName>
+    <MissionDescription>The wild and dangerous Cluck-Trap has been sighted out in Sanders Gorge.  If you kill this fowl red-and-white robotic menace, you can claim a delicious bounty.</MissionDescription>
+    <TurnInDescription>You caught the Cluck-Trap! Now do you want white metal or dark?</TurnInDescription>
+    <MissionSummary>Find and kill Cluck-Trap.</MissionSummary>
+    <MissionGiver>Hyperion Tourist Information Board</MissionGiver>
+    <Objectives0>Cluck-Trap killed:</Objectives0>
+  </Section>
+  <Section>
+    <Name>DLC4_Sanders_Gorge_Missions.MainMissions.M_dlc4_Eleven_Rakks_Spices</Name>
+    <MissionName>Eleven Rakk And Spices</MissionName>
+    <MissionDescription>That's why you don't date crazy.  After having his heart broken, Marcus needs some comfort food: Captain Sanders? Famous Pandora Fried Rakk!  Find 11 pieces of rakk-trap meat and 11 spice plants in Sanders Gorge for the Captain?s famous secret recipe.</MissionDescription>
+    <TurnInDescription>One extra-large bucket of Pandora Fried Rakk coming up!</TurnInDescription>
+    <MissionSummary>Bring Marcus some fresh rakk meat and spices.</MissionSummary>
+    <MissionGiver>Marcus</MissionGiver>
+    <Objectives0>Fresh rakk meat:</Objectives0>
+    <Objectives1>Spice plants:</Objectives1>
+  </Section>
+  <Section>
+    <Name>DLC4_D_Faults_Missions.SideMissions.M_DLC4_DFault</Name>
+    <MissionName>Not My Fault</MissionName>
+    <MissionDescription>The vicious D-Fault and his gang have been harassing tour buses in the Dividing Faults.  Hyperion needs them taken out to keep that tourist cash coming in.</MissionDescription>
+    <TurnInDescription>The Dividing Faults are safe for tourists once more, and if you look out the left side of the bus, you can see a pile of fresh corpses.</TurnInDescription>
+    <MissionSummary>Kill 15 D-Fault bandits and their leader D-Fault.</MissionSummary>
+    <MissionGiver>Hyperion Tourist Information Board</MissionGiver>
+    <Objectives0>D-Fault bandits killed:</Objectives0>
+    <Objectives1>D-Fault killed:</Objectives1>
+  </Section>
+  <Section>
+    <Name>DLC4_Hyperion_Dump_Missions.SideMissions.M_dlc4_Burn_Rubber</Name>
+    <MissionName>Burnin' Rubber</MissionName>
+    <MissionDescription>Those lousy rustbuckets have stolen Marcus' bus tires! Go to the Hyperion Dump and find six good looking tires.  It's time to spruce this old girl up.</MissionDescription>
+    <TurnInDescription>Six shiny new tires for Marcus' ride! And these hardly have any roadkill in them yet!</TurnInDescription>
+    <MissionSummary>Collect six good looking tires for Marcus.</MissionSummary>
+    <MissionGiver>Marcus</MissionGiver>
+    <Objectives0>Tires:</Objectives0>
+  </Section>
+  <Section>
+    <Name>DLC4_Hyperion_Dump_Missions.MainMissions.M_dlc4_AreyoufromtheseParts</Name>
+    <MissionName>Are You From These Parts?</MissionName>
+    <MissionDescription>Patricia Tannis needs parts to build her magnificent... something.  Head down to the Hyperion Dump and search the scrapped claptraps for parts and bring them back to her.</MissionDescription>
+    <TurnInDescription>You got Tannis her parts! Of course she's still got a couple of screws loose.</TurnInDescription>
+    <MissionSummary>Bring Tannis some claptrap parts.</MissionSummary>
+    <MissionGiver>Tannis</MissionGiver>
+    <Objectives0>Clap-Component #1:</Objectives0>
+    <Objectives1>Clap-Component #2:</Objectives1>
+    <Objectives2>Clap-Component #3:</Objectives2>
+    <Objectives3>Clap-Component #4:</Objectives3>
+    <Objectives4>Clap-Component #5:</Objectives4>
+  </Section>
+</INI>
