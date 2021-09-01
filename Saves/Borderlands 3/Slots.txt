@@ -4,9 +4,8 @@
 4 - 100k Eridium Dropper
 
 5 - Season 1 Vault Card Key Dropper (gives 3 per key): Thank Eklipze for the item codes!
-6 - Season 1 Vault Card Key Dropper (gives 3 per key): Thank G40sty Boi for the item codes!
+6 - Season 2 Vault Card Key Dropper (gives 3 per key): Thank G40sty Boi for the item codes!
 7 - ---Season 3 Vault Card Key Dropper--- Place holder (will most likely get moved)
-
 8 - Diamond Key Dropper: Eklipze for the item code!
 
 9 - All heads/skins/trinkets/decorations/weapon skins: Thank the community!! (Very laggy)
@@ -26,7 +25,12 @@ Thanks to Domin8 for these saves:
 21 - DLC4 Items
 22 - Arms Race Items
 23 - Director's Cut Items (no customizations)
+--------------------------------------------- Updated 8/31/21: Removed Anoitments besides M10
+
+PROFILES:
+Bank Customizations - Contains all Heads/Skins/Trinkets/Weapon Skins/Room Decorations
+Droppers Bank - Contains all Heads/Skins/Trinkets/Weapon Skins/Room Decorations/Weapons/Items
 
 
 If you see somthing missing please make an issue or DM me.
-
+Gaps between saves are used to symbolize the grouping in between them!
