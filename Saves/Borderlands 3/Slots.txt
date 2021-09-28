@@ -26,6 +26,10 @@ Thanks to Domin8 for these saves:
 22 - Arms Race Items
 23 - Director's Cut Items (no customizations)
 --------------------------------------------- Updated 8/31/21: Removed Anoitments besides M10
+24 - Siren XP Boost Lobby (level 100M)
+25 - Beast Master XP Boost Lobby (level 100M)
+26 - Gunner XP Boost Lobby (level 100M)
+27 - Operative XP Boost Lobby (level 100M)
 
 PROFILES:
 Bank Customizations - Contains all Heads/Skins/Trinkets/Weapon Skins/Room Decorations

@@ -30,3 +30,7 @@ from the saves on nexus and imported them into the character I got from apoc.
 Dumping to a profile save was a pain seems apocs notes for bl3-save-edit are a bit
 strange but got it working after 20 minutes since raptors tool doesn't seem to have
 multi import function like bl3saveeditor (RIP Baysix <3)
+
+Ok so I ended up using and fixing issues with domin8s saves in order to get those
+saves working properly it only took like 3 days but oh well lol.
+
