@@ -5,7 +5,7 @@
 
 5 - Season 1 Vault Card Key Dropper (gives 3 per key): Thank Eklipze for the item codes!
 6 - Season 2 Vault Card Key Dropper (gives 3 per key): Thank G40sty Boi for the item codes!
-7 - ---Season 3 Vault Card Key Dropper--- Place holder (will most likely get moved)
+7 - Season 3 Vault Card Key Dropper (gives 3 per key):
 8 - Diamond Key Dropper: Eklipze for the item code!
 
 9 - All heads/skins/trinkets/decorations/weapon skins: Thank the community!! (Very laggy)
@@ -25,11 +25,11 @@ Thanks to Domin8 for these saves:
 21 - DLC4 Items
 22 - Arms Race Items
 23 - Director's Cut Items (no customizations)
---------------------------------------------- Updated 8/31/21: Removed Anoitments besides M10
-24 - Siren XP Boost Lobby (level 100M)
-25 - Beast Master XP Boost Lobby (level 100M)
-26 - Gunner XP Boost Lobby (level 100M)
-27 - Operative XP Boost Lobby (level 100M)
+--------------------------------------------- Updated 8/31/21: Fixed Anointments For Re-Rolling
+24 - Siren XP Boost Lobby (level 875)
+25 - Beast Master XP Boost Lobby (level 875)
+26 - Gunner XP Boost Lobby (level 875)
+27 - Operative XP Boost Lobby (level 875)
 
 PROFILES:
 Bank Customizations - Contains all Heads/Skins/Trinkets/Weapon Skins/Room Decorations
