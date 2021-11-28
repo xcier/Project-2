@@ -5,8 +5,8 @@
 
 5 - Season 1 Vault Card Key Dropper (gives 3 per key): Thank Eklipze for the item codes!
 6 - Season 2 Vault Card Key Dropper (gives 3 per key): Thank G40sty Boi for the item codes!
-7 - Season 3 Vault Card Key Dropper (gives 3 per key):
-8 - Diamond Key Dropper: Eklipze for the item code!
+7 - Season 3 Vault Card Key Dropper (gives 3 per key): (NOT PS5 SAFE CRASHES GAME)
+8 - Diamond Key Dropper: Thank Eklipze for the item code!
 
 9 - All heads/skins/trinkets/decorations/weapon skins: Thank the community!! (Very laggy)
 
@@ -25,7 +25,7 @@ Thanks to Domin8 for these saves:
 21 - DLC4 Items
 22 - Arms Race Items
 23 - Director's Cut Items (no customizations)
---------------------------------------------- Updated 8/31/21: Fixed Anointments For Re-Rolling
+--------------------------------------------- Updated 11/25/21: Updated for VC3
 24 - Siren XP Boost Lobby (level 875)
 25 - Beast Master XP Boost Lobby (level 875)
 26 - Gunner XP Boost Lobby (level 875)
@@ -33,7 +33,11 @@ Thanks to Domin8 for these saves:
 
 PROFILES:
 Bank Customizations - Contains all Heads/Skins/Trinkets/Weapon Skins/Room Decorations
+
 Droppers Bank - Contains all Heads/Skins/Trinkets/Weapon Skins/Room Decorations/Weapons/Items
+
+Vault Card 3 Dropper Bank - 2000 vault keys for vault card 3 and new unreleased heads/skins
+and new weapons + TNTina (NOT PS5 SAFE ONLY COPIES 1 KEY)
 
 
 If you see somthing missing please make an issue or DM me.
