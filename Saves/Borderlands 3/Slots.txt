@@ -1,5 +1,7 @@
 Currently all saves in the Project 2 Save Pack have been made by ProtoBuffers/Xcier-Freedom
+All Saves are built for PC, PS4 Decrypted, PS4 Save Wizard (6.72+)
 
+Slots:
 1 - 25k Eridium Dropper
 2 - 50k Eridium Dropper
 3 - 75k Eridium Dropper
@@ -34,7 +36,7 @@ Thanks to Domin8 for these saves:
 27 - Operative XP Boost Lobby (level 875)
 ---------------------------------------------
 28 - Modded Pistols
-29 - Modded SMGs (TBA)
+29 - Modded SMGs
 30 - Modded ARs (TBA)
 31 - Modded Shotguns (TBA)
 32 - Modded Rocket Launchers (TBA)
@@ -64,3 +66,7 @@ and new weapons + TNTina (NOT PS5 SAFE ONLY COPIES 1 KEY)
 
 If you see somthing missing please make an issue or DM me.
 Gaps between saves are used to symbolize the grouping in between them!
+
+Last Update: 12/4/21 1:00AM -6 CST
+
+https://github.com/xcier/project-2
