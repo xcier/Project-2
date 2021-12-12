@@ -30,14 +30,14 @@ Thanks to Domin8 for these saves:
 22 - Arms Race Items
 23 - Director's Cut Items (no customizations)
 --------------------------------------------- Updated 11/25/21: Updated for VC3
-24 - Siren XP Boost Lobby (level 875)
-25 - Beast Master XP Boost Lobby (level 875)
-26 - Gunner XP Boost Lobby (level 875)
-27 - Operative XP Boost Lobby (level 875)
----------------------------------------------
+24 - Siren XP Boost Lobby (level 875) 2.00
+25 - Beast Master XP Boost Lobby (level 875) 2.00
+26 - Gunner XP Boost Lobby (level 875) 2.00
+27 - Operative XP Boost Lobby (level 875) 2.00
+--------------------------------------------- Updated 12/9/21: 2.00
 28 - Modded Pistols
-29 - Modded SMGs
-30 - Modded ARs (TBA)
+29 - Modded SMGs (Not PS5 Safe)
+30 - Modded ARs 
 31 - Modded Shotguns (TBA)
 32 - Modded Rocket Launchers (TBA)
 33 - Modded Snipers (TBA)
