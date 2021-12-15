@@ -29,7 +29,7 @@ Thanks to Domin8 for these saves:
 21 - DLC4 Items
 22 - Arms Race Items
 23 - Director's Cut Items (no customizations)
---------------------------------------------- Updated 11/25/21: Updated for VC3
+--------------------------------------------- New update to fix weapon DPS soon
 24 - Siren XP Boost Lobby (level 875) 2.00
 25 - Beast Master XP Boost Lobby (level 875) 2.00
 26 - Gunner XP Boost Lobby (level 875) 2.00
@@ -53,12 +53,15 @@ Thanks to Domin8 for these saves:
 42 - Weapon Skins/Trinkets
 43 - ECHO Themes
 44 - Room Decorations
-
+---------------------------------------------- Removed dupes & added missing (thank Owlz & Therian for the list)
+previous value - 925
+new value - 898
+Bank 896?
 
 PROFILES:
 Bank Customizations - Contains all Heads/Skins/Trinkets/Weapon Skins/Room Decorations
 
-Droppers Bank - Contains all Heads/Skins/Trinkets/Weapon Skins/Room Decorations/Weapons/Items
+Droppers Bank - Contains all Heads/Skins/Trinkets/Weapon Skins/Room Decorations/Weapons/Items (not up to date)
 
 Vault Card 3 Dropper Bank - 2000 vault keys for vault card 3 and new unreleased heads/skins
 and new weapons + TNTina (NOT PS5 SAFE ONLY COPIES 1 KEY)
@@ -67,6 +70,6 @@ and new weapons + TNTina (NOT PS5 SAFE ONLY COPIES 1 KEY)
 If you see somthing missing please make an issue or DM me.
 Gaps between saves are used to symbolize the grouping in between them!
 
-Last Update: 12/4/21 1:00AM -6 CST
+Last Update: 12/14/21 1:00AM -6 CST
 
 https://github.com/xcier/project-2
