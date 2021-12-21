@@ -12,6 +12,8 @@ It is highly recommended to NOT download everything at one time as this will bei
 getting a large amount of updates over time just go to the folder you want to download
 something from and download the zip or raw .sav as well. 
 
+https://www.youtube.com/watch?v=F8qynReZoFM&list=PLLQX_F_m7vrlSNCZFjvZbDwIRdqvzcwSN&index=8
+
 If enough people want I will move the Borderlands tools over to thier own section!
 Will most likely need to do this as well due to false postivies within the programs
 due to obfuscation and network use for exploited consoles.
