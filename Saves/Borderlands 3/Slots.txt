@@ -34,8 +34,8 @@ Thanks to Domin8 for these saves:
 25 - Beast Master XP Boost Lobby (level 875) 2.00
 26 - Gunner XP Boost Lobby (level 875) 2.00
 27 - Operative XP Boost Lobby (level 875) 2.00
---------------------------------------------- Updated 12/9/21: 2.00
-28 - Modded Pistols
+--------------------------------------------- XP Lobby 3.0 - no Unlocker - (2.00 still exist until new slots fill)
+28 - Modded Pistols (2.0 TBA)
 29 - Modded SMGs (Not PS5 Safe)
 30 - Modded ARs 
 31 - Modded Shotguns (TBA)
@@ -54,9 +54,11 @@ Thanks to Domin8 for these saves:
 43 - ECHO Themes
 44 - Room Decorations
 ---------------------------------------------- Removed dupes & added missing (thank Owlz & Therian for the list)
-previous value - 925
-new value - 898
-Bank 896?
+45 - Weapon Slot 3 Unlock + XP Lobby (TBA)
+46 - Class Mod Unlock + XP Lobby (TBA)
+47 - Weapon Slot 4 Unlock + XP Lobby (TBA)
+48 - Artifact Slot Unlock + XP Lobby (TBA)
+
 
 PROFILES:
 Bank Customizations - Contains all Heads/Skins/Trinkets/Weapon Skins/Room Decorations
@@ -70,6 +72,6 @@ and new weapons + TNTina (NOT PS5 SAFE ONLY COPIES 1 KEY)
 If you see somthing missing please make an issue or DM me.
 Gaps between saves are used to symbolize the grouping in between them!
 
-Last Update: 12/14/21 1:00AM -6 CST
+Last Update: 1/9/21 12:00AM -6 CST
 
 https://github.com/xcier/project-2

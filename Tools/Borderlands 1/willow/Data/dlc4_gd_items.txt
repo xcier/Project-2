@@ -1,3 +1,0 @@
-[INV_SkillPoints.Item_SkillPointReward]
-BaseRarity=170
-Presentation="sdu"

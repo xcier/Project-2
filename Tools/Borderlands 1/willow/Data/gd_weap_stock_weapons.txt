@@ -1,4 +1,0 @@
-[A_Weapon.WeaponType_machine_pistol_stock]
-Presentation="repeater"
-[A_Weapon.WeaponType_patrol_smg_stock]
-Presentation="smg"

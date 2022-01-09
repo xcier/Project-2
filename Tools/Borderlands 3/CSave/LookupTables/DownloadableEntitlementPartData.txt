@@ -1,4 +1,0 @@
-/Game/GameData/DLC/Entitlements/EntitlementPart_Currency_Eridium.EntitlementPart_Currency_Eridium
-/Game/GameData/DLC/Entitlements/EntitlementPart_Currency_GoldenKey.EntitlementPart_Currency_GoldenKey
-/Game/GameData/DLC/Entitlements/EntitlementPart_Currency_Money.EntitlementPart_Currency_Money
-/Game/GameData/DLC/Entitlements/EntitlementPart_Currency_DiamondKey.EntitlementPart_Currency_DiamondKey
