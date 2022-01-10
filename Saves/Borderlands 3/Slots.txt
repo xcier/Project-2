@@ -7,12 +7,12 @@ Slots:
 3 - 75k Eridium Dropper
 4 - 100k Eridium Dropper
 ---------------------------------------------
-5 - Season 1 Vault Card Key Dropper (gives 3 per key): Thank Eklipze for the item codes!
-6 - Season 2 Vault Card Key Dropper (gives 3 per key): Thank G40sty Boi for the item codes!
-7 - Season 3 Vault Card Key Dropper (gives 3 per key): (NOT PS5 SAFE CRASHES GAME)
+5 - Vault Card Key 1 Dropper (gives 3 per key): Thank Eklipze for the item codes!
+6 - Vault Card Key 2 Dropper (gives 3 per key): Thank G40sty Boi for the item codes!
+7 - Vault Card Key 3 Dropper (gives 3 per key): (NOT PS5 SAFE CRASHES GAME)
 8 - Diamond Key Dropper: Thank Eklipze for the item code!
 ---------------------------------------------
-9 - All heads/skins/trinkets/decorations/weapon skins: Thank the community!! (Very laggy NOT PS5 SAFE CRASHES GAME)
+9 - All heads/skins/trinkets/decorations/weapon skins
 ---------------------------------------------
 Thanks to Domin8 for these saves:
 10 - Pistols
@@ -30,10 +30,10 @@ Thanks to Domin8 for these saves:
 22 - Arms Race Items
 23 - Director's Cut Items (no customizations)
 --------------------------------------------- New update to fix weapon DPS soon
-24 - Siren XP Boost Lobby (level 875) 2.00
-25 - Beast Master XP Boost Lobby (level 875) 2.00
-26 - Gunner XP Boost Lobby (level 875) 2.00
-27 - Operative XP Boost Lobby (level 875) 2.00
+24 - Siren XP Boost Lobby 3.00
+25 - Beast Master XP Boost Lobby 3.00
+26 - Gunner XP Boost Lobby 3.00
+27 - Operative XP Boost Lobby 3.00
 --------------------------------------------- XP Lobby 3.0 - no Unlocker - (2.00 still exist until new slots fill)
 28 - Modded Pistols (2.0 TBA)
 29 - Modded SMGs (Not PS5 Safe)
@@ -63,7 +63,7 @@ Thanks to Domin8 for these saves:
 PROFILES:
 Bank Customizations - Contains all Heads/Skins/Trinkets/Weapon Skins/Room Decorations
 
-Droppers Bank - Contains all Heads/Skins/Trinkets/Weapon Skins/Room Decorations/Weapons/Items (not up to date)
+Droppers Bank - Contains Heads/Skins/Trinkets/Weapon Skins/Room Decorations/Weapons/Items (not up to date)
 
 Vault Card 3 Dropper Bank - 2000 vault keys for vault card 3 and new unreleased heads/skins
 and new weapons + TNTina (NOT PS5 SAFE ONLY COPIES 1 KEY)
@@ -72,6 +72,6 @@ and new weapons + TNTina (NOT PS5 SAFE ONLY COPIES 1 KEY)
 If you see somthing missing please make an issue or DM me.
 Gaps between saves are used to symbolize the grouping in between them!
 
-Last Update: 1/9/21 12:00AM -6 CST
+Last Update: 1/9/21 10:00PM -6 CST
 
 https://github.com/xcier/project-2
