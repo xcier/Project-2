@@ -14,7 +14,7 @@ Slots:
 ---------------------------------------------
 9 - All heads/skins/trinkets/decorations/weapon skins
 ---------------------------------------------
-Thanks to Domin8 for these saves:
+Thanks to Domin8 for the base saves:
 10 - Pistols
 11 - SMGs
 12 - Assault Rifles
@@ -28,7 +28,7 @@ Thanks to Domin8 for these saves:
 20 - DLC3 Items
 21 - DLC4 Items
 22 - Arms Race Items
-23 - Director's Cut Items (no customizations)
+23 - Director's Cut Items
 --------------------------------------------- New update to fix weapon DPS soon
 24 - Siren XP Boost Lobby 3.00
 25 - Beast Master XP Boost Lobby 3.00
