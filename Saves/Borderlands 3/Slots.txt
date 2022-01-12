@@ -34,7 +34,7 @@ Thanks to Domin8 for the base saves:
 25 - Beast Master XP Boost Lobby 3.00
 26 - Gunner XP Boost Lobby 3.00
 27 - Operative XP Boost Lobby 3.00
---------------------------------------------- XP Lobby 3.0 - no Unlocker - (2.00 still exist until new slots fill)
+--------------------------------------------- XP Lobby 3.0 - no Unlocker - "Expridium"
 28 - Modded Pistols (2.0 TBA)
 29 - Modded SMGs (Not PS5 Safe)
 30 - Modded ARs 
@@ -54,10 +54,10 @@ Thanks to Domin8 for the base saves:
 43 - ECHO Themes
 44 - Room Decorations
 ---------------------------------------------- Removed dupes & added missing (thank Owlz & Therian for the list)
-45 - Weapon Slot 3 Unlock + XP Lobby (TBA)
-46 - Class Mod Unlock + XP Lobby (TBA)
-47 - Weapon Slot 4 Unlock + XP Lobby (TBA)
-48 - Artifact Slot Unlock + XP Lobby (TBA)
+45 - Weapon Slot 3 Unlock + Expridium
+46 - Class Mod Unlock + Expridium
+47 - Weapon Slot 4 Unlock + Expridium
+48 - Artifact Slot Unlock + Expridium
 
 
 PROFILES:
