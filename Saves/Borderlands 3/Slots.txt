@@ -7,10 +7,10 @@ Slots:
 3 - 75k Eridium Dropper
 4 - 100k Eridium Dropper
 ---------------------------------------------
-5 - Vault Card Key 1 Dropper (gives 3 per key): Thank Eklipze for the item codes!
-6 - Vault Card Key 2 Dropper (gives 3 per key): Thank G40sty Boi for the item codes!
-7 - Vault Card Key 3 Dropper (gives 3 per key): (NOT PS5 SAFE CRASHES GAME)
-8 - Diamond Key Dropper: Thank Eklipze for the item code!
+5 - Vault Card Key 1 Dropper (gives 3 per key): (Not PS5 Safe)
+6 - Vault Card Key 2 Dropper (gives 3 per key): (Not PS5 Safe)
+7 - Vault Card Key 3 Dropper (gives 3 per key): (Not PS5 Safe)
+8 - Diamond Key Dropper: (Not PS5 Safe)
 ---------------------------------------------
 9 - All heads/skins/trinkets/decorations/weapon skins
 ---------------------------------------------
@@ -29,7 +29,7 @@ Thanks to Domin8 for the base saves:
 21 - DLC4 Items
 22 - Arms Race Items
 23 - Director's Cut Items
---------------------------------------------- New update to fix weapon DPS soon
+---------------------------------------------
 24 - Siren XP Boost Lobby 3.00
 25 - Beast Master XP Boost Lobby 3.00
 26 - Gunner XP Boost Lobby 3.00
@@ -57,13 +57,25 @@ Thanks to Domin8 for the base saves:
 45 - Weapon Slot 3 Unlock + Expridium
 46 - Class Mod Unlock + Expridium
 47 - Weapon Slot 4 Unlock + Expridium
-48 - Artifact Slot Unlock + Expridium
+48 - Artifact Slot Unlock + Expridium (Old XP lobby)
 
 
 PROFILES:
-Bank Customizations - Contains all Heads/Skins/Trinkets/Weapon Skins/Room Decorations
 
-Droppers Bank - Contains Heads/Skins/Trinkets/Weapon Skins/Room Decorations/Weapons/Items (not up to date)
+Empty Bank Max Status - Good for fresh accounts. 999M diamond/golden/vault keys(1,2,3)/vault crates
+Max status on % and skill bonuses. 0 Rank for you to level yourself and keep your own progress. A fresh
+bank so you can put your own gear in. Permanent double XP due to the science tokens.
+All heads/skins/echo themes/weapon trinkets/weapon skins/and emotes should be unlocked!
+
+Bank Customizations - Contains all Heads/Skins/Trinkets/Weapon Skins/Room Decorations
+999M diamond/golden/vault keys(1,2,3)/vault crates Max status on % and skill bonuses. 
+0 Rank for you to level yourself and keep your own progress. Permanent double XP due to the science tokens.
+All heads/skins/echo themes/weapon trinkets/weapon skins/and emotes should be unlocked!
+
+Droppers Bank - Contains Heads/Skins/Trinkets/Weapon Skins/Room Decorations/Weapons/Items
+999M diamond/golden/vault keys(1,2,3)/vault crates Max status on % and skill bonuses. 
+0 Rank for you to level yourself and keep your own progress. Permanent double XP due to the science tokens.
+All heads/skins/echo themes/weapon trinkets/weapon skins/and emotes should be unlocked!
 
 Vault Card 3 Dropper Bank - 2000 vault keys for vault card 3 and new unreleased heads/skins
 and new weapons + TNTina (NOT PS5 SAFE ONLY COPIES 1 KEY)
@@ -72,6 +84,6 @@ and new weapons + TNTina (NOT PS5 SAFE ONLY COPIES 1 KEY)
 If you see somthing missing please make an issue or DM me.
 Gaps between saves are used to symbolize the grouping in between them!
 
-Last Update: 1/9/21 10:00PM -6 CST
+Last Update: 1/16/21 10:00PM -6 CST
 
 https://github.com/xcier/project-2
