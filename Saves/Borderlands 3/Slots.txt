@@ -58,6 +58,62 @@ Thanks to Domin8 for the base saves:
 46 - Class Mod Unlock + Expridium
 47 - Weapon Slot 4 Unlock + Expridium
 48 - Artifact Slot Unlock + Expridium (Old XP lobby)
+----------------------------------------------
+50 - zanestorm
+51 - splash master moze
+52 - sentry moze
+53 - gladiator amara
+54 - nova fl4k
+55 - bulletstorm moze
+56 - asterism moze
+57 - turrent fl4k
+58 - steel savior moze
+59 - seein' double zane
+60 - light warrior amara
+61 - radiation fl4k
+62 - sheriff amara
+63 - 7 terrors fl4k
+64 - pure pet fl4k
+65 - crit cannon zane
+67 - eardication moze
+68 - flare fist amara
+69 - cub master moze
+70 - deputy-moze
+71 - maxi-moze
+72 - perma-bear
+73 - sentry moze
+74 - splash master moze
+75 - st4bity fl4k
+76 - omfg amara
+77 - Sentry moze 34.sav
+78 - gladiator moze
+79 - nova fl4k
+80 - bulletstorm moze 37.sav
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 PROFILES:
