@@ -75,43 +75,62 @@ Thanks to Domin8 for the base saves:
 63 - 7 terrors fl4k
 64 - pure pet fl4k
 65 - crit cannon zane
-67 - eardication moze
-68 - flare fist amara
-69 - cub master moze
-70 - deputy-moze
-71 - maxi-moze
-72 - perma-bear
-73 - sentry moze
-74 - splash master moze
-75 - st4bity fl4k
-76 - omfg amara
-77 - Sentry moze 34.sav
+66 - eardication moze
+67 - flare fist amara
+68 - cub master moze
+69 - deputy-moze
+70 - maxi-moze
+71 - perma-bear
+72 - sentry moze
+73 - splash master moze
+74 - st4bity fl4k
+75 - omfg amara
+76 - Atlas Shrugged
+77 - SLIM FADEY!
 78 - gladiator moze
 79 - nova fl4k
-80 - bulletstorm moze 37.sav
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+80 - GAMMA THIRST
+81 - 5G BeastMaster
+82 - All Mighty Moze
+83 - Amarageddon
+84 - Blade Witch Amara
+85 - ZaneZerker
+86 - BoreSplosion
+87 - Brisket Breaker
+88 - Butcher Moze
+89 - Chainy
+90 - Corrosive Fl4k Man
+91 - Death Grip
+92 - Fade & Blade
+93 - Fettuccine Fl4k
+94 - Fire Hoze Moze
+95 - Flare-Bear Moze
+96 - Zane Flinty Brrr
+97 - Khaos Queen
+98 - LEGION Fl4k
+99 - Ricochet Witch
+100 - Slam Witch
+101 - Transcended Amara
+102 - Base Game Zane
+103 - Base Game Moze
+104 - Base Game FL4K
+105 - Base Game Amara
+106 - Chill & Kill Zane
+107 - Destroyer of Worlds
+108 - MOZERKER ∞
+109 - Nuclear Revolt
+110 - Bubble Burster!
+111 - Final Fly
+112 - F1N4L F4LKDOWN
+113 - Judge Flynt
+114 - Hellzerker
+115 - Maya
+116 - Doomsday
+117 - B E A R
+118 - Urad FL4k
+119 - Punchbot
+120 - FL4C1D
+121 - Light Warrior Amara
 
 
 
