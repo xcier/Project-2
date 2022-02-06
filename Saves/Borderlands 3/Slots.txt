@@ -109,28 +109,28 @@ Thanks to Domin8 for the base saves:
 97 - Khaos Queen
 98 - LEGION Fl4k
 99 - Ricochet Witch
-100 - Slam Witch
-101 - Transcended Amara
-102 - Base Game Zane
-103 - Base Game Moze
-104 - Base Game FL4K
-105 - Base Game Amara
-106 - Chill & Kill Zane
-107 - Destroyer of Worlds
-108 - MOZERKER ∞
-109 - Nuclear Revolt
-110 - Bubble Burster!
-111 - Final Fly
-112 - F1N4L F4LKDOWN
-113 - Judge Flynt
-114 - Hellzerker
-115 - Maya
-116 - Doomsday
-117 - B E A R
-118 - Urad FL4k
-119 - Punchbot
-120 - FL4C1D
-121 - Light Warrior Amara
+A - Slam Witch
+B - Transcended Amara
+C - Base Game Zane
+D - Base Game Moze
+E - Base Game FL4K
+F - Base Game Amara
+1A - Chill & Kill Zane
+1B - Destroyer of Worlds
+1C - MOZERKER ∞
+1D - Nuclear Revolt
+1E - Bubble Burster!
+1F - Final Fly
+2A - F1N4L F4LKDOWN
+2B - Judge Flynt
+2C - Hellzerker
+2D - Maya
+2E - Doomsday
+2F - B E A R
+3A - Urad FL4k
+3B - Punchbot
+3C - FL4C1D
+3D - Light Warrior Amara
 
 
 
