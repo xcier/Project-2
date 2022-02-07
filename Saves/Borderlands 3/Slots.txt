@@ -121,7 +121,7 @@ F - Base Game Amara
 1D - Nuclear Revolt
 1E - Bubble Burster!
 1F - Final Fly
-2A - F1N4L F4LKDOWN
+2A - F1N4L FL4KDOWN
 2B - Judge Flynt
 2C - Hellzerker
 2D - Maya
