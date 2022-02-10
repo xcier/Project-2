@@ -34,3 +34,5 @@ link in the discription.
 
 
 RIP Baysix <3.
+
+GIT IS NOW UNDER LFS AS OF 2/10/22
