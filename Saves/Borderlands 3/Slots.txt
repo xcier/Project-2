@@ -30,7 +30,7 @@ Thanks to Domin8 for the base saves:
 22 - Arms Race Items
 23 - Director's Cut Items
 ---------------------------------------------
-24 - Siren XP Boost Lobby 3.00
+24 - Siren Modded Skill Tree
 25 - Beast Master XP Boost Lobby 3.00
 26 - Gunner XP Boost Lobby 3.00
 27 - Operative XP Boost Lobby 3.00
@@ -159,6 +159,17 @@ and new weapons + TNTina (NOT PS5 SAFE ONLY COPIES 1 KEY)
 If you see somthing missing please make an issue or DM me.
 Gaps between saves are used to symbolize the grouping in between them!
 
-Last Update: 1/16/21 10:00PM -6 CST
+Last Update: 2/25/21 8:10PM -6 CST
+
+Saves Affected : 
+
+24
+25
+26
+27
+
+Keeps gear when dropped in other players lobbies.
+OP weapons just as V1 they will be changed later. 
+Look at the skill trees!
 
 https://github.com/xcier/project-2
