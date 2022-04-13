@@ -1,10 +1,10 @@
---------------------- // Fresh Normal Modded Characters: 9999 skill points, 999M $, Max SDU
-7 - Stabbo
-8 - Claw & Hammer
-9 - I'm a Wizard
-A - I'm Already Dead
-B - Sporeden
-C - King Cold
+--------------------- // 100% Story, all marbles, shrines, dice, pages, SDUs. 70 pieces of Ascended gear in the bag
+7 - Stabbo (StabboMancer)
+8 - Claw & Hammer (ClawBringer)
+9 - I'm a Wizard (Spellshot)
+A - I'm Already Dead (Graveborn)
+B - Sporeden (Spore Warden)
+C - King Cold (Brr-Zerker)
 --------------------- // All 510 items from the bank duplicated into the characters backpack
 D - Bank Dropper
 
@@ -13,22 +13,32 @@ Community Saves
 50 - Spore Daddy 
 51 - Karma
 52 - Brrblue
-53 - Sporely
-54 - Wolf
+53 - Sporely [Joltz]
+54 - Wolf [Psychotic Wolf]
 55 - Bruh
-56 - BrrBlue 2 LMK if this is a dupe
-57 - Wolf 2 LMK if this is a dupe
-58 - Stabboly
-59 - Jaazikos
-60 - Karma 2 LMK if this is a dupe
-61 - Sporely 2 LMK if this is a dupe
+56 - Backius Spellweaver (modded)
+57 - Fuckit! (modded)
+58 - Stabboly (modded)
+59 - Jaazikos (modded)
+60 - Mixxy (modded)
+61 - NickTew
+62 - Mixology82 (modded)
+63 - RektumDestroyer (modded)
+64 - [ItzTermx]
+65 - Afromancer [K6]
+66 - Deputy [Joltzdude139]
+67 - [Moxsy] (Cold Snap)
+68 - [ItzTermx] 2 (unique)
+69 - [ItzTermx] 3 (unique)
+70 - Sporely (Blast Master) [Joltz]
+71 - Wolf_Spell (FARTS) [Psychotic Wolf]
 
 Profiles
-Myth affects ALL characters after they hit level 40.
-Non Modded - max level myth 510 items in the bank I got from running chaos chambers.
+All Legit - has 510 Ascended items in the bank with all myth skills maxxed out. All customizations are unlocked and it has 999,999,999 skeleton keys
 
-Modded - About 100M points in most attributes. 
+Legit with Modded Luck - All legit with 700K in Loot Luck Skill
 
+Legit with Modded Myth - all other points have 2.147M besides Fire Rate (20), Mag Size (15), Luck (700k)
 
 
 SIDE NOTE: saves have been modified to 999999999 XP to enable -RO mode when playing online (you will lose all progress gained from joining players online [gear will return to original])
