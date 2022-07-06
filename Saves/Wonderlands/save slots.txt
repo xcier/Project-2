@@ -1,10 +1,11 @@
---------------------- // 100% Story, all marbles, shrines, dice, pages, SDUs. 70 pieces of Ascended gear in the bag
-7 - Stabbo (StabboMancer)
-8 - Claw & Hammer (ClawBringer)
-9 - I'm a Wizard (Spellshot)
-A - I'm Already Dead (Graveborn)
-B - Sporeden (Spore Warden)
-C - King Cold (Brr-Zerker)
+--------------------- // 100% Story, all marbles, shrines, dice, pages, SDUs.
+1 - Stabbo (StabboMancer)
+2 - Sporeden (Spore Warden)
+3 - お前はもう死んでいる (Graveborn)
+4 - Death Claw (Clawbringer)
+5 - Dark Magician
+6 - King Cold (Brr-Zerker)
+7 - Pretty Blight (BlightCaller) [Place Holder]
 --------------------- // All 510 items from the bank duplicated into the characters backpack
 D - Bank Dropper
 
@@ -45,8 +46,11 @@ Community Saves
 82 - [Jaazi] (modded)
 83 - Mod Save (modded)
 84 - [Nivek] (modded)
-
-Profiles (PC only at the moment)
+85 - NerfBait [H4XzzHD] {https://youtu.be/VylBiDhD9-c}
+86 - Pixie [H4XzzHD] {https://youtu.be/hyl6TNcyLEU}
+87 - Crit Swap [H4XzzHD] {https://www.youtube.com/watch?v=8HafZWpxXHM&t=28s}
+88 - Faucet Failure [H4XzzHD] {https://youtu.be/COhQkvpYQD4}
+--------------------- // Profiles (PC only at the moment)
 All Legit - has 510 Ascended items in the bank with all myth skills maxxed out. All customizations are unlocked and it has 999,999,999 skeleton keys
 
 Legit with Modded Luck - All legit with 700K in Loot Luck Skill
@@ -54,4 +58,6 @@ Legit with Modded Luck - All legit with 700K in Loot Luck Skill
 Legit with Modded Myth - all other points have 2.147M besides Fire Rate (20), Mag Size (15), Luck (700k)
 
 
-SIDE NOTE: Community Saves have been modified to 999999999 XP to enable -RO mode when playing online (you will lose all progress gained from joining players online [gear will return to original])
+
+
+SIDE NOTE: Community Saves have been modified to 999999999 XP to enable -RO (Read Only) mode when playing online (you will lose all progress gained from joining players online [gear will return to original])
