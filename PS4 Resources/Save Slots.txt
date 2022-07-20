@@ -1,0 +1,43 @@
+Decrypted saves slots:
+
+Borderlands:
+
+SOLDIER - 1
+HUNTER - 2
+BERSERKER - 3
+SIREN - 4
+ProfileData - Profile
+
+Borderlands 2:
+
+COMMANDO - 1
+ASSASSIN - 2
+SIREN - 3
+GUNZERKER - 4
+MECHROMANCER - 5
+PSYCHO - 6
+Profile - Profile
+
+
+The Pre-Sequel (BLX):
+
+GLADIATOR - 1
+ENFORCER - 2
+LAWBRINGER - 3
+FRAGTRAP - 4
+DOPPLEGANGER - 5
+BARONESS - 6
+Profile - Profile
+
+
+Borderlands 3:
+
+SIREN - 1
+FL4K - 2
+ZANE - 3
+MOZE - 4
+Profile - Profile
+
+TTWL:
+Stabbo - 1
+Profile - Profile

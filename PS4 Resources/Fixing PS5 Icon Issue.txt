@@ -1,0 +1,6 @@
+Whatever one of the following is missing duplicate it and rename it
+please make sure that you have both of the following files and they
+are the same:
+
+sce_icon0png0
+sce_icon0png1
