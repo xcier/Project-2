@@ -11,47 +11,52 @@ D - Bank Dropper
 
 Community Saves
 --------------------- // Please DM me with your orignal post and a way to verify the save was yours so I can add credit 
-50 - Spore Daddy 
-51 - Karma
-52 - Brrblue
-53 - Sporely [Joltz]
-54 - Wolf [Psychotic Wolf]
-55 - Bruh
-56 - Backius Spellweaver (modded)
-57 - Fuckit! (modded) [KousKira&LittleLibbs]
-58 - Stabboly (modded)
-59 - Jaazikos (modded) [Jaazi]
-60 - Mixxy (modded)
-61 - NickTew
-62 - Mixology82 (modded)
-63 - RektumDestroyer (modded)
-64 - [ItzTermx]
-65 - Afromancer [K6]
-66 - Deputy [Joltzdude139]
-67 - [Moxsy] (Cold Snap)
-68 - [ItzTermx] 2 (unknown build name)
-69 - [ItzTermx] 3 (unknown build name)
-70 - Sporely (Blast Master) [Joltz]
-71 - Wolf_Spell (FARTS) [Psychotic Wolf]
-72 - stabbo [ItzTermx: Meteor Calamity]
-73 - NickTewpewpew [NickTew: Fl4k 2.0 Post-Nerf]
-74 - NickTewSplosion [NickTew: Poison Warden]
-75 - NickThor [NickTew: ClawBringer]
-76 - Neera [LazyData]
-77 - [NickTew] DeadShot
-78 - Graveborn [ThiccFilA: dEAD sHOT]
-79 - Shadow Stab [Joltzdude139]
-80 - Sub 2 [Moxsy: Spell Shock]
-81 - Wulfric [Moxsy: Shock and Awe]
-82 - [Jaazi] (modded)
-83 - Mod Save (modded)
-84 - [Nivek] (modded)
-85 - NerfBait [H4XzzHD] {https://youtu.be/VylBiDhD9-c}
-86 - Pixie [H4XzzHD] {https://youtu.be/hyl6TNcyLEU}
-87 - Crit Swap [H4XzzHD] {https://www.youtube.com/watch?v=8HafZWpxXHM&t=28s}
-88 - Faucet Failure [H4XzzHD] {https://youtu.be/COhQkvpYQD4}
-89 - Shigaraki 2.0 - [L00TLXRD] {https://www.twitch.tv/l00tlxrd/}
-90 - Saitama - [L00TLXRD] {https://www.twitch.tv/l00tlxrd/}
+50 - Spore Daddy [CHAOS 20]
+51 - Karma[CHAOS 20]
+52 - Brrblue[CHAOS 20]
+53 - Sporely [Joltz][CHAOS 20]
+54 - Wolf [Psychotic Wolf][CHAOS 20]
+55 - Bruh[CHAOS 20]
+56 - Backius Spellweaver (modded)[CHAOS 20]
+57 - Fuckit! (modded) [KousKira&LittleLibbs][CHAOS 20]
+58 - Stabboly (modded)[CHAOS 20]
+59 - Jaazikos (modded) [Jaazi][CHAOS 20]
+60 - Mixxy (modded)[CHAOS 20]
+61 - NickTew[CHAOS 20]
+62 - Mixology82 (modded)[CHAOS 20]
+63 - RektumDestroyer (modded)[CHAOS 20]
+64 - [ItzTermx][CHAOS 20]
+65 - Afromancer [K6][CHAOS 20]
+66 - Deputy [Joltzdude139][CHAOS 20]
+67 - [Moxsy] (Cold Snap)[CHAOS 20]
+68 - [ItzTermx] 2 (unknown build name)[CHAOS 20]
+69 - [ItzTermx] 3 (unknown build name)[CHAOS 20]
+70 - Sporely (Blast Master) [Joltz][CHAOS 20]
+71 - Wolf_Spell (FARTS) [Psychotic Wolf][CHAOS 20]
+72 - stabbo [ItzTermx: Meteor Calamity][CHAOS 20]
+73 - NickTewpewpew [NickTew: Fl4k 2.0 Post-Nerf][CHAOS 20]
+74 - NickTewSplosion [NickTew: Poison Warden][CHAOS 20]
+75 - NickThor [NickTew: ClawBringer][CHAOS 20]
+76 - Neera [LazyData][CHAOS 20]
+77 - [NickTew] DeadShot[CHAOS 20]
+78 - Graveborn [ThiccFilA: dEAD sHOT][CHAOS 20]
+79 - Shadow Stab [Joltzdude139][CHAOS 20]
+80 - Sub 2 [Moxsy: Spell Shock][CHAOS 20]
+81 - Wulfric [Moxsy: Shock and Awe][CHAOS 20]
+82 - [Jaazi] (modded)[CHAOS 20]
+83 - Mod Save (modded)[CHAOS 20]
+84 - [Nivek] (modded) [CHAOS 20]
+85 - NerfBait [H4XzzHD] {https://youtu.be/VylBiDhD9-c} [CHAOS 50]
+86 - Pixie [H4XzzHD] {https://youtu.be/hyl6TNcyLEU} [CHAOS 50]
+87 - Crit Swap [H4XzzHD] {https://www.youtube.com/watch?v=8HafZWpxXHM&t=28s} [CHAOS 50]
+88 - Faucet Failure [H4XzzHD] {https://youtu.be/COhQkvpYQD4} [CHAOS 50]
+89 - Shigaraki 2.0 [L00TLXRD] {https://www.twitch.tv/l00tlxrd/} [CHAOS 50]
+90 - Saitama [L00TLXRD] {https://www.twitch.tv/l00tlxrd/} [CHAOS 50]
+91 - FragMellow [H4XzzHD] {https://youtu.be/VylBiDhD9-c} [CHAOS 50]
+92 - HotShot [Moxsy] {https://www.twitch.tv/moxsy} [CHAOS 50]
+93 - Sara - Punchbot [lazydata] {https://www.youtube.com/c/LazyData} [CHAOS 50]
+94 - Bullet Witch [Moxsy] {https://www.youtube.com/watch?v=QCkILld9MyM} [chaos 50]
+95 - Lyra - The Blender [Lazy Data] {https://www.youtube.com/c/LazyData} [CHAOS 50]
 --------------------- // Profiles (PC only at the moment)
 All Legit - has 510 Ascended items in the bank with all myth skills maxxed out. All customizations are unlocked and it has 999,999,999 skeleton keys
 
