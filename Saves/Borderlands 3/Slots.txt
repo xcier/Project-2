@@ -1,5 +1,11 @@
-Currently all saves in the Project 2 Save Pack have been made by ProtoBuffers/Xcier-Freedom
-All Saves are built for PC, PS4 Decrypted, PS4 Save Wizard (6.72+)
+All Saves are built for PC, PS4 Decrypted, PS4 Save Wizard
+
+(UPDATED) SLOTS:
+1 - 100% Amara
+2 - 100% Moze
+3 - 100% Zane
+4 - 100% FL4K
+
 
 Slots:
 1 - 25k Eridium Dropper
