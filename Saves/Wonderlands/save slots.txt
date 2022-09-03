@@ -1,11 +1,19 @@
---------------------- // 100% Story, all marbles, shrines, dice, pages, SDUs.
+--------------------- // 100% Story, all marbles, shrines, dice, pages, SDUs, all challenges completed, chaos 50 with 1000 unlocked.
 1 - Stabbo (StabboMancer)
 2 - Sporeden (Spore Warden)
 3 - お前はもう死んでいる (Graveborn)
 4 - Death Claw (Clawbringer)
-5 - Dark Magician
+5 - Dark Magician (Spellshot)
 6 - King Cold (Brr-Zerker)
-7 - Pretty Blight (BlightCaller) [Place Holder]
+7 - Pretty Blight (BlightCaller)
+--------------------- // Modded Skill Trees (M.S.T), XP lobby regions (870), chaos 1000 unlocked, 100% 
+8 - StabboMancer
+9 - Spore Warden
+10 - Graveborn
+11 - Spellshot
+12 - ClawBringer
+13 - Brr-Zerker
+14 - BlightCaller
 --------------------- // All 510 items from the bank duplicated into the characters backpack
 D - Bank Dropper
 
