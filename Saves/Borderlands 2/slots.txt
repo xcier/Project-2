@@ -1,0 +1,70 @@
+100% story/challenges has max legit ammo/skill points
+1 - Axton
+2 - Zer0
+3 - Maya
+4 - Gunzerker
+5 - Mechromancer
+6 - Psycho
+
+100% story/challenges has unlimited ammo and max skill trees
+7 - Axton
+8 - Zer0
+9 - Maya
+10 - Gunzerker
+11 - Mechromancer
+12 - Psycho
+
+AR droppers:
+13 - 50
+14 - 72
+15 - 80/OP8
+16 - OP10
+
+Pistols: 
+17 - 50
+18 - 72
+19 - OP8/80
+20 - OP10
+
+rockets:
+21 - 50
+22 - 72
+23 - OP8/80
+24 - OP10
+
+shotguns:
+25 - 50
+26 - 72
+27 - OP8/80
+28 - OP10
+
+SMGs:
+29 - 50
+30 - 72
+31 - OP8/80
+32 - OP10
+
+Snipers:
+33 - 50
+34 - 72
+35 - OP8/80
+36 - OP10
+
+Grenade/Relics:
+37 - 50
+38 - 72
+39 - OP8/80
+40 - OP10
+
+ClassMods/Shields
+41 - 50
+42 - 72
+43 - OP8/80
+44 - OP10
+
+45 - Customization/Skin Dropper
+46 - Vehicle Skins Dropper
+
+47 - Eridium Dropper
+48 - Torgue Token Dropper
+49 - Seraph Crystal Dropper 
