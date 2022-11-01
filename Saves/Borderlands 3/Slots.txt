@@ -5,9 +5,38 @@ All Saves are built for PC, PS4 Decrypted, PS4 Save Wizard
 2 - 100% Moze
 3 - 100% Zane
 4 - 100% FL4K
+--------------------------------------------- Modded Skill Trees,  XP lobby (level 870 in normal mode no chaos enabled), all areas found (but 1), all eridium writings (but 1), all crew challenges, all in game challenges, all side quest complete, all missions complete, all DLC completed, galaxy completion 104%!
+5 - M.S.T Amara
+6 - M.S.T Moze
+7 - M.S.T Zane
+8 - M.S.T FL4K
+--------------------------------------------- 100% Modded (Modded Skill Tree/100% story/side quest/challenges), Read only online (no need to replace save after use joining online), NO DLC NEEDED (all seem to be PS5 safe )
+Droppers
+9 - ARs
+10 - Rockets
+11 - Pistols
+12 - Shotguns
+13 - SMGs
+14 - Snipers
+15 - Shields
+16 - Grenades
+17 - Class Mods
+18 - Artifacts
+19 - Eridium
+20 - Diamond Key
+21 - VC1
+22 - VC2
+23 - VC3 
 
 
-Slots:
+
+
+
+
+
+
+
+Slots (Will all eventually be replaced):
 1 - 25k Eridium Dropper
 2 - 50k Eridium Dropper
 3 - 75k Eridium Dropper

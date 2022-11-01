@@ -14,6 +14,16 @@
 12 - ClawBringer
 13 - Brr-Zerker
 14 - BlightCaller
+
+
+
+
+
+
+
+
+
+(Mostly Dated)
 --------------------- // All 510 items from the bank duplicated into the characters backpack
 D - Bank Dropper
 
