@@ -27,8 +27,14 @@ Droppers
 21 - VC1
 22 - VC2
 23 - VC3 
-
-
+--------------------------------------------- ///From Old Update Nothing New
+24 - all (lag fest 300)
+25 - Room Decorations
+26 - ECHO Themes Skins/Trinkets
+28 - BeastMaster
+29 - Gunner
+30 - Operative
+31 - Siren
 
 
 
