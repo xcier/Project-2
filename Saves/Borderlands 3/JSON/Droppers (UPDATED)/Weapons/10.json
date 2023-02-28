@@ -1648,6 +1648,428 @@
       "quantity": 0
     }
   ],
+  "inventory_items": [
+    {
+      "item_serial_number": "BEkhUhnZgGwl+9rvf7T0lEi/K1SH617k8ZDb85Hv5Mb7r2Eah50gZQ==",
+      "flags": 1,
+      "pickup_order_index": 0,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BJ1XmAUMKHG2kQjyeghd4LaUP0dWZhKrLfPKGVmsKpIgOdEf",
+      "pickup_order_index": 1,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BPIyM0ewJz4ZlNLBgM2yFt/pwxXd2R85Fth5/cKip2JLESti",
+      "pickup_order_index": 2,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BE10QyRq7qamW7i3Nb+t/1pLg9+qW3CD+u1UELEOIl0nJNsENxNdbw==",
+      "pickup_order_index": 3,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BEBe4H73gAaWxlt+MHyr0ZRrVtFHyRkTzN8Y9J8zAY21T4pXnYwGEDw=",
+      "pickup_order_index": 4,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BIwN8ixpW+hyULvjVW1y8WdiqWgFuq4BXMqow1fL/E1huqaNyfQ95sM=",
+      "pickup_order_index": 5,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BLFHlWBH+5ZabXcEGqU7TEWCTYu+S64SHIkjmWdAZ0is6w==",
+      "pickup_order_index": 6,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BLlPWkWF5VYsk+Y7fqFLzchaLHNjNkIBTIsx5/d45X9Mc6A=",
+      "pickup_order_index": 7,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAo0nWq+B2tfTKGna47S2ckpkIbtC7/w5Beeb6hQp+7Uxb6t/w==",
+      "pickup_order_index": 8,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BHEZm2EWSkIEP8FNQcmU6C88FlI5DtcjA0o4IyUQgZA/pC/DNm0=",
+      "pickup_order_index": 9,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAADLP4C+2yjBgGQaD5bgovmIRp4WJO4QAgAAAAAAkDEAAA==",
+      "pickup_order_index": 10,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BG8DLU3adOyEjJZesvJpu63r7NAYXhv1wTrSJSQaMPJAaJbk",
+      "pickup_order_index": 11,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BO13AHbnohlKgpC2bEl04zt5n44yeG0P/Y8q/IvqZfClaDiHwg==",
+      "pickup_order_index": 12,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAADndIA+3DABgXQajgekpWBgSqGPxhWJO4QAAAAAAAAAAAAA",
+      "pickup_order_index": 13,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAACPpoA+nyQBgoQatJrjAREeEJxRKfMZRuIOIQAAAAAAQBkQAAA=",
+      "pickup_order_index": 14,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BKI8BUE8cU76kYFRzCh2ZK/a0DEhHnpfRHmaWkHenWg2sOyPDTyD",
+      "pickup_order_index": 15,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BHljqAxWmpWyG/9nDwBdqY1kA3QlOoOiiR8V51xSamuWaQjZ6yCM",
+      "pickup_order_index": 16,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAACjcIC+oDMBgXwajgfkplgwMCXQJ4OLxB1CAAAAAACAMgYAAA==",
+      "pickup_order_index": 17,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BBh12QdtXf9WbU4yn1xO1Yr2TKo4oUhqSlEEN1/bs60Rp7DGcg0=",
+      "pickup_order_index": 18,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BPEu413GW8xFqC49PAd7EJyYxG+pgtCakHNQn45qJnePEozYXdodWQ==",
+      "pickup_order_index": 19,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BP5mwQshtqEf1E+d5EMjvdPv2EyHIy9pYl5H4hcD0t/Af/m/xzM=",
+      "pickup_order_index": 20,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAAB9L4A+ayzBgHwajkfRcEBcNCHTyWOExB1CAAAAAAAAMiAAAA==",
+      "pickup_order_index": 21,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BJkqfTkxCSCTI4F+f1VEB6NLA5VIlimtqpuOqIS1dYUoWt6nfbvW",
+      "pickup_order_index": 22,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAAB2/IC+9jQBgWQajgfEhymFPplgJO4QAgAAAAAAkDEAAA==",
+      "pickup_order_index": 23,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAACMZ4A+/DQBgWwajgeEsPiVQMCMMBJ3CAEAAAAAAMoYAAA=",
+      "pickup_order_index": 24,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAAAIdoC+VDQBgWQajgeEhymBPpleJO4QAgAAAAAAAAAAAA==",
+      "pickup_order_index": 25,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BLYFGDmp8jt1sgq3VDE1y48V+kFVYX1NLRY8KJWcV43xIQ==",
+      "pickup_order_index": 26,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAAApiYA+WiQBgnwatJrjAQG6OKNS5hOMxB1CAAAAAAAAMyAAAA==",
+      "pickup_order_index": 27,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAh5pnaqHWio+O5fUEcDNdsRSgJ3gTji4kcdYvwj4E90oepRrH7lvOw=",
+      "pickup_order_index": 28,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAAC8lIA+9CrBgFQaO8El8xF5eJS4QwgAAAAAAAAAAAA=",
+      "pickup_order_index": 29,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAAB9d4C+2yjBgGQaD5bgovmIRp5WJO4QAgAAAAAAkDEAAA==",
+      "pickup_order_index": 30,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAACnroC+2yjBgGQaD5bgovmIRp6WJO4QAgAAAAAAkDEAAA==",
+      "pickup_order_index": 31,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAADPLIC+2yjBgGQaD5bgovmIRp4WJe4QAgAAAAAAkDEAAA==",
+      "pickup_order_index": 32,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAAAR5oC+2yjBgGQaD5bgovmIRp7WJO4QAgAAAAAAkDEAAA==",
+      "pickup_order_index": 33,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAAAIFoA+3DABgXQajgekpWBgSqGPxiWJO4QAAAAAAAAAAAAA",
+      "pickup_order_index": 34,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAABSyIA+3DABgXQajgekpWBgSqGPxjWJO4QAAAAAAAAAAAAA",
+      "pickup_order_index": 35,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAABRPIA+3DABgXQajgekpWBgSqGPxlWJO4QAAAAAAAAAAAAA",
+      "pickup_order_index": 36,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAAAL4oA+3DABgXQajgekpWBgSqGPxkWJO4QAAAAAAAAAAAAA",
+      "pickup_order_index": 37,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAAA0foA+nyQBgoQatJrjAREeEJxRKfMZSuIOIQAAAAAAQBkQAAA=",
+      "pickup_order_index": 38,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAACiyYA+nyQBgoQatJrjAREeEJxRKfMZTuIOIQAAAAAAQBkQAAA=",
+      "pickup_order_index": 39,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAABnI4A+nyQBgoQatJrjAREeEJxRKfMZFuMOIQAAAAAAQBkQAAA=",
+      "pickup_order_index": 40,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAABuoIA+nyQBgoQatJrjAREeEJxRKfMZWuIOIQAAAAAAQBkQAAA=",
+      "pickup_order_index": 41,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAADVeIA+nyQBgoQatJrjAREeEJxRKfMZVuIOIQAAAAAAQBkQAAA=",
+      "pickup_order_index": 42,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAADUwYC+oDMBgXwajgfkplgwMCXQJ4OTxB1CAAAAAACAMgYAAA==",
+      "pickup_order_index": 43,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAAD5roC+oDMBgXwajgfkplgwMCXQJ4ObxB1CAAAAAACAMgYAAA==",
+      "pickup_order_index": 44,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAAAWzIC+oDMBgXwajgfkplgwMCXQJ4OrxB1CAAAAAACAMgYAAA==",
+      "pickup_order_index": 45,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAAA7o4C+oDMBgXwajgfkplgwMCXQJ4OjxB1CAAAAAACAMgYAAA==",
+      "pickup_order_index": 46,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAABQQIA+ayzBgHwajkfRcEBcNCHTyWOMxB1CAAAAAAAAMiAAAA==",
+      "pickup_order_index": 47,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAAB9L4A+ayzBgHwajkfRcEBcNCHTyWOExB1CAAAAAAAAMiAAAA==",
+      "pickup_order_index": 48,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAAAn8YA+ayzBgHwajkfRcEBcNCHTyWOUxB1CAAAAAAAAMiAAAA==",
+      "pickup_order_index": 49,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAADIk4A+ayzBgHwajkfRcEBcNCHTyWOkxB1CAAAAAAAAMiAAAA==",
+      "pickup_order_index": 50,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAAAKnoA+ayzBgHwajkfRcEBcNCHTyWOcxB1CAAAAAAAAMiAAAA==",
+      "pickup_order_index": 51,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAACsJYC+9jQBgWQajgfEhymFPpmgJO4QAgAAAAAAkDEAAA==",
+      "pickup_order_index": 52,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAAAabYC+9jQBgWQajgfEhymFPpngJO4QAgAAAAAAkDEAAA==",
+      "pickup_order_index": 53,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAABy74C+9jQBgWQajgfEhymFPplgJe4QAgAAAAAAkDEAAA==",
+      "pickup_order_index": 54,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAADEp4C+9jQBgWQajgfEhymFPpkgJe4QAgAAAAAAkDEAAA==",
+      "pickup_order_index": 55,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAACPk4A+/DQBgWwajgeEsPiVQMCMUBJ3CAEAAAAAAMoYAAA=",
+      "pickup_order_index": 56,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAAA6L4A+/DQBgWwajgeEsPiVQMCMcBJ3CAEAAAAAAMoYAAA=",
+      "pickup_order_index": 57,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAADg9oA+/DQBgWwajgeEsPiVQMCMsBJ3CAEAAAAAAMoYAAA=",
+      "pickup_order_index": 58,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAABVSoA+/DQBgWwajgeEsPiVQMCMkBJ3CAEAAAAAAMoYAAA=",
+      "pickup_order_index": 59,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAADSr4C+VDQBgWQajgeEhymBPpmeJO4QAgAAAAAAAAAAAA==",
+      "pickup_order_index": 60,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAABk54C+VDQBgWQajgeEhymBPpneJO4QAgAAAAAAAAAAAA==",
+      "pickup_order_index": 61,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAAAMZYC+VDQBgWQajgeEhymBPpleJe4QAgAAAAAAAAAAAA==",
+      "pickup_order_index": 62,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAAC6LYC+VDQBgWQajgeEhymBPpkeJe4QAgAAAAAAAAAAAA==",
+      "pickup_order_index": 63,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAABeOIA+WiQBgnwatJrjAQG6OKNS5hOUxB1CAAAAAAAAMyAAAA==",
+      "pickup_order_index": 64,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAABzV4A+WiQBgnwatJrjAQG6OKNS5hOcxB1CAAAAAAAAMyAAAA==",
+      "pickup_order_index": 65,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAACxWoA+WiQBgnwatJrjAQG6OKNS5hOkxB1CAAAAAAAAMyAAAA==",
+      "pickup_order_index": 66,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAADrhIA+WiQBgnwatJrjAQG6OKNS5hO0xB1CAAAAAAAAMyAAAA==",
+      "pickup_order_index": 67,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAADrhIA+WiQBgnwatJrjAQG6OKNS5hO0xB1CAAAAAAAAMyAAAA==",
+      "pickup_order_index": 68,
+      "flags": 1,
+      "weapon_skin_path": ""
+    },
+    {
+      "item_serial_number": "BAAAAACcNYA+WiQBgnwatJrjAQG6OKNS5hOsxB1CAAAAAAAAMyAAAA==",
+      "pickup_order_index": 69,
+      "flags": 1,
+      "weapon_skin_path": ""
+    }
+  ],
   "equipped_inventory_list": [
     {
       "inventory_list_index": -1,
@@ -41687,7 +42109,7 @@
       ]
     }
   ],
-  "save_game_guid": "42BAE4352FD94A99A5AF82A240E8E953",
+  "save_game_guid": "B7DA91FA2D6B4C0E954DDB922D2A5462",
   "guardian_rank_character_data": {
     "guardian_available_tokens": 1010669,
     "guardian_rank": 10671,
@@ -41909,7 +42331,6 @@
   ],
   "levelled_save_vehicle_part_rewards_fixup_applied": true,
   "time_played_seconds": 0,
-  "inventory_items": [],
   "last_play_through_index": 0,
   "active_travel_stations": [],
   "last_active_travel_station": "",
