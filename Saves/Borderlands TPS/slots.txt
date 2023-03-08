@@ -14,27 +14,27 @@
 11 - Jack
 12 - Aurelia
 
-Droppers:
-13 - AR50
-14 - AR70
-15 - Pistol50
-16 - Pistol70
-17 - Shotgun50
-18 - Shotgun70
-19 - SMG 50
-20 - SMG 70
-21 - Sniper50
-22 - Sniper70
-23 - Rocket50
-24 - Rocket70
-25 - Lazer50
-26 - Lazer70
-27 - Shields/Grenades50
-28 - Shields/Grenades70
-29 - ClassMod/OZ50
-30 - ClassMod/OZ70
+"Keepable" Droppers:
+AR50 - Assault Rifle Level 50
+AR70 - Assault Rifle Level 70
+PS50 - Pistol Level 50
+PS70 - Pistol Level 70
+SG50 - Shotgun Level 50
+SG70 - Shotgun Level 70
+SM50 - Submachine Gun Level 50
+SM70 - Submachine Gun Level 70
+SR50 - Sniper Rifle Level 50
+SR70 - Sniper Rifle Level 70
+RK50 - Rocket Level 50
+RK70 - Rocket Level 70
+LZ50 - Laser Level 50
+LZ70 - Laser Level 70
+GS50 - Grenades/Shields Level 50
+GS70 - Grenades/Shields Level 70
+CO50 - ClassMod/OZ Level 50
+CO50 - ClassMod/OZ Level 70
 
-31 - Customization Skin
-32 - Customization Vehicle
+CSDR - Customization Skin
+VSDR - Customization Vehicle
 
-33 - MoonStones
+MSDR - MoonStone Dropper
