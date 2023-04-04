@@ -38,3 +38,11 @@ CSDR - Customization Skin
 VSDR - Customization Vehicle
 
 MSDR - MoonStone Dropper
+
+"Keepable" Hybrids (Old)
+HYB1 - Athena
+HYB2 - Whilhelm
+HYB3 - Nisha
+HYB4 - ClapTrap
+HYB5 - Jack
+HYB6 - Aurelia
