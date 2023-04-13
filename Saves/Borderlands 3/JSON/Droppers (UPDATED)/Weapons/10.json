@@ -1,6 +1,7 @@
 {
-  "save_game_id": 10,
-  "last_save_timestamp": "638023461177060000",
+  "save_game_id": 16,
+  "last_save_timestamp": "638168956555280000",
+  "time_played_seconds": 41,
   "player_class_data": {
     "player_class_path": "/Game/PlayerCharacters/Gunner/PlayerClassId_Gunner.PlayerClassId_Gunner",
     "dlc_package_id": 0
@@ -1650,421 +1651,421 @@
   ],
   "inventory_items": [
     {
-      "item_serial_number": "BEkhUhnZgGwl+9rvf7T0lEi/K1SH617k8ZDb85Hv5Mb7r2Eah50gZQ==",
+      "item_serial_number": "BKAb7jjmI8klKYlCSMio8m15HJS1HrpO2LMxqaZCY6eFXxe7HG7qwzE=",
       "flags": 1,
       "pickup_order_index": 0,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BJ1XmAUMKHG2kQjyeghd4LaUP0dWZhKrLfPKGVmsKpIgOdEf",
+      "item_serial_number": "BM08BljwDjG8uZs7PhFUO3J93DrodYSbGJKEE0k3p0G9bfwzDg==",
       "pickup_order_index": 1,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BPIyM0ewJz4ZlNLBgM2yFt/pwxXd2R85Fth5/cKip2JLESti",
+      "item_serial_number": "BEwjW3ac4xlNi1OBvF6R36mya8DyvCnrwepzrZSvxbbzIksghQ==",
       "pickup_order_index": 2,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BE10QyRq7qamW7i3Nb+t/1pLg9+qW3CD+u1UELEOIl0nJNsENxNdbw==",
+      "item_serial_number": "BHd7elp4uobctrR0rZXJ8Ljdv7zYhFT7j6mDJaK/j6wwF9xCaQAlik4=",
       "pickup_order_index": 3,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BEBe4H73gAaWxlt+MHyr0ZRrVtFHyRkTzN8Y9J8zAY21T4pXnYwGEDw=",
+      "item_serial_number": "BNx2IChfq4r7TWCRbhRiIfL7gUNvypaYzRTYgfbRWxVRuN8DUzL41MT3",
       "pickup_order_index": 4,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BIwN8ixpW+hyULvjVW1y8WdiqWgFuq4BXMqow1fL/E1huqaNyfQ95sM=",
+      "item_serial_number": "BAgpZDANq6Ft1sG+qKiIhbCaT/N74uwZFti4fmpVEzPqNAw/1a3dXxK/",
       "pickup_order_index": 5,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BLFHlWBH+5ZabXcEGqU7TEWCTYu+S64SHIkjmWdAZ0is6w==",
+      "item_serial_number": "BIhjKHhH2z1ftpCdgqM1y/f1F4m0FT8sMF7ydVbuWrq8gBY=",
       "pickup_order_index": 6,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BLlPWkWF5VYsk+Y7fqFLzchaLHNjNkIBTIsx5/d45X9Mc6A=",
+      "item_serial_number": "BBJTIU8PyBuErlrU6KGYB4C58caDl+3bIxpgxp5rs7aLFha1",
       "pickup_order_index": 7,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAo0nWq+B2tfTKGna47S2ckpkIbtC7/w5Beeb6hQp+7Uxb6t/w==",
+      "item_serial_number": "BAFv7GN/HFyvOJiZjyVGbLp5tJYO0PEp9dw4KsoQeZAvO0duoog=",
       "pickup_order_index": 8,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BHEZm2EWSkIEP8FNQcmU6C88FlI5DtcjA0o4IyUQgZA/pC/DNm0=",
+      "item_serial_number": "BHoVEWaSXZ24uzwrXRNMkmjnjpPcEi0rHruk8SscgiFgFiA+96y7",
       "pickup_order_index": 9,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAADLP4C+2yjBgGQaD5bgovmIRp4WJO4QAgAAAAAAkDEAAA==",
+      "item_serial_number": "BPlB5gytJxjLY13rtLVypE9sBLeC3KY2LnezdlWkkFLyKLs6hLQ=",
       "pickup_order_index": 10,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BG8DLU3adOyEjJZesvJpu63r7NAYXhv1wTrSJSQaMPJAaJbk",
+      "item_serial_number": "BB55qFIxhVi8Af8NmMAhm9JQ+qHgGCWgkPIko5+DUJlfR/cnWg==",
       "pickup_order_index": 11,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BO13AHbnohlKgpC2bEl04zt5n44yeG0P/Y8q/IvqZfClaDiHwg==",
+      "item_serial_number": "BOYbSW0aigGahu5KiFEWEUfk0qO9yjaL8eCPaBCfdGFJTKgnDgY=",
       "pickup_order_index": 12,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAADndIA+3DABgXQajgekpWBgSqGPxhWJO4QAAAAAAAAAAAAA",
+      "item_serial_number": "BLslwhrIUlyQbjwKq9Ke/T4rT8ZQTWSupuCKlxS5etezKPx3xdFLSg==",
       "pickup_order_index": 13,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAACPpoA+nyQBgoQatJrjAREeEJxRKfMZRuIOIQAAAAAAQBkQAAA=",
+      "item_serial_number": "BAM070QyVs52VQiE6eo3ni/dU5Au/WgWSVU+DivCNuZRhVPq0ZmbR0VX",
       "pickup_order_index": 14,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BKI8BUE8cU76kYFRzCh2ZK/a0DEhHnpfRHmaWkHenWg2sOyPDTyD",
+      "item_serial_number": "BA9rN2EePpiqZ+Lsivv7vdulcogk7INOxi7X0EBX5unLBxwegg16IA==",
       "pickup_order_index": 15,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BHljqAxWmpWyG/9nDwBdqY1kA3QlOoOiiR8V51xSamuWaQjZ6yCM",
+      "item_serial_number": "BJgrk1LwUm5u0aL17/inRbthCO558lPoiWWEkGllY3YcEbpuE8mwTw==",
       "pickup_order_index": 16,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAACjcIC+oDMBgXwajgfkplgwMCXQJ4OLxB1CAAAAAACAMgYAAA==",
+      "item_serial_number": "BDplsAhqASlD3cHy3IZRFjAeTLTvXU987MoBCL5b//0VanzQVNQf65M=",
       "pickup_order_index": 17,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BBh12QdtXf9WbU4yn1xO1Yr2TKo4oUhqSlEEN1/bs60Rp7DGcg0=",
+      "item_serial_number": "BHx1QC0Md7YjS6N6/LLNBAZdCriS73Sl1VM2v04gi3WG/wiEwtzm",
       "pickup_order_index": 18,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BPEu413GW8xFqC49PAd7EJyYxG+pgtCakHNQn45qJnePEozYXdodWQ==",
+      "item_serial_number": "BGpAuXhYLYYh77/Pz/kkyZ3rNJybEHgnA/qrFRyoftst9BuzBIOGwb0=",
       "pickup_order_index": 19,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BP5mwQshtqEf1E+d5EMjvdPv2EyHIy9pYl5H4hcD0t/Af/m/xzM=",
+      "item_serial_number": "BNhWCVIgSsi06fzSntXTM4jZx3S9an/bTv3aQ7AhqM8hdrPv8zeg",
       "pickup_order_index": 20,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAAB9L4A+ayzBgHwajkfRcEBcNCHTyWOExB1CAAAAAAAAMiAAAA==",
+      "item_serial_number": "BLdfFzlv6e/agncpiaMF8XSiXtb4yLZ3xp5WhXrCPM39PKL+KILdob0=",
       "pickup_order_index": 21,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BJkqfTkxCSCTI4F+f1VEB6NLA5VIlimtqpuOqIS1dYUoWt6nfbvW",
+      "item_serial_number": "BC1l+znvIAqGh8H+rsOSQL+fHsLXk3Ek6IqsVURy8+Pn32KzuMekUA==",
       "pickup_order_index": 22,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAAB2/IC+9jQBgWQajgfEhymFPplgJO4QAgAAAAAAkDEAAA==",
+      "item_serial_number": "BExrW1dAUNOmdCr1ysoE2bavP+JXTEZT4g/6YTRhPRYvAIqnFQI=",
       "pickup_order_index": 23,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAACMZ4A+/DQBgWwajgeEsPiVQMCMMBJ3CAEAAAAAAMoYAAA=",
+      "item_serial_number": "BJklUAwKPVGxm0ZV1zTc1q6WPvfrlZpPMoCg8NUFGiRQvVYUI69r",
       "pickup_order_index": 24,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAAAIdoC+VDQBgWQajgeEhymBPpleJO4QAgAAAAAAAAAAAA==",
+      "item_serial_number": "BMgJt0p2QhRfe5+6RVYgu9AwcUZK/bkqlqvS3+4oKtlhwGqxXBw=",
       "pickup_order_index": 25,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BLYFGDmp8jt1sgq3VDE1y48V+kFVYX1NLRY8KJWcV43xIQ==",
+      "item_serial_number": "BFYx5UDwKEVUi3zVV+bv40MQhgm3vizeF9pKKyHI7hykuJE=",
       "pickup_order_index": 26,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAAApiYA+WiQBgnwatJrjAQG6OKNS5hOMxB1CAAAAAAAAMyAAAA==",
+      "item_serial_number": "BORIEUoOUW73TwyAEG9OyX55LVviTvmTBt4fRdeNGNaAdjsLcBBxq40=",
       "pickup_order_index": 27,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAh5pnaqHWio+O5fUEcDNdsRSgJ3gTji4kcdYvwj4E90oepRrH7lvOw=",
+      "item_serial_number": "BIMD70ZYRq46xS9olwSVH3w/l5Fo08cNr2r1WMUpGIZ9+lI5oDYWbhYX",
       "pickup_order_index": 28,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAAC8lIA+9CrBgFQaO8El8xF5eJS4QwgAAAAAAAAAAAA=",
+      "item_serial_number": "BFV5VkgQyGyhYZxxeOdR7oPzyTdJX6Gx9Av2fauVCN+KL052",
       "pickup_order_index": 29,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAAB9d4C+2yjBgGQaD5bgovmIRp5WJO4QAgAAAAAAkDEAAA==",
+      "item_serial_number": "BCdU6QPrywt+PtJE/S9+8aeTB9O9yQxgmPhFDX9LAOEp5fBqonQ=",
       "pickup_order_index": 30,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAACnroC+2yjBgGQaD5bgovmIRp6WJO4QAgAAAAAAkDEAAA==",
+      "item_serial_number": "BPQBEQvJ0FD9vtQfAiSPAeVylz1jjXU4asox5hjkug52jpTlyl8=",
       "pickup_order_index": 31,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAADPLIC+2yjBgGQaD5bgovmIRp4WJe4QAgAAAAAAkDEAAA==",
+      "item_serial_number": "BHMk0T6TAJtVml+C57NUVIWI8WMf454OI5l3btL5f7FdbylmZSo=",
       "pickup_order_index": 32,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAAAR5oC+2yjBgGQaD5bgovmIRp7WJO4QAgAAAAAAkDEAAA==",
+      "item_serial_number": "BBxuPA/mcJ3KKQG8FH1LbAmvBT3H+tbxHqt9b5SwSMExS+tgxE0=",
       "pickup_order_index": 33,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAAAIFoA+3DABgXQajgekpWBgSqGPxiWJO4QAAAAAAAAAAAAA",
+      "item_serial_number": "BEdgk0th5eEU/XITrnP4zEUzJuJ1X423UKeSkNQA6AgP8JAs0N156Q==",
       "pickup_order_index": 34,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAABSyIA+3DABgXQajgekpWBgSqGPxjWJO4QAAAAAAAAAAAAA",
+      "item_serial_number": "BFM7VTAwHrkpQS8hoKdTfBqS2of+dRA/Sx8nBtapDPwkvs5sXcfdXg==",
       "pickup_order_index": 35,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAABRPIA+3DABgXQajgekpWBgSqGPxlWJO4QAAAAAAAAAAAAA",
+      "item_serial_number": "BPg4xgqw2ev0w7Nk0aO/MpqIEkNSlRzWKtKJGDDJsOCMTCjBUQVJ2Q==",
       "pickup_order_index": 36,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAAAL4oA+3DABgXQajgekpWBgSqGPxkWJO4QAAAAAAAAAAAAA",
+      "item_serial_number": "BC0qtUUJu06YBA7DE91QQZJ21jvhrQJFjYRoYYEtV2khR8Q2VqJSaQ==",
       "pickup_order_index": 37,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAAA0foA+nyQBgoQatJrjAREeEJxRKfMZSuIOIQAAAAAAQBkQAAA=",
+      "item_serial_number": "BFEdlhErHe48JSmBuYY6psFDeFMnJfQLwcXGyVlPBQXd/hRiki01StO5",
       "pickup_order_index": 38,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAACiyYA+nyQBgoQatJrjAREeEJxRKfMZTuIOIQAAAAAAQBkQAAA=",
+      "item_serial_number": "BG4WHir19bYzirNofYfhCjPxlzqBMhR1muSlAGpJbStPho6L8kmoSkHV",
       "pickup_order_index": 39,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAABnI4A+nyQBgoQatJrjAREeEJxRKfMZFuMOIQAAAAAAQBkQAAA=",
+      "item_serial_number": "BNdyAQ7I34D77qEyCSaFxj5nClP7qmd6lNuxx0m28NY8YkC8LO1ZYofw",
       "pickup_order_index": 40,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAABuoIA+nyQBgoQatJrjAREeEJxRKfMZWuIOIQAAAAAAQBkQAAA=",
+      "item_serial_number": "BG8ak2FqG/TK1NlGmv56MPKNGiUMj+DILNtk1FMkTr4QuYHGq8oS6vbj",
       "pickup_order_index": 41,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAADVeIA+nyQBgoQatJrjAREeEJxRKfMZVuIOIQAAAAAAQBkQAAA=",
+      "item_serial_number": "BFF0RzulbfO1jqqXk0+6aEXxWu9FcpfL8KYjGVJsaAmNklgQveE68qNE",
       "pickup_order_index": 42,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAADUwYC+oDMBgXwajgfkplgwMCXQJ4OTxB1CAAAAAACAMgYAAA==",
+      "item_serial_number": "BMMBbFGlwtfhwuPDZCFwLX+NQE4cphVBKGN122cNW445eb+hr63Tuk0=",
       "pickup_order_index": 43,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAAD5roC+oDMBgXwajgfkplgwMCXQJ4ObxB1CAAAAAACAMgYAAA==",
+      "item_serial_number": "BIhZm3oCWC5rD+/whqFT+HSC+7wjZaKREH2xCX5J3amJzgk+iy1+TEM=",
       "pickup_order_index": 44,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAAAWzIC+oDMBgXwajgfkplgwMCXQJ4OrxB1CAAAAAACAMgYAAA==",
+      "item_serial_number": "BBlPqT4Y9YL3ApuQcMXH7mDuMupW37hYZTG0Ozbp/61Xq6peZ2jEFzg=",
       "pickup_order_index": 45,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAAA7o4C+oDMBgXwajgfkplgwMCXQJ4OjxB1CAAAAAACAMgYAAA==",
+      "item_serial_number": "BEwsH2QsOPlHlg+dRdmPbcnXTiOWqOBKsycrd0kW0is1m+jq7vpVEdg=",
       "pickup_order_index": 46,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAABQQIA+ayzBgHwajkfRcEBcNCHTyWOMxB1CAAAAAAAAMiAAAA==",
+      "item_serial_number": "BGRZhwbh+JhePq0m0h0pAL8qXVe1o4WY8xD/Fvg+NpHCFHeeas+ahPY=",
       "pickup_order_index": 47,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAAB9L4A+ayzBgHwajkfRcEBcNCHTyWOExB1CAAAAAAAAMiAAAA==",
+      "item_serial_number": "BLduD2QNNDPEGuvtEeE+3X7BOcRpshKb6NX876akf2UZTKjjGtjSwoY=",
       "pickup_order_index": 48,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAAAn8YA+ayzBgHwajkfRcEBcNCHTyWOUxB1CAAAAAAAAMiAAAA==",
+      "item_serial_number": "BDpEUUXpoLEk7FtO85UssoRxjD22iw2aYMlv1AzOfN0zphNxQpK+Jc0=",
       "pickup_order_index": 49,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAADIk4A+ayzBgHwajkfRcEBcNCHTyWOkxB1CAAAAAAAAMiAAAA==",
+      "item_serial_number": "BLZ2PDhap+yPIR4Fzb73UqQnlWDovqfWLM0d1RArZkitTgBmsuzmVUY=",
       "pickup_order_index": 50,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAAAKnoA+ayzBgHwajkfRcEBcNCHTyWOcxB1CAAAAAAAAMiAAAA==",
+      "item_serial_number": "BHpXeV+nxbgyFse8rRzlL3NE8xz7a8XNNbw8NDHIsl9rP7paBV2HGNw=",
       "pickup_order_index": 51,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAACsJYC+9jQBgWQajgfEhymFPpmgJO4QAgAAAAAAkDEAAA==",
+      "item_serial_number": "BMQivWGyEPt9g5gVfauGys5LLo67pzyk2eUQhHgaJnN1HlYWVKY=",
       "pickup_order_index": 52,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAAAabYC+9jQBgWQajgfEhymFPpngJO4QAgAAAAAAkDEAAA==",
+      "item_serial_number": "BDJ65yCAZvXxT5VjLm+4/TkdWWMcuKKBGjU+9QrjvyeydporbLs=",
       "pickup_order_index": 53,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAABy74C+9jQBgWQajgfEhymFPplgJe4QAgAAAAAAkDEAAA==",
+      "item_serial_number": "BPlL4V6X/inO1H7HdP07i0KLWQzjp3KYfpWklKdTdxJMU5D7jH8=",
       "pickup_order_index": 54,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAADEp4C+9jQBgWQajgfEhymFPpkgJe4QAgAAAAAAkDEAAA==",
+      "item_serial_number": "BMBUkWblukuyHIcgvI+78dlh4y02AMlXTnh4qulHHekD7GsM4nQ=",
       "pickup_order_index": 55,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAACPk4A+/DQBgWwajgeEsPiVQMCMUBJ3CAEAAAAAAMoYAAA=",
+      "item_serial_number": "BEQZaEGTEufn6J1DRcGt0Q7uzip0qj3EwK5r8tk4xvJSXGgS+DBF",
       "pickup_order_index": 56,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAAA6L4A+/DQBgWwajgeEsPiVQMCMcBJ3CAEAAAAAAMoYAAA=",
+      "item_serial_number": "BDdeTAbNz59dFtDzDqvazXbnpjeoAiI2iLoPJEk10XghXEMimDhp",
       "pickup_order_index": 57,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAADg9oA+/DQBgWwajgeEsPiVQMCMsBJ3CAEAAAAAAMoYAAA=",
+      "item_serial_number": "BPUX8nSkpr83ss1raHJce9Cx9vwJlkKpjWeLhH8Qf2n3s+p5NAc+",
       "pickup_order_index": 58,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAABVSoA+/DQBgWwajgeEsPiVQMCMkBJ3CAEAAAAAAMoYAAA=",
+      "item_serial_number": "BARZ4WgY5OYiY0WoExk+waPLSVGzojmttpoPQJxiEb8kQ+lwexJN",
       "pickup_order_index": 59,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAADSr4C+VDQBgWQajgeEhymBPpmeJO4QAgAAAAAAAAAAAA==",
+      "item_serial_number": "BH49t0nRP2DKEnU7NRTTIaQ6/ORgqWItGXHBdegxGxyrD+qeSCA=",
       "pickup_order_index": 60,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAABk54C+VDQBgWQajgeEhymBPpneJO4QAgAAAAAAAAAAAA==",
+      "item_serial_number": "BNECZAobQDN+xqoiVs0m04BSXyJ0TnuS9GEwiSWm18XCzxXipNY=",
       "pickup_order_index": 61,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAAAMZYC+VDQBgWQajgeEhymBPpleJe4QAgAAAAAAAAAAAA==",
+      "item_serial_number": "BHo2eRdG53ZuWyEk9vvzAdAPz/UkMTMzdKRGWrgyBzbWWmqZ9ro=",
       "pickup_order_index": 62,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAAC6LYC+VDQBgWQajgeEhymBPpkeJe4QAgAAAAAAAAAAAA==",
+      "item_serial_number": "BKl7wVRmoUZ/rxMNN2ZxfYpD3LPRGnOfizagbWHB6G823AnjsX8=",
       "pickup_order_index": 63,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAABeOIA+WiQBgnwatJrjAQG6OKNS5hOUxB1CAAAAAAAAMyAAAA==",
+      "item_serial_number": "BO4mtwxRcV9aY7DqsQbO6ZOP236RYB7LGGYnMjSchM7lCj5/WWfUqCE=",
       "pickup_order_index": 64,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAABzV4A+WiQBgnwatJrjAQG6OKNS5hOcxB1CAAAAAAAAMyAAAA==",
+      "item_serial_number": "BF0omAheEunzIIpEsxo+j2q8HrP1Y8/aYdUrCXQP5MM50Z9BToCl5Bw=",
       "pickup_order_index": 65,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAACxWoA+WiQBgnwatJrjAQG6OKNS5hOkxB1CAAAAAAAAMyAAAA==",
+      "item_serial_number": "BM8/JH5aOJ8OaAzOSZ8eXGrJLTc02W0jCb4aKKzlFSIswyzcILW8ZhI=",
       "pickup_order_index": 66,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAADrhIA+WiQBgnwatJrjAQG6OKNS5hO0xB1CAAAAAAAAMyAAAA==",
+      "item_serial_number": "BCcUSyiLPbwKZ15FO304ZoMe7Hf8oktJzLJXP8MYOLntFzdCr1LLNTE=",
       "pickup_order_index": 67,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAADrhIA+WiQBgnwatJrjAQG6OKNS5hO0xB1CAAAAAAAAMyAAAA==",
+      "item_serial_number": "BMVNV0q7KzULn8QoxwYBohEsbaQMCT4yx6ulT3GnRQdK3Lmt8ESxMJU=",
       "pickup_order_index": 68,
       "flags": 1,
       "weapon_skin_path": ""
     },
     {
-      "item_serial_number": "BAAAAACcNYA+WiQBgnwatJrjAQG6OKNS5hOsxB1CAAAAAAAAMyAAAA==",
+      "item_serial_number": "BI4VVRn1xsi1NPJDxSR2hGwkaIpSV5oG4ZvHsakVSIeaKHdXihztCFY=",
       "pickup_order_index": 69,
       "flags": 1,
       "weapon_skin_path": ""
@@ -19180,6 +19181,11 @@
             "discovered_playthroughs": 1
           }
         ]
+      },
+      {
+        "discovered_level_name": "/Game/Maps/Sanctuary3/Sanctuary3_P",
+        "discovered_playthroughs": 1,
+        "discovered_area_info": []
       }
     ]
   },
@@ -40092,95 +40098,95 @@
       {
         "planet_name": "Pandora",
         "cycle_length": 1980.0,
-        "last_cached_time": 0.2746583
+        "last_cached_time": 0.29573777
       },
       {
         "planet_name": "Promethea",
         "cycle_length": 1980.0,
-        "last_cached_time": 0.54518116
+        "last_cached_time": 0.5662606
       },
       {
         "planet_name": "Athenas",
         "cycle_length": 2200.0,
-        "last_cached_time": 0.8420114
+        "last_cached_time": 0.8609829
       },
       {
         "planet_name": "Eden-6",
         "cycle_length": 1980.0,
-        "last_cached_time": 0.451796
+        "last_cached_time": 0.47287548
       },
       {
         "planet_name": "Nekrotafeyo",
         "cycle_length": 150.0,
-        "last_cached_time": 0.2067575
+        "last_cached_time": 0.48500642
       },
       {
         "planet_name": "Gradient of Dawn",
         "cycle_length": 1980.0,
-        "last_cached_time": 0.7631105
+        "last_cached_time": 0.78418994
       },
       {
         "planet_name": "The Hall Obsidian",
         "cycle_length": 1980.0,
-        "last_cached_time": 0.21623604
+        "last_cached_time": 0.23731549
       },
       {
         "planet_name": "Midnight's Cairn",
         "cycle_length": 22222222000000.0,
-        "last_cached_time": 1.6075882e-07
+        "last_cached_time": 1.6076069e-07
       },
       {
         "planet_name": "Joey's Planet",
         "cycle_length": 1980.0,
-        "last_cached_time": 0.92399967
+        "last_cached_time": 0.9450791
       },
       {
         "planet_name": "The Handsome Jackpot",
         "cycle_length": 1000.0,
-        "last_cached_time": 0.7447114
+        "last_cached_time": 0.7864487
       },
       {
         "planet_name": "Krieg's Mind",
         "cycle_length": 150.0,
-        "last_cached_time": 0.25737855
+        "last_cached_time": 0.5356275
       },
       {
         "planet_name": "Xylourgos",
         "cycle_length": 200.0,
-        "last_cached_time": 0.79802203
+        "last_cached_time": 0.006708622
       },
       {
         "planet_name": "Gehenna",
         "cycle_length": 2020.0,
-        "last_cached_time": 0.74580115
+        "last_cached_time": 0.7664632
       },
       {
         "planet_name": "Wayward Tether",
         "cycle_length": 1980.0,
-        "last_cached_time": 0.5488776
+        "last_cached_time": 0.569957
       },
       {
         "planet_name": "The Skydrowned Pulpit",
         "cycle_length": 1980.0,
-        "last_cached_time": 0.19536202
+        "last_cached_time": 0.21644147
       },
       {
         "planet_name": "Ghostlight Beacon",
         "cycle_length": 1980.0,
-        "last_cached_time": 0.38164085
+        "last_cached_time": 0.40272033
       },
       {
         "planet_name": "Minos Prime",
         "cycle_length": 1600.0,
-        "last_cached_time": 0.2892054
+        "last_cached_time": 0.31529126
       },
       {
         "planet_name": "Heck",
         "cycle_length": 10000000.0,
-        "last_cached_time": 0.34152627
+        "last_cached_time": 0.34153044
       }
     ],
-    "planet_cycle": "Pandora"
+    "planet_cycle": "Sanctuary"
   },
   "level_persistence_data": [
     {
@@ -40188,7 +40194,7 @@
       "saved_actors": [
         {
           "actor_name": "BPIO_Lootable_Industrial_CarTrunk_121",
-          "timer_remaining": 1779
+          "timer_remaining": 1726
         }
       ]
     }
@@ -40217,10 +40223,10 @@
         "level_name": "Sanctuary3",
         "fod_texture_size": 512,
         "num_chunks": 64,
-        "data_state": 1,
-        "data_revision": 2345,
-        "fod_data": "BgAAAEdCWEZPRAEAAAABAAAAAgAAAEAAAABAAAAACAAAAAgAAABAAAAAAAAEAAQAAABQAQAAAgQAAAA5AQAAAgQAAACZAgAAAgQAAABHBwAAAgQAAAAxAwAAAgQAAACcAAAAAgEAAAAAAAAAAgEAAAAAAAAAAgQAAAAVBwAAAgQAAACnCQAAAgQAAAD2BAAAAgQAAAB7CwAAAgQAAAAHDQAAAgQAAAC3CwAAAgQAAADaBQAAAgQAAACXBgAAAgQAAABmCQAAAgQAAAD5CgAAAgQAAADqBwAAAgQAAABbCQAAAgQAAADpCwAAAgQAAAD5CwAAAgQAAAB0CgAAAgQAAABpBwAAAgQAAAD1CAAAAgQAAADqDgAAAgQAAAD7CgAAAgQAAABEBgAAAgQAAADZBwAAAgQAAADPCgAAAgQAAADEDAAAAgQAAABHCAAAAgQAAACuCAAAAgQAAABwCQAAAgQAAAANCQAAAgQAAAAOBgAAAgQAAABaCQAAAgQAAACvBwAAAgQAAADZCQAAAgQAAAD/BgAAAgQAAADQCgAAAgQAAACKBgAAAgQAAADPCQAAAgQAAAD7BwAAAgQAAACmBgAAAgQAAAB2BQAAAgQAAAC+CAAAAgQAAAAtBgAAAgQAAAD7CQAAAgQAAAAdCQAAAgQAAAA5CgAAAgQAAAC6CwAAAgQAAACbCwAAAgQAAABQBgAAAgQAAACuCwAAAgQAAABNBgAAAgQAAADdCgAAAgQAAAB9CgAAAgQAAAAOCQAAAgQAAAC5CQAAAgQAAAALAQAAAgQAAACgCgAAAgQAAACZDAAAAgQAAAAyCAAAAg==",
-        "discovery_percentage": 0.0
+        "discovery_percentage": 1.0,
+        "data_state": 4,
+        "data_revision": 2348,
+        "fod_data": "BgAAAEdCWEZPRAEAAAABAAAAAgAAAEAAAABAAAAACAAAAAgAAABAAAAAAAAEAAQAAABQAQAAAgQAAAA5AQAAAgQAAACZAgAAAgQAAABHBwAAAgQAAAAxAwAAAgQAAACcAAAAAgEAAAAAAAAAAgEAAAAAAAAAAgQAAAAVBwAAAgQAAACnCQAAAgQAAAD2BAAAAgQAAAB7CwAAAgQAAAAHDQAAAgQAAAC3CwAAAgQAAADaBQAAAgQAAACXBgAAAgQAAABmCQAAAgQAAAD5CgAAAgQAAADqBwAAAgQAAABbCQAAAgQAAADpCwAAAgQAAAD5CwAAAgQAAAB0CgAAAgQAAABpBwAAAgQAAAD1CAAAAgQAAADqDgAAAgQAAAD7CgAAAgQAAABEBgAAAgQAAADZBwAAAgQAAADPCgAAAgQAAADEDAAAAgQAAABHCAAAAgQAAACuCAAAAgQAAABwCQAAAgQAAAANCQAAAgQAAAAOBgAAAgQAAABaCQAAAgQAAACvBwAAAgQAAADZCQAAAgQAAAD/BgAAAgQAAADQCgAAAgQAAACKBgAAAgQAAADPCQAAAgQAAAD7BwAAAgQAAACmBgAAAgQAAAB2BQAAAgQAAAC+CAAAAgQAAAAtBgAAAgQAAAD7CQAAAgQAAAAdCQAAAgQAAAA5CgAAAgQAAAC6CwAAAgQAAACbCwAAAgQAAABQBgAAAgQAAACuCwAAAgQAAABNBgAAAgQAAADdCgAAAgQAAAB9CgAAAgQAAAAOCQAAAgQAAAC5CQAAAgQAAAALAQAAAgQAAACgCgAAAgQAAACZDAAAAgQAAAAyCAAAAg=="
       },
       {
         "level_name": "Outskirts",
@@ -40847,15 +40853,15 @@
         "level_name": "Recruitment",
         "fod_texture_size": 512,
         "num_chunks": 64,
-        "discovery_percentage": 0.9777048,
-        "data_state": 3,
-        "data_revision": 39,
+        "discovery_percentage": "Infinity",
+        "data_state": 1,
+        "data_revision": 44,
         "fod_data": "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"
       }
     ]
   },
   "last_active_travel_station_for_playthrough": [
-    "/Game/GameData/FastTravel/ResurrectTravelStations/AutoGen/Recruitment/RTS_AUTOGEN_ResurrectTravelStationObject_CoVCamp.RTS_AUTOGEN_ResurrectTravelStationObject_CoVCamp"
+    "/Game/GameData/FastTravel/FTS_Sanctuary.FTS_Sanctuary"
   ],
   "game_state_save_data_for_playthrough": [
     {
@@ -42305,7 +42311,7 @@
       }
     ],
     "guardian_reward_random_seed": 4467,
-    "new_guardian_experience": "5728994848123",
+    "new_guardian_experience": "5729715020068",
     "is_rank_system_enabled": true
   },
   "optional_objective_reward_fixup_applied": true,
@@ -42330,7 +42336,6 @@
     }
   ],
   "levelled_save_vehicle_part_rewards_fixup_applied": true,
-  "time_played_seconds": 0,
   "last_play_through_index": 0,
   "active_travel_stations": [],
   "last_active_travel_station": "",
