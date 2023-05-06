@@ -14,21 +14,15 @@
 12 - ClawBringer
 13 - Brr-Zerker
 14 - BlightCaller
-
-
-
-
-
-
-
-
-
-(Mostly Dated)
---------------------- // All 510 items from the bank duplicated into the characters backpack
-D - Bank Dropper
-
-Community Saves
---------------------- // Please DM me with your orignal post and a way to verify the save was yours so I can add credit 
+--------------------- // M.S.T Droppers
+15 - ARs/Launchers
+16 - Melees
+17 - Pistols/Shotguns
+18 - SMGs/Snipers
+19 - Shields/Amus/Rings
+20 - Spells
+21 - Armor (UNFINISHED AF [TO MANY POSSIBILITIES])
+--------------------- // Community Saves Please DM me with your orignal post and a way to verify the save was yours so I can add credit 
 50 - Spore Daddy [CHAOS 20]
 51 - Karma[CHAOS 20]
 52 - Brrblue[CHAOS 20]
@@ -73,15 +67,8 @@ Community Saves
 91 - FragMellow [H4XzzHD] {https://youtu.be/VylBiDhD9-c} [CHAOS 50]
 92 - HotShot [Moxsy] {https://www.twitch.tv/moxsy} [CHAOS 50]
 93 - Sara - Punchbot [lazydata] {https://www.youtube.com/c/LazyData} [CHAOS 50]
-94 - Bullet Witch [Moxsy] {https://www.youtube.com/watch?v=QCkILld9MyM} [chaos 50]
+94 - Bullet Witch [Moxsy] {https://www.youtube.com/watch?v=QCkILld9MyM} [CHAOS 50]
 95 - Lyra - The Blender [Lazy Data] {https://www.youtube.com/c/LazyData} [CHAOS 50]
---------------------- // Profiles (PC only at the moment)
-All Legit - has 510 Ascended items in the bank with all myth skills maxxed out. All customizations are unlocked and it has 999,999,999 skeleton keys
-
-Legit with Modded Luck - All legit with 700K in Loot Luck Skill
-
-Legit with Modded Myth - all other points have 2.147M besides Fire Rate (20), Mag Size (15), Luck (700k)
-
 
 
 
