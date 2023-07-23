@@ -14,7 +14,15 @@
 11 - Mechromancer
 12 - Psycho
 
-"Keepable" Droppers:
+100% story/challenges has max legit ammo/skill points (LEGIT):
+13 - Axton
+14 - Zer0
+15 - Maya
+16 - Gunzerker
+17 - Mechromancer
+18 - Psycho
+
+"Keepable" Droppers (name is reason why it works):
 ARs:
 AR50 - 50
 AR72 - 72
@@ -71,17 +79,17 @@ TTDR - Torgue Token Dropper
 SCDR - Seraph Crystal Dropper 
 
 Hybrids (Old) the last version of Xcier-Freedom Modded Gear Saves:
-HYB1 - Hybrid Assassin
-HYB2 - Hybrid Commando
-HYB3 - Hybrid Gunzerker
-HYB4 - Hybrid Mechromancer
-HYB5 - Hybrid Psycho
-HYB6 - Hybrid Siern
+HYB1 - Hybrid Assassin (80 OP10)
+HYB2 - Hybrid Commando (80 OP10)
+HYB3 - Hybrid Gunzerker (80 OP10)
+HYB4 - Hybrid Mechromancer (80 OP10)
+HYB5 - Hybrid Psycho (80 OP10)
+HYB6 - Hybrid Siern (80 OP10)
 
-Hybrids the newest version of hybrid gear by ProtoBuffers:
-PB01 - 
-PB02 - 
-PB03 - 
-PB04 - 
-PB05 - 
-PB06 -
+Updated hybrid gear by ProtoBuffers:
+PB01 - placeholder
+PB02 - placeholder
+PB03 - placeholder
+PB04 - placeholder
+PB05 - placeholder
+PB06 - placeholder
