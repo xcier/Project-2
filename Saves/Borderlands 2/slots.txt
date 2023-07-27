@@ -14,13 +14,21 @@
 11 - Mechromancer
 12 - Psycho
 
-Level 1, 100% challenges, max SDU upgrades, all locations, fresh story (LEGIT):
+Level 1, 100% challenges, Max SDU upgrades, All locations, Fresh story (LEGIT):
 13 - Axton
 14 - Zer0
 15 - Maya
 16 - Gunzerker
 17 - Mechromancer
 18 - Psycho
+
+Level 1, 100% challenges, Unlimited Ammo, Full Skill Trees, All locations, Fresh story(Normal Modded):
+19 - Axton
+20 - Zer0
+21 - Maya
+22 - Gunzerker
+23 - Mechromancer
+24 - Psycho
 
 "Keepable" Droppers (name is reason why it works):
 ARs:
@@ -86,10 +94,54 @@ HYB4 - Hybrid Mechromancer (80 OP10)
 HYB5 - Hybrid Psycho (80 OP10)
 HYB6 - Hybrid Siern (80 OP10)
 
-Updated hybrid gear by ProtoBuffers:
+Save Duplicator Place Holders:
 PB01 - placeholder
 PB02 - placeholder
 PB03 - placeholder
 PB04 - placeholder
 PB05 - placeholder
 PB06 - placeholder
+PB07 - placeholder
+PB08 - placeholder
+PB09 - placeholder
+PB10 - placeholder
+PB11 - placeholder
+PB12 - placeholder
+PB13 - placeholder
+PB14 - placeholder
+PB15 - placeholder
+PB16 - placeholder
+PB17 - placeholder
+PB18 - placeholder
+PB19 - placeholder
+PB20 - placeholder
+PB21 - placeholder
+PB22 - placeholder
+PB23 - placeholder
+PB24 - placeholder
+PB25 - placeholder
+PB26 - placeholder
+PB27 - placeholder
+PB28 - placeholder
+PB29 - placeholder
+PB30 - placeholder
+PB31 - placeholder
+PB32 - placeholder
+PB33 - placeholder
+PB34 - placeholder
+PB35 - placeholder
+PB36 - placeholder
+PB37 - placeholder
+PB38 - placeholder
+PB39 - placeholder
+PB40 - placeholder
+PB41 - placeholder
+PB42 - placeholder
+PB43 - placeholder
+PB44 - placeholder
+PB45 - placeholder
+PB46 - placeholder
+PB47 - placeholder
+PB48 - placeholder
+PB49 - placeholder
+PB50 - placeholder
