@@ -94,54 +94,29 @@ HYB4 - Hybrid Mechromancer (80 OP10)
 HYB5 - Hybrid Psycho (80 OP10)
 HYB6 - Hybrid Siern (80 OP10)
 
-Save Duplicator Place Holders:
-PB01 - placeholder
-PB02 - placeholder
-PB03 - placeholder
-PB04 - placeholder
-PB05 - placeholder
-PB06 - placeholder
-PB07 - placeholder
-PB08 - placeholder
-PB09 - placeholder
-PB10 - placeholder
-PB11 - placeholder
-PB12 - placeholder
-PB13 - placeholder
-PB14 - placeholder
-PB15 - placeholder
-PB16 - placeholder
-PB17 - placeholder
-PB18 - placeholder
-PB19 - placeholder
-PB20 - placeholder
-PB21 - placeholder
-PB22 - placeholder
-PB23 - placeholder
-PB24 - placeholder
-PB25 - placeholder
-PB26 - placeholder
-PB27 - placeholder
-PB28 - placeholder
-PB29 - placeholder
-PB30 - placeholder
-PB31 - placeholder
-PB32 - placeholder
-PB33 - placeholder
-PB34 - placeholder
-PB35 - placeholder
-PB36 - placeholder
-PB37 - placeholder
-PB38 - placeholder
-PB39 - placeholder
-PB40 - placeholder
-PB41 - placeholder
-PB42 - placeholder
-PB43 - placeholder
-PB44 - placeholder
-PB45 - placeholder
-PB46 - placeholder
-PB47 - placeholder
-PB48 - placeholder
-PB49 - placeholder
-PB50 - placeholder
+"UN-SAVERS" [BLANK SAVE] These saves are to be edited by YOU! PS3/PS4 only (you can change name on xbox/pc/switch)
+PB01 - PLEASE EDIT ME
+PB02 - PLEASE EDIT ME
+PB03 - PLEASE EDIT ME
+PB04 - PLEASE EDIT ME
+PB05 - PLEASE EDIT ME
+PB06 - PLEASE EDIT ME
+PB07 - PLEASE EDIT ME
+PB08 - PLEASE EDIT ME
+PB09 - PLEASE EDIT ME
+PB10 - PLEASE EDIT ME
+PB11 - PLEASE EDIT ME
+PB12 - PLEASE EDIT ME
+PB13 - PLEASE EDIT ME
+PB14 - PLEASE EDIT ME
+PB15 - PLEASE EDIT ME
+PB16 - PLEASE EDIT ME
+PB17 - PLEASE EDIT ME
+PB18 - PLEASE EDIT ME
+PB19 - PLEASE EDIT ME
+PB20 - PLEASE EDIT ME
+PB21 - PLEASE EDIT ME
+PB22 - PLEASE EDIT ME
+PB23 - PLEASE EDIT ME
+PB24 - PLEASE EDIT ME
+PB25 - PLEASE EDIT ME
