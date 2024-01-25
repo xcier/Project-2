@@ -22,15 +22,17 @@ Droppers
 16 - Grenades
 17 - Class Mods
 18 - Artifacts
-19 - Eridium
+--------------------------------------------- Currency
+19 - Eridium 
 20 - Diamond Key
 21 - VC1
 22 - VC2
-23 - VC3 
---------------------------------------------- ///From Old Update Nothing New
+23 - VC3
+--------------------------------------------- Customization
 24 - all (lag fest 300)
 25 - Room Decorations
 26 - ECHO Themes Skins/Trinkets
+27 - Weapon Skins
 28 - BeastMaster
 29 - Gunner
 30 - Operative
@@ -40,7 +42,7 @@ Droppers
 
 
 
-
+NOT UPDATED SAVES:
 
 Slots (Will all eventually be replaced):
 1 - 25k Eridium Dropper
@@ -100,6 +102,13 @@ Thanks to Domin8 for the base saves:
 47 - Weapon Slot 4 Unlock + Expridium
 48 - Artifact Slot Unlock + Expridium (Old XP lobby)
 ----------------------------------------------
+
+
+
+COMMUNITY SAVES:
+
+
+
 50 - zanestorm
 51 - splash master moze
 52 - sentry moze
@@ -195,22 +204,3 @@ All heads/skins/echo themes/weapon trinkets/weapon skins/and emotes should be un
 
 Vault Card 3 Dropper Bank - 2000 vault keys for vault card 3 and new unreleased heads/skins
 and new weapons + TNTina (NOT PS5 SAFE ONLY COPIES 1 KEY)
-
-
-If you see somthing missing please make an issue or DM me.
-Gaps between saves are used to symbolize the grouping in between them!
-
-Last Update: 2/25/21 8:10PM -6 CST
-
-Saves Affected : 
-
-24
-25
-26
-27
-
-Keeps gear when dropped in other players lobbies.
-OP weapons just as V1 they will be changed later. 
-Look at the skill trees!
-
-https://github.com/xcier/project-2

@@ -1,17 +1,17 @@
 Normal Modded OP10 Characters (Level 45) 3k items in bank
 --------------------------
-51 - Commando
-52 - Assassin
-53 - Siren
-54 - Gunzerker
-55 - Mechromancer
-56 - Psycho
+NM01 - Commando
+NM02 - Assassin
+NM03 - Siren
+NM04 - Gunzerker
+NM05 - Mechromancer
+NM06 - Psycho
 
 Normal Modded Characters (Level 35) 3k items in bank
 --------------------------
-57 - Commando
-58 - Assassin
-59 - Siren
-60 - Gunzerker
-61 - Mechromancer
-62 - Psycho
+OP01 - Commando
+OP02 - Assassin
+OP03 - Siren
+OP04 - Gunzerker
+OP05 - Mechromancer
+OP06 - Psycho
