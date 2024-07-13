@@ -94,7 +94,7 @@ HYB4 - Hybrid Mechromancer (80 OP10)
 HYB5 - Hybrid Psycho (80 OP10)
 HYB6 - Hybrid Siern (80 OP10)
 
-"UN-SAVERS" [BLANK SAVE] These saves are to be edited by YOU! PS3/PS4 only (you can change name on xbox/pc/switch)
+"UN-SAVERS" [BLANK SAVE] These saves are to be edited by YOU! PS3/PS4 only (you can change name on xbox/pc/switch[issue related to save name])
 PB01 - PLEASE EDIT ME
 PB02 - PLEASE EDIT ME
 PB03 - PLEASE EDIT ME

@@ -1,38 +1,51 @@
-# Project-2
- Released Saves For The Borderlands Series Modded By Xcier-Freedom/ProtoBuffers
-This Initial Save Release is for 8/1/21 and starting my new journy so I hope everyone
-here wishes me luck in getting everything to work out on my end.
+# Welcome to the Borderlands Project 2 GitHub Repository!
 
+This repository is dedicated to Borderlands-related content, providing a variety of save files to enhance your gaming experience. Whether you’re looking for new gameplay challenges, modded gear, or simply want to start fresh with a new perspective, you'll find something here to extend the lifetime of your game.
 
-The credits list is to large to compile to thank everyone for their hardwork and tools
-made over many years that I have used to edit saves or edit them, but I will try to 
-sit down and make a full list soon!
+## Important Note
+Many of the saves were created by me, but they often incorporate work or information from other contributors in the community. While some discoveries are unique to this collection, the community continues to find new elements that may impact the effectiveness of these saves. Use these saves to explore new aspects of the game, but please be considerate and avoid ruining the experience for others.
 
-It is highly recommended to NOT download everything at one time as this will being
-getting a large amount of updates over time just go to the folder you want to download
-something from and download the zip or raw .sav as well. 
+## Contents of This Repository
 
-https://www.youtube.com/watch?v=F8qynReZoFM&list=PLLQX_F_m7vrlSNCZFjvZbDwIRdqvzcwSN&index=8
+### Borderlands 1:
+- 100% Completion Saves
+- Item Droppers
+- Full Skill Tree Characters
+- Modded Backpacks
+- Keepable Modded Weapons
 
-If enough people want I will move the Borderlands tools over to thier own section!
-Will most likely need to do this as well due to false postivies within the programs
-due to obfuscation and network use for exploited consoles.
+### Borderlands 2:
+- 100% Completion Saves
+- Modded Saves (Note: Modded gear may not persist, but saves exploit methods to retain gear)
+- Full Skill Tree Characters
+- Unlimited Ammo
+- Droppable Heads, Skins, Weapons, Items, and Currency
+- Insta Boosters (Instantly level up others to max level)
+- Modded Badass Rank and Percentages
 
+### Borderlands: The Pre-Sequel (TPS):
+- 100% Completion Saves
+- Modded Saves (Note: Modded gear may not persist, but saves exploit methods to retain gear)
+- Full Skill Tree Characters
+- Unlimited Ammo
+- Droppable Heads, Skins, Weapons, Items, and Currency
+- Insta Boosters (Instantly level up others to max level)
+- Modded Badass Rank and Percentages
 
-If you want to support me with a one time payment you can donate here (better for those
-who want to remain anon [comes with a discord role if wanted]):
-https://paypal.me/xcier
-cashtag $xcier
+### Borderlands 3:
+- 100% Completion Saves
+- Modded Saves
+- Modded Skill Trees (Super Speed, Insta Kill, God Mode)
+- Droppable Heads, Skins, Weapons, Items, and Currency
+- Insta Boosters (Instantly level up others to max level)
+- Slot Unlockers (Unlocks additional inventory slots for others)
 
-If you want to support me for a monthly fee you will get early access behind the scenes, 
-extra gear, discord roles, and more!
-https://www.patreon.com/ProtoBuffers
+### Tiny Tina's Wonderlands:
+- 100% Completion Saves
+- Modded Saves
+- Modded Skill Trees (Super Speed, Insta Kill, God Mode)
+- Droppable Heads, Skins, Weapons, Items, and Currency
+- Insta Boosters (Instantly level up others to max level)
+- Slot Unlockers (Unlocks additional inventory slots for others)
 
-I will be streaming soon and making videos so if you want your name displayed on screen
-in the end or during a stream you can donate to me at that time as well with the donation
-link in the discription.
-
-
-RIP Baysix <3.
-
-GIT IS NOW UNDER LFS AS OF 2/10/22
+Enjoy the content, explore new gameplay opportunities, and have fun!

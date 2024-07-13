@@ -1,206 +1,203 @@
-All Saves are built for PC, PS4 Decrypted, PS4 Save Wizard
+# Borderlands 3 Save Files
 
-(UPDATED) SLOTS:
-1 - 100% Amara
-2 - 100% Moze
-3 - 100% Zane
-4 - 100% FL4K
---------------------------------------------- Modded Skill Trees,  XP lobby (level 870 in normal mode no chaos enabled), all areas found (but 1), all eridium writings (but 1), all crew challenges, all in game challenges, all side quest complete, all missions complete, all DLC completed, galaxy completion 104%!
-5 - M.S.T Amara
-6 - M.S.T Moze
-7 - M.S.T Zane
-8 - M.S.T FL4K
---------------------------------------------- 100% Modded (Modded Skill Tree/100% story/side quest/challenges), Read only online (no need to replace save after use joining online), NO DLC NEEDED (all seem to be PS5 safe )
-Droppers
-9 - ARs
-10 - Rockets
-11 - Pistols
-12 - Shotguns
-13 - SMGs
-14 - Snipers
-15 - Shields
-16 - Grenades
-17 - Class Mods
-18 - Artifacts
---------------------------------------------- Currency
-19 - Eridium 
-20 - Diamond Key
-21 - VC1
-22 - VC2
-23 - VC3
---------------------------------------------- Customization
-24 - all (lag fest 300)
-25 - Room Decorations
-26 - ECHO Themes Skins/Trinkets
-27 - Weapon Skins
-28 - BeastMaster
-29 - Gunner
-30 - Operative
-31 - Siren
+## All Saves are built for PC, PS4 Decrypted, PS4 Save Wizard
 
+### (UPDATED) SLOTS:
 
+#### 100% Completion Saves
+1. **100% Amara**
+2. **100% Moze**
+3. **100% Zane**
+4. **100% FL4K**
 
+#### Modded Skill Trees, XP Lobby (Level 870 in Normal Mode, No Chaos Enabled)
+- All areas found (but 1)
+- All Eridium writings (but 1)
+- All crew challenges
+- All in-game challenges
+- All side quests complete
+- All missions complete
+- All DLC completed
+- Galaxy completion 104%
 
+5. **M.S.T Amara**
+6. **M.S.T Moze**
+7. **M.S.T Zane**
+8. **M.S.T FL4K**
 
-NOT UPDATED SAVES:
+#### 100% Modded (Modded Skill Tree, 100% Story/Side Quests/Challenges)
+- Read only online (no need to replace save after use joining online)
+- NO DLC NEEDED (all seem to be PS5 safe)
 
-Slots (Will all eventually be replaced):
-1 - 25k Eridium Dropper
-2 - 50k Eridium Dropper
-3 - 75k Eridium Dropper
-4 - 100k Eridium Dropper
----------------------------------------------
-5 - Vault Card Key 1 Dropper (gives 3 per key): (Not PS5 Safe)
-6 - Vault Card Key 2 Dropper (gives 3 per key): (Not PS5 Safe)
-7 - Vault Card Key 3 Dropper (gives 3 per key): (Not PS5 Safe)
-8 - Diamond Key Dropper: (Not PS5 Safe)
----------------------------------------------
-9 - All heads/skins/trinkets/decorations/weapon skins
----------------------------------------------
-Thanks to Domin8 for the base saves:
-10 - Pistols
-11 - SMGs
-12 - Assault Rifles
-13 - Shotguns
-14 - Rocket Launchers
-15 - Sniper Rifles
-16 - Shields
-17 - Grenades
-18 - COMs-Relics
-19 - All Items
-20 - DLC3 Items
-21 - DLC4 Items
-22 - Arms Race Items
-23 - Director's Cut Items
----------------------------------------------
-24 - Siren Modded Skill Tree
-25 - Beast Master XP Boost Lobby 3.00
-26 - Gunner XP Boost Lobby 3.00
-27 - Operative XP Boost Lobby 3.00
---------------------------------------------- XP Lobby 3.0 - no Unlocker - "Expridium"
-28 - Modded Pistols (2.0 TBA)
-29 - Modded SMGs (Not PS5 Safe)
-30 - Modded ARs 
-31 - Modded Shotguns (TBA)
-32 - Modded Rocket Launchers (TBA)
-33 - Modded Snipers (TBA)
-34 - Modded Grenades (TBA)
-35 - Modded Shields (TBA)
-36 - Modded Coms (TBA)
-37 - Modded Artifacts (TBA)
-----------------------------------------------
-38 - Beastmaster Cosmetics
-39 - Gunner Cosmetics
-40 - Operative Cosmetics
-41 - Siren Cosmetics
-42 - Weapon Skins/Trinkets
-43 - ECHO Themes
-44 - Room Decorations
----------------------------------------------- Removed dupes & added missing (thank Owlz & Therian for the list)
-45 - Weapon Slot 3 Unlock + Expridium
-46 - Class Mod Unlock + Expridium
-47 - Weapon Slot 4 Unlock + Expridium
-48 - Artifact Slot Unlock + Expridium (Old XP lobby)
-----------------------------------------------
+9. **Droppers: ARs**
+10. **Droppers: Rockets**
+11. **Droppers: Pistols**
+12. **Droppers: Shotguns**
+13. **Droppers: SMGs**
+14. **Droppers: Snipers**
+15. **Droppers: Shields**
+16. **Droppers: Grenades**
+17. **Droppers: Class Mods**
+18. **Droppers: Artifacts**
 
+#### Currency
+19. **Eridium**
+20. **Diamond Key**
+21. **VC1**
+22. **VC2**
+23. **VC3**
 
+#### Customization
+24. **All (Lag Fest 3000)**
+25. **Room Decorations**
+26. **ECHO Themes, Skins/Trinkets**
+27. **Weapon Skins**
+28. **BeastMaster**
+29. **Gunner**
+30. **Operative**
+31. **Siren**
 
-COMMUNITY SAVES:
+---
 
+### NOT UPDATED SAVES:
 
+#### Slots (Will All Eventually Be Replaced)
+1. **25k Eridium Dropper**
+2. **50k Eridium Dropper**
+3. **75k Eridium Dropper**
+4. **100k Eridium Dropper**
 
-50 - zanestorm
-51 - splash master moze
-52 - sentry moze
-53 - gladiator amara
-54 - nova fl4k
-55 - bulletstorm moze
-56 - asterism moze
-57 - turrent fl4k
-58 - steel savior moze
-59 - seein' double zane
-60 - light warrior amara
-61 - radiation fl4k
-62 - sheriff amara
-63 - 7 terrors fl4k
-64 - pure pet fl4k
-65 - crit cannon zane
-66 - eradication moze
-67 - flare fist amara
-68 - cub master moze
-69 - deputy-moze
-70 - maxi-moze
-71 - perma-bear
-72 - sentry moze
-73 - splash master moze
-74 - st4bity fl4k
-75 - omfg amara
-76 - Atlas Shrugged
-77 - SLIM FADEY!
-78 - gladiator moze
-79 - nova fl4k
-80 - GAMMA THIRST
-81 - 5G BeastMaster
-82 - All Mighty Moze
-83 - Amarageddon
-84 - Blade Witch Amara
-85 - ZaneZerker
-86 - BoreSplosion
-87 - Brisket Breaker
-88 - Butcher Moze
-89 - Chainy
-90 - Corrosive Fl4k Man
-91 - Death Grip
-92 - Fade & Blade
-93 - Fettuccine Fl4k
-94 - Fire Hoze Moze
-95 - Flare-Bear Moze
-96 - Zane Flinty Brrr
-97 - Khaos Queen
-98 - LEGION Fl4k
-99 - Ricochet Witch
-A - Slam Witch
-B - Transcended Amara
-C - Base Game Zane
-D - Base Game Moze
-E - Base Game FL4K
-F - Base Game Amara
-1A - Chill & Kill Zane
-1B - Destroyer of Worlds
-1C - MOZERKER ∞
-1D - Nuclear Revolt
-1E - Bubble Burster!
-1F - Final Fly
-2A - F1N4L FL4KDOWN
-2B - Judge Flynt
-2C - Hellzerker
-2D - Maya
-2E - Doomsday
-2F - B E A R
-3A - Urad FL4k
-3B - Punchbot
-3C - FL4C1D
-3D - Light Warrior Amara
+5. **Vault Card Key 1 Dropper (gives 3 per key) (Not PS5 Safe)**
+6. **Vault Card Key 2 Dropper (gives 3 per key) (Not PS5 Safe)**
+7. **Vault Card Key 3 Dropper (gives 3 per key) (Not PS5 Safe)**
+8. **Diamond Key Dropper (Not PS5 Safe)**
 
+9. **All Heads/Skins/Trinkets/Decorations/Weapon Skins**
 
+#### Thanks to Domin8 for the Base Saves:
+10. **Pistols**
+11. **SMGs**
+12. **Assault Rifles**
+13. **Shotguns**
+14. **Rocket Launchers**
+15. **Sniper Rifles**
+16. **Shields**
+17. **Grenades**
+18. **COMs-Relics**
+19. **All Items**
+20. **DLC3 Items**
+21. **DLC4 Items**
+22. **Arms Race Items**
+23. **Director's Cut Items**
 
+24. **Siren Modded Skill Tree**
+25. **Beast Master XP Boost Lobby 3.00**
+26. **Gunner XP Boost Lobby 3.00**
+27. **Operative XP Boost Lobby 3.00**
 
-PROFILES:
+#### XP Lobby 3.0 - No Unlocker - "Expridium"
+28. **Modded Pistols (2.0 TBA)**
+29. **Modded SMGs (Not PS5 Safe)**
+30. **Modded ARs**
+31. **Modded Shotguns (TBA)**
+32. **Modded Rocket Launchers (TBA)**
+33. **Modded Snipers (TBA)**
+34. **Modded Grenades (TBA)**
+35. **Modded Shields (TBA)**
+36. **Modded COMs (TBA)**
+37. **Modded Artifacts (TBA)**
 
-Empty Bank Max Status - Good for fresh accounts. 999M diamond/golden/vault keys(1,2,3)/vault crates
-Max status on % and skill bonuses. 0 Rank for you to level yourself and keep your own progress. A fresh
-bank so you can put your own gear in. Permanent double XP due to the science tokens.
-All heads/skins/echo themes/weapon trinkets/weapon skins/and emotes should be unlocked!
+38. **Beastmaster Cosmetics**
+39. **Gunner Cosmetics**
+40. **Operative Cosmetics**
+41. **Siren Cosmetics**
+42. **Weapon Skins/Trinkets**
+43. **ECHO Themes**
+44. **Room Decorations**
 
-Bank Customizations - Contains all Heads/Skins/Trinkets/Weapon Skins/Room Decorations
-999M diamond/golden/vault keys(1,2,3)/vault crates Max status on % and skill bonuses. 
-0 Rank for you to level yourself and keep your own progress. Permanent double XP due to the science tokens.
-All heads/skins/echo themes/weapon trinkets/weapon skins/and emotes should be unlocked!
+#### Removed Dupes & Added Missing (Thanks to Owlz & Therian for the List)
+45. **Weapon Slot 3 Unlock + Expridium**
+46. **Class Mod Unlock + Expridium**
+47. **Weapon Slot 4 Unlock + Expridium**
+48. **Artifact Slot Unlock + Expridium (Old XP Lobby)**
 
-Droppers Bank - Contains Heads/Skins/Trinkets/Weapon Skins/Room Decorations/Weapons/Items
-999M diamond/golden/vault keys(1,2,3)/vault crates Max status on % and skill bonuses. 
-0 Rank for you to level yourself and keep your own progress. Permanent double XP due to the science tokens.
-All heads/skins/echo themes/weapon trinkets/weapon skins/and emotes should be unlocked!
+---
 
-Vault Card 3 Dropper Bank - 2000 vault keys for vault card 3 and new unreleased heads/skins
-and new weapons + TNTina (NOT PS5 SAFE ONLY COPIES 1 KEY)
+### COMMUNITY SAVES:
+
+50. **Zanestorm**
+51. **Splash Master Moze**
+52. **Sentry Moze**
+53. **Gladiator Amara**
+54. **Nova FL4K**
+55. **Bulletstorm Moze**
+56. **Asterism Moze**
+57. **Turret FL4K**
+58. **Steel Savior Moze**
+59. **Seein' Double Zane**
+60. **Light Warrior Amara**
+61. **Radiation FL4K**
+62. **Sheriff Amara**
+63. **7 Terrors FL4K**
+64. **Pure Pet FL4K**
+65. **Crit Cannon Zane**
+66. **Eradication Moze**
+67. **Flare Fist Amara**
+68. **Cub Master Moze**
+69. **Deputy-Moze**
+70. **Maxi-Moze**
+71. **Perma-Bear**
+72. **Sentry Moze**
+73. **Splash Master Moze**
+74. **St4bity FL4K**
+75. **OMFG Amara**
+76. **Atlas Shrugged**
+77. **SLIM FADEY!**
+78. **Gladiator Moze**
+79. **Nova FL4K**
+80. **GAMMA THIRST**
+81. **5G BeastMaster**
+82. **All Mighty Moze**
+83. **Amarageddon**
+84. **Blade Witch Amara**
+85. **ZaneZerker**
+86. **BoreSplosion**
+87. **Brisket Breaker**
+88. **Butcher Moze**
+89. **Chainy**
+90. **Corrosive FL4K Man**
+91. **Death Grip**
+92. **Fade & Blade**
+93. **Fettuccine FL4K**
+94. **Fire Hoze Moze**
+95. **Flare-Bear Moze**
+96. **Zane Flinty Brrr**
+97. **Khaos Queen**
+98. **LEGION FL4K**
+99. **Ricochet Witch**
+A. **Slam Witch**
+B. **Transcended Amara**
+C. **Base Game Zane**
+D. **Base Game Moze**
+E. **Base Game FL4K**
+F. **Base Game Amara**
+1A. **Chill & Kill Zane**
+1B. **Destroyer of Worlds**
+1C. **MOZERKER ∞**
+1D. **Nuclear Revolt**
+1E. **Bubble Burster!**
+1F. **Final Fly**
+2A. **F1N4L FL4KDOWN**
+2B. **Judge Flynt**
+2C. **Hellzerker**
+2D. **Maya**
+2E. **Doomsday**
+2F. **B E A R**
+3A. **Urad FL4K**
+3B. **Punchbot**
+3C. **FL4C1D**
+3D. **Light Warrior Amara**
+
+---
+
+### ALL Saves have been modified to 999999999 XP to enable -RO (Read Only) mode when playing online (you will lose all progress gained from joining players online [gear will return to original]).

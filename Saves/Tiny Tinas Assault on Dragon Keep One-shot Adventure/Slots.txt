@@ -1,0 +1,21 @@
+# Tiny Tina's Assault on Dragon Keep Stand Alone
+
+## Normal Modded OP10 Characters (Level 45)
+3k items in bank
+--------------------------
+- **NM01 - Commando**
+- **NM02 - Assassin**
+- **NM03 - Siren**
+- **NM04 - Gunzerker**
+- **NM05 - Mechromancer**
+- **NM06 - Psycho**
+
+## Normal Modded Characters (Level 35)
+3k items in bank
+--------------------------
+- **OP01 - Commando**
+- **OP02 - Assassin**
+- **OP03 - Siren**
+- **OP04 - Gunzerker**
+- **OP05 - Mechromancer**
+- **OP06 - Psycho**
