@@ -1,75 +1,88 @@
---------------------- // 100% Story, all marbles, shrines, dice, pages, SDUs, all challenges completed, chaos 50 with 1000 unlocked.
-1 - Stabbo (StabboMancer)
-2 - Sporeden (Spore Warden)
-3 - お前はもう死んでいる (Graveborn)
-4 - Death Claw (Clawbringer)
-5 - Dark Magician (Spellshot)
-6 - King Cold (Brr-Zerker)
-7 - Pretty Blight (BlightCaller)
---------------------- // Modded Skill Trees (M.S.T), XP lobby regions (870), chaos 1000 unlocked, 100% 
-8 - StabboMancer
-9 - Spore Warden
-10 - Graveborn
-11 - Spellshot
-12 - ClawBringer
-13 - Brr-Zerker
-14 - BlightCaller
---------------------- // M.S.T Droppers
-15 - ARs/Launchers
-16 - Melees
-17 - Pistols/Shotguns
-18 - SMGs/Snipers
-19 - Shields/Amus/Rings
-20 - Spells
-21 - Armor (UNFINISHED AF [TO MANY POSSIBILITIES])
---------------------- // Community Saves Please DM me with your orignal post and a way to verify the save was yours so I can add credit 
-50 - Spore Daddy [CHAOS 20]
-51 - Karma[CHAOS 20]
-52 - Brrblue[CHAOS 20]
-53 - Sporely [Joltz][CHAOS 20]
-54 - Wolf [Psychotic Wolf][CHAOS 20]
-55 - Bruh[CHAOS 20]
-56 - Backius Spellweaver (modded)[CHAOS 20]
-57 - Fuckit! (modded) [KousKira&LittleLibbs][CHAOS 20]
-58 - Stabboly (modded)[CHAOS 20]
-59 - Jaazikos (modded) [Jaazi][CHAOS 20]
-60 - Mixxy (modded)[CHAOS 20]
-61 - NickTew[CHAOS 20]
-62 - Mixology82 (modded)[CHAOS 20]
-63 - RektumDestroyer (modded)[CHAOS 20]
-64 - [ItzTermx][CHAOS 20]
-65 - Afromancer [K6][CHAOS 20]
-66 - Deputy [Joltzdude139][CHAOS 20]
-67 - [Moxsy] (Cold Snap)[CHAOS 20]
-68 - [ItzTermx] 2 (unknown build name)[CHAOS 20]
-69 - [ItzTermx] 3 (unknown build name)[CHAOS 20]
-70 - Sporely (Blast Master) [Joltz][CHAOS 20]
-71 - Wolf_Spell (FARTS) [Psychotic Wolf][CHAOS 20]
-72 - stabbo [ItzTermx: Meteor Calamity][CHAOS 20]
-73 - NickTewpewpew [NickTew: Fl4k 2.0 Post-Nerf][CHAOS 20]
-74 - NickTewSplosion [NickTew: Poison Warden][CHAOS 20]
-75 - NickThor [NickTew: ClawBringer][CHAOS 20]
-76 - Neera [LazyData][CHAOS 20]
-77 - [NickTew] DeadShot[CHAOS 20]
-78 - Graveborn [ThiccFilA: dEAD sHOT][CHAOS 20]
-79 - Shadow Stab [Joltzdude139][CHAOS 20]
-80 - Sub 2 [Moxsy: Spell Shock][CHAOS 20]
-81 - Wulfric [Moxsy: Shock and Awe][CHAOS 20]
-82 - [Jaazi] (modded)[CHAOS 20]
-83 - Mod Save (modded)[CHAOS 20]
-84 - [Nivek] (modded) [CHAOS 20]
-85 - NerfBait [H4XzzHD] {https://youtu.be/VylBiDhD9-c} [CHAOS 50]
-86 - Pixie [H4XzzHD] {https://youtu.be/hyl6TNcyLEU} [CHAOS 50]
-87 - Crit Swap [H4XzzHD] {https://www.youtube.com/watch?v=8HafZWpxXHM&t=28s} [CHAOS 50]
-88 - Faucet Failure [H4XzzHD] {https://youtu.be/COhQkvpYQD4} [CHAOS 50]
-89 - Shigaraki 2.0 [L00TLXRD] {https://www.twitch.tv/l00tlxrd/} [CHAOS 50]
-90 - Saitama [L00TLXRD] {https://www.twitch.tv/l00tlxrd/} [CHAOS 50]
-91 - FragMellow [H4XzzHD] {https://youtu.be/VylBiDhD9-c} [CHAOS 50]
-92 - HotShot [Moxsy] {https://www.twitch.tv/moxsy} [CHAOS 50]
-93 - Sara - Punchbot [lazydata] {https://www.youtube.com/c/LazyData} [CHAOS 50]
-94 - Bullet Witch [Moxsy] {https://www.youtube.com/watch?v=QCkILld9MyM} [CHAOS 50]
-95 - Lyra - The Blender [Lazy Data] {https://www.youtube.com/c/LazyData} [CHAOS 50]
+# Wonderlands Save Files
 
+## 100% Story, All Marbles, Shrines, Dice, Pages, SDUs, All Challenges Completed, Chaos 50 with 1000 Unlocked
+1. **StabboMancer**
+2. **Spore Warden**
+3. **Graveborn**
+4. **Clawbringer**
+5. **Spellshot**
+6. **Brr-Zerker**
+7. **BlightCaller**
 
+## Modded Skill Trees (M.S.T), XP Lobby Regions (870), Chaos 1000 Unlocked, 100%
+8. **StabboMancer**
+9. **Spore Warden**
+10. **Graveborn**
+11. **Spellshot**
+12. **Clawbringer**
+13. **Brr-Zerker**
+14. **BlightCaller**
 
-SIDE NOTE: Community Saves have been modified to 999999999 XP to enable -RO (Read Only) mode when playing online (you will lose all progress gained from joining players online [gear will return to original])
+## M.S.T Droppers - GodRolled Level 40 Ascended Gear
+15. **AR Dropper**
+16. **Rocket Dropper**
+17. **Melee Dropper**
+18. **Pistol Dropper**
+19. **Shotgun Dropper**
+20. **SMG Dropper**
+21. **Sniper Dropper**
+22. **Shield Dropper**
+23. **Spells Dropper**
+24. **Rings & Amulets Dropper**
+
+---
+
+## Community Saves
+Please DM me with your original post and a way to verify the save was yours so I can add credit.
+
+50. **Spore Daddy** [CHAOS 20]
+51. **Karma** [CHAOS 20]
+52. **Brrblue** [CHAOS 20]
+53. **Sporely [Joltz]** [CHAOS 20]
+54. **Wolf [Psychotic Wolf]** [CHAOS 20]
+55. **Bruh** [CHAOS 20]
+56. **Backius Spellweaver (modded)** [CHAOS 20]
+57. **Fuckit! (modded) [KousKira&LittleLibbs]** [CHAOS 20]
+58. **Stabboly (modded)** [CHAOS 20]
+59. **Jaazikos (modded) [Jaazi]** [CHAOS 20]
+60. **Mixxy (modded)** [CHAOS 20]
+61. **NickTew** [CHAOS 20]
+62. **Mixology82 (modded)** [CHAOS 20]
+63. **RektumDestroyer (modded)** [CHAOS 20]
+64. **[ItzTermx]** [CHAOS 20]
+65. **Afromancer [K6]** [CHAOS 20]
+66. **Deputy [Joltzdude139]** [CHAOS 20]
+67. **[Moxsy] (Cold Snap)** [CHAOS 20]
+68. **[ItzTermx] 2 (unknown build name)** [CHAOS 20]
+69. **[ItzTermx] 3 (unknown build name)** [CHAOS 20]
+70. **Sporely (Blast Master) [Joltz]** [CHAOS 20]
+71. **Wolf_Spell (FARTS) [Psychotic Wolf]** [CHAOS 20]
+72. **stabbo [ItzTermx: Meteor Calamity]** [CHAOS 20]
+73. **NickTewpewpew [NickTew: Fl4k 2.0 Post-Nerf]** [CHAOS 20]
+74. **NickTewSplosion [NickTew: Poison Warden]** [CHAOS 20]
+75. **NickThor [NickTew: ClawBringer]** [CHAOS 20]
+76. **Neera [LazyData]** [CHAOS 20]
+77. **[NickTew] DeadShot** [CHAOS 20]
+78. **Graveborn [ThiccFilA: dEAD sHOT]** [CHAOS 20]
+79. **Shadow Stab [Joltzdude139]** [CHAOS 20]
+80. **Sub 2 [Moxsy: Spell Shock]** [CHAOS 20]
+81. **Wulfric [Moxsy: Shock and Awe]** [CHAOS 20]
+82. **[Jaazi] (modded)** [CHAOS 20]
+83. **Mod Save (modded)** [CHAOS 20]
+84. **[Nivek] (modded)** [CHAOS 20]
+85. **NerfBait [H4XzzHD] {https://youtu.be/VylBiDhD9-c}** [CHAOS 50]
+86. **Pixie [H4XzzHD] {https://youtu.be/hyl6TNcyLEU}** [CHAOS 50]
+87. **Crit Swap [H4XzzHD] {https://www.youtube.com/watch?v=8HafZWpxXHM&t=28s}** [CHAOS 50]
+88. **Faucet Failure [H4XzzHD] {https://youtu.be/COhQkvpYQD4}** [CHAOS 50]
+89. **Shigaraki 2.0 [L00TLXRD] {https://www.twitch.tv/l00tlxrd/}** [CHAOS 50]
+90. **Saitama [L00TLXRD] {https://www.twitch.tv/l00tlxrd/}** [CHAOS 50]
+91. **FragMellow [H4XzzHD] {https://youtu.be/VylBiDhD9-c}** [CHAOS 50]
+92. **HotShot [Moxsy] {https://www.twitch.tv/moxsy}** [CHAOS 50]
+93. **Sara - Punchbot [lazydata] {https://www.youtube.com/c/LazyData}** [CHAOS 50]
+94. **Bullet Witch [Moxsy] {https://www.youtube.com/watch?v=QCkILld9MyM}** [CHAOS 50]
+95. **Lyra - The Blender [Lazy Data] {https://www.youtube.com/c/LazyData}** [CHAOS 50]
+
+---
+
+ALL saves have been modified to 999999999 XP to enable -RO (Read Only) mode when playing online (you will lose all progress gained from joining players online [gear will return to original]).
+
